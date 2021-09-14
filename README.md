@@ -6,7 +6,7 @@
 
 ## Modules
 
-These [modules](modules/) represent the core knowledge and skills of our trade.
+These [modules](modules/) represent the core knowledge and skills of a generalist software engineer.
 
 1. [Craftsmanship](modules/craftsmanship.md)
 2. [Human Experience](modules/human-experience.md)
