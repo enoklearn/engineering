@@ -4,8 +4,6 @@
 
 - [Getting Started](overview/README.md)
 
-----
-
 ## Modules
 
 These [modules](modules/) represent the core knowledge and skills of our trade.
@@ -25,8 +23,6 @@ These [modules](modules/) represent the core knowledge and skills of our trade.
 13. [Operations](modules/operations.md)
 14. [Observability](modules/observability.md)
 15. [Product Lifecycle](modules/product-lifecycle.md)
-
-----
 
 ## Projects
 
