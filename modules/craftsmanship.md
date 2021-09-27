@@ -127,7 +127,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
 </details>
 
-## Skill Building
+## Skill Building Process
 
 <img width="1000" alt="EngineerKit skill building process" src="https://user-images.githubusercontent.com/894178/134946255-5126f4e4-f1a3-495e-abae-29ff7f156ea0.png">
 
