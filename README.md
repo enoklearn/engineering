@@ -10,23 +10,23 @@
 
 ## Modules
 
-These [modules](modules/) represent the core knowledge and skills of a generalist software engineer.
+These [15 modules](modules/) represent the core knowledge and skills of a generalist software engineer.
 
-1. [Craftsmanship](modules/craftsmanship.md)
-2. [Human Experience](modules/human-experience.md)
-3. [Computing](modules/computing.md)
-4. [Internet](modules/internet.md)
-5. [Tooling](modules/tooling.md)
-6. [Programming Languages](modules/programming-languages.md)
-7. [Automated Testing](modules/automated-testing.md)
-8. [Clean Code](modules/clean-code.md)
-9. [Design Patterns](modules/design-patterns.md)
-10. [Data](modules/data.md)
-11. [Security](modules/security.md)
-12. [Infrastructure](modules/infrastructure.md)
-13. [Operations](modules/operations.md)
-14. [Observability](modules/observability.md)
-15. [Product Lifecycle](modules/product-lifecycle.md)
+* [Craftsmanship](modules/craftsmanship.md)
+* [Human Experience](modules/human-experience.md)
+* [Product Lifecycle](modules/product-lifecycle.md)
+* [Computing](modules/computing.md)
+* [Internet](modules/internet.md)
+* [Tooling](modules/tooling.md)
+* [Programming Languages](modules/programming-languages.md)
+* [Automated Testing](modules/automated-testing.md)
+* [Clean Code](modules/clean-code.md)
+* [Architecture](modules/design-patterns.md)
+* [Data](modules/data.md)
+* [Security](modules/security.md)
+* [Infrastructure](modules/infrastructure.md)
+* [Operations](modules/operations.md)
+* [Monitoring](modules/monitoring.md)
 
 ## Projects
 
