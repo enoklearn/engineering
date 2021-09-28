@@ -53,7 +53,7 @@ These [modules](modules/) represent the core knowledge and skills of a generalis
   - Resolve any merge conflicts
   - To push up your changes to your private fork, run
     ```
-    git push origin main
+    git push
     ```
   
 </details>
