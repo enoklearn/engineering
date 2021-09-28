@@ -1,4 +1,4 @@
-<a href="https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21" target="_blank">
+<a href="https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21" target="_blank" rel="noopener noreferrer">
    <img width="1000" alt="EngineerKit Map" src="https://user-images.githubusercontent.com/894178/135173317-075bab86-0fb3-4bc5-97d0-7ea12c6f6297.png">
 </a>
 
