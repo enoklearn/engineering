@@ -33,7 +33,7 @@ These [modules](modules/) represent the core knowledge and skills of a generalis
 ## Contributing
 
 <details>
-   <summary><b>Pulling upstream changes from engineerkit/engineerkit into your private repo</b></summary><br/>
+   <summary><b>Pulling upstream changes from <a href="https://github.com/engineerkit/engineerkit">engineerkit/engineerkit</a> into your private repo</b></summary><br/>
 
   If you have the paid GitHub account, you can fork this repo into your own organization. You'll get the benefit of being able to merge in new changes easily from `engineerkit/engineerkit`. If you don't have a paid account, or you don't want to use GitHub to host your repo, we've got you covered.
 
