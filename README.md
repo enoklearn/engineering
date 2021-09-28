@@ -29,3 +29,31 @@ These [modules](modules/) represent the core knowledge and skills of a generalis
 ## Projects
 
 - [List of projects](projects/)
+
+## Contributing
+
+<details>
+   <summary><b>Pulling upstream changes from engineerkit/engineerkit into your private repo</b></summary><br/>
+
+  If you have the paid GitHub account, you can fork this repo into your own organization. You'll get the benefit of being able to merge in new changes easily from `engineerkit/engineerkit`. If you don't have a paid account, or you don't want to use GitHub to host your repo, we've got you covered.
+
+  - First clone down your private repo
+  - To add a new remote to your local repo connected to the `engineerkit/engineerkit` repo, run
+    ```
+    git remote add public git@github.com:engineerkit/engineerkit.git
+    ``` 
+  - To create a branch where you'll pull changes into, run
+    ```
+    git checkout -b add_awesome_new_topics
+    ```
+  - To pull down changes into your new branch, run
+    ```
+    git pull public main
+    ```
+  - Resolve any merge conflicts
+  - To push up your changes to your private fork, run
+    ```
+    git push origin main
+    ```
+  
+</details>
