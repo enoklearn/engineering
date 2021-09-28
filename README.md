@@ -21,12 +21,12 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 * [Programming Languages](modules/programming-languages.md)
 * [Automated Testing](modules/automated-testing.md)
 * [Clean Code](modules/clean-code.md)
-* [Architecture](modules/design-patterns.md)
 * [Data](modules/data.md)
 * [Security](modules/security.md)
 * [Infrastructure](modules/infrastructure.md)
 * [Operations](modules/operations.md)
 * [Monitoring](modules/monitoring.md)
+* [Architecture](modules/design-patterns.md)
 
 ## Projects
 
