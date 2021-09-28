@@ -3,7 +3,6 @@
 ## Overview
 
 - [Getting started](overview/README.md)
-- [What is an apprenticeship program?](overview/apprenticeship.md)
 - [How do I build skills as an apprentice?](overview/skill-building-process.md)
 
 ## Modules
