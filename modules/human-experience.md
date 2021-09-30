@@ -3,7 +3,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square)
 <a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
 
-### With this module, apprentice's will be able to develop software with an understanding and appreciation for a human-centered design approach. You'll also be able to collaborate better with digital product designers in the field.
+### With this module, you’ll learn how to create software with an understanding and appreciation for a human-centered design approach, enabling you to better collaborate with digital product designers.
 
 <img src="https://user-images.githubusercontent.com/7631485/135389171-501a0f3d-e5d6-4e8f-a3b0-1c9d081728d8.png" width="1000" />
 
@@ -21,8 +21,8 @@
 
    #### Resources
    * [The Design of Everyday Things `Book`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-   * [UX Design vs UI Design - What's The Difference? `YouTube`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
-   * [Abstract `Docuemntary`](https://www.netflix.com/title/80057883)
+   * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
+   * [Abstract `Film`](https://www.netflix.com/title/80057883)
    * [UI/UX Design Foundations `Course`](https://app.uxcel.com/courses/design-foundations)
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
