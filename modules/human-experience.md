@@ -15,9 +15,9 @@
    With this topic, you'll develop an awareness and appreciation of the role human experience plays in the creation of digital products. 
 
    #### Learning Outcomes
-   * Explain the value of human experience in the software development process. 
-   * Use basic UI and UX design terminology as it relates to building software. 
-   * Distinguish the difference between good and bad design when building software.
+   * Explain the value of human experience in the software development process
+   * Use basic UI and UX design terminology as it relates to building software
+   * Distinguish the difference between good and bad design when building software
 
    #### Resources
    * [The Design of Everyday Things `Book`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
@@ -38,11 +38,11 @@
    With this topic, you'll understand each phase of the design thinking methodology, in order to help and support software teams in their problem solving processes. 
 
    #### Learning Outcomes
-   * (Empathy) Identify who your users are more clearly, and recognize their pain points.
-   * (Define) Define a testable hypothesis statement that addresses the users pain points.
-   * (Ideate) Participate in brainstorming exercises amongst yourself or in a team that helps generate many solutions to a user's problem.
-   * (Prototype) Assemble testable prototypes from brainstormed ideas. 
-   * (Measure) Evaluate the success of a prototypes by testing it with users.
+   * (Empathy) Identify who your users are more clearly, and recognize their pain points
+   * (Define) Define a testable hypothesis statement that addresses the users pain points
+   * (Ideate) Participate in brainstorming exercises amongst yourself or in a team that helps generate many solutions to a user's problem
+   * (Prototype) Assemble testable prototypes from brainstormed ideas
+   * (Measure) Evaluate the success of a prototypes by testing it with users
 
    #### Resources
    * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
@@ -62,9 +62,9 @@
    With this topic, you'll learn how to use, and maintain design systems for building web applications. 
 
    #### Learning Outcomes
-   * Explain what a design system is.
-   * Use a design systems when working on software projects.
-   * Contribute to an existing design system for software projects. 
+   * Explain what a design system is
+   * Use a design systems when working on software projects
+   * Contribute to an existing design system for software projects
 
    #### Resources
    * [A comprehensive guide to design systems - Invision `Article`](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
@@ -85,9 +85,9 @@
    With this topic, you'll be able to demonstrate the knowledge required to build software that meets the accessibility needs of your users. 
 
    #### Learning Outcomes
-   * Explain the importance of accessibility in software.
-   * Develop software that meets common accessibility requirements set forth by W3C. 
-   * Recognize approaches to adapt your software to various languages and regions.
+   * Explain the importance of accessibility in software
+   * Develop software that meets common accessibility requirements set forth by W3C
+   * Recognize approaches to adapt your software to various languages and regions
 
    #### Resources
    * [Can I Use `Tool`](https://caniuse.com/)
@@ -107,9 +107,9 @@
    With this topic, you'll be able to demonstrate the knowledge required to collaborate with digital product designer you work with.
 
    #### Learning Outcomes
-   * Explain the role a digital product designer plays on a software team. 
-   * Identify what you need from a designer in relation to software tasks.
-   * Recognize common design tools, and design methodologies when working with designers. 
+   * Explain the role a digital product designer plays on a software team
+   * Identify what you need from a designer in relation to software tasks
+   * Recognize common design tools, and design methodologies when working with designers
 
    #### Resources
    * [6 tasty ways for designers and developers to collaborate better - Invision `Article`](https://www.invisionapp.com/inside-design/designer-developer-collaboration-ideas/)
