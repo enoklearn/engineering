@@ -81,7 +81,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 ----
 
 <details open>
-   <summary><b>Apprenticeship Learning Model</b></summary><br/>
+   <summary><b>Learning as an Apprentice</b></summary><br/>
 
    With this topic, you’ll learn about patterns and techniques to effectively learn new topics and build skills as an apprentice.
 
@@ -108,7 +108,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 ----
 
 <details open>
-   <summary><b>Coaching Apprentices as a Mentor</b></summary><br/>
+   <summary><b>Coaching as a Mentor</b></summary><br/>
 
    With this topic, you’ll learn about patterns and techniques to effectively mentor an apprentice in their journey to graduation.
 
