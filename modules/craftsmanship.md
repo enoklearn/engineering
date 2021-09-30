@@ -24,14 +24,14 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Shokunin and Devotion `article`](https://www.kyotojournal.org/culture-arts/shokunin-and-devotion/)
-   * [The craft guilds overview `article`](https://www.britannica.com/topic/history-of-work-organization-648000/The-craft-guilds)
-   * [Japanese Medieval Za (guilds) `article`](https://en.wikipedia.org/wiki/Za_%28guilds%29)
-   * [Shokunin: How Striving for Perfection Can Help You Live a Better Life `article`](https://medium.com/mind-cafe/shokunin-how-striving-for-perfection-can-help-you-live-a-better-life-88fc09394a09)
-   * [“Guild” overview `article`](https://en.wikipedia.org/wiki/Guild)
-   * [European Medieval Guilds `video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
-   * [Tanners, tailors and candlestick makers: a history of apprenticeships `article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
-   * [Guild coat of arms `image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
+   * [Shokunin and Devotion `Article`](https://www.kyotojournal.org/culture-arts/shokunin-and-devotion/)
+   * [The craft guilds overview `Article`](https://www.britannica.com/topic/history-of-work-organization-648000/The-craft-guilds)
+   * [Japanese Medieval Za (guilds) `Article`](https://en.wikipedia.org/wiki/Za_%28guilds%29)
+   * [Shokunin: How Striving for Perfection Can Help You Live a Better Life `Article`](https://medium.com/mind-cafe/shokunin-how-striving-for-perfection-can-help-you-live-a-better-life-88fc09394a09)
+   * [“Guild” overview `Article`](https://en.wikipedia.org/wiki/Guild)
+   * [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
+   * [Tanners, tailors and candlestick makers: a history of apprenticeships `Article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
+   * [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
 </details>
 
 ----
@@ -50,12 +50,12 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Jiro Dreams of Sushi `film`](https://www.imdb.com/title/tt1772925/)
-   * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
-   * [Better: A Surgeon’s Notes on Performance `book`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
-   * [Why craftsmanship is the future of work – and what it means for organisations and individuals `article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
-   * [What is craftsmanship and does it matter? `article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
-   * [What is Craftsmanship? `article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
+   * [Jiro Dreams of Sushi `Film`](https://www.imdb.com/title/tt1772925/)
+   * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `Article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
+   * [Better: A Surgeon’s Notes on Performance `Book`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
+   * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
+   * [What is craftsmanship and does it matter? `Article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
+   * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
 </details>
 
 ----
@@ -73,9 +73,9 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Manifesto for Agile Software Development `document`](http://agilemanifesto.org/)
-   * [Manifesto for Software Craftsmanship `document`](http://manifesto.softwarecraftsmanship.org/)
-   * [The Clean Coder: A Code of Conduct for Professional Programmers `book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+   * [Manifesto for Agile Software Development `Document`](http://agilemanifesto.org/)
+   * [Manifesto for Software Craftsmanship `Document`](http://manifesto.softwarecraftsmanship.org/)
+   * [The Clean Coder: A Code of Conduct for Professional Programmers `Book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 </details>
 
 ----
@@ -95,14 +95,14 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Apprenticeship Patterns `book`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
-   * [Steve Jobs: Great ideas don't always translate into great product `video`](https://www.youtube.com/watch?v=Qdplq4cj76I)
-   * [Learning with _shuhari_ `article`](https://www.martinfowler.com/bliki/ShuHaRi.html)
-   * [Imitate, Assimilate, Innovate: 3 Steps to Learning Improvisation `article` `video`](https://www.jazzadvice.com/lessons/clark-terrys-3-steps-to-learning-improvisation/)
-   * [Alistair Cockburn on _shuhari_ `video`](https://www.youtube.com/watch?v=9Z35l238vg4)
-   * [Ghost CMS `tool`](https://ghost.org/)
-   * [Substack `tool`](https://substack.com/)
-   * [Medium `tool`](https://medium.com/)
+   * [Apprenticeship Patterns `Book`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
+   * [Steve Jobs: Great ideas don't always translate into great product `Video`](https://www.youtube.com/watch?v=Qdplq4cj76I)
+   * [Learning with _shuhari_ `Article`](https://www.martinfowler.com/bliki/ShuHaRi.html)
+   * [Imitate, Assimilate, Innovate: 3 Steps to Learning Improvisation `Article` `Video`](https://www.jazzadvice.com/lessons/clark-terrys-3-steps-to-learning-improvisation/)
+   * [Alistair Cockburn on _shuhari_ `Video`](https://www.youtube.com/watch?v=9Z35l238vg4)
+   * [Ghost CMS `Tool`](https://ghost.org/)
+   * [Substack `Tool`](https://substack.com/)
+   * [Medium `Tool`](https://medium.com/)
 </details>
 
 ----
@@ -120,9 +120,9 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Optimal Learning Exists Between Comfort and Panic `article`](https://medium.com/redsquirrel-tech/optimal-learning-exists-between-comfort-and-panic-142caa0ba0cf)
-   * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
-   * [Awesome Lists `list of resources`](https://github.com/sindresorhus/awesome)
+   * [Optimal Learning Exists Between Comfort and Panic `Article`](https://medium.com/redsquirrel-tech/optimal-learning-exists-between-comfort-and-panic-142caa0ba0cf)
+   * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `Article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
+   * [Awesome Lists `List of resources`](https://github.com/sindresorhus/awesome)
 </details>
 
 ----
