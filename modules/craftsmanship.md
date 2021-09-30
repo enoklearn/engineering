@@ -61,7 +61,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 ----
 
 <details open>
-   <summary><b>Reframing the Software Craftsmanship Movement</b></summary><br/>
+   <summary><b>The Software Craftsmanship Movement</b></summary><br/>
 
    With this topic, you’ll learn about the software craftsmanship movement and how it can be elevated to be applicable far into the future.
 
