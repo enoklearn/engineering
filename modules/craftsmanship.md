@@ -32,10 +32,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [European Medieval Guilds `video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
    * [Tanners, tailors and candlestick makers: a history of apprenticeships `article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
    * [Guild coat of arms `image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
-
-   ----
-
 </details>
+
+----
+
 <details open>
    <summary><b>Principles of Modern Craftsmanship</b></summary><br/>
 
@@ -56,10 +56,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
    * [What is craftsmanship and does it matter? `article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
    * [What is Craftsmanship? `article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
-
-   ----
-
 </details>
+
+----
+
 <details open>
    <summary><b>Reframing the Software Craftsmanship Movement</b></summary><br/>
 
@@ -76,10 +76,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Manifesto for Agile Software Development `document`](http://agilemanifesto.org/)
    * [Manifesto for Software Craftsmanship `document`](http://manifesto.softwarecraftsmanship.org/)
    * [The Clean Coder: A Code of Conduct for Professional Programmers `book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-
-   ----
-
 </details>
+
+----
+
 <details open>
    <summary><b>Apprenticeship Learning Model</b></summary><br/>
 
@@ -103,10 +103,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Ghost CMS `tool`](https://ghost.org/)
    * [Substack `tool`](https://substack.com/)
    * [Medium `tool`](https://medium.com/)
-
-   ----
-
 </details>
+
+----
+
 <details open>
    <summary><b>Coaching Apprentices as a Mentor</b></summary><br/>
 
@@ -123,10 +123,9 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Optimal Learning Exists Between Comfort and Panic `article`](https://medium.com/redsquirrel-tech/optimal-learning-exists-between-comfort-and-panic-142caa0ba0cf)
    * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
    * [Awesome Lists `list of resources`](https://github.com/sindresorhus/awesome)
-
-   ----
-
 </details>
+
+----
 
 ## Skill Building Process
 
