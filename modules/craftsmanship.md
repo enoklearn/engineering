@@ -55,10 +55,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    * [Jiro Dreams of Sushi `Film`](https://www.imdb.com/title/tt1772925/)
    * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `Article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
-   * [Better: A Surgeon’s Notes on Performance `Book`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
    * [What is craftsmanship and does it matter? `Article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
+   * [Better: A Surgeon’s Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
    #### Projects
    *
@@ -81,7 +81,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    * [Manifesto for Agile Software Development `Document`](http://agilemanifesto.org/)
    * [Manifesto for Software Craftsmanship `Document`](http://manifesto.softwarecraftsmanship.org/)
-   * [The Clean Coder: A Code of Conduct for Professional Programmers `Book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+   * [The Clean Coder: A Code of Conduct for Professional Programmers `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Projects
    *
@@ -104,7 +104,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    #### Resources
 
-   * [Apprenticeship Patterns `Book`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
    * [Steve Jobs: Great ideas don't always translate into great product `Video`](https://www.youtube.com/watch?v=Qdplq4cj76I)
    * [Learning with _shuhari_ `Article`](https://www.martinfowler.com/bliki/ShuHaRi.html)
    * [Imitate, Assimilate, Innovate: 3 Steps to Learning Improvisation `Article` `Video`](https://www.jazzadvice.com/lessons/clark-terrys-3-steps-to-learning-improvisation/)
@@ -112,6 +111,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Ghost CMS `Tool`](https://ghost.org/)
    * [Substack `Tool`](https://substack.com/)
    * [Medium `Tool`](https://medium.com/)
+   * [Apprenticeship Patterns `Book ($)`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
    
    #### Projects
    *
