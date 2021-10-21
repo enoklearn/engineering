@@ -73,7 +73,7 @@
    #### Resources
    * [A comprehensive guide to design systems - Invision `Article`](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
    * [Storybook `Tool`](https://storybook.js.org/)
-   * [DesignSystems.com `Website`](https://www.designsystems.com/)
+   * [DesignSystems.com `Resource`](https://www.designsystems.com/)
    * [Apple's Human Interface Guidelines `Design System`](https://developer.apple.com/design/human-interface-guidelines/)
    * [Google's Material Design `Design System`](https://material.io/)
    * [IBM's Carbon `Design System`](https://www.carbondesignsystem.com/)
