@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn the art and science of writing code for both humans and computers.
 
-<img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1346/2017/03/Computer-Parts-Labeled-Small.jpg" width="1000" />
+<img width="1000" alt="Clean Code Module" src="https://user-images.githubusercontent.com/894178/138357230-15d654b7-8d0f-4584-bdb9-d9bc73f3b605.png">
 
 ## Topics
 
