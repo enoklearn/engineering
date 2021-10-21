@@ -20,20 +20,8 @@
    #### Resources
    * 
 
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
+   #### Projects
+   *
 
 </details>
 
@@ -50,20 +38,8 @@
    #### Resources
    * 
 
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
+   #### Projects
+   *
 
 </details>
 
@@ -79,5 +55,44 @@
 
    #### Resources
    * 
+
+   #### Projects
+   *
+
+</details>
+
+----
+
+<details open>
+   <summary><b>TOPIC_TITLE</b></summary><br/>
+
+   TOPIC_DESCRIPTION
+   
+   #### Learning Outcomes
+   * 
+
+   #### Resources
+   * 
+
+   #### Projects
+   *
+
+</details>
+
+----
+
+<details open>
+   <summary><b>TOPIC_TITLE</b></summary><br/>
+
+   TOPIC_DESCRIPTION
+   
+   #### Learning Outcomes
+   * 
+
+   #### Resources
+   * 
+
+   #### Projects
+   *
 
 </details>

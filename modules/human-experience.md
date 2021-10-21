@@ -28,6 +28,8 @@
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -52,6 +54,8 @@
    * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
    * [Foundations in Design Thinking Certificate - IDEO U `Course`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -75,6 +79,8 @@
    * [IBM's Carbon `Design System`](https://www.carbondesignsystem.com/)
    * [Design Systems 101 - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/design-systems-101/)
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -97,6 +103,8 @@
    * [A11y `Website`](https://www.a11yproject.com/)
    * [Why Digital Accessibility Matters - Invision `Article`](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -114,11 +122,6 @@
    #### Resources
    * [6 tasty ways for designers and developers to collaborate better - Invision `Article`](https://www.invisionapp.com/inside-design/designer-developer-collaboration-ideas/)
 
+   #### Projects
+   *
 </details>
-
-----
-
-## Skill Building Process
-
-<img width="1000" alt="EngineerKit skill building process" src="https://user-images.githubusercontent.com/894178/134946255-5126f4e4-f1a3-495e-abae-29ff7f156ea0.png">
-

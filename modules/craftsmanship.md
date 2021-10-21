@@ -34,7 +34,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
    
    #### Projects
-
    *
 </details>
 
@@ -62,7 +61,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
 
    #### Projects
-
    *
 </details>
 
@@ -86,7 +84,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [The Clean Coder: A Code of Conduct for Professional Programmers `Book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Projects
-
    *
 </details>
 
@@ -117,7 +114,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Medium `Tool`](https://medium.com/)
    
    #### Projects
-
    *
 </details>
 
@@ -141,7 +137,5 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Awesome Lists `List of resources`](https://github.com/sindresorhus/awesome)
    
    #### Projects
-
    *
 </details>
-

@@ -33,6 +33,9 @@
    * [Visual Studio](https://visualstudio.microsoft.com/)
    * [Android Studio](https://developer.android.com/studio)
    * [Xcode](https://developer.apple.com/xcode/)
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -51,6 +54,9 @@
 
    #### Resources
    * 
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -72,6 +78,9 @@
    * [GitHub](https://github.com/)
    * [BitBucket](https://bitbucket.org)
    * [Pro Git](https://git-scm.com/book/en/v2)
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -91,6 +100,9 @@
 
    #### Resources
    * 
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -108,4 +120,7 @@
 
    #### Resources
    * [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
+
+   #### Projects
+   *
 </details>

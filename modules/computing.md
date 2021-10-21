@@ -22,6 +22,9 @@
    #### Resources
    * [Computer History Timeline `article`](https://www.computerhistory.org/timeline/computers/)
    * [History of Computing `article`](https://en.wikipedia.org/wiki/History_of_computing)
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -37,6 +40,9 @@
 
    #### Resources
    * [8 Standard Computer Components `article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -53,6 +59,9 @@
 
    #### Resources
    * [Understanding Operating Systems `article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -66,6 +75,12 @@
    * Describe the aspects of a Platform
    * List some common Platforms
    * Think about different platforms that you use throughout your day and how the hardware and software interact
+
+   #### Resources
+   *
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -83,5 +98,6 @@
    * [Computer Basics Course `video course`](https://teamtreehouse.com/library/computer-basics)
    * [The Programming Process `article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
  
+   #### Projects
+   *
 </details>
-

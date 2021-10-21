@@ -52,10 +52,12 @@
 
    #### Learning Outcomes
    * Describe a network and its components
-   * 
 
    #### Resources
    * 
+
+   #### Projects
+   *
 </details>
 
 ----
@@ -67,12 +69,12 @@
 
    #### Learning Outcomes
    * 
-   * 
 
    #### Resources
    * 
-   * 
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -84,11 +86,10 @@
 
    #### Learning Outcomes
    * 
-   * 
 
    #### Resources
    * 
-   * 
    
+   #### Projects
+   *
 </details>
-
