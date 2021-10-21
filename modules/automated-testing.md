@@ -1,6 +1,6 @@
 # Automated Testing
 
-![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-white?style=flat-square)
+![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-black?style=flat-square)
 <a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
 
 ### With this module, you’ll learn how to use automated testing strategies to prove the structural integrity of the code you write.
