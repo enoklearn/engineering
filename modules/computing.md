@@ -20,8 +20,8 @@
    * Compare the different processes that occur in compiled languages vs interpreted languages
 
    #### Resources
-   * [Computer History Timeline `article`](https://www.computerhistory.org/timeline/computers/)
-   * [History of Computing `article`](https://en.wikipedia.org/wiki/History_of_computing)
+   * [Computer History Timeline `Article`](https://www.computerhistory.org/timeline/computers/)
+   * [History of Computing `Article`](https://en.wikipedia.org/wiki/History_of_computing)
 
    #### Projects
    *
@@ -39,7 +39,7 @@
    * Describe the difference between RAM storage and hard drive storage and how the two interact
 
    #### Resources
-   * [8 Standard Computer Components `article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
+   * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
 
    #### Projects
    *
@@ -58,7 +58,7 @@
    * Theorize about the underlying principles each of these operating systems were built under and how the OS's have evolved because of these principles
 
    #### Resources
-   * [Understanding Operating Systems `article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+   * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
 
    #### Projects
    *
@@ -95,8 +95,8 @@
    * Compare the different processes that occur in compiled languages vs interpreted languages
 
    #### Resources
-   * [Computer Basics Course `video course`](https://teamtreehouse.com/library/computer-basics)
-   * [The Programming Process `article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+   * [Computer Basics Course `Course`](https://teamtreehouse.com/library/computer-basics)
+   * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
  
    #### Projects
    *
