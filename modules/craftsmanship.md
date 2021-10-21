@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to elevate your mindset to pursue excellence in any worthwhile endeavor, equipping you for the lifelong journey of mastering your craft
 
-<img src="https://user-images.githubusercontent.com/894178/133000364-0d3f5bc7-3719-4b98-8420-0eec147620ec.jpg" width="1000" />
+<img width="1000" alt="Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-making" src="https://user-images.githubusercontent.com/894178/138341382-50968778-5d62-435e-84f3-16f6e4809251.png">
 
 Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-making in [Jiro Dreams of Sushi `film`](https://www.imdb.com/title/tt1772925/)
 
