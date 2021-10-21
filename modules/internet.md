@@ -17,7 +17,7 @@
    #### Learning Outcomes
    * List some of the key events in the internet’s history
    * Describe some of the challenges the inventors went through
-   * Theorize whether or not the internet’s impact on society was beneficia
+   * Theorize whether or not the internet’s impact on society was beneficial
 
    #### Resources
    * [Internet Fundamentals - Terminology `video course`](https://www.internetfundamentals.com/watch/)
@@ -51,7 +51,10 @@
    With this topic, you’ll learn about the basics of configuring networks, including setting up firewall rules, subnets, and assigning static IPs to machines.
 
    #### Learning Outcomes
-   * Describe a network and its components
+   * List common network topology patterns
+   * Explain the purpose of subnets
+   * Configure a firewall rule on a network
+   * Create a virtual private cloud network with a cloud provider
 
    #### Resources
    * 
@@ -68,7 +71,10 @@
    With this topic, you’ll learn about how the DNS system works, and create DNS records connecting domains to web services.
 
    #### Learning Outcomes
-   * 
+   * Explain the purpose of DNS
+   * List some common DNS providers
+   * Connect a domain name to a DNS provider using nameservers
+   * Create a DNS entry
 
    #### Resources
    * 
@@ -85,7 +91,9 @@
    With this topic, you’ll learn about the certificate authorities and how to encrypt traffic to web services using TLS/SSL certificates.
 
    #### Learning Outcomes
-   * 
+   * Describe how CAs (certificate authorities) provision TLS/SSL certificates
+   * Explain why you might want to encrypt data in-flight
+   * Setup a web service that uses a TLS/SSL certificate
 
    #### Resources
    * 
