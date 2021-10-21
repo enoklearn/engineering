@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn a single programming language inside and out, and polyglot techniques that enable you to learn other languages rapidly.
 
-<img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1346/2017/03/Computer-Parts-Labeled-Small.jpg" width="1000" />
+<img width="1000" alt="Programming Languages Module" src="https://user-images.githubusercontent.com/894178/138358046-b7b9d93f-743b-4f62-b0af-d234f198fcc9.png">
 
 ## Topics
 
