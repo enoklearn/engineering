@@ -51,8 +51,6 @@
 
    #### Resources
    * 
-   *
-   *
 </details>
 
 ----
@@ -93,7 +91,6 @@
 
    #### Resources
    * 
-   * 
 </details>
 
 ----
@@ -111,7 +108,4 @@
 
    #### Resources
    * [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
-   * 
 </details>
-
-----
