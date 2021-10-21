@@ -10,7 +10,7 @@
 ## Topics
 
 <details open>
-   <summary><b>Fundamentals of Human Experience</b></summary><br/>
+   <summary><b>Design Awareness</b></summary><br/>
 
    With this topic, you'll develop an awareness and appreciation of the role human experience plays in the creation of digital products. 
 
@@ -35,7 +35,7 @@
 ----
 
 <details open>
-   <summary><b>Introduction to Design Thinking</b></summary><br/>
+   <summary><b>Design Thinking</b></summary><br/>
 
    With this topic, you'll understand each phase of the design thinking methodology, in order to help and support software teams in their problem solving processes. 
 
@@ -61,7 +61,7 @@
 ----
 
 <details open>
-   <summary><b>Introduction to Design Systems</b></summary><br/>
+   <summary><b>Design Systems</b></summary><br/>
 
    With this topic, you'll learn how to use, and maintain design systems for building web applications. 
 
@@ -86,7 +86,7 @@
 ----
 
 <details open>
-   <summary><b>Fundamentals of Accessibility</b></summary><br/>
+   <summary><b>Accessibility</b></summary><br/>
 
    With this topic, you'll be able to demonstrate the knowledge required to build software that meets the accessibility needs of your users. 
 
@@ -110,7 +110,7 @@
 ----
 
 <details open>
-   <summary><b>Introduction to Working with Designers</b></summary><br/>
+   <summary><b>Working with Designers</b></summary><br/>
 
    With this topic, you'll be able to demonstrate the knowledge required to collaborate with digital product designer you work with.
 
