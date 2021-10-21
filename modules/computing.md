@@ -5,7 +5,8 @@
 
 ### With this module, you’ll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
 
-<img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1346/2017/03/Computer-Parts-Labeled-Small.jpg" width="1000" />
+<img width="1000" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
+
 
 ## Topics
 
@@ -21,9 +22,9 @@
    #### Resources
    * [Computer History Timeline `article`](https://www.computerhistory.org/timeline/computers/)
    * [History of Computing `article`](https://en.wikipedia.org/wiki/History_of_computing)
-   
-   ----
 </details>
+
+----
 
 <details open>
    <summary><b>Hardware</b></summary><br/>
@@ -36,9 +37,10 @@
 
    #### Resources
    * [8 Standard Computer Components `article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
-
-   ----
 </details>
+
+----
+
 <details open>
    <summary><b>Operating Systems</b></summary><br/>
 
@@ -51,9 +53,10 @@
 
    #### Resources
    * [Understanding Operating Systems `article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
-   
-   ----
 </details>
+
+----
+
 <details open>
    <summary><b>Spectrum of Platforms</b></summary><br/>
 
@@ -63,9 +66,10 @@
    * Describe the aspects of a Platform
    * List some common Platforms
    * Think about different platforms that you use throughout your day and how the hardware and software interact
-   
-   ----
 </details>
+
+----
+
 <details open>
    <summary><b>Runtimes</b></summary><br/>
 
@@ -78,7 +82,6 @@
    #### Resources
    * [Computer Basics Course `video course`](https://teamtreehouse.com/library/computer-basics)
    * [The Programming Process `article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
-   
-   ----
+ 
 </details>
 
