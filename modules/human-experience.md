@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to create software with an understanding and appreciation for a human-centered design approach, enabling you to better collaborate with digital product designers.
 
-<img src="https://user-images.githubusercontent.com/7631485/135389171-501a0f3d-e5d6-4e8f-a3b0-1c9d081728d8.png" width="1000" />
+<img width="1000" src="https://user-images.githubusercontent.com/894178/138355309-15bc165b-d913-4022-bc54-8778e3d5b5c1.png">
 
 ## Topics
 
