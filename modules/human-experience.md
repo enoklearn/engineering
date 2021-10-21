@@ -52,7 +52,7 @@
    * [What is Design Thinking and Why Is It So Popular? `Article`](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
    * [Why Design Thinking Works - Harvard Business Review `Article`](https://hbr.org/2018/09/why-design-thinking-works)
    * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
-   * [Foundations in Design Thinking Certificate - IDEO U `Course`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
+   * [Foundations in Design Thinking Certificate - IDEO U `Course ($)`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
 
    #### Projects
    *
@@ -98,7 +98,7 @@
    #### Resources
    * [Can I Use `Tool`](https://caniuse.com/)
    * [IBM Equal Accessibility Toolkit `Tool`](https://www.ibm.com/able/toolkit/)
-   * [W3C Accessibility Fundamentals `Website`](https://www.w3.org/WAI/fundamentals/)
+   * [W3C Accessibility Fundamentals `Resource`](https://www.w3.org/WAI/fundamentals/)
    * [Funkify Disability Simulator - Chrome Extension `Tool`](https://www.funkify.org/)
    * [A11y `Website`](https://www.a11yproject.com/)
    * [Why Digital Accessibility Matters - Invision `Article`](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)

@@ -63,16 +63,16 @@
 ----
 
 <details open>
-   <summary><b>Source Control</b></summary><br/>
+   <summary><b>Version Control</b></summary><br/>
 
-   With this topic, you’ll learn about the importance of source control, Git commands, how to handle merge conflicts, popular branching strategies, and more.
+   With this topic, you’ll learn about the importance of version control, Git commands, how to handle merge conflicts, popular branching strategies, and more.
 
    #### Learning Outcomes
-   * Describe what source control is and its purpose
-   * List common source control providers
+   * Describe what version control is and its purpose
+   * List common version control providers
    * List common Git commands and their purpose
    * Describe Semantic Versioning and its purpose
-   * Compare using source control and not using source control to manage a project
+   * Compare using version control and not using version control to manage a project
 
    #### Resources
    * [GitHub `Tool`](https://github.com/)

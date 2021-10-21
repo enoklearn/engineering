@@ -84,8 +84,8 @@
    * Setup a language runtime on your machine
 
    #### Resources
-   * [Computer Basics Course `Course`](https://teamtreehouse.com/library/computer-basics)
    * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+   * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
  
    #### Projects
    *
