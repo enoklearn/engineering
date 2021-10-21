@@ -5,7 +5,7 @@
 
 ### With this module, you'll learn the discipline of change management, automated techniques to distribute your product, and how to monitor product health.
 
-<img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1346/2017/03/Computer-Parts-Labeled-Small.jpg" width="1000" />
+<img width="1000" alt="Operations Module" src="https://user-images.githubusercontent.com/894178/138357853-527268e0-eb25-447b-bf1f-c1f654ab3e70.png">
 
 ## Topics
 
