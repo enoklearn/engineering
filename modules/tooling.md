@@ -20,19 +20,19 @@
    * Determine what editor you might need for web, native, and API projects
 
    #### Resources
-   * [Visual Studio Code](https://code.visualstudio.com/)
-   * [Vim](https://missing.csail.mit.edu/2020/editors/)
-   * [Vim Adventures](https://vim-adventures.com/)
-   * [Atom](https://atom.io/)
-   * [Sublime Text](https://www.sublimetext.com/)
-   * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-   * [GNU Emacs](https://www.gnu.org/software/emacs/)
-   * [JetBrains](https://www.jetbrains.com/)
-   * [WebStorm](https://www.jetbrains.com/webstorm/)
-   * [GitHub Codespaces](https://github.com/features/codespaces/)
-   * [Visual Studio](https://visualstudio.microsoft.com/)
-   * [Android Studio](https://developer.android.com/studio)
-   * [Xcode](https://developer.apple.com/xcode/)
+   * [Visual Studio Code `Tool`](https://code.visualstudio.com/)
+   * [Vim `Video`](https://missing.csail.mit.edu/2020/editors/)
+   * [Vim Adventures `Tutorial`](https://vim-adventures.com/)
+   * [Atom `Tool`](https://atom.io/)
+   * [Sublime Text `Tool`](https://www.sublimetext.com/)
+   * [Chrome DevTools `Tool`](https://developers.google.com/web/tools/chrome-devtools/)
+   * [GNU Emacs `Tool`](https://www.gnu.org/software/emacs/)
+   * [JetBrains `Tool`](https://www.jetbrains.com/)
+   * [WebStorm `Tool`](https://www.jetbrains.com/webstorm/)
+   * [GitHub Codespaces `Tool`](https://github.com/features/codespaces/)
+   * [Visual Studio `Tool`](https://visualstudio.microsoft.com/)
+   * [Android Studio `Tool`](https://developer.android.com/studio)
+   * [Xcode `Tool`](https://developer.apple.com/xcode/)
 
    #### Projects
    *
@@ -41,9 +41,9 @@
 ----
 
 <details open>
-   <summary><b>Command Line</b></summary><br/>
+   <summary><b>Using the Shell</b></summary><br/>
 
-   With this topic, you’ll learn about how to use the command line and how to create scripts to make running complex commands easier.
+   With this topic, you’ll learn about how to use the shell on your operating system and how to create scripts to make running complex commands easier.
 
    #### Learning Outcomes
    * Describe what a command line interface is and how you might use it
@@ -53,7 +53,8 @@
    * Theorize how you can use the command line and scripts to automate daily tasks
 
    #### Resources
-   * 
+   * [Missing Semester: The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
+   * [Missing Semester: Shell Tools and Scripting `Video`](https://missing.csail.mit.edu/2020/shell-tools/)
 
    #### Projects
    *
@@ -74,10 +75,10 @@
    * Compare using source control and not using source control to manage a project
 
    #### Resources
-   * [GitHooks](https://githooks.com/)
-   * [GitHub](https://github.com/)
-   * [BitBucket](https://bitbucket.org)
-   * [Pro Git](https://git-scm.com/book/en/v2)
+   * [GitHub `Tool`](https://github.com/)
+   * [BitBucket `Tool`](https://bitbucket.org)
+   * [GitHooks `Resource`](https://githooks.com/)
+   * [Pro Git `Book`](https://git-scm.com/book/en/v2)
 
    #### Projects
    *
@@ -119,7 +120,7 @@
    * Demonstrate how you can use Docker to setup your project local environment
 
    #### Resources
-   * [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
+   * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
 
    #### Projects
    *
