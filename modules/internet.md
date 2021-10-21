@@ -20,8 +20,13 @@
    * Theorize whether or not the internet’s impact on society was beneficial
 
    #### Resources
-   * [Internet Fundamentals - Terminology `video course`](https://www.internetfundamentals.com/watch/)
+   * [40th Anniversary of the Net - October 29, 1969 `Video`](https://www.youtube.com/watch?v=7duyl0ZZ5BQ)
+   * [UCLA's Leonard Kleinrock on packet switching, early Internet `Video`](https://www.youtube.com/watch?v=rHHpwcZiEW4)
+   * [Internet History from 1962 to 1992 `Resource`](https://www.computerhistory.org/internethistory/)
+   * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
 
+   #### Projects
+   *
 </details>
 
 ----
@@ -40,7 +45,9 @@
    #### Resources
    * [How the Internet Works Course `video course`](https://teamtreehouse.com/library/how-the-internet-works)
    * [How the Web Works Course `video course`](https://teamtreehouse.com/library/how-the-web-works)
-   
+
+   #### Projects
+   *
 </details>
 
 ----
