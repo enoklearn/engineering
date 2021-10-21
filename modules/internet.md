@@ -46,7 +46,10 @@
    #### Resources
    * [Networking by Ben Eater `Video Series`](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
-   * 
+   * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
+   * [Real life example of TCP/IP and OSI layers `Video`](https://www.youtube.com/watch?v=3kfO61Mensg)
+   * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
+   * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
 
    #### Projects
    *
