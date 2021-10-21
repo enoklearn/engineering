@@ -20,13 +20,13 @@
    * Distinguish the difference between good and bad design when building software
 
    #### Resources
-   * [The Design of Everyday Things `Book`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
    * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
    * [Abstract `Film`](https://www.netflix.com/title/80057883)
    * [UI/UX Design Foundations `Course`](https://app.uxcel.com/courses/design-foundations)
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
+   * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 
    #### Projects
    *
@@ -47,11 +47,11 @@
    * (Measure) Evaluate the success of a prototypes by testing it with users
 
    #### Resources
-   * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
-   * [Design Thinking - Ideo.com `Website`](https://designthinking.ideo.com/)
+   * [Design Thinking - Ideo.com `Resource`](https://designthinking.ideo.com/)
    * [What is Design Thinking and Why Is It So Popular? `Article`](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
    * [Why Design Thinking Works - Harvard Business Review `Article`](https://hbr.org/2018/09/why-design-thinking-works)
    * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
+   * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
    * [Foundations in Design Thinking Certificate - IDEO U `Course ($)`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
 
    #### Projects
