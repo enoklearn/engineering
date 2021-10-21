@@ -32,6 +32,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
    * [Tanners, tailors and candlestick makers: a history of apprenticeships `Article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
    * [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
+   
+   #### Projects
+
+   *
 </details>
 
 ----
@@ -56,6 +60,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
    * [What is craftsmanship and does it matter? `Article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
+
+   #### Projects
+
+   *
 </details>
 
 ----
@@ -76,6 +84,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Manifesto for Agile Software Development `Document`](http://agilemanifesto.org/)
    * [Manifesto for Software Craftsmanship `Document`](http://manifesto.softwarecraftsmanship.org/)
    * [The Clean Coder: A Code of Conduct for Professional Programmers `Book`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+
+   #### Projects
+
+   *
 </details>
 
 ----
@@ -103,6 +115,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Ghost CMS `Tool`](https://ghost.org/)
    * [Substack `Tool`](https://substack.com/)
    * [Medium `Tool`](https://medium.com/)
+   
+   #### Projects
+
+   *
 </details>
 
 ----
@@ -123,11 +139,9 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Optimal Learning Exists Between Comfort and Panic `Article`](https://medium.com/redsquirrel-tech/optimal-learning-exists-between-comfort-and-panic-142caa0ba0cf)
    * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `Article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
    * [Awesome Lists `List of resources`](https://github.com/sindresorhus/awesome)
+   
+   #### Projects
+
+   *
 </details>
-
-----
-
-## Skill Building Process
-
-<img width="1000" alt="EngineerKit skill building process" src="https://user-images.githubusercontent.com/894178/134946255-5126f4e4-f1a3-495e-abae-29ff7f156ea0.png">
 
