@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn about types of persistence beyond a process in-memory, including binary files and structured data stored in databases.
 
-<img width="1000" alt="Data Module" src="https://user-images.githubusercontent.com/894178/138357282-e49884e2-dd8b-42fd-828f-74c833d3d31a.png">
+<img width="1440" alt="Data Module" src="https://user-images.githubusercontent.com/894178/138357282-e49884e2-dd8b-42fd-828f-74c833d3d31a.png">
 
 ## Topics
 

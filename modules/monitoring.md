@@ -5,7 +5,7 @@
 
 ### With this module, you'll learn how to use telemetry to measure your code's performance in production environments.
 
-<img width="1000" alt="Monitoring Module" src="https://user-images.githubusercontent.com/894178/138357785-5c440e7b-6cf5-4886-ad7c-7ab517fb7c58.png">
+<img width="1440" alt="Monitoring Module" src="https://user-images.githubusercontent.com/894178/138357785-5c440e7b-6cf5-4886-ad7c-7ab517fb7c58.png">
 
 
 ## Topics

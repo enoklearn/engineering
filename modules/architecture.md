@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to apply typical solutions to common problems in software design.
 
-<img width="1000" alt="Architecture Module" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
+<img width="1440" alt="Architecture Module" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
 
 ## Topics
 

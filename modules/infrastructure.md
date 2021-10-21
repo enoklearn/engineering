@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to use cloud providers to orchestrate computing resources and create a scalable and resilient platform for your product.
 
-<img width="1000" alt="Infrastructure Module" src="https://user-images.githubusercontent.com/894178/138357403-29c2f0ab-0ade-4f72-ab1e-6a29932f8eba.png">
+<img width="1440" alt="Infrastructure Module" src="https://user-images.githubusercontent.com/894178/138357403-29c2f0ab-0ade-4f72-ab1e-6a29932f8eba.png">
 
 ## Topics
 

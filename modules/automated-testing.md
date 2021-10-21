@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to use automated testing strategies to prove the structural integrity of the code you write.
 
-<img width="1000" alt="Automated Testing Module" src="https://user-images.githubusercontent.com/894178/138357152-14b20595-7874-410f-a883-3f2dcd83d226.png">
+<img width="1440" alt="Automated Testing Module" src="https://user-images.githubusercontent.com/894178/138357152-14b20595-7874-410f-a883-3f2dcd83d226.png">
 
 
 ## Topics
