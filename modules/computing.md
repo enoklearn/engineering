@@ -13,11 +13,13 @@
 <details open>
    <summary><b>History of Computing</b></summary><br/>
 
-   With this topic, you will learn about computing before the computer age and some of the people and components that pushed the computer age forward
+   With this topic, you’ll learn about the history of computing, and some of the most important events that shaped the Information Age.
    
    #### Learning Outcomes
-   * Describe how a computer converts source code into commands
-   * Compare the different processes that occur in compiled languages vs interpreted languages
+   * List the four generations of computing
+   * Explain Moore’s Law and the rate of exponential change in computing hardware
+   * Compare the rate of change in hardware to the rate of change in software
+   * Theorize how you can stay current with the rapid changes in our industry
 
    #### Resources
    * [Computer History Timeline `Article`](https://www.computerhistory.org/timeline/computers/)
@@ -32,11 +34,13 @@
 <details open>
    <summary><b>Hardware</b></summary><br/>
 
-   With this topic, you will learn about the basic computer components and the different roles they play
+   With this topic, you will learn about the basic computer components and the different roles they play.
 
    #### Learning Outcomes
-   * List the components of a computer
-   * Describe the difference between RAM storage and hard drive storage and how the two interact
+   * Describe the four general hardware components of a computer
+   * Compare processing and storage and how the they interact with each other
+   * List some common and uncommon peripherals
+   * Theorize how you might use peripherals in your work
 
    #### Resources
    * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
@@ -50,12 +54,14 @@
 <details open>
    <summary><b>Operating Systems</b></summary><br/>
 
-   With this topic, you will learn about the underlying software that runs your machine and coordinates processes, memory, and storage
+   With this topic, you will learn about the underlying software that coordinates the different hardware components of a computer.
    
    #### Learning Outcomes
-   * List the top three operating systems
-   * Compare the pros and cons of the top 3 operating systems
-   * Theorize about the underlying principles each of these operating systems were built under and how the OS's have evolved because of these principles
+   * Describe what an operating system does
+   * List some common operating systems
+   * Setup and use another operating system using virtualization
+   * Compare containerization with virtualization and highlight the differences
+   * Compare some features of your original operating system with the operating system you tried out
 
    #### Resources
    * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
@@ -67,18 +73,20 @@
 ----
 
 <details open>
-   <summary><b>Spectrum of Platforms</b></summary><br/>
+   <summary><b>Runtimes</b></summary><br/>
 
-   With this topic, you will learn about the different combinations of hardware and software that can be used to run software
-   
+   With this topic, you will learn about the process of turning human-readable code into commands that the computer can understand.
+
    #### Learning Outcomes
-   * Describe the aspects of a Platform
-   * List some common Platforms
-   * Think about different platforms that you use throughout your day and how the hardware and software interact
+   * Describe how a computer compiles source code into machine code
+   * Compare the different processes that occur in compiled languages vs interpreted languages
+   * Explain why language compatibility is important to keep track of
+   * Setup a language runtime on your machine
 
    #### Resources
-   *
-
+   * [Computer Basics Course `Course`](https://teamtreehouse.com/library/computer-basics)
+   * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+ 
    #### Projects
    *
 </details>
@@ -86,18 +94,18 @@
 ----
 
 <details open>
-   <summary><b>Runtimes</b></summary><br/>
+   <summary><b>Spectrum of Platforms</b></summary><br/>
 
-   With this topic, you will learn about the process of turning human-readable code into commands that the computer can understand
-
+   With this topic, you will learn about the different combinations of hardware, operating systems, and runtimes that can be used to run software.
+   
    #### Learning Outcomes
-   * Describe how a computer converts source code into commands
-   * Compare the different processes that occur in compiled languages vs interpreted languages
+   * Describe the anatomy of a platform
+   * List some common platforms where your software might run
+   * Theorize how you use platform identification with your projects
 
    #### Resources
-   * [Computer Basics Course `Course`](https://teamtreehouse.com/library/computer-basics)
-   * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
- 
+   *
+
    #### Projects
    *
 </details>
