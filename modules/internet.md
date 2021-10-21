@@ -23,6 +23,7 @@
    * [40th Anniversary of the Net - October 29, 1969 `Video`](https://www.youtube.com/watch?v=7duyl0ZZ5BQ)
    * [UCLA's Leonard Kleinrock on packet switching, early Internet `Video`](https://www.youtube.com/watch?v=rHHpwcZiEW4)
    * [Internet History from 1962 to 1992 `Resource`](https://www.computerhistory.org/internethistory/)
+   * [History of TCP/IP and OSI `Video`](https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&t=23s)
    * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
 
    #### Projects
@@ -43,8 +44,9 @@
    * Theorize what protocols you might interact with the most
 
    #### Resources
-   * [How the Internet Works Course `video course`](https://teamtreehouse.com/library/how-the-internet-works)
-   * [How the Web Works Course `video course`](https://teamtreehouse.com/library/how-the-web-works)
+   * [Networking by Ben Eater `Video Series`](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+   * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
+   * 
 
    #### Projects
    *
@@ -84,7 +86,7 @@
    * Create a DNS entry
 
    #### Resources
-   * 
+   * [How the Web Works `Course ($)`](https://teamtreehouse.com/library/how-the-web-works)
 
    #### Projects
    *
