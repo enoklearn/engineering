@@ -1,6 +1,6 @@
 # Tooling
 
-![Moderate](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square)
+![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square)
 <a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
 
 ### With this module, you’ll learn how to streamline your workflow and assemble a dev environment using standard tools and practices, allowing you to focus on crafting quality code.
@@ -22,7 +22,7 @@
    #### Resources
    * [Visual Studio Code `Tool`](https://code.visualstudio.com/)
    * [Vim `Video`](https://missing.csail.mit.edu/2020/editors/)
-   * [Vim Adventures `Tutorial`](https://vim-adventures.com/)
+   * [Vim Adventures `Game`](https://vim-adventures.com/)
    * [Atom `Tool`](https://atom.io/)
    * [Sublime Text `Tool`](https://www.sublimetext.com/)
    * [Chrome DevTools `Tool`](https://developers.google.com/web/tools/chrome-devtools/)
