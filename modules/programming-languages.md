@@ -25,7 +25,7 @@
    * 
 
    #### Projects
-   *
+   * Have an apprentice complete a project using two different types of languages
 </details>
 
 ----
@@ -44,7 +44,7 @@
    * 
 
    #### Projects
-   *
+   * Solve a lot of problems!
 </details>
 
 ----
@@ -63,7 +63,7 @@
    * 
 
    #### Projects
-   *
+   * Create Tic-Tac-Toe in three different programming languages
 </details>
 
 ----
@@ -82,7 +82,7 @@
    * 
 
    #### Projects
-   *
+   * Investigate common third-party dependencies (such as `rails/rails` or `gin-gonic/gin`) and determine their licenses
 </details>
 
 ----
@@ -102,5 +102,5 @@
    * 
 
    #### Projects
-   *
+   * Go on a pairing tour! Solve some real problems with other software engineers
 </details>
