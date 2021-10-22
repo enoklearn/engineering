@@ -27,7 +27,7 @@
    * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
 
    #### Projects
-   *
+   * How might you help protect the internet’s future?
 </details>
 
 ----
@@ -48,11 +48,14 @@
    * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
    * [Real life example of TCP/IP and OSI layers `Video`](https://www.youtube.com/watch?v=3kfO61Mensg)
    * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
+   * [Networking Zine `Book`](https://jvns.ca/networking-zine.pdf)
+   * [Wireshark `Tool`](https://www.wireshark.org/)
+   * [Questions about network layers `Course`](https://questions.wizardzines.com/network-layers.html)
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
 
    #### Projects
-   *
+   * Use Wireshark to inspect the journey of a packet on the network
 </details>
 
 ----
@@ -69,10 +72,11 @@
    * Create a virtual private cloud network with a cloud provider
 
    #### Resources
-   * 
+   * [Building a Modular and Scalable Virtual Network Architecture with Amazon VPC `Tutorial`](https://docs.aws.amazon.com/quickstart/latest/vpc/overview.html)
 
    #### Projects
-   *
+   * Pair with SREs or Cloud Engineers
+   * Configure your home network
 </details>
 
 ----
@@ -91,10 +95,11 @@
    #### Resources
    * [What is DNS? `Article`](https://www.cloudflare.com/learning/dns/what-is-dns/)
    * [Why was Facebook down for five hours? (DNS and BGP) `Video`](https://www.youtube.com/watch?v=-wMU8vmfaYo)
+   * [Questions about DNS `Course`](https://questions.wizardzines.com/dns.html)
    * [How the Web Works `Course ($)`](https://teamtreehouse.com/library/how-the-web-works)
 
    #### Projects
-   * 
+   * Buy a domain and setup a personal website
 </details>
 
 ----
@@ -111,7 +116,11 @@
 
    #### Resources
    * [What is TLS/SSL? `Article`](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+   * [Let's Encrypt `Tool`](https://letsencrypt.org/)
+   * [Questions about TLS certificates `Course`](https://questions.wizardzines.com/tls-certificates.html)
+   * [Dissecting a SSL certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    
    #### Projects
-   *
+   * Configure a web service to use a TLS/SSL certificate
+   * [Setup your own certificate authority](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) using [cfssl](https://github.com/cloudflare/cfssl)
 </details>
