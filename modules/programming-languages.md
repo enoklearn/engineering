@@ -15,7 +15,11 @@
    With this topic, you’ll learn about the landscape of programming languages, their common features, and how to recognize them regardless of syntax.
    
    #### Learning Outcomes
-   * 
+   * List the types of programming languages
+   * List the common features of programming languages
+   * Describe the properties of a functional language
+   * Describe the properties of a object-oriented language
+   * Explain why you might choose to use a particular language on a project
 
    #### Resources
    * 
@@ -32,7 +36,9 @@
    With this topic, you’ll learn how to gain fluency in a programming language and develop a deep understanding of its functionality and idiosyncrasies.
 
    #### Learning Outcomes
-   * 
+   * Explain how you might use documentation to learn more about a language
+   * List some features you find strange about a language
+   * Theorize how you might learn a language fluently
 
    #### Resources
    * 
@@ -49,7 +55,9 @@
    With this topic, you’ll learn how to adapt your understanding of one programming language to gain proficiency in another.
    
    #### Learning Outcomes
-   * 
+   * List some methods to quickly learn new programming languages
+   * Compare when to use koans or katas
+   * Theorize how you might learn a new language quickly
 
    #### Resources
    * 
@@ -66,7 +74,9 @@
    With this topic, you’ll learn about package management and the ecosystem of third-party dependencies for a programming language.
    
    #### Learning Outcomes
-   * 
+   * Describe a dependency and its purpose
+   * Explain how you might evaluate whether or not to use a dependency
+   * Theorize how to maintain a project with a third-party dependency
 
    #### Resources
    * 
@@ -83,7 +93,10 @@
    With this topic, you’ll learn how to solve problems with other software engineers (and have fun while doing it) using pair programming techniques.
 
    #### Learning Outcomes
-   * 
+   * List some benefits when pair programming
+   * Describe pair programming and mob programming techniques
+   * Explain why you might collaborate with another software engineer
+   * Compare solo programming with collaborative programming
 
    #### Resources
    * 
