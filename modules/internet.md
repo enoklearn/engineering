@@ -112,7 +112,6 @@
    #### Learning Outcomes
    * Describe how CAs (certificate authorities) provision TLS/SSL certificates
    * Explain why you might want to encrypt data in-flight
-   * Setup a web service that uses a TLS/SSL certificate
 
    #### Resources
    * [What is TLS/SSL? `Article`](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
@@ -121,6 +120,6 @@
    * [Dissecting a SSL certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    
    #### Projects
-   * Configure a web service to use a TLS/SSL certificate
+   * Setup a web service that uses a TLS/SSL certificate
    * [Setup your own certificate authority](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) using [cfssl](https://github.com/cloudflare/cfssl)
 </details>
