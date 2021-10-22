@@ -11,7 +11,7 @@
 ## Topics
 
 <details open>
-   <summary><b>Requirements Gathering</b></summary><br/>
+   <summary><b>Gathering Requirements</b></summary><br/>
 
    With this topic, you’ll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
    
