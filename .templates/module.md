@@ -5,7 +5,7 @@
 
 ### MODULE_DESCRIPTION
 
-<img src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1346/2017/03/Computer-Parts-Labeled-Small.jpg" width="1000" />
+<img width="1440" alt="Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-making" src="https://user-images.githubusercontent.com/894178/138341382-50968778-5d62-435e-84f3-16f6e4809251.png">
 
 ## Topics
 
