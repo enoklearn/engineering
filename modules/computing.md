@@ -24,9 +24,11 @@
    #### Resources
    * [Computer History Timeline `Article`](https://www.computerhistory.org/timeline/computers/)
    * [History of Computing `Article`](https://en.wikipedia.org/wiki/History_of_computing)
+   * [Jean Bartik and the ENIAC Women](https://www.youtube.com/watch?v=aPweFhhXFvY)
 
    #### Projects
-   *
+   * Build yourself a newsfeed that brings together the essential articles you care about (consider using an RSS reader)
+   * Build a simple logic gate using some wire and a battery
 </details>
 
 ----
