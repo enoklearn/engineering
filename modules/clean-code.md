@@ -10,12 +10,34 @@
 ## Topics
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Code Quality</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about why the quality of your code is important and how it affects the safety and reliability of your codebase.
    
    #### Learning Outcomes
-   * 
+   * List some of the metrics that might determine the quality of your code
+   * Compare high-quality with low-quality code, what are some advantages of each
+   * Consider why you should care about the quality of your code
+   * Theorize how you might manage technical debt
+
+   #### Resources
+   * [Code quality metrics `Article`](https://blog.ndepend.com/code-quality-metrics-signal-noise/)
+
+   #### Projects
+   *
+</details>
+
+----
+
+<details open>
+   <summary><b>Code Smells</b></summary><br/>
+
+   With this topic, you’ll learn about signals in your codebase that can indicate poor design or the lack of best practices.
+   
+   #### Learning Outcomes
+   * List some common code smells
+   * Find some refactorings that clean up common code smells
+   * Theorize how you might better identify code smells
 
    #### Resources
    * 
@@ -27,12 +49,15 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Four Rules of Simple Design</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about writing simple code that is tested, singular, and easy to understand.
    
    #### Learning Outcomes
-   * 
+   * Describe the four rules of simple design
+   * Theorize why clean code and testing are often associated with one another
+   * Consider how you might apply the four rules of simple design
+   * Compare simple and complex solutions and theorize which last longer
 
    #### Resources
    * 
@@ -44,15 +69,18 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Design Patterns</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about common solutions to common problems in software design.
    
    #### Learning Outcomes
-   * 
+   * List some common design patterns
+   * Consider some of the criticisms of design patterns and when it is applicable to use them
+   * Compare creational, structural, and behavioral patterns and explain their differences
 
    #### Resources
-   * 
+   * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
+   * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
 
    #### Projects
    *
@@ -61,32 +89,17 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Refactoring Techniques</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about common ways to better restructure existing code without changing its underlying behavior. 
    
    #### Learning Outcomes
-   * 
+   * List some common refactoring techniques
+   * Find some code smells that refactorings clean up
+   * Compare refactoring legacy code and greenfield code, what are differences in the approach you might take
 
    #### Resources
-   * 
-
-   #### Projects
-   *
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
+   * [Refactoring `Resource`](https://refactoring.guru/refactoring)
 
    #### Projects
    *
