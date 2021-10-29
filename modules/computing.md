@@ -51,7 +51,7 @@
    #### Resources
    * [Exploring How Computers Work `Video`](https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=1)
    * [Digital Logic Sim `Tool`](https://sebastian.itch.io/digital-logic-sim)
-   * [History and Theory of Electricity](https://www.youtube.com/watch?v=TttHkDRuyZw)
+   * [History and Theory of Electricity `Video`](https://www.youtube.com/watch?v=TttHkDRuyZw)
    * [Building an 8-bit computer `Video Series`](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
    * [nand2tetris: building a computer from first principles `Course`](https://www.nand2tetris.org/)
    * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
