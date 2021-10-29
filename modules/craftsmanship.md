@@ -134,7 +134,10 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
 
    * [Optimal Learning Exists Between Comfort and Panic `Article`](https://medium.com/redsquirrel-tech/optimal-learning-exists-between-comfort-and-panic-142caa0ba0cf)
    * [Annie Murphy Paul: Why Teaching Someone Else is the Best Way To Learn `Article`](https://ideas.time.com/2011/11/30/the-protege-effect/)
-   * [Awesome Lists `List of resources`](https://github.com/sindresorhus/awesome)
+   * [Awesome Lists `Resource`](https://github.com/sindresorhus/awesome)
+   * [DigitalOcean Community `Resource`](https://www.digitalocean.com/community)
+   * [LeanPub `Resource`](https://leanpub.com/)
+   * [The Pragmatic Bookshelf `Resource`](https://pragprog.com/)
    
    #### Projects
    *
