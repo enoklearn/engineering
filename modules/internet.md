@@ -25,6 +25,7 @@
    * [Internet History from 1962 to 1992 `Resource`](https://www.computerhistory.org/internethistory/)
    * [History of TCP/IP and OSI `Video`](https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&t=23s)
    * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
+   * [Browse the first website `Resource`](http://info.cern.ch/)
 
    #### Projects
    * How might you help protect the internet’s future?
