@@ -25,7 +25,7 @@
    * [Computer History Timeline `Article`](https://www.computerhistory.org/timeline/computers/)
    * [History of Computing `Article`](https://en.wikipedia.org/wiki/History_of_computing)
    * [Pirates of Silicon Valley `Film`](https://www.imdb.com/title/tt0168122/)
-   * [Apple 1984 Super Bowl Commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA)
+   * [Apple 1984 Super Bowl Commercial `Video`](https://www.youtube.com/watch?v=2zfqw8nhUwA)
    * [Bret Victor The Future of Programming `Video`](https://www.youtube.com/watch?v=8pTEmbeENF4)
    * [Awesome Computer History `Resource`](https://github.com/watson/awesome-computer-history#readme)
    * [Jean Bartik and the ENIAC Women `Video`](https://www.youtube.com/watch?v=aPweFhhXFvY)
