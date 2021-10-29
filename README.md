@@ -33,10 +33,12 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 
 ## Contributing
 
-<details>
-   <summary><b>Pulling upstream changes from <a href="https://github.com/engineerkit/engineerkit">engineerkit/engineerkit</a> into your private repo</b></summary><br/>
+A great way to start contributing is to first [join our Discord](https://discord.gg/bDVYvG3Czd) or checkout the [Discussions right here on GitHub](https://github.com/engineerkit/engineerkit/discussions) to connect with the EngineerKit community! 
 
-  If you have the paid GitHub account, you can fork this repo into your own organization. You'll get the benefit of being able to merge in new changes easily from `engineerkit/engineerkit`. If you don't have a paid account, or you don't want to use GitHub to host your repo, we've got you covered.
+<details>
+   <summary><b>Pulling upstream changes from <a href="https://github.com/engineerkit/engineerkit">engineerkit/engineerkit</a> into your private fork</b></summary><br/>
+
+  While we always promote sharing with the open source community, some companies might find it necessary to privately fork EngineerKit if they have some software engineering standards they want to keep to themselves. Here's a quick guide on how to do this with EngineerKit:
 
   - First clone down your private repo
   - To add a new remote to your local repo connected to the `engineerkit/engineerkit` repo, run
