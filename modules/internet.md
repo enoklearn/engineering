@@ -74,6 +74,7 @@
 
    #### Resources
    * [Building a Modular and Scalable Virtual Network Architecture with Amazon VPC `Tutorial`](https://docs.aws.amazon.com/quickstart/latest/vpc/overview.html)
+   * [Subnet Cheat Sheet `Resource`](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 
    #### Projects
    * Pair with SREs or Cloud Engineers
