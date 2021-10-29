@@ -35,15 +35,15 @@
    * [Xcode `Tool`](https://developer.apple.com/xcode/)
 
    #### Projects
-   *
+   * Select an editor, and customize it!
 </details>
 
 ----
 
 <details open>
-   <summary><b>Using the Shell</b></summary><br/>
+   <summary><b>Using the Command Line</b></summary><br/>
 
-   With this topic, you’ll learn about how to use the shell on your operating system and how to create scripts to make running complex commands easier.
+   With this topic, you’ll learn about how to use the command line (also known as the shell) on your operating system and how to create scripts to make running complex commands easier.
 
    #### Learning Outcomes
    * Describe what a command line interface is and how you might use it
@@ -53,11 +53,22 @@
    * Theorize how you can use the command line and scripts to automate daily tasks
 
    #### Resources
-   * [Missing Semester: The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
-   * [Missing Semester: Shell Tools and Scripting `Video`](https://missing.csail.mit.edu/2020/shell-tools/)
+   * [The Art of the Command Line `Guide`](https://github.com/jlevy/the-art-of-command-line)
+   * [The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
+   * [Awesome Shell `Resource`](https://github.com/alebcay/awesome-shell#readme)
+   * [Linux debugging tools you'll love `Book`](https://jvns.ca/debugging-zine.pdf)
+   * [Shell Tools and Scripting `Video`](https://missing.csail.mit.edu/2020/shell-tools/)
+   * [SSH Essentials `Tutorial`](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+   * [Command-line Environment `Video`](https://missing.csail.mit.edu/2020/command-line/)
+   * [tldr pages `Resource`](https://tldr.sh/)
+   * [Windows Subsystem for Linux `Tool`](https://docs.microsoft.com/en-us/windows/wsl/)
+   * [Powershell `Resource`](https://github.com/janikvonrotz/awesome-powershell#readme)
+   * [Hyper `Tool`](https://hyper.is/)
+   * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
+   * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
 
    #### Projects
-   *
+   * Build a simple CLI app using Bash scripts to fetch the weather based on a zip code
 </details>
 
 ----
@@ -76,12 +87,22 @@
 
    #### Resources
    * [GitHub `Tool`](https://github.com/)
+   * [GitLab `Tool`](https://about.gitlab.com/)
    * [BitBucket `Tool`](https://bitbucket.org)
+   * [Semantic Versioning 2.0.0 `Resource`](https://semver.org/)
+   * [Make Atomic Git Commits `Article`](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/)
    * [GitHooks `Resource`](https://githooks.com/)
    * [Pro Git `Book`](https://git-scm.com/book/en/v2)
+   * [Git Tips `Resource`](https://github.com/git-tips/tips#readme)
+   * [How To Use Git `Guide`](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+   * [Git and Git Flow Cheat Sheet `Resource`](https://github.com/arslanbilal/git-cheat-sheet#readme)
+   * [Oh my git! `Game`](https://ohmygit.org/)
+   * [Git & GitHub Crash Course `Video`](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+   * [GitKraken `Tool`](https://www.gitkraken.com/)
+   * [Introduction to Git `Course ($)`](https://teamtreehouse.com/library/introduction-to-git)
 
    #### Projects
-   *
+   * Init a git repo locally using the command line, and add the origin of a new GitHub repo to it
 </details>
 
 ----
@@ -100,10 +121,18 @@
    * Reflect on how long a task took you and compare it to your original expectations
 
    #### Resources
-   * 
+   * [Estimato `Tool`](https://estimato.app/)
+   * [Toggl `Tool`](https://toggl.com/)
+   * [Awesome Productivity `Resource`](https://github.com/jyguyomarch/awesome-productivity#readme)
+   * [Pomodoro Technique `Video`](https://www.youtube.com/watch?v=mNBmG24djoY)
+   * [Forest: Stay focused, be present `Tool`](https://www.forestapp.cc/)
+   * [PERT `Article`](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
+   * [The Clean Coder: Productivity `Video ($)`](https://cleancoders.com/episode/clean-code-episode-43)
+   * [The Clean Coder: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
+   
 
    #### Projects
-   *
+   * Practice estimating tasks on your todo list using PERT, and share your estimate with your mentor
 </details>
 
 ----
@@ -121,7 +150,9 @@
 
    #### Resources
    * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
+   * [Homebrew `Tool`](https://brew.sh/)
+   * [12 Factor App: Config `Resource`](https://12factor.net/config)
 
    #### Projects
-   *
+   * Setup a real company project locally on your own
 </details>
