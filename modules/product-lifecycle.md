@@ -67,7 +67,7 @@
 ----
 
 <details open>
-   <summary><b>Product Team Organization</b></summary><br/>
+   <summary><b>Product Team</b></summary><br/>
 
    With this topic, you'll learn about the typical composition of a product team and how to collaborate with them.
    
