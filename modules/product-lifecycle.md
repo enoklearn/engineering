@@ -10,7 +10,7 @@
 ## Topics
 
 <details open>
-   <summary><b>The Stages of a Company</b></summary><br/>
+   <summary><b>Stages of a Company</b></summary><br/>
 
    With this topic, you'll learn how a company’s focus will change as they further understand how they can meet the needs of the market they serve.
    
@@ -28,7 +28,7 @@
 ----
 
 <details open>
-   <summary><b>The Stages of a Product</b></summary><br/>
+   <summary><b>Stages of a Product</b></summary><br/>
 
    With this topic, you'll learn how the focus of a product development team will need to evolve as their product matures.
    
