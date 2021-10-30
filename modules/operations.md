@@ -10,9 +10,9 @@
 ## Topics
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Managing Releases</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about change management and how to release new versions of an application with as little downtime as possible.
    
    #### Learning Outcomes
    * 
@@ -27,9 +27,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Managing Incidents</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn how to keep calm under the stress of resolving production application incidents.
    
    #### Learning Outcomes
    * 
@@ -44,9 +44,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Continuous Integration and Deployment</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn how to automate the release process using continuous integration and deployment (CI/CD) pipelines.
    
    #### Learning Outcomes
    * 
@@ -61,9 +61,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Performance Testing</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn how to verify the performance of an application using load tests, smoke tests, and black-box testing.
    
    #### Learning Outcomes
    * 
@@ -78,9 +78,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Working with Site Reliability Engineers</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about the role of a site reliability engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
    * 
