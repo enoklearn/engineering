@@ -3,7 +3,7 @@
 ![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-black?style=flat-square)
 <a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
 
-### With this module, you’ll learn a single programming language inside and out, and polyglot techniques that enable you to learn other languages rapidly.
+### With this module, you’ll learn a single programming language inside and out and polyglot techniques that enable you to learn other languages rapidly.
 
 <img width="1440" alt="Programming Languages Module" src="https://user-images.githubusercontent.com/894178/138358046-b7b9d93f-743b-4f62-b0af-d234f198fcc9.png">
 
@@ -18,7 +18,7 @@
    * List the types of programming languages
    * List the common features of programming languages
    * Describe the properties of a functional language
-   * Describe the properties of a object-oriented language
+   * Describe the properties of an object-oriented language
    * Explain why you might choose to use a particular language on a project
 
    #### Resources
@@ -55,7 +55,7 @@
    With this topic, you’ll learn how to adapt your understanding of one programming language to gain proficiency in another.
    
    #### Learning Outcomes
-   * List some methods to quickly learn new programming languages
+   * List some methods to learn new programming languages quickly
    * Compare when to use koans or katas
    * Theorize how you might learn a new language quickly
 
