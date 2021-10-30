@@ -47,7 +47,7 @@
 ----
 
 <details open>
-   <summary><b>Product Development Philosophies</b></summary><br/>
+   <summary><b>Product Development Methodologies</b></summary><br/>
 
    With this topic, you'll learn about the various approaches a company can take to develop a product.
    
