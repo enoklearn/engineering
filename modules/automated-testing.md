@@ -16,7 +16,7 @@
    With this topic, you’ll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
    
    #### Learning Outcomes
-   * Describe the concept of “acceptance criteria”
+   * Describe the concept of "acceptance criteria"
    * Compare manual and automated testing methods
    * List the perspectives that should be considered in task requirements
    * Theorize how you might validate and simplify requirements given to you
@@ -33,7 +33,7 @@
 <details open>
    <summary><b>Automated Testing Strategies</b></summary><br/>
 
-   With this topic, you’ll learn about test driven development, the testing pyramid, and how to apply unit, integration, and end-to-end testing when creating software.
+   With this topic, you’ll learn about test-driven development, the testing pyramid, and how to apply unit, integration, and end-to-end testing when creating software.
    
    #### Learning Outcomes
    * Describe the four common testing strategies and their purpose
@@ -58,13 +58,13 @@
 <details open>
    <summary><b>Test Patterns</b></summary><br/>
 
-   With this topic, you’ll learn about common test patterns such as the four-phase test, inside-out testing, and other useful techniques to make writing automated tests more efficient and enjoyable.
+   With this topic, you’ll learn about common test patterns such as the four-phase test, inside-out testing, and other practical techniques to make writing automated tests more efficient and enjoyable.
    
    #### Learning Outcomes
-   * List some common test patterns
    * Describe the four phases of a test and their purpose
    * Create unit tests using the four-phase approach
-   * Explain why the four phase test pattern is important, and how you'd apply it
+   * Explain why the four-phase test pattern is essential and how you'd apply it
+   * List common test patterns
    * Describe common test fixture patterns and their use cases
    * Describe the inside-out and outside-in test patterns and their purpose
    * Explain a scenario where you would use the inside-out test pattern
@@ -102,7 +102,7 @@
 <details open>
    <summary><b>Test Smells and Flakiness</b></summary><br/>
 
-   With this topic, you’ll learn about common anti-patterns when writing automated tests, and some techniques to help your test suite run soundly every time.
+   With this topic, you’ll learn about common anti-patterns when writing automated tests and some techniques to help your test suite run soundly every time.
    
    #### Learning Outcomes
    * List common test smells
