@@ -10,9 +10,50 @@
 ## Topics
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Cloud Providers</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about cloud computing and the wide range of services an application can use with this topic.
+   
+   #### Learning Outcomes
+   * Compare using cloud computing with on-premise computing
+   * List some typical cloud providers
+   * List some commonly used services from cloud providers
+   * Describe Infrastructure as a Service (IaaS)
+   * Describe Platform as a Service (PaaS)
+   * Describe Software as a Service (SaaS)
+
+   #### Resources
+   * 
+
+   #### Projects
+   *
+</details>
+
+----
+
+<details open>
+   <summary><b>Infrastructure as Code</b></summary><br/>
+
+   With this topic, you’ll learn how to provision cloud services quickly and reliably using infrastructure as code techniques.
+   
+   #### Learning Outcomes
+   * Describe infrastructure as code
+   * Use Terraform to provision infrastructure with a cloud provider
+   * Explain some of the benefits of infrastructure as code compared to manually provisioning infrastructure
+
+   #### Resources
+   * 
+
+   #### Projects
+   *
+</details>
+
+----
+
+<details open>
+   <summary><b>Backing Services</b></summary><br/>
+
+   With this topic, you’ll learn how to work with the attached services required for an application to run.
    
    #### Learning Outcomes
    * 
@@ -27,9 +68,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Managing Multiple Environments</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn how to manage multiple environments such as dev, staging, and production for an application.
    
    #### Learning Outcomes
    * 
@@ -44,43 +85,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Working with Cloud Engineers</b></summary><br/>
 
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
-
-   #### Projects
-   *
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
-
-   #### Projects
-   *
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about the role of a cloud engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
    * 
