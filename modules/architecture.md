@@ -29,7 +29,7 @@
 <details open>
    <summary><b>Common Tech Stacks</b></summary><br/>
 
-   With this topic, you’ll learn about common tech stacks that are used on major projects around the world.
+   With this topic, you’ll learn about common tech stacks used on projects around the world.
    
    #### Learning Outcomes
    * 
@@ -80,7 +80,7 @@
 <details open>
    <summary><b>Living Documentation</b></summary><br/>
 
-   With this topic, you’ll learn how to create useful documentation that evolves along with the system it describes.
+   With this topic, you’ll learn how to create helpful documentation that evolves along with the system it describes.
    
    #### Learning Outcomes
    * 
