@@ -11,9 +11,9 @@
 ## Topics
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>OWASP Top 10</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about the most common application security issues and how to mitigate them.
    
    #### Learning Outcomes
    * 
@@ -28,9 +28,27 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Authentication and Authorization</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about identity providers and how to use OAuth 2.0 to manage authentication and authorization in an application.
+   
+   #### Learning Outcomes
+   * Compare authentication with authorization and highlight their differences
+   * Use an OAuth 2.0 provider to authenticate users in an application
+
+   #### Resources
+   * 
+
+   #### Projects
+   *
+</details>
+
+----
+
+<details open>
+   <summary><b>Managing Secrets</b></summary><br/>
+
+   With this topic, you’ll learn about application secrets and how to manage them effectively.
    
    #### Learning Outcomes
    * 
@@ -45,9 +63,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Continuous Security</b></summary><br/>
 
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about methods to integrate security scanning into a project CI/CD pipeline.
    
    #### Learning Outcomes
    * 
@@ -62,26 +80,9 @@
 ----
 
 <details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
+   <summary><b>Working with Security Engineers</b></summary><br/>
 
-   TOPIC_DESCRIPTION
-   
-   #### Learning Outcomes
-   * 
-
-   #### Resources
-   * 
-
-   #### Projects
-   *
-</details>
-
-----
-
-<details open>
-   <summary><b>TOPIC_TITLE</b></summary><br/>
-
-   TOPIC_DESCRIPTION
+   With this topic, you’ll learn about the role of a security engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
    * 
