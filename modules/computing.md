@@ -13,7 +13,7 @@
 <details open>
    <summary><b>History of Computing</b></summary><br/>
 
-   With this topic, you’ll learn about the history of computing, and some of the most important events that shaped the Information Age.
+   With this topic, you’ll learn about the history of computing and some of the most important events that shaped the Information Age.
    
    #### Learning Outcomes
    * List the four generations of computing
@@ -40,11 +40,11 @@
 <details open>
    <summary><b>Hardware</b></summary><br/>
 
-   With this topic, you will learn about the basic computer components and the different roles they play.
+   With this topic, you will learn about the essential computer components and the different roles they play.
 
    #### Learning Outcomes
-   * Describe the four general hardware components of a computer
-   * Compare processing and storage and how the they interact with each other
+   * Describe the four components of a computer
+   * Compare processing and storage and how they interact with each other
    * List some common and uncommon peripherals
    * Theorize how you might use peripherals in your work
 
@@ -65,11 +65,11 @@
 <details open>
    <summary><b>Operating Systems</b></summary><br/>
 
-   With this topic, you will learn about the underlying software that coordinates the different hardware components of a computer.
+   With this topic, you will learn about the underlying software that coordinates the different components of a computer.
    
    #### Learning Outcomes
    * Describe what an operating system does
-   * List some common operating systems
+   * List some popular operating systems
    * Setup and use another operating system using virtualization
    * Compare containerization with virtualization and highlight the differences
    * Compare some features of your original operating system with the operating system you tried out
@@ -91,8 +91,8 @@
 
    #### Learning Outcomes
    * Describe how a computer compiles source code into machine code
-   * Compare the different processes that occur in compiled languages vs interpreted languages
-   * Explain why language compatibility is important to keep track of
+   * Compare the different processes that occur in compiled languages vs. interpreted languages
+   * Explain why language compatibility is essential to keep track of
    * Setup a language runtime on your machine
 
    #### Resources
@@ -108,7 +108,7 @@
 <details open>
    <summary><b>Spectrum of Platforms</b></summary><br/>
 
-   With this topic, you will learn about the different combinations of hardware, operating systems, and runtimes that can be used to run software.
+   With this topic, you will learn about the different combinations of hardware, operating systems, and runtimes used to run software applications.
    
    #### Learning Outcomes
    * Describe the anatomy of a platform
