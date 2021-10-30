@@ -43,12 +43,12 @@
 <details open>
    <summary><b>Using the Command Line</b></summary><br/>
 
-   With this topic, you’ll learn about how to use the command line (also known as the shell) on your operating system and how to create scripts to make running complex commands easier.
+   With this topic, you’ll learn how to use the command line (also known as the shell) and create scripts to make running complex commands easier.
 
    #### Learning Outcomes
    * Describe what a command line interface is and how you might use it
    * Use the command line to navigate to your projects directory and clone a git repo
-   * Use SSH to remote in to a server
+   * Use SSH to remote into a server
    * Use the command line to monitor your system resources
    * Theorize how you can use the command line and scripts to automate daily tasks
 
@@ -76,14 +76,14 @@
 <details open>
    <summary><b>Version Control</b></summary><br/>
 
-   With this topic, you’ll learn about the importance of version control, Git commands, how to handle merge conflicts, popular branching strategies, and more.
+   With this topic, you’ll learn about the importance of source control, Git commands, handling merge conflicts, popular branching strategies, and more.
 
    #### Learning Outcomes
-   * Describe what version control is and its purpose
-   * List common version control providers
+   * Describe what source control is and its purpose
+   * List typical source control providers
    * List common Git commands and their purpose
    * Describe Semantic Versioning and its purpose
-   * Compare using version control and not using version control to manage a project
+   * Compare using source control and not using source control to manage a project
 
    #### Resources
    * [GitHub `Tool`](https://github.com/)
@@ -114,11 +114,11 @@
 
    #### Learning Outcomes
    * List common productivity tools and their use case
-   * Explain the pomodoro technique and how it can help you stay on track
-   * Use a time tracking tool to help you gain an understanding how long a type of task takes you to complete
+   * Explain the Pomodoro technique and how it can help you stay on track
+   * Use a time tracking tool to help you gain an understanding of how long a type of task takes you to complete
    * Describe the PERT estimation method
    * Theorize how you might properly set expectations with stakeholders to complete a task
-   * Reflect on how long a task took you and compare it to your original expectations
+   * Reflect on how long a task took you to complete and compare it to your original expectations
 
    #### Resources
    * [Estimato `Tool`](https://estimato.app/)
@@ -140,13 +140,13 @@
 <details open>
    <summary><b>Managing your Local Environment</b></summary><br/>
 
-   With this topic, you’ll learn about how to set up your local environment and streamline it to increase your productivity.
+   With this topic, you’ll learn how to set up your local environment and streamline it to increase productivity.
 
    #### Learning Outcomes
-   * List what you need to be able to setup an existing project on your machine
+   * List what you need to be able to set up an existing project on your machine
    * Describe the role of configuration in an application
    * Explain how the 12 Factor App can help guide you in setting up new projects
-   * Demonstrate how you can use Docker to setup your project local environment
+   * Demonstrate how you can use Docker to set up your project local environment
 
    #### Resources
    * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
