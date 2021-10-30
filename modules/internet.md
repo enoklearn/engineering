@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square)
 <a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
 
-### With this module, you’ll learn the basics of the internet protocols, configuring networks, and how to build connected applications using web services.
+### With this module, you’ll learn the basics of internet protocols, configuring networks, and how to build connected applications using web services.
 
 <img width="1440" src="https://user-images.githubusercontent.com/894178/138342312-9b04d4be-ae91-429b-b5cf-3556b6caea5d.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>History of the Internet</b></summary><br/>
 
-   With this topic, you’ll learn about the history of the internet, and how connected computing changed humanity forever.
+   With this topic, you’ll learn about the history of the internet and how connected computing changed humanity forever.
 
    #### Learning Outcomes
    * List some of the key events in the internet’s history
@@ -36,7 +36,7 @@
 <details open>
    <summary><b>Internet Protocols</b></summary><br/>
 
-   With this topic, you’ll learn about the TCP/IP protocol suite that powers the internet, and how it practically applies to the software you create.
+   With this topic, you’ll learn about the TCP/IP protocol suite that powers the internet and how it practically applies to the software you create.
 
    #### Learning Outcomes
    * List the 7 Layers of the OSI model
@@ -64,7 +64,7 @@
 <details open>
    <summary><b>Network Configuration</b></summary><br/>
 
-   With this topic, you’ll learn about the basics of configuring networks, including setting up firewall rules, subnets, and assigning static IPs to machines.
+   With this topic, you’ll learn about the basics of configuring networks, including setting up firewall rules, subnets and assigning static IPs to machines.
 
    #### Learning Outcomes
    * List common network topology patterns
@@ -86,11 +86,11 @@
 <details open>
    <summary><b>Domains and DNS</b></summary><br/>
 
-   With this topic, you’ll learn about how the DNS system works, and create DNS records connecting domains to web services.
+   With this topic, you’ll learn how the DNS system works and create DNS records connecting domains to web services.
 
    #### Learning Outcomes
    * Explain the purpose of DNS
-   * List some common DNS providers
+   * List some typical DNS providers
    * Connect a domain name to a DNS provider using nameservers
    * Create a DNS entry
 
