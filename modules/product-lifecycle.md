@@ -10,16 +10,27 @@
 ## Topics
 
 <details open>
-   <summary><b>Stages of a Company</b></summary><br/>
+   <summary><b>Product-Market Fit (PMF)</b></summary><br/>
 
-   With this topic, you'll learn how a company’s focus will change as they further understand how they can meet the needs of the market they serve.
+   In this topic you’ll learn the influence product-market fit has on the overarching mission of a business.
    
    #### Learning Outcomes
-   * Describe three different phases of a company and their mission
-   * Figure out what stage your company is in
+   * Define what product-market fit is
+   * State the core indicator that a business’s product has reached PMF
+   * Assess if a business’s product has reached PMF
+   * Theorize why PMF is the compass a business uses to set their course
 
    #### Resources
-   * 
+   * [Value Proposition Design `Book`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
+   * [The Mom Test `Book`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+   * [Startup Owner’s Manual `Book`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
+   * [Four Steps to the Epiphany `Book`](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358)
+   * [Blue Ocean Strategy `Book`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
+   * [Business Model Generation `Book`](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
+   * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
+   * [Never Ending Road to PMF `Article`](https://brianbalfour.com/essays/product-market-fit)
+   * [A Company’s Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
+   * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
 
    #### Projects
    *
