@@ -33,7 +33,7 @@
    * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
 
    #### Projects
-   *
+   * [“Product-Market Fit Indicator” Questionnaire](https://github.com/enokcollective/engineerkit/blob/4c9cb429ad722ac4a44db522a57877e8c496d818/projects/product-lifecycle_pmf-questionnaire.md)
 </details>
 
 ----
