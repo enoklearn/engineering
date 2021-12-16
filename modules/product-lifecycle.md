@@ -76,18 +76,19 @@
 ----
 
 <details open>
-   <summary><b>Product Development Methodologies</b></summary><br/>
+   <summary><b>Product Life Cycle Stages</b></summary><br/>
 
-   With this topic, you'll learn about the various approaches a company can take to develop a product.
+   With this topic you’ll learn how a software engineer’s focus may change as the goals of a product change.
    
    #### Learning Outcomes
-   * Describe the Agile and Waterfall software development philosophies
-   * Describe the typical practices/frameworks of each philosophy 
-   * Deduce what philosophy their particular company adheres to 
-   * Theorize what "tool" (philosophy/framework) is best for the job at hand
+   * State the stages of a product's life cycle
+   * Correlate the stages of a product to stages of a company 
+   * Explain what matters to a company/product team at the different stages if its product
+   * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
-   * 
+   * [Product Roadmaps: Relaunched `Book`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
+   * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
 
    #### Projects
    *
