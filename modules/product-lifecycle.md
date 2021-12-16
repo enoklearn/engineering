@@ -21,6 +21,7 @@
    * Theorize why PMF is the compass a business uses to set their course
 
    #### Resources
+   * [PMF Introduction](https://github.com/enokcollective/engineerkit/blob/faa1287dadafd5c6523ecc416a6c073ca309eca5/resources/pmf-intro.md)
    * [Value Proposition Design `Book`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
    * [The Mom Test `Book`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
    * [Startup Owner’s Manual `Book`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
