@@ -87,6 +87,7 @@
    * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
+   * [Product Life Cycle Stages Introduction](https://github.com/enokcollective/engineerkit/blob/1f93b0a7a9a6293e42669dcee1d1da00c06e539c/resources/stages-of-a-product-intro.md)
    * [Product Roadmaps: Relaunched `Book`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
 
