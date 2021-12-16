@@ -70,7 +70,7 @@
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
 
    #### Projects
-   *
+   * [Assessing the Stage of your Company](https://github.com/enokcollective/engineerkit/blob/9e09d5fd780f0167b8a524c4449eeed0d515bd43/projects/product-lifecycle_assessing-stage-of-company.md)
 </details>
 
 ----
