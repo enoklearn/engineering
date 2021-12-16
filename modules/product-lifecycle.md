@@ -40,17 +40,26 @@
 ----
 
 <details open>
-   <summary><b>Stages of a Product</b></summary><br/>
+   <summary><b>Stages of a Company</b></summary><br/>
 
-   With this topic, you'll learn how the focus of a product development team will need to evolve as their product matures.
+   With this topic you’ll learn how to correlate the stages of a company to its journey toward product-market fit.
    
    #### Learning Outcomes
-   * Describe the five phases of a product life cycle and the focus of each
-   * Deduce what stage your product is in
-   * Describe the optimal philosophies and dev practices to maintain in each product stage
+   * State the stages of a company
+   * Correlate the stages of a company and their relation to product-market fit
+   * Recite what matters to a company at the different stages if its growth
 
    #### Resources
-   * 
+   * [Inspired: How to create tech products customers love `Book`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+   * [The Lean Startup `Book`](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+   * [The Startup Way `Book`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
+   * [The Lean Product Playbook `Book`](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874)
+   * [Jobs to be Done `Book`](https://www.amazon.com/Jobs-Be-Done-Theory-Practice/dp/B08R8ZGPXP)
+   * [Crossing the Chasm `Book`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
+   * [Measure what Matter Most `Book`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+   * [The Innovator’s Dilemma `Book`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
+   * [Blue Ocean Strategy `Book`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
+   * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
 
    #### Projects
    *
