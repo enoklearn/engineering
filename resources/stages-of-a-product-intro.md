@@ -8,11 +8,11 @@
 - **End-of-Life**
 
 ### Mapping of Company and Product Stages:
-- **New Product** - START (startup) or SHIFT (Enterprise)
-- **Growth** - SCALE (Growth-stage company)
-- **Product Expansion** - SCALE (Growth-stage company)
-- **Harvesting** - SUSTAIN (Enterprise)
-- **End-of-Life** - SHIFT (Enterprise)
+- **New Product** - **START** (startup) or **SHIFT** (Enterprise)
+- **Growth** - **SCALE** (Growth-stage company)
+- **Product Expansion** - **SCALE** (Growth-stage company)
+- **Harvesting** - **SUSTAIN** (Enterprise)
+- **End-of-Life** - **SHIFT** (Enterprise)
 
 ### Goals of Each Product Stage:
 - **New Product** - The goal is to create the first version of the product, or the **minimal viable product (MVP)**, and to **remain low cost and nimble** to likely changing feature ideas as assumptions about the target users are rapidly prototyped, tested and validated.
