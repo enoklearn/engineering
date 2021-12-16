@@ -79,7 +79,8 @@ Is there a noticeable effect of product defects, friction, or downtime on custom
 - Close to Product Market Fit
 - Past Product-Market Fit
 
-**Demo/Reflection** - Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
+## Demo/Reflection
+Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
 
 - What conclusion can you share with/show your mentor?
 - What surprised you about this exercise?
