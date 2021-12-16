@@ -91,7 +91,7 @@
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
 
    #### Projects
-   *
+   * [Assessing the Stage of your Product](https://github.com/enokcollective/engineerkit/blob/a26ea948fa1d89d96f9ca026ac41baea0ffb99bf/projects/product-lifecycle_stage-assessment.md)
 </details>
 
 ----
