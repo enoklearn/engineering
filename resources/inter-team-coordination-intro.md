@@ -14,20 +14,22 @@
   - Trust the act of planning, not the plan
 - Destination is dynamic or unknown
 
-<img width="1440" alt="Process Control" src="https://github.com">
-<img width="1440" alt="Defined vs Empirical" src="https://github.com">
-<img width="1440" alt="Waterfall vs Agile" src="https://github.com">
+<img alt="Process Control" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-01.png">
+
+<img alt="Defined vs Empirical" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-02.png">
+
+<img alt="Waterfall vs Agile" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-03.png">
 
 **Typical software development frameworks you’ll encounter**
 - **Waterfall Framework**
-<img width="1440" alt="Waterfall Model" src="https://github.com">
+
+<img alt="Waterfall Model" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-04.png">
 
 - **Team-Level Agile frameworks** (most common)
   - Scrum
-  <img width="1440" alt="Scrum" src="https://github.com">
-  
+  <img alt="Scrum" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-05.jpg"><br><br>
   - Kanban
-  <img width="1440" alt="Kanban" src="https://github.com">
+  <img alt="Kanban" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-06.png">
   
   - Scrumban
   - Lean Software Development
@@ -43,9 +45,9 @@
   - Scrum@Scale (S@S)
 
 - **That large picture view of most agile frameworks**
-<img width="1440" alt="Large Picture View" src="https://github.com">
+<img alt="Large Picture View" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-07.png">
 
 - **Agile Levels of Planning**
-<img width="1440" alt="Levels of Agile Planning" src="https://github.com">
+<img alt="Levels of Agile Planning" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-08.png">
 
 
