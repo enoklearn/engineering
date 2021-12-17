@@ -169,5 +169,5 @@
    * [Agile Estimating and Planning `Book`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
 
    #### Projects
-   * [“Product Team Collaboration” Questionnaire ---UPDATE LINK---](https://github.com)
+   * [“Product Team Collaboration” Questionnaire](https://github.com/enokcollective/engineerkit/blob/c818afea4688576f277f5be7bf051680c81535a9/projects/product-lifecycle_team-collaboration-questionnaire.md)
 </details>
