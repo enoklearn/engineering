@@ -4,7 +4,8 @@
 - **Product Manager** - Owns the Viability of the product
 - **Product Designer** - Owns the Desirability of the product
 - **Product Engineers** - Owns the Feasibility of the product
-<img width="500" alt="Viability, Desirability, Feasibility" src="https://github.com"><br>
+
+<img width="500" alt="Viability, Desirability, Feasibility" src="https://github.com/enokcollective/engineerkit/blob/facf9344d6cd235f5f64f64e19d558da71c8e539/assets/intra-team-coordination-01.png"><br>
 
 - **Average recommended team composition**
   - Product Manager - 1
@@ -31,7 +32,7 @@
 - **Product Release Plan** - What strategic goals need to be accomplished in the next scheduled product release?
 - **Product Increment Goal** - What incremental goal toward the release should be focused on next?
 
-<img alt="Levels of Agile Planning" src="https://github.com/"><br>
+<img alt="Levels of Agile Planning" src="https://github.com/enokcollective/engineerkit/blob/facf9344d6cd235f5f64f64e19d558da71c8e539/assets/intra-team-coordination-02.png"><br><br>
 
 **What a product manager expects of a their software developers:**
 - **Product Strategy Feasibility** - Is our team(s) capable of accomplishing these milestones? Do we have the right skills? Technology? Is the sequence right?
