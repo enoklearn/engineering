@@ -157,7 +157,7 @@
    * Explain what a typical product manager expects of a developer on their team
 
    #### Resources
-   * [Intra-team Coordination Introduction ---UPDATE LINK---](https://github.com)
+   * [Intra-team Coordination Introduction](https://github.com/enokcollective/engineerkit/blob/0bacfcbed2a6f79fe64daf14c09bcd7eca0f2cfe/resources/intra-team-coordination-intro.md)
    * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)
    * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
    * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
