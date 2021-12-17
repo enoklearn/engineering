@@ -14,11 +14,11 @@
   - Trust the act of planning, not the plan
 - Destination is dynamic or unknown
 
-<img alt="Process Control" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-01.png">
+<img width="500" alt="Process Control" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-01.png">
 
-<img alt="Defined vs Empirical" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-02.png">
+<img width="500" alt="Defined vs Empirical" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-02.png">
 
-<img alt="Waterfall vs Agile" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-03.png">
+<img width="750" alt="Waterfall vs Agile" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-03.png">
 
 **Typical software development frameworks you’ll encounter**
 - **Waterfall Framework**
