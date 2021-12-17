@@ -146,16 +146,28 @@
 ----
 
 <details open>
-   <summary><b>Working with Product Managers</b></summary><br/>
+   <summary><b>Intra-team Coordination</b></summary><br/>
 
-   With this topic, you’ll learn about the role of a product manager and how to work with them on your team effectively.
+   With this topic you’ll learn how most product teams organize their composition of skill sets within the team, and how a software engineer can work specifically with a product manager on their team.
    
    #### Learning Outcomes
-   * Describe the role of a product manager
+   * Describe the disciplines needed for balanced digital product development
+   * Describe the responsibilities of various "manager" roles a developer may encounter
+   * Explain what a developer should expect of a product manager
+   * Explain what a typical product manager expects of a developer on their team
 
    #### Resources
-   * 
+   * [Intra-team Coordination Introduction ---UPDATE LINK---](https://github.com)
+   * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)
+   * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
+   * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
+   * [Inspired: How to create tech products customers love `Book`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+   * [The Product Book `Book`](https://www.amazon.com/Product-Book-Become-Great-Manager/dp/0998973815)
+   * [Everyday Business Storytelling `Book`](https://www.amazon.com/dp/1119704669)
+   * [Storytelling with Data - A data visualization guide for business professionals `Book`](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+   * [Creative Confidence `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+   * [Agile Estimating and Planning `Book`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
 
    #### Projects
-   *
+   * [“Product Team Collaboration” Questionnaire ---UPDATE LINK---](https://github.com)
 </details>
