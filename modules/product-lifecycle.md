@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Product-Market Fit (PMF)</b></summary><br/>
 
-   In this topic you’ll learn the influence product-market fit has on the overarching mission of a business.
+   With this topic you’ll learn the influence product-market fit has on the overarching mission of a business.
    
    #### Learning Outcomes
    * Define what product-market fit is
