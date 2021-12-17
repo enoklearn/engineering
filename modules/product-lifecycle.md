@@ -109,7 +109,7 @@
    * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
-   * [Inter-team Coordination Introduction --UPDATE LINK WHEN READY--](https://github.com/enokcollective/engineerkit)
+   * [Inter-team Coordination Introduction](https://github.com/enokcollective/engineerkit/blob/4ea2c8741752bb4d248c46557a53d6f1c9726527/resources/inter-team-coordination-intro.md)
    * [Agile Manifesto `Article`](https://agilemanifesto.org/)
    * [Scrum Guide `Article`](https://www.scrum.org/resources/scrum-guide)
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
