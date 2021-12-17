@@ -140,7 +140,7 @@
    * [Empowered: ordinary people, extraordinary products `Book`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 
    #### Projects
-   * [“Software Development Framework” Questionnaire --UPDATE LINK WHEN READY--](https://github.com/enokcollective/engineerkit)
+   * [“Software Development Framework” Questionnaire](https://github.com/enokcollective/engineerkit/blob/5fee98a8b0270ba4b682e50253782a68a36dabdd/projects/product-lifecycle_dev-framework-questionnaire.md)
 </details>
 
 ----
