@@ -25,8 +25,10 @@
 - **Team-Level Agile frameworks** (most common)
   - Scrum
   <img width="1440" alt="Scrum" src="https://github.com">
+  
   - Kanban
   <img width="1440" alt="Kanban" src="https://github.com">
+  
   - Scrumban
   - Lean Software Development
   - Extreme Programming (XP)
