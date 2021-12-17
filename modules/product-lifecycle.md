@@ -98,21 +98,49 @@
 ----
 
 <details open>
-   <summary><b>Product Team</b></summary><br/>
+   <summary><b>Inter-team Coordination</b></summary><br/>
 
-   With this topic, you'll learn about the typical composition of a product team and how to collaborate with them.
+   With this topic you’ll learn how most companies coordinate software development between its product teams and the surrounding business.
    
    #### Learning Outcomes
-   * Describe the disciplines needed for a balanced team
-   * Describe the responsibilities of various "manager" roles they may encounter
-   * Deduce the duties of the manager they work with
-   * Explain what a manager expects of a developer in the different development philosophies
+   * Describe the Agile and Waterfall software development core philosophies
+   * Describe the typical practices/frameworks of each philosophy
+   * Deduce what philosophy and practice their particular company adheres to
+   * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
-   * 
+   * [Inter-team Coordination Introduction --UPDATE LINK WHEN READY--](https://github.com/enokcollective/engineerkit)
+   * [Agile Manifesto `Article`](https://agilemanifesto.org/)
+   * [Scrum Guide `Article`](https://www.scrum.org/resources/scrum-guide)
+   * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+   * [Process Control `Article`](https://www.visual-paradigm.com/scrum/empirical-vs-defined-process-control/)
+   * [Empirical vs Define Process Control `Article`](https://slideplayer.com/slide/10538020/)
+   * [Defined vs Empirical Process Control `Article`](https://warren2lynch.medium.com/why-scrum-defined-process-vs-empirical-process-927a3d29aaa)
+   * [Empirical Process Control `Article`](https://worldofagile.com/blog/empirical-process-control/)
+   * [Using Agile Scrum `Article`](https://www.neonrain.com/agile-scrum-web-development/)
+   * [Waterfall Methodology `Article`](https://medium.com/@chathmini96/waterfall-vs-agile-methodology-28001a9ca487)
+   * [Kanban Description `Article`](https://www.microtool.de/en/knowledge-base/what-is-kanban/)
+   * [Product School’s Agile v Waterfall Description `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
+   * [Agile Frameworks `Article`](https://www.mendix.com/agile-framework/)
+   * [Plainview's view on Agile Frameworks `Article`](https://www.planview.com/resources/guide/what-is-agile-program-management/agile-frameworks/)
+   * [More on Agile Frameworks `Article`](https://www.digite.com/blog/scaled-agile-frameworks/)
+   * [ProductPlan’s view on Agile Frameworks `Article`](https://www.productplan.com/glossary/agile-framework/)
+   * [Wideview of digital project manager methods/frameworks `Article`](https://thedigitalprojectmanager.com/agile-methodologies/)
+   * [Choosing the right agile framework for you `Article`](https://www.linkedin.com/pulse/choosing-right-agile-framework-you-paul-j-heidema/)
+   * [Lean Software Development `Book`](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+   * [Scrum: The art of doing twice the work in half the time `Book`](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+   * [User Stories Applied `Book`](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
+   * [Coaching Agile Teams `Book`](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-dp-B08QTX31HV/dp/B08QTX31HV)
+   * [Extreme Programming Explained `Book`](https://www.amazon.com/Extreme-Programming-Explained-5-Oct-1999-Paperback/dp/B011T86NIY)
+   * [Getting Started with Kanban `Book`](https://www.amazon.com/Getting-Started-Kanban-Paul-Klipp/dp/149531197X)
+   * [Agile Retrospectives `Book`](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+   * [Creative Confidence `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+   * [Sprint: how to solve big problems and test new ideas in just five days `Book`](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
+   * [Collaborative Intelligence: Using teams to solve hard problems `Book`](https://www.amazon.com/Collaborative-Intelligence-Using-Teams-Problems/dp/B00B5AOGTA)
+   * [Empowered: ordinary people, extraordinary products `Book`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 
    #### Projects
-   *
+   * [“Software Development Development Framework” Questionnaire --UPDATE LINK WHEN READY--](https://github.com/enokcollective/engineerkit)
 </details>
 
 ----
