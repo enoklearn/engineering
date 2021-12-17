@@ -26,39 +26,39 @@ In order to understand and peer into how digital products are discover, designed
 In order to get initial exposure to how digital products are currently developed in a team, use the following questions and prompts with the appropriate roles and disciplines listed out above:
 
 **Understanding product team dynamics and maturity:**
-- What is a typical product team’s “cross functional” composition at our company? (i.e. manager, engineer, dba, cloud engineer, designer, security analyst, business analyst, data scientist, data engineer, writer, marketer, etc.)
+- What is a typical product team’s **“cross functional”** composition at our company? (i.e. manager, engineer, dba, cloud engineer, designer, security analyst, business analyst, data scientist, data engineer, writer, marketer, etc.)
   - What is the typical number of team members per team with these disciplines?
   - Are all the needed skill sets within the boundaries of the product team? If not, what role do the team members commonly interact with that are outside of the team?
   - What are the responsibilities of each role? What do their capabilities typically entail? 
   - What should a software developer expect from each of these roles?
   - What do each of these roles expect of a software developer?
-- How do the product teams stay aware of the purpose of what we’re working toward?
-- How do the teams know we’re making progress toward that purpose?
-- How would you describe the “clarity” in the product teams on “who reports to who?” (reporting structure / “org chart”)
-- What does “autonomy” look like in the product teams?
+- How do the product teams stay aware of the **purpose** of what we’re working toward?
+- How do the teams know we’re making **progress** toward that purpose?
+- How would you describe the “clarity” in the product teams on “who reports to who?” (**reporting structure** / “org chart”)
+- What does **“autonomy”** look like in the product teams?
   - How much clearance are teams given to make their own decisions? What type of decisions are bubbled up for leadership roles to make for all teams to leverage?
-  - Are the teams given freedom to decide what to build in order to reach the objectives given by business?
+  - Are the teams given freedom to decide **what** to build in order to reach the objectives given by business?
   - Are the teams held responsible for their decisions?
   - How does the surrounding business support the product teams’ autonomy?
-- To what degree would we say the teams are “self-organizing?”
-  - Are they allowed to coordinate and decide how they will build the discovered solutions?
+- To what degree would we say the teams are **“self-organizing"**?
+  - Are they allowed to coordinate and decide **how** they will build the discovered solutions?
   - Are the teams held responsible for their results?
   - How does the surrounding business support the product teams’ self-organization?
-- How would you describe the working style of the products teams on the spectrum of “scrappy and experimental” to “methodical and predictive”
+- How would you describe the **working style** of the products teams on the spectrum of “scrappy and experimental” to “methodical and predictive”
   - “Scrappy and experiment” - do the teams have high confidence in taking just the next step, valuing speed over the “right step taken,” being creative, and setting up experiments to learn, gather feedback from, and adjust?
   - “Methodical and predictive” - do the teams look to gather requirements, document, and plan before taking action, valuing the “right step taken” over speed, and trusting the process?
-- What is the vibe among the product teams? How would you describe their effort and engagement with the use of “missionary” vs “mercenary” tendencies? 
+- What is the vibe among the product teams? How would you describe their **effort** and engagement with the use of **“missionary”** vs **“mercenary”** tendencies? 
   - “Missionary” - is there a sense the product team members believe in the purpose of the product and care about who the product serves?
   - “Mercenary” - is there a sense of distance from the purpose of the product and its results?
-- What is our current “definition of ready” that signals a feature idea is ready for our product teams to estimate the effort and pull it into a working iteration?
+- What is our current **“definition of ready”** that signals a feature idea is ready for our product teams to estimate the effort and pull it into a working iteration?
   - Which standards are decided on for all teams to adhere to?
   - Which are up for the individual team to decide on? What are some examples of these?
-- What is our current “definition of done” that guides the quality and standards of the features we build? (i.e. when efforts are required before our team can call a feature “done?”)
+- What is our current **“definition of done”** that guides the quality and standards of the features we build? (i.e. when efforts are required before our team can call a feature “done?”)
   - Is this standard set for all product teams? Or is this up to each team to decide?
 
 **Exposure to product team collaboration:**
-- How can I best observe the working pattern of the disciplines in their individual work?
-- How can I best observe the collaboration between the disciplines as their skill sets overlap? For example, a working session between:
+- How can I best observe the working pattern of the disciplines in their **individual work**?
+- How can I best observe the collaboration **between** the disciplines as their skill sets overlap? For example, a working session between:
   - A developer and a product manager
   - A developer and a designer
   - A developer and a lead developer
