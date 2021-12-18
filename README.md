@@ -13,7 +13,7 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 
 * [Craftsmanship](modules/craftsmanship.md)
 * [Human Experience](modules/human-experience.md)
-* [Product Lifecycle](modules/product-lifecycle.md)
+* [Product Life Cycle](modules/product-life-cycle.md)
 * [Computing](modules/computing.md)
 * [Internet](modules/internet.md)
 * [Tooling](modules/tooling.md)
@@ -27,9 +27,9 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 * [Operations](modules/operations.md)
 * [Architecture](modules/architecture.md)
 
-## Projects
+## Exercises
 
-- [List of projects](projects/)
+- [List of exercises](exercises/)
 
 ## Contributing
 

@@ -30,7 +30,7 @@
    * [Awesome Computer History `Resource`](https://github.com/watson/awesome-computer-history#readme)
    * [Jean Bartik and the ENIAC Women `Video`](https://www.youtube.com/watch?v=aPweFhhXFvY)
 
-   #### Projects
+   #### Exercises
    * Build yourself a newsfeed that brings together the essential articles you care about (consider using an RSS reader)
    * Build a simple logic gate using some wire and a battery
 </details>
@@ -56,8 +56,8 @@
    * [nand2tetris: building a computer from first principles `Course`](https://www.nand2tetris.org/)
    * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
 
-   #### Projects
-   *
+   #### Exercises
+   * Build a simple logic gate using some wire and a battery
 </details>
 
 ----
@@ -77,9 +77,10 @@
    #### Resources
    * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
    * [VirtualBox `Tool`](https://www.virtualbox.org/)
+   * [DigitalOcean Learning Library](https://www.digitalocean.com/community)
 
-   #### Projects
-   *
+   #### Exercises
+   * Spin up a virtual machine using VirtualBox, and gain exposure to another operating system and virtualization at the same time!
 </details>
 
 ----
@@ -98,9 +99,10 @@
    #### Resources
    * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
    * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
+   * [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
  
-   #### Projects
-   *
+   #### Exercises
+   * Explore running source code using different language runtime versions
 </details>
 
 ----
@@ -116,8 +118,8 @@
    * Theorize how you use platform identification with your projects
 
    #### Resources
-   *
+   * [Using Docker Dev Containers](https://code.visualstudio.com/docs/remote/create-dev-container)
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup your local environment using a runtime manager like rbenv or Docker dev containers
 </details>

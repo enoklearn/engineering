@@ -34,14 +34,14 @@
    * [Android Studio `Tool`](https://developer.android.com/studio)
    * [Xcode `Tool`](https://developer.apple.com/xcode/)
 
-   #### Projects
+   #### Exercises
    * Select an editor, and customize it!
 </details>
 
 ----
 
 <details open>
-   <summary><b>Using the Command Line</b></summary><br/>
+   <summary><b>Command Line</b></summary><br/>
 
    With this topic, you’ll learn how to use the command line (also known as the shell) and create scripts to make running complex commands easier.
 
@@ -67,7 +67,7 @@
    * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
 
-   #### Projects
+   #### Excercises
    * Build a simple CLI app using Bash scripts to fetch the weather based on a zip code
 </details>
 
@@ -101,8 +101,8 @@
    * [GitKraken `Tool`](https://www.gitkraken.com/)
    * [Introduction to Git `Course ($)`](https://teamtreehouse.com/library/introduction-to-git)
 
-   #### Projects
-   * Init a git repo locally using the command line, and add the origin of a new GitHub repo to it
+   #### Exercises
+   * Fork the merge-conflict-kitchen-sink repo and resolve the conflicts
 </details>
 
 ----
@@ -131,7 +131,7 @@
    * [The Clean Coder: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
    
 
-   #### Projects
+   #### Excerise 
    * Practice estimating tasks on your todo list using PERT, and share your estimate with your mentor
 </details>
 
@@ -153,6 +153,6 @@
    * [Homebrew `Tool`](https://brew.sh/)
    * [12 Factor App: Config `Resource`](https://12factor.net/config)
 
-   #### Projects
-   * Setup a real company project locally on your own
+   #### Exercises
+   * Clone and setup a real company project on your local machine
 </details>
