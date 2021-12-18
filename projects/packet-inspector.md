@@ -12,7 +12,7 @@
 
 1. [Download and install Wireshark](https://www.wireshark.org/)
 2. Find the IP address(es) of [info.cern.ch](info.cern.ch) (the first website!)
-3. Use Wireshark to discover network traffic to and from [info.cern.ch](info.cern.ch
+3. Use Wireshark to discover network traffic to and from [info.cern.ch](info.cern.ch)
 4. Export the HTTP objects from Wireshark (should contain an HTML page and a favicon)
 
 ## Questions
