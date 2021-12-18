@@ -33,7 +33,7 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 
 ## Contributing
 
-A great way to start contributing is to first [join our Discord](https://discord.gg/bDVYvG3Czd) or checkout the [Discussions right here on GitHub](https://github.com/engineerkit/engineerkit/discussions) to connect with the EngineerKit community! 
+A great way to start contributing is to first [join our Discord](https://discord.gg/bDVYvG3Czd) to connect with the EngineerKit community! 
 
 <details>
    <summary><b>Pulling upstream changes from <a href="https://github.com/engineerkit/engineerkit">engineerkit/engineerkit</a> into your private fork</b></summary><br/>

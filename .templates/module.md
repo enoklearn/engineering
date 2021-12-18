@@ -1,7 +1,7 @@
 # MODULE_TITLE
 
-![Hard](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square)
-<a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
+![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
+<a href="https://discord.gg/bDVYvG3Czd">![Ask Questions](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
 ### MODULE_DESCRIPTION
 

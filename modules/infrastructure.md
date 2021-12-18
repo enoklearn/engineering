@@ -1,7 +1,7 @@
 # Infrastructure
 
-![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-black?style=flat-square)
-<a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
+![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-grey?style=flat-square&labelColor=000)
+<a href="https://discord.gg/bDVYvG3Czd">![Ask Questions](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
 ### With this module, you’ll learn how to use cloud providers to orchestrate computing resources and create a scalable and resilient platform for your product.
 
