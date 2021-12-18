@@ -1,0 +1,40 @@
+# Exercise: Give UI/UX Design Feedback
+
+## Overview
+
+| Key | Value |
+| --- | --- |
+| Goal | Communicate feedback effectively with designers on your team. |
+| Tools/Material | Something a designer on your team designed |
+| Duration | 1-2 hours |
+
+
+## Steps
+
+1. Work with your mentor to get access to a recent design deliverable from a designer on your team. 
+2. Look over the deliverable and take notes on feedback for them. Feedback can include: 
+    - Calling out areas of potential technical difficulties. For example: “that scroll animation is too intensive, and might slow down the user’s device”, or “we don’t have the data in place to do that”.
+    - Callout potentially confusing areas for the user. 
+    - Feel free to give visual feedback too, for example; “I think it would look really cool if we put the text on the left, and the details on the right”. 
+    - Feel free to make any suggestions for improvements. 
+    - Callout areas that you need more clarification ono. For example: “Are you using our existing drop down component, or is that intended to be a new component?”
+    - Don’t forget to tell them what you like, and what they did well on!
+3. Be sure to support your callouts with explanation, and *seek understanding when necessary*. Remember, your designers didn’t design something to be intentionally difficult, they had a good reason for it. Try to understand why they did something if you don’t agree, especially before you make suggestions. For example: “I saw you used a button style that isn’t in the design system, why was that?” - maybe they didn’t realize there was an existing component, or maybe they have a good reason for using a custom button. 
+4. Another good tip to remember when putting together feedback is to think about what you would need to change or know so I can build this, and call that out. 
+5. Once you’ve got your feedback together, grab your mentor and discuss! 
+6. Work with your mentor to get some time with the designer, and give them your feedback.
+
+## Questionos/Reflection
+
+Use the following questions to reflect on what you learned with this exercise:
+
+- Was the feedback well thought out, and clear.
+- Was the apprentice respectfully delivering the feedback?
+- Did they use the proper terms when giving feedback? For instance: if they gave feedback on a select drop down, but called it a text box instead. Or did they give feedback on the ui, but called it out as a problem with the ux.
+- Did the designer understand the feedback?
+    - Did the apprentice seek proper understanding before making suggestions?
+    - Was feedback delivered respectfully?
+- What conclusion can you share with/show your mentor?
+- What surprised you about this exercise?
+- Where do you want to go from here?
+
