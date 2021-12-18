@@ -27,7 +27,7 @@
    * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
    * [Browse the first website `Resource`](http://info.cern.ch/)
 
-   #### Projects
+   #### Exercises
    * How might you help protect the internet’s future?
 </details>
 
@@ -55,7 +55,7 @@
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
 
-   #### Projects
+   #### Exercises
    * Use Wireshark to inspect the journey of a packet on the network
 </details>
 
@@ -76,9 +76,10 @@
    * [Building a Modular and Scalable Virtual Network Architecture with Amazon VPC `Tutorial`](https://docs.aws.amazon.com/quickstart/latest/vpc/overview.html)
    * [Subnet Cheat Sheet `Resource`](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 
-   #### Projects
+   #### Exercises
    * Pair with SREs or Cloud Engineers
    * Configure your home network
+   * Build out your home network and configure multiple subnets for your devices
 </details>
 
 ----
@@ -100,8 +101,8 @@
    * [Questions about DNS `Course`](https://questions.wizardzines.com/dns.html)
    * [How the Web Works `Course ($)`](https://teamtreehouse.com/library/how-the-web-works)
 
-   #### Projects
-   * Buy a domain and setup a personal website
+   #### Exercises
+   * Setup a personal website and connect your domain to a web service
 </details>
 
 ----
@@ -113,7 +114,8 @@
 
    #### Learning Outcomes
    * Describe how CAs (certificate authorities) provision TLS/SSL certificates
-   * Explain why you might want to encrypt data in-flight
+   * Explain why you might want to encrypt data in-flight using TLS
+   * Compare encryption of data at rest and encryption of data in-flight
 
    #### Resources
    * [What is TLS/SSL? `Article`](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
@@ -121,7 +123,7 @@
    * [Questions about TLS certificates `Course`](https://questions.wizardzines.com/tls-certificates.html)
    * [Dissecting a SSL certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    
-   #### Projects
-   * Setup a web service that uses a TLS/SSL certificate
+   #### Exercises
+   * Configure your personal website to use a TLS/SSL certificate and force HTTPS upgrades
    * [Setup your own certificate authority](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) using [cfssl](https://github.com/cloudflare/cfssl)
 </details>

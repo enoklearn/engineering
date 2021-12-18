@@ -17,13 +17,13 @@
    #### Learning Outcomes
    * Describe binary data
    * Compare structured and unstructured data types
-   * Theorize how you might choose a data type for your application
+   * Theorize what data types you might use in an application
 
    #### Resources
-   * 
+   * https://www.ibm.com/cloud/blog/structured-vs-unstructured-data
 
-   #### Projects
-   *
+   #### Exercises
+   * Use hexdump to extract data from a file
 </details>
 
 ----
@@ -39,10 +39,11 @@
    * Describe three different approaches to persist data for an application
 
    #### Resources
-   * 
+   * https://aws.amazon.com/products/databases
+   * https://aws.amazon.com/products/storage
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup a relational and non-relational database and store data in them (what are some of the differences?)
 </details>
 
 ----
@@ -54,7 +55,7 @@
    
    #### Learning Outcomes
    * Explain what CRUD operations are
-   * Explain what relational database schema is 
+   * Explain what relational database schema is
    * Retrieve data from a database using a SELECT query
    * Use an ORM to retrieve data from a database in an application
    * Download a file from a server using SSH
@@ -64,10 +65,10 @@
    * Use migrations to update the schema of a database
 
    #### Resources
-   * 
+   * https://sql-playground.wizardzines.com/
 
-   #### Projects
-   *
+   #### Exercises
+   * Connect an application to an ORM (such as Prisma) and update the schema of a database using data models
 </details>
 
 ----
@@ -83,10 +84,10 @@
    * Convert a WAV audio file to an MP3 audio file using ffmpeg
 
    #### Resources
-   * 
+   * https://missing.csail.mit.edu/2020/data-wrangling/
 
-   #### Projects
-   *
+   #### Exercises
+   * Convert a video file with audio into an audio file only using ffmpeg (what did you learn?)
 </details>
 
 ----
@@ -104,8 +105,8 @@
    * Compare eventual and strong consistency and explain their differences
 
    #### Resources
-   * 
+   * https://www.martinfowler.com/articles/201701-event-driven.html
 
-   #### Projects
-   *
+   #### Exercises
+   * Throttle your network connection using Chrome Dev Tools and figure out which aspects of an app are cached
 </details>

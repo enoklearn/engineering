@@ -16,13 +16,16 @@
    With this topic, you’ll learn about the most common application security issues and how to mitigate them.
    
    #### Learning Outcomes
-   * 
+   * Describe each of the vulnerabilities in the OWASP Top 10
+   * Describe what threat modeling is
+   * Explain how you might prevent the “Broken Access Control” vulnerability
+   * Explain what remediation is, and how you might remediate an “Injection” vulnerability
 
    #### Resources
-   * 
+   * https://owasp.org/Top10/
 
-   #### Projects
-   *
+   #### Exercises
+   * Review the OWASP Top 10 vulnerability list and list out how these might play out in the real world
 </details>
 
 ----
@@ -33,14 +36,17 @@
    With this topic, you’ll learn about identity providers and how to use OAuth 2.0 to manage authentication and authorization in an application.
    
    #### Learning Outcomes
-   * Compare authentication with authorization and highlight their differences
-   * Use an OAuth 2.0 provider to authenticate users in an application
+   * Compare authentication with authorization and explain their differences
+   * Use an identity provider to authenticate users in an application
+   * Explain what “federated identities” are
+   * Explain what the OAuth 2.0 standard is
 
    #### Resources
-   * 
+   * https://auth0.com/
+   * https://aws.amazon.com/cognito/
 
-   #### Projects
-   *
+   #### Exercises
+   * Integrate an identity provider into an application and create a "public" and "private" zone in an application
 </details>
 
 ----
@@ -51,13 +57,15 @@
    With this topic, you’ll learn about application secrets and how to manage them effectively.
    
    #### Learning Outcomes
-   * 
+   * Describe what an application secret is
+   * Explain why you might want to secure an application secret
+   * Explain how you might inject secrets into an application using environment variables
 
    #### Resources
-   * 
+   * https://12factor.net/config
 
-   #### Projects
-   *
+   #### Exercises
+   * Add secrets to AWS SSM Parameter Store and fetch them from the command line
 </details>
 
 ----
@@ -68,13 +76,15 @@
    With this topic, you’ll learn about methods to integrate security scanning into a project CI/CD pipeline.
    
    #### Learning Outcomes
-   * 
+   * Describe what continuous security is
+   * List out some tools you might you use to to scan a project for vulnerabilities
+   * Explain how you might go about remediating vulnerabilities found from automated scanning
 
    #### Resources
-   * 
+   * https://snyk.io/
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup Snyk dependency scanning in a CI/CD pipeline on a project
 </details>
 
 ----
@@ -85,11 +95,13 @@
    With this topic, you’ll learn about the role of a security engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
-   * 
+   * Describe the role of a security engineer
+   * Identify what you need from a security engineer to complete software engineering tasks
+   * Explain how you might work with a security engineer to remediate vulnerabilities
 
    #### Resources
-   * 
+   * https://owasp.org/www-community/Threat_Modeling
 
-   #### Projects
-   *
+   #### Exercises
+   * Create a threat model for your toothbrush, how might your protect your toothbrush from adversaries?
 </details>

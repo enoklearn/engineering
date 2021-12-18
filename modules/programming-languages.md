@@ -20,12 +20,13 @@
    * Describe the properties of a functional language
    * Describe the properties of an object-oriented language
    * Explain why you might choose to use a particular language on a project
-
+   
    #### Resources
-   * 
+   * [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 
-   #### Projects
+   #### Exercise
    * Have an apprentice complete a project using two different types of languages
+   * Solve a kata using a functional language and then an object-orientated language
 </details>
 
 ----
@@ -41,10 +42,10 @@
    * Theorize how you might learn a language fluently
 
    #### Resources
-   * 
+   * [Exercism Language Learning](https://exercism.org/tracks)
 
-   #### Projects
-   * Solve a lot of problems!
+   #### Excercises
+   * Solve a lot of problems using katas!
 </details>
 
 ----
@@ -60,10 +61,11 @@
    * Theorize how you might learn a new language quickly
 
    #### Resources
-   * 
+   * [CodeWars](https://codewars.com/)
 
-   #### Projects
+   #### Exercises
    * Create Tic-Tac-Toe in three different programming languages
+   * Pick a programming language koans repo (like the Ruby koans) and learn the syntax of that language
 </details>
 
 ----
@@ -77,12 +79,13 @@
    * Describe a dependency and its purpose
    * Explain how you might evaluate whether or not to use a dependency
    * Theorize how to maintain a project with a third-party dependency
-
+   
    #### Resources
-   * 
+   * [Snyk](https://snyk.io/)
 
-   #### Projects
+   #### Exercises
    * Investigate common third-party dependencies (such as `rails/rails` or `gin-gonic/gin`) and determine their licenses
+   * Add a third-party dependency into a project, but first evaluate the license
 </details>
 
 ----
@@ -99,8 +102,8 @@
    * Compare solo programming with collaborative programming
 
    #### Resources
-   * 
+   * [How to Pair Program](https://www.youtube.com/watch?v=YhV4TaZaB84)
 
-   #### Projects
+   #### Excercises
    * Go on a pairing tour! Solve some real problems with other software engineers
 </details>
