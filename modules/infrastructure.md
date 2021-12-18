@@ -15,18 +15,20 @@
    With this topic, you’ll learn about cloud computing and the wide range of services an application can use with this topic.
    
    #### Learning Outcomes
-   * Compare using cloud computing with on-premise computing
-   * List some typical cloud providers
-   * List some commonly used services from cloud providers
    * Describe Infrastructure as a Service (IaaS)
    * Describe Platform as a Service (PaaS)
    * Describe Software as a Service (SaaS)
+   * List some typical cloud providers
+   * List some commonly used services from cloud providers
+   * Compare using cloud computing with on-premise computing
 
    #### Resources
-   * 
+   * https://aws.amazon.com/
+   * https://www.digitalocean.com/
+   * https://acloudguru.com/
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup a Ubuntu 20.04 machine on DigitalOcean (don't forget to tear it down!)
 </details>
 
 ----
@@ -40,12 +42,12 @@
    * Describe infrastructure as code
    * Use Terraform to provision infrastructure with a cloud provider
    * Explain some of the benefits of infrastructure as code compared to manually provisioning infrastructure
-
+   
    #### Resources
-   * 
+   * https://www.terraform.io/
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup a CentOS 7 machine on DigitalOcean using Terraform (don't forget to tear it down!)
 </details>
 
 ----
@@ -59,12 +61,13 @@
    * Describe a backing service
    * Explain how you might create resilient backing services
    * Theorize how you might monitor backing services to ensure they are up
-
+   
    #### Resources
-   * 
+   * https://12factor.net/
 
-   #### Projects
-   *
+   #### Exercises
+   * Setup Sentry.io and integrate it into your application (will your app go down if Sentry goes down?)
+   * Setup a PostgreSQL database and integrate it into your application (will your app go down if the database goes down?)
 </details>
 
 ----
@@ -77,12 +80,12 @@
    #### Learning Outcomes
    * Describe what an environment is
    * Explain the purpose of development, staging, and production environments
-
+   
    #### Resources
-   * 
+   * https://www.terraform.io/docs/cloud/workspaces/
 
-   #### Projects
-   *
+   #### Exercises
+   * Using Terraform, create a production environment using the "workspaces" feature
 </details>
 
 ----
@@ -98,8 +101,9 @@
    * Explain how you might collaborate with a cloud engineer to design and provision infrastructure for an application
 
    #### Resources
-   * 
+   * https://acloudguru.com/
 
-   #### Projects
-   *
+   #### Exercises
+   * Pair with a Cloud Engineer on your team and solve an infrastructure problem with them!
+   * Document the cloud infrastructure you need to make your application run in the cloud
 </details>
