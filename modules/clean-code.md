@@ -16,15 +16,16 @@
    
    #### Learning Outcomes
    * List some of the metrics that might determine the quality of your code
-   * Compare high-quality with low-quality code
+   * Compare high-quality with low-quality code, what are some advantages of each
    * Consider why you should care about the quality of your code
    * Theorize how you might manage technical debt
 
    #### Resources
    * [Code quality metrics `Article`](https://blog.ndepend.com/code-quality-metrics-signal-noise/)
+   * https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052
 
-   #### Projects
-   *
+   #### Exercises
+   * Get involved in an architecture meeting, explore the business viability aspect
 </details>
 
 ----
@@ -40,10 +41,10 @@
    * Theorize how you might better identify code smells
 
    #### Resources
-   * 
+   * https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 
-   #### Projects
-   *
+   #### Exercises
+   * Investigate an existing codebase, and document code smells that you find
 </details>
 
 ----
@@ -60,10 +61,10 @@
    * Compare simple and complex solutions and theorize which last longer
 
    #### Resources
-   * 
+   * https://leanpub.com/4rulesofsimpledesign
 
-   #### Projects
-   *
+   #### Exercises
+   * Build Conway’s Game of Life using the four rules of simple design
 </details>
 
 ----
@@ -82,8 +83,8 @@
    * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
    * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
 
-   #### Projects
-   *
+   #### Exercises
+   * Use as many design patterns as you can while solving kata problems (what did you learn?)
 </details>
 
 ----
@@ -94,13 +95,13 @@
    With this topic, you’ll learn about common ways to better restructure existing code without changing its underlying behavior.
    
    #### Learning Outcomes
-   * List some standard refactoring techniques
+   * List some common refactoring techniques
    * Find some code smells that refactorings clean up
-   * Compare refactoring legacy code and greenfield code, and explain the different approaches you might take
+   * Compare refactoring legacy code and greenfield code, what are differences in the approach you might take
 
    #### Resources
    * [Refactoring `Resource`](https://refactoring.guru/refactoring)
 
-   #### Projects
-   *
+   #### Exercises
+   * Refactor some dirty code on an existing project (maybe from your investigation earlier!)
 </details>
