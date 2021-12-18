@@ -16,22 +16,22 @@
    With this topic, you’ll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
    
    #### Learning Outcomes
-   * Describe the concept of "acceptance criteria"
+   * Describe the concept of “acceptance criteria”
    * Compare manual and automated testing methods
-   * List the perspectives that should be considered in task requirements
+   * List the team perspectives that should be considered in task requirements
    * Theorize how you might validate and simplify requirements given to you
 
    #### Resources
-   * 
+   * https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 
-   #### Projects
-   *
+   #### Exercises
+   * Get involved in an iteration planning meeting
 </details>
 
 ----
 
 <details open>
-   <summary><b>Automated Testing Strategies</b></summary><br/>
+   <summary><b>Testing Strategies</b></summary><br/>
 
    With this topic, you’ll learn about test-driven development, the testing pyramid, and how to apply unit, integration, and end-to-end testing when creating software.
    
@@ -47,10 +47,10 @@
    * Create end-to-end tests using the red, green, refactor cycle
 
    #### Resources
-   * 
+   * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
-   #### Projects
-   *
+   #### Exercises
+   * Improve the test coverage of an existing project
 </details>
 
 ----
@@ -63,7 +63,7 @@
    #### Learning Outcomes
    * Describe the four phases of a test and their purpose
    * Create unit tests using the four-phase approach
-   * Explain why the four-phase test pattern is essential and how you'd apply it
+   * Explain why the four phase test pattern is important, and how you'd apply it
    * List common test patterns
    * Describe common test fixture patterns and their use cases
    * Describe the inside-out and outside-in test patterns and their purpose
@@ -72,12 +72,11 @@
    * Create a component using the inside-out test pattern
    * Create a component using the outside-in test pattern
 
-
    #### Resources
-   * 
+   * http://xunitpatterns.com/
 
-   #### Projects
-   *
+   #### Exercises
+   * Refactor a test suite to use the four-phased test approach
 </details>
 
 ----
@@ -88,13 +87,15 @@
    With this topic, you’ll learn about test doubles (stubs, spies, and mocks), how they can be used in your project, and when to use them in your tests.
    
    #### Learning Outcomes
-   * List the types of test doubles and their use case
+   * List the types of test doubles
+   * Explain the role of each test double type
+   * Explain why you might need a test double when creating automated tests
 
    #### Resources
-   * 
+   * [Mocks aren't stubs](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
-   #### Projects
-   *
+   #### Exercises
+   * Use the proper test double when creating tests with a database
 </details>
 
 ----
@@ -107,10 +108,12 @@
    #### Learning Outcomes
    * List common test smells
    * Describe the concept of test flakiness
+   * Explain some approaches to fixing test flakiness and improving reliability
+   * Explain why it is important to be confident in your test suite
 
    #### Resources
-   * 
+   * [Test Flakiness – Methods for identifying and dealing with flaky tests] (https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
-   #### Projects
-   *
+   #### Exercises
+   * Find and fix some flaky tests
 </details>
