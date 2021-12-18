@@ -28,8 +28,9 @@
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
    * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 
-   #### Projects
-   *
+   #### Exercise
+   * [Digital Product Design Assessment](../exercises/human-experience/digital-product-design-assessment.md)
+
 </details>
 
 ----
@@ -54,8 +55,9 @@
    * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
    * [Foundations in Design Thinking Certificate - IDEO U `Course ($)`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
 
-   #### Projects
-   *
+   #### Exercise
+   * [Process Observation (Empathy Mapping)](../exercises/human-experience/process-observation.md)
+
 </details>
 
 ----
@@ -79,8 +81,10 @@
    * [IBM's Carbon `Design System`](https://www.carbondesignsystem.com/)
    * [Design Systems 101 - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/design-systems-101/)
 
-   #### Projects
-   *
+   #### Exercise
+   * [Login Screen with Material Design](../exercises/human-experience/login-screen-ui.md)
+
+
 </details>
 
 ----
@@ -103,8 +107,9 @@
    * [A11y `Website`](https://www.a11yproject.com/)
    * [Why Digital Accessibility Matters - Invision `Article`](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)
 
-   #### Projects
-   *
+   #### Exercise
+   * [Using an Accessibility Checker](../exercises/human-experience/using-an-accessibility-checker.md)
+
 </details>
 
 ----
@@ -122,6 +127,7 @@
    #### Resources
    * [6 tasty ways for designers and developers to collaborate better - Invision `Article`](https://www.invisionapp.com/inside-design/designer-developer-collaboration-ideas/)
 
-   #### Projects
-   *
+   #### Exercise
+   * [Give UI/UX Design Feedback](../exercises/human-experience/give-a-designer-feedback.md)
+
 </details>
