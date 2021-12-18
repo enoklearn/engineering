@@ -56,7 +56,9 @@
    With this topic, you’ll learn how to work with the attached services required for an application to run.
    
    #### Learning Outcomes
-   * 
+   * Describe a backing service
+   * Explain how you might create resilient backing services
+   * Theorize how you might monitor backing services to ensure they are up
 
    #### Resources
    * 
@@ -73,7 +75,8 @@
    With this topic, you’ll learn how to manage multiple environments such as dev, staging, and production for an application.
    
    #### Learning Outcomes
-   * 
+   * Describe what an environment is
+   * Explain the purpose of development, staging, and production environments
 
    #### Resources
    * 
@@ -90,7 +93,9 @@
    With this topic, you’ll learn about the role of a cloud engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
-   * 
+   * Describe the role of a cloud engineer
+   * Identify what you need from a cloud engineer to complete software engineering tasks
+   * Explain how you might collaborate with a cloud engineer to design and provision infrastructure for an application
 
    #### Resources
    * 
