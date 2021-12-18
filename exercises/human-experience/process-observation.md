@@ -17,7 +17,7 @@
     - In your note taking tool, draw a large square. It should take up most the page.
     - The draw a small circle inside it, and label the circle with the term, ***user***. 
     - Then draw two intersecting lines so you have 4 equal sized squares. Label each square with one of these four labels: ***says**, **thinks**, **does**, and **feels***.  
-    - It should look something like this, but don’t worry... it doesn’t have to be perfect: <img width="1440" src="https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png"> 
+    - It should look something like this, but don’t worry... it doesn’t have to be perfect: <img width="1440" src="empathy-map.png"> 
 4. Now, in the user circle, we’re going to outline the type of people/persons that would go through this process. For instance, in our coffeeshop example; it could be generic like “customer”, or more specific like “moms ordering coffee”. Either way, try to identify and categorize one group of people in this process to observe, and write it down. It’s okay if there are multiple categories of customers, just pick on to focus on for this exercise. 
 5. Time for the fun part! Focus on observing about **5-10 different people** that match your category you called out, and watch them go through your identified process. 
 6. Take notes on what they are ***saying***, ***seeing***, ***feeling***, and ***doing*** throughout the process, in each corresponding square. For example: **does** = “looks at the menu”, **says** = “talks about their day”, or **feels** = “upset because it took a long time to get an order”. 
