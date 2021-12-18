@@ -27,9 +27,9 @@ These [15 modules](modules/) represent the core knowledge and skills of a genera
 * [Operations](modules/operations.md)
 * [Architecture](modules/architecture.md)
 
-## Projects
+## Exercises
 
-- [List of projects](projects/)
+- [List of exercises](exercises/)
 
 ## Contributing
 

@@ -121,5 +121,5 @@
    * [Using Docker Dev Containers](https://code.visualstudio.com/docs/remote/create-dev-container)
 
    #### Exercises
-   * Setup your local environment  using a runtime manager like rbenv or Docker dev containers
+   * Setup your local environment using a runtime manager like rbenv or Docker dev containers
 </details>

@@ -5,7 +5,7 @@
 
 ### MODULE_DESCRIPTION
 
-<img width="1440" alt="Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-making" src="https://user-images.githubusercontent.com/894178/138341382-50968778-5d62-435e-84f3-16f6e4809251.png">
+<img width="1440" alt="Template image, replace alt text" src="https://user-images.githubusercontent.com/894178/138341382-50968778-5d62-435e-84f3-16f6e4809251.png">
 
 ## Topics
 
@@ -20,7 +20,7 @@
    #### Resources
    * 
 
-   #### Projects
+   #### Exercises
    *
 
 </details>
@@ -38,7 +38,7 @@
    #### Resources
    * 
 
-   #### Projects
+   #### Exercises
    *
 
 </details>
@@ -56,7 +56,7 @@
    #### Resources
    * 
 
-   #### Projects
+   #### Exercises
    *
 
 </details>
@@ -74,7 +74,7 @@
    #### Resources
    * 
 
-   #### Projects
+   #### Exercises
    *
 
 </details>
@@ -92,7 +92,7 @@
    #### Resources
    * 
 
-   #### Projects
+   #### Exercises
    *
 
 </details>
