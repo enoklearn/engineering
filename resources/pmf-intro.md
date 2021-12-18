@@ -10,6 +10,6 @@
 - **Customer Creation** - Has sufficient demand been created and put in the sales funnel?
 - **Company Creation** - Has the organization successfully shifted from discovery to execution?
 
-<img width="1440" alt="PMF Intro" src="https://github.com/enokcollective/engineerkit/blob/7678cff02b76908b99ce1327e4d807bd51794816/assets/pmf-intro-01.png">
+<img width="1440" alt="PMF Intro" src="https://user-images.githubusercontent.com/894178/146658643-d0169165-3cb6-45dd-9adf-0755b0e61536.png">
 
 **Quote from Steven Blank** - "If customer discovery and validation [initial PMF] have failed to uncover a solution to a need that at least 5 customers will pay for in a repeatable way, why would you turn your efforts to scaling demand, where there is none, and moving the company away from learning and discovery, when it clearly still needs to do just that? **Further execution on the same failed plan guarantees disaster**"
