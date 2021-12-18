@@ -112,7 +112,7 @@
    * Explain why it is important to be confident in your test suite
 
    #### Resources
-   * [Test Flakiness – Methods for identifying and dealing with flaky tests] (https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
+   * [Test Flakiness – Methods for identifying and dealing with flaky tests](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises
    * Find and fix some flaky tests
