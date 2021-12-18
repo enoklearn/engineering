@@ -22,7 +22,7 @@
    #### Resources
    * https://sre.google/
 
-   #### Projects
+   #### Exercises
    * Work with an SRE to release a new build of a product to production
 </details>
 
@@ -43,7 +43,7 @@
    #### Resources
    * https://gitlab.com/gitlab-com/runbooks
 
-   #### Projects
+   #### Exercises
    * Help an SRE work through a minor incident in production (and keep calm while doing so!)
 </details>
 
@@ -63,7 +63,7 @@
    * https://docs.github.com/en/actions
    * https://docs.gitlab.com/ee/ci/pipelines/
 
-   #### Projects
+   #### Exercises
    * Setup a CI/CD pipeline using GitHub Actions to deploy an application
 </details>
 
@@ -82,7 +82,7 @@
    #### Resources
    * https://artillery.io/
 
-   #### Projects
+   #### Exercises
    * Setup an Artillery script and simulate 500 simultaneous users using a feature in an application
 </details>
 
@@ -102,6 +102,6 @@
    #### Resources
    * https://sre.google/
 
-   #### Projects
+   #### Exercises
    * Pair with an SRE and help them convert a manual task to an automated task to reduce toil
 </details>
