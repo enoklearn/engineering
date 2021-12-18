@@ -24,7 +24,7 @@
    * https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
    * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
 
-   #### Projects
+   #### Exercises
    * Use the C4 model to map out one feature of an existing product
 </details>
 
@@ -43,7 +43,7 @@
    #### Resources
    * https://insights.stackoverflow.com/survey/2021
 
-   #### Projects
+   #### Exercises
    * Research the tech stack powering GitHub. Would you use that tech stack?
 </details>
 
@@ -61,7 +61,7 @@
    #### Resources
    * https://docs.github.com/en/actions
 
-   #### Projects
+   #### Exercises
    * Select the tech on a frontend, backend, and database for a simple tasklist app
 </details>
 
@@ -79,7 +79,7 @@
    #### Resources
    * https://12factor.net/
 
-   #### Projects
+   #### Exercises
    * Use the 12 Factor App model to build a new feature on an existing product
 </details>
 
@@ -98,6 +98,6 @@
    #### Resources
    * https://swagger.io/
 
-   #### Projects
+   #### Exercises
    * Setup Swagger on an API and use the interactive documentation to send a POST request!
 </details>
