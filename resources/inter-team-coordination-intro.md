@@ -14,23 +14,24 @@
   - Trust the act of planning, not the plan
 - Destination is dynamic or unknown
 
-<img width="500" alt="Process Control" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-01.png">
+<img width="500" alt="Process Control" src="https://user-images.githubusercontent.com/894178/146658695-f11c08e7-a8c2-4187-991a-17c83df04ecc.png">
 
-<img width="500" alt="Defined vs Empirical" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-02.png">
+<img width="500" alt="Defined vs Empirical" src="https://user-images.githubusercontent.com/894178/146658701-fabd97a3-ad7a-4548-9d78-e433bce6d066.png">
 
-<img width="750" alt="Waterfall vs Agile" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-03.png">
+<img width="750" alt="Waterfall vs Agile" src="https://user-images.githubusercontent.com/894178/146658708-a040e566-5d09-4fcb-8026-477a285e5493.png">
+
 
 **Typical software development frameworks you’ll encounter**
 - **Waterfall Framework**
 
-<img alt="Waterfall Model" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-04.png">
+<img alt="Waterfall Model" src="https://user-images.githubusercontent.com/894178/146658713-35125c5a-846a-4b08-b7da-ee25d35d5f5e.png">
 
 - **Team-Level Agile frameworks** (most common)
   - Scrum
-  <img alt="Scrum" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-05.jpg"><br><br>
+  <img alt="Scrum" src="https://user-images.githubusercontent.com/894178/146658716-7690bc3a-70b6-4c69-a9c6-01fec65d505d.jpg"><br><br>
   - Kanban
-  <img alt="Kanban" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-06.png">
-  
+  <img alt="Kanban" src="https://user-images.githubusercontent.com/894178/146658719-f8010bc8-f925-4fc8-af20-d991bfc47814.png">
+
   - Scrumban
   - Lean Software Development
   - Extreme Programming (XP)
@@ -45,9 +46,7 @@
   - Scrum@Scale (S@S)
 
 - **That large picture view of most agile frameworks**
-<img alt="Large Picture View" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-07.png">
+<img alt="Large Picture View" src="https://user-images.githubusercontent.com/894178/146658726-2401364d-3fa3-408f-9f9e-1552e3c55932.png">
 
 - **Agile Levels of Planning**
-<img alt="Levels of Agile Planning" src="https://github.com/enokcollective/engineerkit/blob/4ba22532538833af8795aa43f89e2fce143c07b7/assets/inter-team-coordination-08.png">
-
-
+<img alt="Levels of Agile Planning" src="https://user-images.githubusercontent.com/894178/146658732-45a66225-cb5c-434a-a000-609657191639.png">
