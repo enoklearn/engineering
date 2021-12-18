@@ -22,15 +22,14 @@
    #### Resources
    * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
    * [Abstract `Film`](https://www.netflix.com/title/80057883)
-   * [UI/UX Design Foundations `Course`](https://app.uxcel.com/courses/design-foundations)
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
+   * [Intro to Design Terminology `Course`](https://app.uxcel.com/courses/design-lingo)
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
    * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-   * [Intro to Design Terminology: By UXcel](https://app.uxcel.com/courses/design-lingo)
-   
+
    #### Exercises
-   * [Intro to Design Terminology: By UXcel](https://app.uxcel.com/courses/design-lingo)
+   * [Digital Product Design Assessment](../exercises/human-experience/digital-product-design-assessment.md)
    * Discuss good/favorite designed products
    * Collecting inspiration
    * Go over ways the engineers can affect UX
@@ -61,6 +60,7 @@
    * [What is Deign Thinking: IDEO University](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
 
    #### Exercises
+   * [Process Observation (Empathy Mapping)](../exercises/human-experience/process-observation.md) 
    * Empathy Exercises: Observe and document the steps of a process
    * Ideation Exercise: Ideate and brainstorm with the team on a topic or task
    * Prototyping Exercise: Create a paper prototype
@@ -88,6 +88,7 @@
    * [Design Systems 101 - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/design-systems-101/)
 
    #### Exercises
+   * [Login Screen with Material Design](../exercises/human-experience/login-screen-ui.md)
    * Build a simple UI layout using Material Design
    * Read Documentation in popular Design Systems or your company's own
    * [Storybook exercise: Create reusable and documented UI components](https://storybook.js.org/)
@@ -114,6 +115,7 @@
    * [Why Digital Accessibility Matters - Invision `Article`](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)
 
    #### Exercises
+   * [Using an Accessibility Checker](../exercises/human-experience/using-an-accessibility-checker.md)
    * Implement a color palette for color blindness in a webpage
    * Build a simple webpage using proper HTML semantics
    * Quiz: Define internationalization, localization, and accessibility
@@ -138,6 +140,7 @@
    * Your company's designers!
 
    #### Exercises
+   * [Give UI/UX Design Feedback](../exercises/human-experience/give-a-designer-feedback.md)
    * Shadow or pair with a designer
    * Collaborate with a designer on UI tasks
    * Give feedback on a design to a designer (visual, and feasibility feedback)
