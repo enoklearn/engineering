@@ -31,7 +31,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Tanners, tailors and candlestick makers: a history of apprenticeships `Article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
    * [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
    
-   #### Projects
+   #### Exercises
    *
 </details>
 
@@ -56,7 +56,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
    * [Better: A Surgeon’s Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
-   #### Projects
+   #### Exercises
    *
 </details>
 
@@ -77,8 +77,8 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Manifesto for Software Craftsmanship `Document`](http://manifesto.softwarecraftsmanship.org/)
    * [The Clean Coder: A Code of Conduct for Professional Programmers `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
-   #### Projects
-   *
+   #### Exercises
+   * Get engaged in the software community by joining a discord group!
 </details>
 
 ----
@@ -104,7 +104,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Medium `Tool`](https://medium.com/)
    * [Apprenticeship Patterns `Book ($)`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
    
-   #### Projects
+   #### Exercises
    * Create a blog (perhaps using a content management system) to share your thoughts during your journey
 </details>
 
@@ -128,6 +128,6 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [LeanPub `Resource`](https://leanpub.com/)
    * [The Pragmatic Bookshelf `Resource`](https://pragprog.com/)
    
-   #### Projects
-   *
+   #### Exercises
+   * Pair with your mentor and solve a problem together!
 </details>
