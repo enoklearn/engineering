@@ -1,7 +1,7 @@
 # Craftsmanship
 
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
-<a href="https://discord.gg/bDVYvG3Czd">![Ask Questions](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
 ### With this module, you’ll learn how to elevate your mindset to pursue excellence in any worthwhile endeavor, equipping you for the lifelong journey of mastering your craft.
 

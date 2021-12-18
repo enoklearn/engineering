@@ -1,7 +1,7 @@
 # Operations
 
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
-<a href="https://discord.gg/bDVYvG3Czd">![Ask Questions](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
 ### With this module, you'll learn the discipline of change management, automated techniques to distribute your product, and how to monitor product health.
 

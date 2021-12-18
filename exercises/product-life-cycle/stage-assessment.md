@@ -1,5 +1,7 @@
 # Exercise: Assessing the Stage of your Product
 
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 ## Goal
 To help an apprentice uncover the stage of the product they’ll be working on, and how that stage effects the software development strategies their products teams choose
 

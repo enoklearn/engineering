@@ -1,5 +1,7 @@
 # Exercise: Software Development Framework Questionnaire
 
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 ## Goal
 To give an apprentice a way to quickly assess the typical software development process at their company and to see it in action.
 

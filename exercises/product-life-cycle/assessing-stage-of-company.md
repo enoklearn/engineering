@@ -1,5 +1,7 @@
 # Exercise: Assessing the Stage of your Company
 
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 ## Goal
 To give an apprentice a simple framework to assess the stage of the company they are serving.
 
