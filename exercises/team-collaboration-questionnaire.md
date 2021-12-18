@@ -1,4 +1,4 @@
-# “Product Team Collaboration” Questionnaire
+# Exercise: Team Collaboration Questionnaire
 
 ## Goal
 To to give an apprentice a way to quickly assess the typical composition of a product team in the organization, and how a team collaborates toward a shared goal.

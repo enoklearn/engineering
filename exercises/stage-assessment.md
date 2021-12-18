@@ -1,4 +1,4 @@
-# Assessing the Stage of your Product
+# Exercise: Assessing the Stage of your Product
 
 ## Goal
 To help an apprentice uncover the stage of the product they’ll be working on, and how that stage effects the software development strategies their products teams choose

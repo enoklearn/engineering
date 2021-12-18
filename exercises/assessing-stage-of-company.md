@@ -1,4 +1,4 @@
-# Assessing the Stage of your Company
+# Exercise: Assessing the Stage of your Company
 
 ## Goal
 To give an apprentice a simple framework to assess the stage of the company they are serving.
