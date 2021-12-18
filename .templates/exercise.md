@@ -10,22 +10,19 @@
 
 ## Steps
 
-1. [Download and install Wireshark](https://www.wireshark.org/)
-2. Find the IP address(es) of [info.cern.ch](info.cern.ch) (the first website!)
-3. Use Wireshark to discover network traffic to and from [info.cern.ch](info.cern.ch)
-4. Export the HTTP objects from Wireshark (should contain an HTML page and a favicon)
+Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+
+1. ...
 
 ## Questions
 
-- What does ACK mean?
-- What does FIN mean?
-- What is an HTTP status code?
-- What port is HTTP served over?
-- What is a favicon?
+Use these questions to guide your curiosity during the exercise:
 
-## Reflection 
+- ...
 
-Use the following questions to reflect on what you learned with this exercise:
+## Reflection
+
+Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
 SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
 
