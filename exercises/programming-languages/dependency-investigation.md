@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Investigate common third-party dependencies (such as `rails/rails` or `gin-gonic/gin`) and determine their licenses |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

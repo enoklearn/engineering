@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Solve a kata using a functional language and then an object-orientated language |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

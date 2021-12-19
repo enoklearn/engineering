@@ -25,7 +25,7 @@
    * [4 Programming Paradigms In 40 Minutes `Video`](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 
    #### Exercise
-   * Solve a kata using a functional language and then an object-orientated language
+   * [Two Stones, One Bird](../exercises/programming-languages/two-stones-one-bird.md)
 </details>
 
 ----
@@ -44,7 +44,7 @@
    * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
 
    #### Excercises
-   * Solve a lot of problems using katas!
+   * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
 </details>
 
 ----
@@ -63,7 +63,7 @@
    * [CodeWars `Resource`](https://codewars.com/)
 
    #### Exercises
-   * Create Tic-Tac-Toe in three different programming languages
+   * [Tic Tac Toe](../exercises/programming-languages/tic-tac-toe.md)
    * Pick a programming language koans repo (like the Ruby koans) and learn the syntax of that language
 </details>
 
@@ -83,8 +83,7 @@
    * [Snyk](https://snyk.io/)
 
    #### Exercises
-   * Investigate common third-party dependencies (such as `rails/rails` or `gin-gonic/gin`) and determine their licenses
-   * Add a third-party dependency into a project, but first evaluate the license
+   * [Dependency Investigation](../exercises/programming-languages/dependency-investigation.md)
 </details>
 
 ----
@@ -104,5 +103,5 @@
    * [How to Pair Program](https://www.youtube.com/watch?v=YhV4TaZaB84)
 
    #### Excercises
-   * Go on a pairing tour! Solve some real problems with other software engineers
+   * [Pairing Tour](../exercises/programming-languages/pairing-tour.md)
 </details>
