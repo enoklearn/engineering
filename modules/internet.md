@@ -56,7 +56,7 @@
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
 
    #### Exercises
-   * Use Wireshark to inspect the journey of a packet on the network
+   * [Use Wireshark to inspect the journey of a packet on the network](../exercises/internet/packet-inspector.md)
 </details>
 
 ----
