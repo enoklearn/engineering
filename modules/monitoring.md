@@ -32,8 +32,8 @@
    * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
+   * [Collecting Telemetry](../exercises/monitoring/collecting-telemetry.md)
    * Integrate Sentry.io in an application to collect crash reports
-   * Collect logs using stdout in an application
    * Integrate DataDog into an application
 </details>
 
@@ -55,7 +55,7 @@
    * [The History of SRE `Video`](https://www.youtube.com/watch?v=1NF6N2RwVoc)
 
    #### Exercises
-   * Setup a dashboard in DataDog to monitor the golden signals
+   * [Setup a Dashboard in Grafana](../exercises/monitoring/setup-a-dashboard-in-grafana.md)
 </details>
 
 ----
@@ -75,7 +75,7 @@
    * https://aws.amazon.com/cloudwatch/
    
    #### Exercises
-   * Setup alerts based on one of the golden signals in your DataDog dashboard
+   * [Golden Signal Alerting](../exercises/monitoring/golden-signal-alerting.md)
 </details>
 
 ----
@@ -95,7 +95,7 @@
    * [Snyk `Tool`](https://snyk.io/)
 
    #### Exercises
-   * Pair with a software engineer on a production bug, and use telemetry data to assist in recreating the problem
+   * [Bug Bounty](../exercises/monitoring/bug-bounty.md)
 </details>
 
 ----
@@ -112,5 +112,5 @@
    * [Web Vitals `Article`](https://web.dev/vitals/)
 
    #### Exercises
-   * Pair with a software engineer to improve the performance of a feature using telemetry data
+   * [Performance Boost](../exercises/monitoring/performance-boost.md)
 </details>
