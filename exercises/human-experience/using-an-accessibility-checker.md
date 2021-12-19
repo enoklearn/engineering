@@ -1,8 +1,5 @@
 # Exercise: Using an Accessibility Checker
 
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
-
-
 ## Overview
 
 | Key | Value |
@@ -35,3 +32,7 @@ Use or tweak these questions, and use them as prompts to guide a conversation of
 - What conclusion can you share with/show your mentor?
 - What surprised you about this exercise?
 - Where do you want to go from here?
+
+## Need help?
+
+- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
