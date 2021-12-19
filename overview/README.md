@@ -4,7 +4,7 @@ With this guide, you’ll learn about EngineerKit, how it fits in the talent pip
 
 ## Learning Map
 
-The learning map is a visual overview of the modules and topics that are included in EngineerKit. You can explore the EngineerKit learning map here.
+The learning map is a visual overview of the modules and topics that are included in EngineerKit. [You can explore the EngineerKit learning map here](https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21).
 
 ## Difficulty Rating
 
