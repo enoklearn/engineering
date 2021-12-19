@@ -7,7 +7,6 @@
 
 <img width="1440" alt="Automated Testing Module" src="https://user-images.githubusercontent.com/894178/138357152-14b20595-7874-410f-a883-3f2dcd83d226.png">
 
-
 ## Topics
 
 <details open>
@@ -25,7 +24,7 @@
    * [Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
-   * [Defining Features `Exercise`](../exercises/automated-testing/defining-features.md)
+   * [Defining Features](../exercises/automated-testing/defining-features.md)
 </details>
 
 ----
@@ -50,7 +49,7 @@
    * [Test Driven Development `Resource`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
    #### Exercises
-   * [Improve Test Coverage `Exercise`](../exercises/automated-testing/improve-test-coverage.md)
+   * [Improve Test Coverage](../exercises/automated-testing/improve-test-coverage.md)
 </details>
 
 ----
@@ -77,7 +76,7 @@
    * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
 
    #### Exercises
-   * [Four-Phase Refactor `Exercise`](../exercises/automated-testing/four-phase-refactor.md)
+   * [Four-Phase Refactor](../exercises/automated-testing/four-phase-refactor.md)
 </details>
 
 ----
@@ -96,7 +95,7 @@
    * [Mocks aren't stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
    #### Exercises
-   * [Database Test Double `Exercise`](../exercises/automated-testing/database-test-double.md)
+   * [Database Test Double](../exercises/automated-testing/database-test-double.md)
 </details>
 
 ----
@@ -116,5 +115,5 @@
    * [Test Flakiness – Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises
-   * [Flakey Test Refactor `Exercise`](../exercises/automated-testing/flaky-test-refactor.md)
+   * [Flakey Test Refactor](../exercises/automated-testing/flaky-test-refactor.md)
 </details>
