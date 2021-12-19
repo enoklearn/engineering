@@ -15,3 +15,7 @@ To help an apprentice and mentor know what to expect when tackling a module, we 
 | ![Easy](https://img.shields.io/badge/%E2%97%8F%20Easy-brightgreen?style=flat-square) | Less than a week | An “Easy” rating represents a brief overview of each topic in the module with some light skill-building |
 | ![Moderate](https://img.shields.io/badge/■%20Moderate-blue?style=flat-square) | Less than two weeks | A “Moderate” rating represents a thorough overview of each topic in the module with some skill-building |
 | ![Hard](https://img.shields.io/badge/◆%20Hard-grey?style=flat-square) | Less than a month | A “Hard” rating represents an in-depth exploration of each topic in the module with heavy skill-building |
+
+## Need help?
+
+- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
