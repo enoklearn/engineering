@@ -1,7 +1,5 @@
 # Exercise: Login Screen with Material Design
 
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
-
 ## Overview
 
 | Key | Value |
@@ -37,3 +35,6 @@ Use the following questions to reflect on what you learned with this exercise:
 - What surprised you about this exercise?
 - Where do you want to go from here?
 
+## Need help?
+
+- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
