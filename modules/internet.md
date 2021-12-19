@@ -28,7 +28,7 @@
    * [Browse the first website `Resource`](http://info.cern.ch/)
 
    #### Exercises
-   * How might you help protect the internet’s future?
+   * 
 </details>
 
 ----
@@ -56,7 +56,7 @@
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
 
    #### Exercises
-   * [Use Wireshark to inspect the journey of a packet on the network](../exercises/internet/packet-inspector.md)
+   * [Packet Inspector](../exercises/internet/packet-inspector.md)
 </details>
 
 ----
@@ -77,9 +77,8 @@
    * [Subnet Cheat Sheet `Resource`](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 
    #### Exercises
+   * [Tiny Networking](../exercises/internet/tiny-networking.md)
    * Pair with SREs or Cloud Engineers
-   * Configure your home network
-   * Build out your home network and configure multiple subnets for your devices
 </details>
 
 ----
@@ -102,7 +101,7 @@
    * [How the Web Works `Course ($)`](https://teamtreehouse.com/library/how-the-web-works)
 
    #### Exercises
-   * Setup a personal website and connect your domain to a web service
+   * [Domain Claim](../exercises/internet/domain-claim.md)
 </details>
 
 ----
@@ -124,6 +123,6 @@
    * [Dissecting a SSL certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    
    #### Exercises
-   * Configure your personal website to use a TLS/SSL certificate and force HTTPS upgrades
+   * [Configuring TLS/SSL for your website](../exercises/internet/configuring-tls-ssl.md)
    * [Setup your own certificate authority](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) using [cfssl](https://github.com/cloudflare/cfssl)
 </details>
