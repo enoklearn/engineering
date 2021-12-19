@@ -21,7 +21,7 @@
    * Theorize why PMF is the compass a business uses to set their course
 
    #### Resources
-   * [PMF Introduction](https://github.com/enokcollective/engineerkit/blob/faa1287dadafd5c6523ecc416a6c073ca309eca5/resources/pmf-intro.md)
+   * [PMF Introduction `Article`](../resources/pmf-intro.md)
    * [Value Proposition Design `Book`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
    * [The Mom Test `Book`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
    * [Startup Owner’s Manual `Book`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
@@ -49,7 +49,7 @@
    * Recite what matters to a company at the different stages if its growth
 
    #### Resources
-   * [Stages of a Company Introduction](https://github.com/enokcollective/engineerkit/blob/36469e7c938ba06f89ea49c2cc0a4d6f39c9ec49/resources/stages-of-a-company-intro.md)
+   * [Stages of a Company Introduction `Article`](../resources/stages-of-a-company-intro.md)
    * ["Start": Inspired: How to create tech products customers love `Book`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
    * ["Start": The Lean Startup `Book`](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
    * ["Start": The Startup Way `Book`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
@@ -79,7 +79,7 @@
    * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
-   * [Product Life Cycle Stages Introduction](https://github.com/enokcollective/engineerkit/blob/1f93b0a7a9a6293e42669dcee1d1da00c06e539c/resources/stages-of-a-product-intro.md)
+   * [Product Life Cycle Stages Introduction `Article`](../resources/stages-of-a-product-intro.md)
    * [Product Roadmaps: Relaunched `Book`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
 
@@ -102,7 +102,7 @@
    * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
-   * [Inter-team Coordination Introduction](https://github.com/enokcollective/engineerkit/blob/4ea2c8741752bb4d248c46557a53d6f1c9726527/resources/inter-team-coordination-intro.md)
+   * [Inter-team Coordination Introduction `Article`](../resources/inter-team-coordination-intro.md)
    * [Agile Manifesto `Article`](https://agilemanifesto.org/)
    * [Scrum Guide `Article`](https://www.scrum.org/resources/scrum-guide)
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
@@ -150,7 +150,7 @@
    * Explain what a typical product manager expects of a developer on their team
 
    #### Resources
-   * [Intra-team Coordination Introduction](https://github.com/enokcollective/engineerkit/blob/0bacfcbed2a6f79fe64daf14c09bcd7eca0f2cfe/resources/intra-team-coordination-intro.md)
+   * [Intra-team Coordination Introduction `Article`](../resources/intra-team-coordination-intro.md)
    * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)
    * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
    * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
