@@ -22,10 +22,10 @@
    * Theorize how you might validate and simplify requirements given to you
 
    #### Resources
-   * https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
+   * [Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
-   * Get involved in an iteration planning meeting
+   * [Defining Features `Exercise`](../exercises/automated-testing/defining-features.md)
 </details>
 
 ----
@@ -47,10 +47,10 @@
    * Create end-to-end tests using the red, green, refactor cycle
 
    #### Resources
-   * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
+   * [Test Driven Development `Resource`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
    #### Exercises
-   * Improve the test coverage of an existing project
+   * [Improve Test Coverage `Exercise`](../exercises/automated-testing/improve-test-coverage.md)
 </details>
 
 ----
@@ -73,10 +73,11 @@
    * Create a component using the outside-in test pattern
 
    #### Resources
-   * http://xunitpatterns.com/
+   * [XUnit Patterns `Book ($)`](http://xunitpatterns.com/)
+   * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
 
    #### Exercises
-   * Refactor a test suite to use the four-phased test approach
+   * [Four-Phase Refactor `Exercise`](../exercises/automated-testing/four-phase-refactor.md)
 </details>
 
 ----
@@ -92,10 +93,10 @@
    * Explain why you might need a test double when creating automated tests
 
    #### Resources
-   * [Mocks aren't stubs](https://www.martinfowler.com/articles/mocksArentStubs.html)
+   * [Mocks aren't stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
    #### Exercises
-   * Use the proper test double when creating tests with a database
+   * [Database Test Double `Exercise`](../exercises/automated-testing/database-test-double.md)
 </details>
 
 ----
@@ -112,8 +113,8 @@
    * Explain why it is important to be confident in your test suite
 
    #### Resources
-   * [Test Flakiness – Methods for identifying and dealing with flaky tests](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
+   * [Test Flakiness – Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises
-   * Find and fix some flaky tests
+   * [Flakey Test Refactor `Exercise`](../exercises/automated-testing/flaky-test-refactor.md)
 </details>
