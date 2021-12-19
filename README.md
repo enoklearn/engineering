@@ -4,8 +4,7 @@
 
 ## Overview
 
-- [Getting started](overview/README.md)
-- [What is an apprenticeship program?](overview/apprenticeship.md)
+- [Getting started with EngineerKit](overview/README.md)
 
 ## Modules
 
