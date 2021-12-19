@@ -25,7 +25,7 @@
    * https://owasp.org/Top10/
 
    #### Exercises
-   * Review the OWASP Top 10 vulnerability list and list out how these might play out in the real world
+   * [Remediate the Broken Access Control vulnerability](../exercises/security/broken-access-control.md)
 </details>
 
 ----
@@ -44,9 +44,10 @@
    #### Resources
    * https://auth0.com/
    * https://aws.amazon.com/cognito/
+   * [OAuth 2.0](https://tools.ietf.org/html/rfc6749)
 
    #### Exercises
-   * Integrate an identity provider into an application and create a "public" and "private" zone in an application
+   * [Setup an Identity Provider](../exercises/security/setup-an-identity-provider.md)
 </details>
 
 ----
@@ -65,7 +66,7 @@
    * https://12factor.net/config
 
    #### Exercises
-   * Add secrets to AWS SSM Parameter Store and fetch them from the command line
+   * [Fetch an Application Secret](../exercises/security/fetch-an-application-secret.md)
 </details>
 
 ----
@@ -82,9 +83,10 @@
 
    #### Resources
    * https://snyk.io/
+   * https://www.npmjs.com/package/sonarqube-scanner
 
    #### Exercises
-   * Setup Snyk dependency scanning in a CI/CD pipeline on a project
+   * [Setup Dependency Scanning](../exercises/security/setup-dependency-scanning.md)
 </details>
 
 ----
@@ -103,5 +105,5 @@
    * https://owasp.org/www-community/Threat_Modeling
 
    #### Exercises
-   * Create a threat model for your toothbrush, how might your protect your toothbrush from adversaries?
+   * [Threat Modeling](../exercises/security/threat-modeling.md)
 </details>

@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Create a threat model for your toothbrush, how might your protect your toothbrush from adversaries? |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

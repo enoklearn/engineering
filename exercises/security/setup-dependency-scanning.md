@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Setup Snyk dependency scanning in a CI/CD pipeline on a project |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 
