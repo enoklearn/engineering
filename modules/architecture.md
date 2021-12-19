@@ -25,7 +25,7 @@
    * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
 
    #### Exercises
-   * Use the C4 model to map out one feature of an existing product
+   * [Microservice Scoping](../exercises/architecture/microservice-scoping.md)
 </details>
 
 ----
@@ -44,7 +44,7 @@
    * https://insights.stackoverflow.com/survey/2021
 
    #### Exercises
-   * Research the tech stack powering GitHub. Would you use that tech stack?
+   * [Tech Stack Spelunking](../exercises/architecture/tech-stack-spelunking.md)
 </details>
 
 ----
@@ -80,7 +80,7 @@
    * https://12factor.net/
 
    #### Exercises
-   * Use the 12 Factor App model to build a new feature on an existing product
+   * [Feature Shipping](../exercises/architecture/feature-shipping.md)
 </details>
 
 ----
@@ -99,5 +99,5 @@
    * https://swagger.io/
 
    #### Exercises
-   * Setup Swagger on an API and use the interactive documentation to send a POST request!
+   * [With a Swagger](../exercises/architecture/with-a-swagger.md)
 </details>
