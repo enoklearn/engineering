@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Setup a CI/CD pipeline using GitHub Actions to deploy an application |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

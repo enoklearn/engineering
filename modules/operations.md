@@ -23,7 +23,7 @@
    * https://sre.google/
 
    #### Exercises
-   * Work with an SRE to release a new build of a product to production
+   * [Artifact Deployment](../exercises/operations/artifact-deployment.md)
 </details>
 
 ----
@@ -44,7 +44,7 @@
    * https://gitlab.com/gitlab-com/runbooks
 
    #### Exercises
-   * Help an SRE work through a minor incident in production (and keep calm while doing so!)
+   * [Create a Runbook](../exercises/operations/create-a-runbook.md)
 </details>
 
 ----
@@ -64,7 +64,7 @@
    * https://docs.gitlab.com/ee/ci/pipelines/
 
    #### Exercises
-   * Setup a CI/CD pipeline using GitHub Actions to deploy an application
+   * [Setup a CI/CD pipeline](../exercises/operations/setup-a-ci-cd-pipeline.md)
 </details>
 
 ----
@@ -84,7 +84,7 @@
    * [K6](https://k6.io/)
 
    #### Exercises
-   * Setup an Artillery script and simulate 500 simultaneous users using a feature in an application
+   * [Zombie Horde](../exercises/operations/zombie-horde.md)
 </details>
 
 ----
@@ -104,5 +104,5 @@
    * https://sre.google/
 
    #### Exercises
-   * Pair with an SRE and help them convert a manual task to an automated task to reduce toil
+   * [Reduce Toil](../exercises/reduce-toil.md)
 </details>
