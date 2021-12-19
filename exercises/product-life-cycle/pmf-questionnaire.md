@@ -1,7 +1,5 @@
 # Exercise: Product-Market Fit Indicator Questionnaire
 
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
-
 ## Overview
 
 | Key | Value |
@@ -138,4 +136,6 @@ Use the following questions to reflect on what you learned with this exercise:
 - What would be your next step? What resources can support you in this next step?
 - When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
 
+## Need help?
 
+- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
