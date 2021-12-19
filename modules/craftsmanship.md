@@ -32,7 +32,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
    
    #### Exercises
-   *
+   * [Sushi Night](../exercises/craftsmanship/sushi-night.md)
 </details>
 
 ----
@@ -57,7 +57,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Better: A Surgeon’s Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
    #### Exercises
-   *
+   * [Universal Craftsmanship](../exercises/craftsmanship/universal-craftsmanship.md)
 </details>
 
 ----
@@ -78,7 +78,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [The Clean Coder: A Code of Conduct for Professional Programmers `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
-   * Get engaged in the software community by joining a discord group!
+   * [Community Involvement](../exercises/craftsmanship/community-involvement.md)
 </details>
 
 ----
@@ -105,7 +105,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Apprenticeship Patterns `Book ($)`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
    
    #### Exercises
-   * Create a blog (perhaps using a content management system) to share your thoughts during your journey
+   * [Create a Blog](../exercises/craftsmanship/create-a-blog.md)] 
 </details>
 
 ----
@@ -129,5 +129,5 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [The Pragmatic Bookshelf `Resource`](https://pragprog.com/)
    
    #### Exercises
-   * Pair with your mentor and solve a problem together!
+   * [Pair with your Mentor](../exercises/craftsmanship/pair-with-your-mentor.md)
 </details>

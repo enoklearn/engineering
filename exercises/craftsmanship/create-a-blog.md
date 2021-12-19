@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Create a blog (perhaps using a content management system) to share your thoughts during your journey |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 
