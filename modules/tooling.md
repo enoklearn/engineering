@@ -35,7 +35,7 @@
    * [Xcode `Tool`](https://developer.apple.com/xcode/)
 
    #### Exercises
-   * Select an editor, and customize it!
+   * [Editor Customization](../exercises/tooling/editor-customization.md)
 </details>
 
 ----
@@ -68,7 +68,7 @@
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
 
    #### Excercises
-   * Build a simple CLI app using Bash scripts to fetch the weather based on a zip code
+   * [CLI Weather](../exercises/tooling/cli-weather.md)
 </details>
 
 ----
@@ -102,7 +102,7 @@
    * [Introduction to Git `Course ($)`](https://teamtreehouse.com/library/introduction-to-git)
 
    #### Exercises
-   * Fork the merge-conflict-kitchen-sink repo and resolve the conflicts
+   * [Conflict Resolution](../exercises/tooling/conflict-resolution.md)
 </details>
 
 ----
@@ -132,7 +132,7 @@
    
 
    #### Excerise 
-   * Practice estimating tasks on your todo list using PERT, and share your estimate with your mentor
+   * [Estimating Work](../exercises/tooling/estimating-work.md)
 </details>
 
 ----
@@ -154,5 +154,5 @@
    * [12 Factor App: Config `Resource`](https://12factor.net/config)
 
    #### Exercises
-   * Clone and setup a real company project on your local machine
+   * [Setting Up Your Local Environment](../exercises/tooling/setting-up-your-local-environment.md)
 </details>

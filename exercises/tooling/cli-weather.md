@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal |  Build a simple CLI app using Bash scripts to fetch the weather based on a zip code |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

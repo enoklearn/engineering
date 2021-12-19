@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Select an editor, and customize it! |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

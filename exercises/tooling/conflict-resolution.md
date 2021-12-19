@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Fork the `merge-conflict-kitchen-sink` repo and resolve the conflicts |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 
