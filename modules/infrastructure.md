@@ -28,7 +28,7 @@
    * https://acloudguru.com/
 
    #### Exercises
-   * Setup a Ubuntu 20.04 machine on DigitalOcean (don't forget to tear it down!)
+   * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
 </details>
 
 ----
@@ -47,7 +47,7 @@
    * https://www.terraform.io/
 
    #### Exercises
-   * Setup a CentOS 7 machine on DigitalOcean using Terraform (don't forget to tear it down!)
+   * [Terraform the Cloud](../exercises/infrastructure/terraform-the-cloud.md)
 </details>
 
 ----
@@ -66,6 +66,7 @@
    * https://12factor.net/
 
    #### Exercises
+   * [Mapping Backing Services](../exercises/infrastructure/mapping-backing-services.md)
    * Setup Sentry.io and integrate it into your application (will your app go down if Sentry goes down?)
    * Setup a PostgreSQL database and integrate it into your application (will your app go down if the database goes down?)
 </details>
@@ -85,7 +86,7 @@
    * https://www.terraform.io/docs/cloud/workspaces/
 
    #### Exercises
-   * Using Terraform, create a production environment using the "workspaces" feature
+   * [Cloud Environment Replication](../exercises/infrastructure/cloud-environment-replication.md)
 </details>
 
 ----
@@ -104,6 +105,6 @@
    * https://acloudguru.com/
 
    #### Exercises
+   * [Infrastructure Inventory](../exercises/infrastructure/infrastructure-inventory.md)
    * Pair with a Cloud Engineer on your team and solve an infrastructure problem with them!
-   * Document the cloud infrastructure you need to make your application run in the cloud
 </details>

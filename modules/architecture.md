@@ -59,7 +59,7 @@
    * Theorize how you might recommend a tech stack to a team when starting a project
 
    #### Resources
-   * https://docs.github.com/en/actions
+   * [Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
    #### Exercises
    * Select the tech on a frontend, backend, and database for a simple tasklist app

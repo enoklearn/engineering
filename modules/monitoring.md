@@ -23,7 +23,13 @@
    * Explain how you might collect telemetry data in an application
 
    #### Resources
-   * https://docs.datadoghq.com/
+   * [DataDog `Tool`](https://datadoghq.com/)
+   * [Grafana `Tool`](https://grafana.com/)
+   * [Sentry `Tool`](https://sentry.io/)
+   * [OpenTelemetry `Tool`](https://opentelemetry.io/)
+   * [Monitor what matters `Video`](https://www.youtube.com/watch?v=EnvKjTw-xTo)
+   * [Grafana Explained in Under 5 Minutes `Video`](https://www.youtube.com/watch?v=lILY8eSspEo)
+   * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
    * Integrate Sentry.io in an application to collect crash reports
@@ -43,7 +49,10 @@
    * Explain how you might keep track of the golden signals
 
    #### Resources
-   * https://sre.google/sre-book/table-of-contents/
+   * [Site Reliability Engineering `Book`](https://sre.google/sre-book/table-of-contents/)
+   * [The Site Reliability Workbook `Book`](https://sre.google/workbook/table-of-contents/)
+   * [Building Secure & Reliable Systems `Book`](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
+   * [The History of SRE `Video`](https://www.youtube.com/watch?v=1NF6N2RwVoc)
 
    #### Exercises
    * Setup a dashboard in DataDog to monitor the golden signals
@@ -62,7 +71,7 @@
    * Explain how you might use the golden signals to setup useful alerts
 
    #### Resources
-   * https://www.datadoghq.com/
+   * [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/)
    * https://aws.amazon.com/cloudwatch/
    
    #### Exercises
@@ -83,7 +92,7 @@
    * Setup debugging tools in your IDE
 
    #### Resources
-   * https://snyk.io/
+   * [Snyk `Tool`](https://snyk.io/)
 
    #### Exercises
    * Pair with a software engineer on a production bug, and use telemetry data to assist in recreating the problem
@@ -100,7 +109,7 @@
    * Explain how you might use metrics to set a performance baseline
 
    #### Resources
-   * https://web.dev/vitals/
+   * [Web Vitals `Article`](https://web.dev/vitals/)
 
    #### Exercises
    * Pair with a software engineer to improve the performance of a feature using telemetry data

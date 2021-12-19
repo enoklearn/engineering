@@ -23,7 +23,7 @@
    * https://www.ibm.com/cloud/blog/structured-vs-unstructured-data
 
    #### Exercises
-   * Use hexdump to extract data from a file
+   * [File to Hex](../exercises/data/file-to-hex.md)
 </details>
 
 ----
@@ -43,7 +43,7 @@
    * https://aws.amazon.com/products/storage
 
    #### Exercises
-   * Setup a relational and non-relational database and store data in them (what are some of the differences?)
+   * [Database Provisioning](../exercises/data/database-provisioning.md)
 </details>
 
 ----
@@ -68,7 +68,7 @@
    * https://sql-playground.wizardzines.com/
 
    #### Exercises
-   * Connect an application to an ORM (such as Prisma) and update the schema of a database using data models
+   * [ORM Utilization](../exercises/data/orm-utilization.md)
 </details>
 
 ----
@@ -87,7 +87,7 @@
    * https://missing.csail.mit.edu/2020/data-wrangling/
 
    #### Exercises
-   * Convert a video file with audio into an audio file only using ffmpeg (what did you learn?)
+   * [FFmpeg Conversion](../exercises/data/ffmpeg-conversion.md)
 </details>
 
 ----
@@ -108,5 +108,5 @@
    * https://www.martinfowler.com/articles/201701-event-driven.html
 
    #### Exercises
-   * Throttle your network connection using Chrome Dev Tools and figure out which aspects of an app are cached
+   * [Cache Buster](../exercises/data/cache-buster.md)
 </details>

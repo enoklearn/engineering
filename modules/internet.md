@@ -28,7 +28,7 @@
    * [Browse the first website `Resource`](http://info.cern.ch/)
 
    #### Exercises
-   * 
+   * [Wayback Machine](../exercises/internet/wayback-machine.md)
 </details>
 
 ----

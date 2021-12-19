@@ -81,6 +81,7 @@
 
    #### Resources
    * https://artillery.io/
+   * [K6](https://k6.io/)
 
    #### Exercises
    * Setup an Artillery script and simulate 500 simultaneous users using a feature in an application

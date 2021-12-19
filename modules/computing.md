@@ -31,8 +31,7 @@
    * [Jean Bartik and the ENIAC Women `Video`](https://www.youtube.com/watch?v=aPweFhhXFvY)
 
    #### Exercises
-   * Build yourself a newsfeed that brings together the essential articles you care about (consider using an RSS reader)
-   * Build a simple logic gate using some wire and a battery
+   * [Ahead of the Times](../exercises/computing/ahead-of-the-times.md)
 </details>
 
 ----
@@ -57,7 +56,7 @@
    * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
 
    #### Exercises
-   * Build a simple logic gate using some wire and a battery
+   * [Physical Logic Gates](../exercises/computing/physical-logic-gates.md)
 </details>
 
 ----
@@ -80,7 +79,7 @@
    * [DigitalOcean Learning Library](https://www.digitalocean.com/community)
 
    #### Exercises
-   * Spin up a virtual machine using VirtualBox, and gain exposure to another operating system and virtualization at the same time!
+   * [Virtual Machines](../exercises/computing/virtual-machines.md)
 </details>
 
 ----
@@ -102,7 +101,7 @@
    * [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
  
    #### Exercises
-   * Explore running source code using different language runtime versions
+   * [Runtime Mismatch](../exercises/computing/runtime-mismatch.md)
 </details>
 
 ----
@@ -121,5 +120,5 @@
    * [Using Docker Dev Containers](https://code.visualstudio.com/docs/remote/create-dev-container)
 
    #### Exercises
-   * Setup your local environment using a runtime manager like rbenv or Docker dev containers
+   * [Platform Identification](../exercises/computing/platform-identification.md)
 </details>

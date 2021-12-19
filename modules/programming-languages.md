@@ -22,10 +22,9 @@
    * Explain why you might choose to use a particular language on a project
    
    #### Resources
-   * [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI)
+   * [4 Programming Paradigms In 40 Minutes `Video`](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 
    #### Exercise
-   * Have an apprentice complete a project using two different types of languages
    * Solve a kata using a functional language and then an object-orientated language
 </details>
 
@@ -42,7 +41,7 @@
    * Theorize how you might learn a language fluently
 
    #### Resources
-   * [Exercism Language Learning](https://exercism.org/tracks)
+   * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
 
    #### Excercises
    * Solve a lot of problems using katas!
@@ -61,7 +60,7 @@
    * Theorize how you might learn a new language quickly
 
    #### Resources
-   * [CodeWars](https://codewars.com/)
+   * [CodeWars `Resource`](https://codewars.com/)
 
    #### Exercises
    * Create Tic-Tac-Toe in three different programming languages

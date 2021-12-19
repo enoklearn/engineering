@@ -34,7 +34,7 @@
    * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
 
    #### Exercises
-   * [Interview a product or portfolio manager with the "PMF indicators" questionnaire](../exercises/product-life-cycle/pmf-questionnaire.md)
+   * [Product-Market Fit Indicator Questionnaire](../exercises/product-life-cycle/pmf-questionnaire.md)
 </details>
 
 ----
@@ -62,7 +62,7 @@
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
 
    #### Exercises
-   * [Interview a product or portfolio manager with the "Company Stage Indicators" questionnaire](../exercises/product-life-cycle/assessing-stage-of-company.md)
+   * [Assessing the Stage of your Company](../exercises/product-life-cycle/assessing-stage-of-company.md)
 </details>
 
 ----
@@ -85,7 +85,6 @@
 
    #### Exercises
    * [Assessing the Stage of your Product](../exercises/product-life-cycle/stage-assessment.md)
-   * [Product Roadmaps: Relaunched](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB/ref=sr_1_1?crid=11RJSCTVLCFLC&keywords=product+roadmaps+relaunched&qid=1636585919&qsid=144-2300085-6840858&s=books&sprefix=product+roadm%2Cstripbooks%2C171&sr=1-1&sres=149197172X%2C0578740583%2C0993499201%2C1733839003%2C1119387507%2CB0778ZX2TX%2C1118960874%2C149197379X%2C1976182190%2C1119264022%2CB01H4G2J1U%2CB07QT9QR41%2CB08N37KC1N%2C1491960604%2C1636763170%2C1916356958&srpt=ABIS_BOOK)
 </details>
 
 ----
@@ -133,7 +132,7 @@
    * [Empowered: ordinary people, extraordinary products `Book`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 
    #### Exercises
-   * [“Software Development Framework” Questionnaire](../exercises/product-life-cycle/dev-framework-questionnaire.md)
+   * [Software Development Framework Questionnaire](../exercises/product-life-cycle/dev-framework-questionnaire.md)
 </details>
 
 ----
@@ -162,5 +161,5 @@
    * [Agile Estimating and Planning `Book`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
 
    #### Exercises
-   * [“Product Team Collaboration” Questionnaire](../exercises/product-life-cycle/team-collaboration-questionnaire.md)
+   * [Team Collaboration Questionnaire](../exercises/product-life-cycle/team-collaboration-questionnaire.md)
 </details>

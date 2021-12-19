@@ -22,10 +22,10 @@
 
    #### Resources
    * [Code quality metrics `Article`](https://blog.ndepend.com/code-quality-metrics-signal-noise/)
-   * https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052
+   * [Pragmatic Programmer `Book ($)`](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
    #### Exercises
-   * Get involved in an architecture meeting, explore the business viability aspect
+   * [Tech Debt Reducer](../exercises/clean-code/tech-debt-reducer.md)
 </details>
 
 ----
@@ -41,10 +41,11 @@
    * Theorize how you might better identify code smells
 
    #### Resources
-   * https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+   * [Code smells `Resource`](https://refactoring.guru/refactoring/smells)
+   * [Clean Code `Book ($)`](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
    #### Exercises
-   * Investigate an existing codebase, and document code smells that you find
+   * [Code Smell Detector](../exercises/clean-code/code-smell-detector.md)
 </details>
 
 ----
@@ -61,10 +62,12 @@
    * Compare simple and complex solutions and theorize which last longer
 
    #### Resources
-   * https://leanpub.com/4rulesofsimpledesign
+   * [Conway's Game of Life `Game`](https://copy.sh/life/)
+   * [Inventing Game of Life (John Conway) `Video`](https://www.youtube.com/watch?v=R9Plq-D1gEk)
+   * [4 Rules of Simple Design `Book ($)`](https://leanpub.com/4rulesofsimpledesign)
 
    #### Exercises
-   * Build Conway’s Game of Life using the four rules of simple design
+   * [Conway's Game of Life](../exercises/clean-code/conways-game-of-life.md)
 </details>
 
 ----
@@ -84,7 +87,7 @@
    * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
 
    #### Exercises
-   * Use as many design patterns as you can while solving kata problems (what did you learn?)
+   * [Clean Katas](../exercises/clean-code/clean-katas.md)
 </details>
 
 ----
@@ -103,5 +106,5 @@
    * [Refactoring `Resource`](https://refactoring.guru/refactoring)
 
    #### Exercises
-   * Refactor some dirty code on an existing project (maybe from your investigation earlier!)
+   * [Dirty Code Eliminator](../exercises/clean-code/dirty-code-eliminator.md)
 </details>
