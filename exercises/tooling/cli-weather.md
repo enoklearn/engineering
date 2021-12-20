@@ -26,7 +26,7 @@ Use the following steps to help you progress through the exercise (use your own 
 1. Find a weather API that can fetch the weather based on a zip code
 2. Use [`curl`](https://man7.org/linux/man-pages/man1/curl.1.html) to fetch the weather data from the API
 3. Use [`jq`](https://stedolan.github.io/jq/) to parse the JSON data
-4. Use `echo` to print the data to the command line
+4. Use [`echo`](https://man7.org/linux/man-pages/man1/echo.1.html) to print the data to the command line
 5. Use `--zipcode` flag to pass a zip code to the script (if no zipcode is provided, `echo` an error message)
 6. Create a `weather` alias for your bash script to be used in the command line
 
