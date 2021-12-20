@@ -1,10 +1,10 @@
-# Exercise: Improve Test Coverage
+# Exercise: Improve Test Quality and Coverage
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Improve the test coverage of an existing project |
+| Goal | Improve the test quality coverage of an existing project test suite |
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 

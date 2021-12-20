@@ -49,7 +49,7 @@
    * [Test Driven Development `Resource`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
    #### Exercises
-   * [Improve Test Coverage](../exercises/automated-testing/improve-test-coverage.md)
+   * [Improve Test Quality and Coverage](../exercises/automated-testing/improve-test-quality-and-coverage.md)
 </details>
 
 ----

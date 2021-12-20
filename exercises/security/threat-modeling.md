@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Create a threat model for your toothbrush, how might your protect your toothbrush from adversaries? |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Goal | Create a threat model to protect your toothbrush from adversaries! |
+| Duration | 2-4 hours |
 
 ## Steps
 
