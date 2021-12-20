@@ -1,4 +1,4 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Setup a CI/CD Pipeline
 
 ## Overview
 

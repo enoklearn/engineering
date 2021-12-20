@@ -1,4 +1,4 @@
-# Exercise: Database Test Double
+# Exercise: API Test Double
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Pair with your Mentor
 
 ## Overview
 

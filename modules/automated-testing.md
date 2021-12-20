@@ -95,7 +95,7 @@
    * [Mocks aren't stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
    #### Exercises
-   * [Database Test Double](../exercises/automated-testing/database-test-double.md)
+   * [API Test Double](../exercises/automated-testing/API-test-double.md)
 </details>
 
 ----

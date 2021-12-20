@@ -1,4 +1,4 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Fetch an Application Secret
 
 ## Overview
 

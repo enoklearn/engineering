@@ -1,4 +1,4 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Virtual Machine Provisioning
 
 ## Overview
 

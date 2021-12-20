@@ -1,11 +1,11 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Feature Shipping
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Ship a new feature using the ramp up technique |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Ship a small feature using the ramp up technique |
+| Duration | 8-16 hours |
 
 
 ## Steps

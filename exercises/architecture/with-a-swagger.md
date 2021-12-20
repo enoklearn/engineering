@@ -1,11 +1,11 @@
-# Exercise: EXERCISE_NAME
+# Exercise: With a Swagger
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
 | Goal | Setup Swagger on an API and use the interactive documentation to send a POST request! |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

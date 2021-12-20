@@ -1,11 +1,11 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Microservice Scoping
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Determine several methods to define the scope of responsibility for a microservice |
+| Duration | 2-4 hours |
 
 
 ## Steps

@@ -1,4 +1,4 @@
-# Exercise: Klean Katas
+# Exercise: Clean Katas
 
 ## Overview
 

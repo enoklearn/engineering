@@ -1,4 +1,4 @@
-# Exercise: EXERCISE_NAME
+# Exercise: Conway's Game of Life
 
 ## Overview
 
