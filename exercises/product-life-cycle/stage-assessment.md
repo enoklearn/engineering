@@ -1,22 +1,22 @@
 # Exercise: Assessing the Stage of your Product
 
-## Goal
-To help an apprentice uncover the stage of the product they’ll be working on, and how that stage effects the software development strategies their products teams choose
-
 ## Overview
+
+| Key | Value |
+| --- | --- |
+| Goal | To help an apprentice uncover the stage of the product they’ll be working on, and how that stage effects the software development strategies their products teams choose |
+| Duration | 1-4 hours |
+
 From the prior two topic exercises, the apprentice has now likely uncovered 1) where the business is at on its journey to product-market fit and 2) how that then has influenced the stage the company is now at. Based on the company’s stage, we now turn our attention to assessing the influence the company stage has on the goals the business places on the product and how then the product teams decide to build and maintain it.
 
 This exercise will consist of conversations and reviewing the current product planning documentation in order to help further develop the apprentice’s mental image of the larger context that the business is in, what role the apprentice will play in it all, and the rationale behind how the product development teams currently prioritize different software development strategies.
 
 This exercise will guide the apprentice in uncovering what stage they assess the product to be in, and will even stretch the apprentice to consider if how the company sees its product, along with its current goals, is in harmony with their company stage.
 
-## Duration
-1-4 hours (depending on how many interviews and document reviews it takes to gauge the product’s stage)
-
-## Supporting Roles
 A “manager” role on a product team will likely know where to look in uncovering where the company stores its product charter/planning documentation. If there is not a “manager” associated with a team, then might the mentor or another leadership role know if these documents exist and where they are stored?
 
-## Steps/Description
+## Steps
+
 In uncovering how the business prioritizes and sets the goals of its product(s), first reading articles/documentation written by the business, or its product teams, is an easy way to quickly assimilate.
 
 **Step 1** - Ask your mentor or a “manager” on your team if the following types of documents exist, and if so, where they live:
@@ -77,9 +77,11 @@ Use the following questions to help guide the conversation with your mentor, or 
   - What factors would need to be in place for us to consider using/adhering to these items? 
   - Does the current stage of the product support the avoidance of these items? (refer to the goals of the product stages for context/comparison)
 
-## Demo/Reflection
-Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
-- What conclusion can you share with/show your mentor?
+## Reflection
+
+Use the following questions to reflect on what you learned with this exercise:
+
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

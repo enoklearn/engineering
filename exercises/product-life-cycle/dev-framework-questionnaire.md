@@ -1,9 +1,12 @@
 # Exercise: Software Development Framework Questionnaire
 
-## Goal
-To give an apprentice a way to quickly assess the typical software development process at their company and to see it in action.
-
 ## Overview
+
+| Key | Value |
+| --- | --- |
+| Goal | To give an apprentice a way to quickly assess the typical software development process at their company and to see it in action. |
+| Duration | 1-8 hours |
+
 Now that the apprentice has built a good overview of the larger context the business is serving its customers in, and their place in it all, we turn our attention to understanding what overarching process their company uses to discover, design, build, deploy, and maintain software. 
 
 To do this we will want to start with fostering conversations with those that own and direct the process as it is today, from the various angles of the business and product teams. To see the whole picture from the various angles, we’ll want to be able to peer through the lens of the following disciplines:
@@ -17,10 +20,6 @@ To do this we will want to start with fostering conversations with those that ow
 
 To complete the picture, we will want to immerse the apprentice in the appropriate meetings that allow them to see the coordination of the various disciplines in the collective effort to 1) understand the end users and business constraints, 2) ideate and validate solutions to end users’ needs, 3) and to ship, deploy and maintain code, all while learning and pivoting as needed.
 
-## Duration
-1-8 hours (depending on how many conversations and meetings are observed)
-
-## Supporting Roles
 In order to peer into how software is typically developed in an industry and inside a company specifically, look at the following list of roles to see which are in the organization, and use judgement, or the guidance of the mentor,  if it is most effective to have one-on-one or group discussion: 
 - Agile Coach / Release Train Engineer
 - Scrum Master / Delivery Manager
@@ -29,7 +28,8 @@ In order to peer into how software is typically developed in an industry and ins
 - Lead Product Designer  
 - Business Owner / Subject Matter Expert / Key Stakeholders
 
-## Steps/Description
+## Steps
+
 In order to get initial exposure to how software is currently developed in a company, use the following questions and prompts with the appropriate roles and disciplines listed out above:
 
 **Note** - Not all questions here will be relevant for all of the roles above to answer.
@@ -68,10 +68,11 @@ In order to get initial exposure to how software is currently developed in a com
 - What are some of the current **pain points** the team agrees exists in the process today? 
   - Are there any team norm **experiments** in process now to test out these areas of improvement?
 
-## Demo/Reflection
-Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
+## Reflection
 
-- What conclusion can you share with/show your mentor?
+Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
+
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

@@ -6,7 +6,7 @@
 | --- | --- |
 | Goal | Use a design system to create an interface. |
 | Tools/Material | TextEditor, [Material Design Components](https://material.io/components?platform=web) |
-| Duration | 2 hours |
+| Duration | 2-3 hours |
 
 
 ## Steps
@@ -31,7 +31,7 @@
 
 Use the following questions to reflect on what you learned with this exercise:
 
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - Where do you want to go from here?
 

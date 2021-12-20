@@ -34,7 +34,7 @@ Use the following questions to reflect on what you learned with this exercise:
 - Did the designer understand the feedback?
     - Did the apprentice seek proper understanding before making suggestions?
     - Was feedback delivered respectfully?
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - Where do you want to go from here?
 

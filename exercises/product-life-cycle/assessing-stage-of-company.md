@@ -1,20 +1,19 @@
 # Exercise: Assessing the Stage of your Company
 
-## Goal
-To give an apprentice a simple framework to assess the stage of the company they are serving.
-
 ## Overview
+
+| Key | Value |
+| --- | --- |
+| Goal | To give an apprentice a simple framework to assess the stage of the company they are serving. |
+| Duration | 1-4 hours |
+
 In the prior exercise “Product-Market Fit Indicator Questionnaire,” the apprentice has likely gotten a glimpse of where their company is at on its journey toward reaching product-market fit (pre-, near-, or post-PMF). Based on the company’s progress in this journey, we now turn our attention to assessing the influence their step in the journey has in defining its current goals. 
 
 This exercise will consist of interviews and company documentation review to help further develop the apprentice’s mental image of the larger context that the business is in, and what role the apprentice will play in it all. It will guide the apprentice in uncovering what stage they assess the company to be in, and will even stretch the apprentice to consider if how the company sees itself, along with its current goals, is in harmony with their journey toward PMF.
 
-## Duration
-1-4 hours (depending on how many interviews and document reviews it takes to gauge the company’s stage)
-
-## Supporting Roles
 A “manager” role on a product team will likely know where to look in uncovering where the business stores its visionary/strategic/goal-oriented documents.  If there is not a “manager” associated with a team, then might the mentor or another leadership role know if these documents exist and where they are stored? 
 
-## Steps/Description
+## Steps
 In uncovering how the business sees itself and defines its current goals, first reading articles/documentation written by the business itself is an easy way to quickly assimilate. 
 
 **Step 1** - Ask a your mentor or “manager” on your team if the following types of documents exist, and if so, where they live:
@@ -58,10 +57,11 @@ In uncovering how the business sees itself and defines its current goals, first 
   - If not, what does that tell you? What further conversions might you have to offer this needed feedback?
 
 
-## Demo/Reflection
-Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
+## Reflection
 
-- What conclusion can you share with/show your mentor?
+Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
+
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

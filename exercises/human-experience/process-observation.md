@@ -6,7 +6,7 @@
 | --- | --- |
 | Goal | Learn to see from the customer’s perspective by observing them accomplish a goal. (Create a empathy map) |
 | Tools/Material | Notebook & pencil or a digital white boarding tool (like a Miro, Invision Freehand or FigJam) |
-| Duration | 2 hours |
+| Duration | 2-3 hours |
 
 
 ## Steps
@@ -34,7 +34,7 @@
 
 Use the following questions to reflect on what you learned with this exercise:
 
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - Do you feel like you learned something new about the people you observed, that you wouldn’t have expected?
     - How many people did you have to observe before learning that?
 - What are some ideas you have for improving the process, to work better for the group you observed?

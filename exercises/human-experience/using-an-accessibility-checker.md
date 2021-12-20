@@ -29,7 +29,7 @@ Use or tweak these questions, and use them as prompts to guide a conversation of
 
 - How did each website score? 
 - Discuss some of the violations, and ways each website could improve. 
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - Where do you want to go from here?
 

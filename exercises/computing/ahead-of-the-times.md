@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Build yourself a newsfeed that brings together the essential articles you care about (consider using an RSS reader) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps
@@ -26,7 +26,7 @@ Use the following questions to reflect on what you learned with this exercise an
 
 SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
 
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

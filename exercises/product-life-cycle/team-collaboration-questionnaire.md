@@ -1,19 +1,18 @@
 # Exercise: Team Collaboration Questionnaire
 
-## Goal
-To to give an apprentice a way to quickly assess the typical composition of a product team in the organization, and how a team collaborates toward a shared goal.
-
 ## Overview
+
+| Key | Value |
+| --- | --- |
+| Goal | To to give an apprentice a way to quickly assess the typical composition of a product team in the organization, and how a team collaborates toward a shared goal |
+| Duration | 1-8 hours |
+
 Now that the apprentice has a mental image of the overarching development process and how product teams collaborate among themselves, and then with the business, we turn our attention to how individuals within a product team collaborate to ship software products out the door.
 
 To do this, we will want to start with fostering conversations with a representative from each of the disciples the apprentice will likely work with on a product team. This will give the apprentice direct interaction and empathy for all the roles of a typical team, and then how to work with them effectively.
 
 To complete the picture, we will want to then immerse the apprentice in the appropriate working sessions that allow them to see the individual work and the coordinated efforts among the various disciplines within a team.
 
-## Duration
-1-8 hours (depending on how many conversations and working sessions are observed)
-
-## Supporting Roles
 In order to understand and peer into how digital products are discover, designed, developed, deployed, and maintained by a team, look at the following list of likely roles to see which are commonly part of a product team at the company, and use judgement, or the guidance of the mentor, if it is most effective to have one-on-one or group discussions:
 - Product Manager
 - Business Analysts 
@@ -22,7 +21,8 @@ In order to understand and peer into how digital products are discover, designed
 - Cloud Engineer / DevOps
 - Data Scientist / Engineer
 
-## Steps/Description
+## Steps
+
 In order to get initial exposure to how digital products are currently developed in a team, use the following questions and prompts with the appropriate roles and disciplines listed out above:
 
 **Understanding product team dynamics and maturity:**
@@ -66,9 +66,11 @@ In order to get initial exposure to how digital products are currently developed
   - A designer, a developer, and a product manager
   - Etc.
   
-## Demo/Reflection
-Depending on the cadence that’s been worked out between the mentor and apprentice, look to use the following questions to guide a self-reflection  or a discussion together:
-- What conclusion can you share with/show your mentor?
+## Reflection
+
+Use the following questions to reflect on what you learned with this exercise:
+
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

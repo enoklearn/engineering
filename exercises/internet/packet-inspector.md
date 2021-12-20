@@ -26,7 +26,7 @@
 
 Use the following questions to reflect on what you learned with this exercise:
 
-- What conclusion can you share with/show your mentor?
+- What conclusion can you share with your mentor?
 - What surprised you about this exercise?
 - Where do you want to go from here?
 
