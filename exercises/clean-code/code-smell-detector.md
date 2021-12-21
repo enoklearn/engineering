@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Investigate an existing codebase, and document code smells that you find |
+| Goal | Investigate an existing codebase, and create an inventory of code smells that you might find |
 | Duration | 2-4 hours |
 
 

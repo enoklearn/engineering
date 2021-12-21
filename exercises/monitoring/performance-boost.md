@@ -5,8 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Pair with a software engineer to improve the performance of a feature using telemetry data |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Duration | 1-4 hours |
 
 ## Steps
 

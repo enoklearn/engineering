@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Using the proper test double, create a unit test that covers a features which consumes an API |
 | Duration | 2-4 hours |
-
 
 ## Steps
 

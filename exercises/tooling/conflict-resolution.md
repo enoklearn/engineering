@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Fork the `merge-conflict-kitchen-sink` repo and resolve the conflicts |
+| Goal | Clone the `exercise-conflict-resolution` repo and resolve the conflicts |
 | Duration | 1-2 hours |
 
 ## Steps

@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Build a simple logic gate using some wire and a battery |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 30 minutes |
 
 
 ## Steps

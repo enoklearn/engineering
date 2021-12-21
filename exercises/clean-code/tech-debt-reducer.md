@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Get involved in an architecture meeting, explore the business viability aspect of technical debt |
+| Goal | Get involved in an architecture meeting and gain a better understanding of the business aspect of technical debt |
 | Duration | 2-4 hours |
 
 

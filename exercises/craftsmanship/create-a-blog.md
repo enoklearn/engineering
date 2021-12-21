@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Create a blog (perhaps using a content management system) to share your thoughts during your journey |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

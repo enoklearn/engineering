@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Solve as many katas as you can (ideally pair programming!) |
+| Goal | Solve as many katas as you can with the allotted time (ideally pair programming!) |
 | Duration | 4 hours |
 
 

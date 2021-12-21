@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | 1-2 hours |
-
+| Goal | Describe three features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
+| Duration | 2-3 hours |
 
 ## Steps
 

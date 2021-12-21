@@ -129,5 +129,5 @@
    * [Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises
-   * [Flakey Test Refactor](../exercises/automated-testing/flaky-test-refactor.md)
+   * [Flaky Test Refactor](../exercises/automated-testing/flaky-test-refactor.md)
 </details>

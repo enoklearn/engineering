@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Improve the test quality coverage of an existing project test suite |
+| Goal | Improve the test quality of 6-12 unit tests in an existing project |
 | Duration | 2-4 hours |
 
 

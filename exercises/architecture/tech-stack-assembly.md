@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Select the tech on a frontend, backend, and database for a simple tasklist app |
+| Goal | Select the tech stack for a simple tasklist app |
 | Duration | 2-4 hours |
 
 

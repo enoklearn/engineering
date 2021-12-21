@@ -1,12 +1,11 @@
-# Exercise: Dirty Code Eliminator
+# Exercise: Super Dashboard
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Refactor some dirty code on an existing project (maybe from your investigation earlier!) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Goal | Create a dashboard to visualize metrics of your application using DataDog |
+| Duration | 1-2 hours |
 
 ## Steps
 

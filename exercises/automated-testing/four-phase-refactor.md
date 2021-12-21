@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Refactor a test suite to use the four-phased test approach |
+| Goal | Refactor 6-12 unit tests to use the four-phased test approach in an existing project |
 | Duration | 2-3 hours |
 
 

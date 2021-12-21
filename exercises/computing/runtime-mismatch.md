@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Explore running source code using different language runtime versions |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

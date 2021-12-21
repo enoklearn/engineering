@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Pair with a software engineer on a production bug, and use telemetry data to assist in recreating the problem |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Goal | Pair with a software engineer to fix a bug using telemetry data |
+| Duration | 1-4 hours |
 
 ## Steps
 

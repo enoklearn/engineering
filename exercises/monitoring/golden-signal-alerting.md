@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup alerts based on one of the golden signals |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Goal | Setup alerts based on the golden signals |
+| Duration | 1-2 hours |
 
 ## Steps
 

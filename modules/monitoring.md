@@ -51,7 +51,7 @@
    * [Distributed Monitoring 101 `Article`](https://medium.com/forepaas/distributed-monitoring-101-the-four-golden-signals-305bbbc33d35)
 
    #### Exercises
-   * [Setup a Dashboard in Grafana](../exercises/monitoring/setup-a-dashboard-in-grafana.md)
+   * [Super Dashboard](../exercises/monitoring/super-dashboard.md)
 </details>
 
 ----

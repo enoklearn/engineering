@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Pair with your mentor and solve a problem together! |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Pair with your mentor and solve some problems together! |
+| Duration | 1-4 hours |
 
 
 ## Steps

@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Using Terraform, create a production environment using the "workspaces" feature |
+| Goal | Using Terraform, create two mirrored environments using the "workspaces" feature |
 | Duration | 2-4 hours |
 
 

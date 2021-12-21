@@ -1,10 +1,10 @@
-# Exercise: Flakey Test Refactor
+# Exercise: Flaky Test Refactor
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
+| Goal | Clone the `exercise-flaky-tests` repo and fix the flaky tests |
 | Duration | 1-2 hours |
 
 

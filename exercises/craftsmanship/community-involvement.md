@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Get engaged in the software community by joining a discord group! |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Get engaged in the software community (online or in-person!) |
+| Duration | 1-4 hours |
 
 
 ## Steps

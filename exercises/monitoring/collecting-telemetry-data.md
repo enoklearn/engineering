@@ -5,8 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Collect logs using stdout in an application |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Duration | 1-2 hours |
 
 ## Steps
 

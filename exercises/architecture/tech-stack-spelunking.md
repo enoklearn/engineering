@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | 4-6 hours |
+| Goal | Research the tech stack of a few popular products, what can you learn from them? |
+| Duration | 3-4 hours |
 
 
 ## Steps

@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Fix a Broken Access Control vulnerability from the `exercise-broken-access-control` repo |
+| Goal | Clone the `exercise-broken-access-control` repo and fix the vulnerability |
 | Duration | 2-3 hours |
 
 

@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Connect your application to an ORM (such as Prisma) and update the schema of a database using data models |
+| Goal | Connect your application to an ORM (such as Prisma) and update the schema using database migrations |
 | Duration | 2-4 hours |
 
 
