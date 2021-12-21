@@ -129,7 +129,7 @@
    * [What is Mocking? `Thread`](https://stackoverflow.com/questions/2665812/what-is-mocking)
 
    #### Exercises
-   * [API Test Double](../exercises/automated-testing/API-test-double.md)
+   * [API Test Double](../exercises/automated-testing/api-test-double.md)
 </details>
 
 ----
