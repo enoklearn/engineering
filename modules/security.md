@@ -22,7 +22,8 @@
    * Explain what remediation is, and how you might remediate an “Injection” vulnerability
 
    #### Resources
-   * https://owasp.org/Top10/
+   * [OWASP Top 10:2021 `Resource`](https://owasp.org/Top10/)
+   * [OWASP Top 10:2021 Overview `Video`](https://youtu.be/uLBCDBnMEt0?t=929)
 
    #### Exercises
    * [Remediate the Broken Access Control vulnerability](../exercises/security/broken-access-control.md)

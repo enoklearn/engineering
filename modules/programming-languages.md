@@ -44,7 +44,7 @@
    * Theorize how you might learn a language fluently
 
    #### Resources
-   * [How it all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
+   * [How katas all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
    * [Awesome Katas `Resource`](https://github.com/gamontal/awesome-katas)
    * [CodeWars `Resource`](https://codewars.com/)
 

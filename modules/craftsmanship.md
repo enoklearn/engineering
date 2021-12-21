@@ -49,11 +49,11 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * Theorize why the pursuit of craftsmanship leads to a higher quality of work
 
    #### Resources
-   * [Jiro Dreams of Sushi `Film`](https://www.imdb.com/title/tt1772925/)
    * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `Article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
    * [What is craftsmanship and does it matter? `Article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
+   * [Jiro Dreams of Sushi `Film ($)`](https://www.imdb.com/title/tt1772925/)
    * [Better: A Surgeon’s Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
    #### Exercises
@@ -106,7 +106,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * [Apprenticeship Patterns `Book ($)`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
    
    #### Exercises
-   * [Create a Blog](../exercises/craftsmanship/create-a-blog.md)] 
+   * [Create a Blog](../exercises/craftsmanship/create-a-blog.md)
 </details>
 
 ----

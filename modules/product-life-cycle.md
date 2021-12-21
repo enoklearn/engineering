@@ -22,16 +22,16 @@
 
    #### Resources
    * [PMF Introduction `Article`](../resources/pmf-intro.md)
-   * [Value Proposition Design `Book`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
-   * [The Mom Test `Book`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
-   * [Startup Owner’s Manual `Book`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
-   * [Four Steps to the Epiphany `Book`](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358)
-   * [Blue Ocean Strategy `Book`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
-   * [Business Model Generation `Book`](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
    * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
    * [Never Ending Road to PMF `Article`](https://brianbalfour.com/essays/product-market-fit)
    * [A Company’s Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
    * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
+   * [Value Proposition Design `Book ($)`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
+   * [The Mom Test `Book ($)`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+   * [Startup Owner’s Manual `Book ($)`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
+   * [Four Steps to the Epiphany `Book ($)`](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358)
+   * [Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
+   * [Business Model Generation `Book ($)`](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
 
    #### Exercises
    * [Product-Market Fit Indicator Questionnaire](../exercises/product-life-cycle/pmf-questionnaire.md)
@@ -50,16 +50,16 @@
 
    #### Resources
    * [Stages of a Company Introduction `Article`](../resources/stages-of-a-company-intro.md)
-   * ["Start": Inspired: How to create tech products customers love `Book`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
-   * ["Start": The Lean Startup `Book`](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-   * ["Start": The Startup Way `Book`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
-   * ["Start": The Lean Product Playbook `Book`](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874)
-   * ["Start": Jobs to be Done `Book`](https://www.amazon.com/Jobs-Be-Done-Theory-Practice/dp/B08R8ZGPXP)
-   * ["Scale": Crossing the Chasm `Book`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
-   * ["Scale": Measure what Matter Most `Book`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
-   * ["Sustain/Shift": The Innovator’s Dilemma `Book`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
-   * ["Sustain/Shift": Blue Ocean Strategy `Book`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
+   * ["Start": Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+   * ["Start": The Lean Startup `Book ($)`](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+   * ["Start": The Startup Way `Book ($)`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
+   * ["Start": The Lean Product Playbook `Book ($)`](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874)
+   * ["Start": Jobs to be Done `Book ($)`](https://www.amazon.com/Jobs-Be-Done-Theory-Practice/dp/B08R8ZGPXP)
+   * ["Scale": Crossing the Chasm `Book ($)`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
+   * ["Scale": Measure what Matter Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+   * ["Sustain/Shift": The Innovator’s Dilemma `Book ($)`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
+   * ["Sustain/Shift": Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
 
    #### Exercises
    * [Assessing the Stage of your Company](../exercises/product-life-cycle/assessing-stage-of-company.md)
@@ -80,8 +80,8 @@
 
    #### Resources
    * [Product Life Cycle Stages Introduction `Article`](../resources/stages-of-a-product-intro.md)
-   * [Product Roadmaps: Relaunched `Book`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
+   * [Product Roadmaps: Relaunched `Book ($)`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
 
    #### Exercises
    * [Assessing the Stage of your Product](../exercises/product-life-cycle/stage-assessment.md)
@@ -119,17 +119,17 @@
    * [ProductPlan’s view on Agile Frameworks `Article`](https://www.productplan.com/glossary/agile-framework/)
    * [Wideview of digital project manager methods/frameworks `Article`](https://thedigitalprojectmanager.com/agile-methodologies/)
    * [Choosing the right agile framework for you `Article`](https://www.linkedin.com/pulse/choosing-right-agile-framework-you-paul-j-heidema/)
-   * [Lean Software Development `Book`](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
-   * [Scrum: The art of doing twice the work in half the time `Book`](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
-   * [User Stories Applied `Book`](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
-   * [Coaching Agile Teams `Book`](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-dp-B08QTX31HV/dp/B08QTX31HV)
-   * [Extreme Programming Explained `Book`](https://www.amazon.com/Extreme-Programming-Explained-5-Oct-1999-Paperback/dp/B011T86NIY)
-   * [Getting Started with Kanban `Book`](https://www.amazon.com/Getting-Started-Kanban-Paul-Klipp/dp/149531197X)
-   * [Agile Retrospectives `Book`](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
-   * [Creative Confidence `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
-   * [Sprint: how to solve big problems and test new ideas in just five days `Book`](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
-   * [Collaborative Intelligence: Using teams to solve hard problems `Book`](https://www.amazon.com/Collaborative-Intelligence-Using-Teams-Problems/dp/B00B5AOGTA)
-   * [Empowered: ordinary people, extraordinary products `Book`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
+   * [Lean Software Development `Book ($)`](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+   * [Scrum: The art of doing twice the work in half the time `Book ($)`](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+   * [User Stories Applied `Book ($)`](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
+   * [Coaching Agile Teams `Book ($)`](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-dp-B08QTX31HV/dp/B08QTX31HV)
+   * [Extreme Programming Explained `Book ($)`](https://www.amazon.com/Extreme-Programming-Explained-5-Oct-1999-Paperback/dp/B011T86NIY)
+   * [Getting Started with Kanban `Book ($)`](https://www.amazon.com/Getting-Started-Kanban-Paul-Klipp/dp/149531197X)
+   * [Agile Retrospectives `Book ($)`](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+   * [Creative Confidence `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+   * [Sprint: how to solve big problems and test new ideas in just five days `Book ($)`](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
+   * [Collaborative Intelligence: Using teams to solve hard problems `Book ($)`](https://www.amazon.com/Collaborative-Intelligence-Using-Teams-Problems/dp/B00B5AOGTA)
+   * [Empowered: ordinary people, extraordinary products `Book ($)`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 
    #### Exercises
    * [Software Development Framework Questionnaire](../exercises/product-life-cycle/dev-framework-questionnaire.md)
@@ -153,12 +153,12 @@
    * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)
    * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
    * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
-   * [Inspired: How to create tech products customers love `Book`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
-   * [The Product Book `Book`](https://www.amazon.com/Product-Book-Become-Great-Manager/dp/0998973815)
-   * [Everyday Business Storytelling `Book`](https://www.amazon.com/dp/1119704669)
-   * [Storytelling with Data - A data visualization guide for business professionals `Book`](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
-   * [Creative Confidence `Book`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
-   * [Agile Estimating and Planning `Book`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
+   * [Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+   * [The Product Book `Book ($)`](https://www.amazon.com/Product-Book-Become-Great-Manager/dp/0998973815)
+   * [Everyday Business Storytelling `Book ($)`](https://www.amazon.com/dp/1119704669)
+   * [Storytelling with Data - A data visualization guide for business professionals `Book ($)`](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+   * [Creative Confidence `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+   * [Agile Estimating and Planning `Book ($)`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
 
    #### Exercises
    * [Team Collaboration Questionnaire](../exercises/product-life-cycle/team-collaboration-questionnaire.md)

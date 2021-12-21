@@ -76,7 +76,7 @@
    #### Resources
    * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
    * [VirtualBox `Tool`](https://www.virtualbox.org/)
-   * [DigitalOcean Learning Library](https://www.digitalocean.com/community)
+   * [DigitalOcean Learning Library `Resource`](https://www.digitalocean.com/community)
 
    #### Exercises
    * [Virtual Machines](../exercises/computing/virtual-machines.md)
@@ -97,8 +97,8 @@
 
    #### Resources
    * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+   * [How do computers read code? `Video`](https://www.youtube.com/watch?v=QXjU9qTsYCc)
    * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
-   * [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
  
    #### Exercises
    * [Runtime Mismatch](../exercises/computing/runtime-mismatch.md)

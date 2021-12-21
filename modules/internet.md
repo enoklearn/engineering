@@ -52,7 +52,7 @@
    * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
    * [Real life example of TCP/IP and OSI layers `Video`](https://www.youtube.com/watch?v=3kfO61Mensg)
    * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
-   * [Networking Zine `Book`](https://jvns.ca/networking-zine.pdf)
+   * [Networking Zine `Book`](https://wizardzines.com/zines/networking/)
    * [Wireshark `Tool`](https://www.wireshark.org/)
    * [Questions about network layers `Course`](https://questions.wizardzines.com/network-layers.html)
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)

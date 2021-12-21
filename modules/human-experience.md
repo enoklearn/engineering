@@ -21,9 +21,7 @@
 
    #### Resources
    * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
-   * [Abstract `Film`](https://www.netflix.com/title/80057883)
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
-   * [Intro to Design Terminology `Course`](https://app.uxcel.com/courses/design-lingo)
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
    * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
@@ -56,8 +54,6 @@
    * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
    * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
    * [Foundations in Design Thinking Certificate - IDEO U `Course ($)`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
-   * [Design Thinking Defined: By IDEO](https://designthinking.ideo.com/)
-   * [What is Deign Thinking: IDEO University](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
 
    #### Exercises
    * [Process Observation (Empathy Mapping)](../exercises/human-experience/process-observation.md) 
@@ -135,8 +131,8 @@
 
    #### Resources
    * [6 ways for designers and developers to collaborate better - Invision `Article`](https://www.invisionapp.com/inside-design/designer-developer-collaboration-ideas/)
-   * [Intro to Design Terminology: By UXcel](https://app.uxcel.com/courses/design-lingo)
-   * [Abstract - The Art of Design: Netflix](https://www.netflix.com/title/80057883)
+   * [Intro to Design Terminology `Course`](https://app.uxcel.com/courses/design-lingo)
+   * [Abstract - The Art of Design: Netflix `Film ($)`](https://www.netflix.com/title/80057883)
    * Your company's designers!
 
    #### Exercises

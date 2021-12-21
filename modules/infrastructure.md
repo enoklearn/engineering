@@ -30,7 +30,7 @@
    * [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
    * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
    * [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
-   * [A Cloud Guru `Resource](https://acloudguru.com/)
+   * [A Cloud Guru `Resource`](https://acloudguru.com/)
 
    #### Exercises
    * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
@@ -111,7 +111,7 @@
    * Explain how you might collaborate with a cloud engineer to design and provision infrastructure for an application
 
    #### Resources
-   * [How to become a Cloud Engineer in 2022 `Video`](https://www.youtube.com/watch?v=vWerXJrNw2g)
+   * [What is a Cloud Engineer? `Video`](https://www.youtube.com/watch?v=NBHc6tatwvo)
    * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win `Book ($)`](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
    * [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data `Book ($)`](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
 
