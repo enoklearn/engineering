@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn the evolution of the mentality and focus a developer will have through the various stages of a company and a product, and how to find success in each.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138342120-9dd3efff-bf3d-4242-9aed-20d874252266.png">
+<img width="1440" alt="Peaceful forest" src="https://user-images.githubusercontent.com/894178/138342120-9dd3efff-bf3d-4242-9aed-20d874252266.png">
 
 ## Topics
 

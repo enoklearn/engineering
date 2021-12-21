@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn the art and science of writing code for humans and computers.
 
-<img width="1440" alt="Clean Code Module" src="https://user-images.githubusercontent.com/894178/138357230-15d654b7-8d0f-4584-bdb9-d9bc73f3b605.png">
+<img width="1440" alt="Snow field with mountains" src="https://user-images.githubusercontent.com/894178/138357230-15d654b7-8d0f-4584-bdb9-d9bc73f3b605.png">
 
 ## Topics
 

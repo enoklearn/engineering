@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
+<img width="1440" alt="An Apple Macintosh computer" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
 
 
 ## Topics

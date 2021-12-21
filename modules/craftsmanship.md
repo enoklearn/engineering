@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to elevate your mindset to pursue excellence in any worthwhile endeavor, equipping you for the lifelong journey of mastering your craft.
 
-<img width="1440" alt="Sushi chef" src="https://user-images.githubusercontent.com/894178/146979548-c4972b5e-908e-46cf-a317-1068966c6dc1.png">
+<img width="1440" alt="Sushi chef at work" src="https://user-images.githubusercontent.com/894178/146979548-c4972b5e-908e-46cf-a317-1068966c6dc1.png">
 
 ## Topics
 

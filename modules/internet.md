@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn the basics of internet protocols, configuring networks, and how to build connected applications using web services.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138342312-9b04d4be-ae91-429b-b5cf-3556b6caea5d.png">
+<img width="1440" alt="Earth as seen from space" src="https://user-images.githubusercontent.com/894178/138342312-9b04d4be-ae91-429b-b5cf-3556b6caea5d.png">
 
 ## Topics
 

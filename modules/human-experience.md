@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to build products that users love by empathizing with the target customers, understanding their problems, and working more collaboratively with designers on your team.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138355309-15bc165b-d913-4022-bc54-8778e3d5b5c1.png">
+<img width="1440" alt="Woman using a computer" src="https://user-images.githubusercontent.com/894178/138355309-15bc165b-d913-4022-bc54-8778e3d5b5c1.png">
 
 ## Topics
 

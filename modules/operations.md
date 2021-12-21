@@ -5,7 +5,7 @@
 
 ### With this module, you'll learn the discipline of change management, automated techniques to distribute your product, and how to monitor product health.
 
-<img width="1440" alt="Operations Module" src="https://user-images.githubusercontent.com/894178/138357853-527268e0-eb25-447b-bf1f-c1f654ab3e70.png">
+<img width="1440" alt="NASA control room" src="https://user-images.githubusercontent.com/894178/138357853-527268e0-eb25-447b-bf1f-c1f654ab3e70.png">
 
 ## Topics
 

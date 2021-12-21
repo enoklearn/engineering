@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to design and build software systems from a high-level architectural perspective without losing touch with the low-level implementation details.
 
-<img width="1440" alt="Architecture Module" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
+<img width="1440" alt="Woman diagramming on a whiteboard" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
 
 ## Topics
 

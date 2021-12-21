@@ -5,7 +5,7 @@
 
 ### With this module, you’ll learn how to streamline your workflow and assemble a dev environment using standard tools and practices, allowing you to focus on crafting quality code.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138342393-9ae8db5b-1166-4d0a-b15a-998a57310c76.png">
+<img width="1440" alt="Workshop with tools" src="https://user-images.githubusercontent.com/894178/138342393-9ae8db5b-1166-4d0a-b15a-998a57310c76.png">
 
 ## Topics
 
