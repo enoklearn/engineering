@@ -12,7 +12,7 @@
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
 1. Clone the `engineerkit/exercise-conflict-resolution` repo
-2. Resolve the conflicts
+2. Resolve the conflicts between all branches
 3. Review with your mentor!
 
 ## Questions
