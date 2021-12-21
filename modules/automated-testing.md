@@ -73,7 +73,7 @@
    * [Testing JavaScript `Course ($)`](https://testingjavascript.com/)
 
    #### Exercises
-   * [Improve Test Quality](../exercises/automated-testing/improve-test-quality-and-coverage.md)
+   * [Red, Green, Refactor](../exercises/automated-testing/red-green-refactor.md)
 </details>
 
 ----

@@ -4,34 +4,39 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Describe three features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
+| Goal | Describe 3 features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
 | Duration | 2-3 hours |
+
+Example psuedo test code:
+
+```
+it ("should __________ when __________")
+it ("should process user payment when 'pay now' button is pressed")
+```
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Create user stories for 3 new features in your application
+2. Define the acceptance criteria of these features
+3. (optional) Create a [Figma](https://figma.com) prototype visually showing what these features do
+4. Create psuedo test code based on the acceptance criteria of your features
+5. Share with your mentor
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- How do you know the features you're creating are valuable to your users?
+- What makes a good user story?
+- Why might visual prototypes be useful?
 
 ## Reflection
 
 Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
-SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
-
 - What conclusion can you share with your mentor?
-- What surprised you about this exercise?
-- How would you say this exercise stretched you? 
-- What did this exercise show you about yourself?
-- If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise? 
-- How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
-- What did this leave you excited to dig further into? 
 - Where do you want to go from here?
 - What would be your next step? What resources can support you in this next step?
 - When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 

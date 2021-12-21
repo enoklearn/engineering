@@ -1,28 +1,30 @@
-# Exercise: Flaky Test Refactor
+# Exercise: Red, Green, Refactor
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Clone the `exercise-flaky-tests` repo and fix the flaky tests |
-| Duration | 1-2 hours |
+| Goal | Use test driven development to create 6-12 unit tests and features in your application |
+| Duration | 2-4 hours |
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. Clone the [`engineerkit/exercise-flaky-tests`](https://github.com/exercise-flaky-tests) repo
-2. Run the CI/CD pipelines to figure out what the flaky tests might be
-3. Fix the flaky tests
-4. Review with your mentor!
+1. Select some feature(s) you want to add to your application
+2. Write some test code and create your first failing unit test (red)
+3. Write some product code and make your unit test pass (green)
+4. Clean up your product code (refactor)
+5. Repeat
+6. Share the results with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- What flaky tests did you encounter?
-- What methods might you use to resolve the flaky tests?
-- How might you prevent flaky tests from being introduced into a test suite?
+- What does "make it work, make it right, make it fast" mean to you?
+- What is the difference between test coverage and test quality?
+- How might TDD (test driven development) improve your productivity?
 
 ## Reflection
 
