@@ -43,11 +43,16 @@
 
    #### Resources
    * [Auth0 `Tool`](https://auth0.com/)
-   * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
    * [AWS Cognito `Tool`](https://aws.amazon.com/cognito/)
-   * [OAuth 2.0 Protocol Definition `Resource`](https://tools.ietf.org/html/rfc6749)
-   * [OWASP Authentication Cheat Sheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-   * [OWASP Authorization Cheat Sheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+   * [Auth0 in 100 Seconds `Video`](https://www.youtube.com/watch?v=yufqeJLP1rI)
+   * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
+   * [Calling an API `Video`](https://auth0.com/docs/videos/learn-identity-series/calling-an-api)
+   * [OpenID Connect and OAuth2 `Video`](https://auth0.com/docs/videos/learn-identity-series/openid-connect-and-oauth2)
+   * [OWASP Authentication Cheatsheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+   * [OWASP Authorization Cheatsheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+   * [OAuth 2.0 Protocol `Resource`](https://tools.ietf.org/html/rfc6749)
+   * [Ethereum Accounts `Article`](https://ethereum.org/en/developers/docs/accounts/)
+   * [Signing in with Ethereum `Video`](https://youtu.be/f9XRH7bjV8M?t=1479)
    * [Identity and Reputation in Web 3 `Article`](https://sinahab.com/identity-and-reputation-in-web-3/)
 
    #### Exercises
@@ -63,11 +68,16 @@
    
    #### Learning Outcomes
    * Describe what an application secret is
+   * Describe what an environment variable is
    * Explain why you might want to secure an application secret
    * Explain how you might inject secrets into an application using environment variables
 
    #### Resources
-   * https://12factor.net/config
+   * [7 Cryptography Concepts EVERY Developer Should Know `Video`](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+   * [1Password Secrets Automation `Tool`](https://1password.com/secrets/)
+   * [AWS Systems Manager (check out Parameter Store) `Tool`](https://aws.amazon.com/systems-manager/features/)
+   * [Working with AWS Parameter Store `Resource`](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-working-with.html)
+   * [12 Factor App: Config `Resource`](https://12factor.net/config)
 
    #### Exercises
    * [Fetch an Application Secret](../exercises/security/fetch-an-application-secret.md)

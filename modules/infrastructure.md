@@ -23,9 +23,14 @@
    * Compare using cloud computing with on-premise computing
 
    #### Resources
-   * https://aws.amazon.com/
-   * https://www.digitalocean.com/
-   * https://acloudguru.com/
+   * [AWS `Tool`](https://aws.amazon.com/)
+   * [Azure `Tool`](https://azure.microsoft.com/en-us/)
+   * [Google Cloud Platform `Tool`](https://cloud.google.com/)
+   * [DigitalOcean `Tool`](https://www.digitalocean.com/)
+   * [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
+   * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
+   * [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
+   * [A Cloud Guru `Resource](https://acloudguru.com/)
 
    #### Exercises
    * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
@@ -44,7 +49,10 @@
    * Explain some of the benefits of infrastructure as code compared to manually provisioning infrastructure
    
    #### Resources
-   * https://www.terraform.io/
+   * [Terraform `Tool`](https://www.terraform.io/)
+   * [AWS CloudFormation `Tool`](https://aws.amazon.com/cloudformation/)
+   * [Terraform in 100 Seconds `Video`](https://www.youtube.com/watch?v=tomUWcQ0P3k)
+   * [Infrastructure as Code with Terraform `Tutorial`](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/aws-get-started)
 
    #### Exercises
    * [Terraform the Cloud](../exercises/infrastructure/terraform-the-cloud.md)
@@ -63,7 +71,7 @@
    * Theorize how you might monitor backing services to ensure they are up
    
    #### Resources
-   * https://12factor.net/
+   * [12 Factor App: Backing Services `Resource`](https://12factor.net/backing-services)
 
    #### Exercises
    * [Mapping Backing Services](../exercises/infrastructure/mapping-backing-services.md)
@@ -83,7 +91,8 @@
    * Explain the purpose of development, staging, and production environments
    
    #### Resources
-   * https://www.terraform.io/docs/cloud/workspaces/
+   * [Terraform Workspaces `Tool`](https://www.terraform.io/docs/cloud/workspaces/)
+   * [12 Factor App: Dev/Prod Parity `Resource`](https://12factor.net/dev-prod-parity)
 
    #### Exercises
    * [Cloud Environment Replication](../exercises/infrastructure/cloud-environment-replication.md)
@@ -102,7 +111,9 @@
    * Explain how you might collaborate with a cloud engineer to design and provision infrastructure for an application
 
    #### Resources
-   * https://acloudguru.com/
+   * [How to become a Cloud Engineer in 2022 `Video`](https://www.youtube.com/watch?v=vWerXJrNw2g)
+   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win `Book ($)`](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+   * [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data `Book ($)`](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
 
    #### Exercises
    * [Infrastructure Inventory](../exercises/infrastructure/infrastructure-inventory.md)

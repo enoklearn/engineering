@@ -20,6 +20,7 @@
    * Determine what editor you might need for web, native, and API projects
 
    #### Resources
+   * [Vim in 100 Seconds `Video`](https://www.youtube.com/watch?v=-txKSRn0qeA)
    * [Visual Studio Code `Tool`](https://code.visualstudio.com/)
    * [Vim `Video`](https://missing.csail.mit.edu/2020/editors/)
    * [Vim Adventures `Game`](https://vim-adventures.com/)
@@ -53,6 +54,7 @@
    * Theorize how you can use the command line and scripts to automate daily tasks
 
    #### Resources
+   * [Bash in 100 Seconds `Video`](https://www.youtube.com/watch?v=I4EWvMFj37g)
    * [The Art of the Command Line `Guide`](https://github.com/jlevy/the-art-of-command-line)
    * [The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
    * [Awesome Shell `Resource`](https://github.com/alebcay/awesome-shell#readme)
@@ -64,9 +66,9 @@
    * [Windows Subsystem for Linux `Tool`](https://docs.microsoft.com/en-us/windows/wsl/)
    * [Powershell `Resource`](https://github.com/janikvonrotz/awesome-powershell#readme)
    * [Hyper `Tool`](https://hyper.is/)
+   * [Oh My Zsh `Tool`](https://ohmyz.sh/)
    * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
-   * [Oh My Zsh `Tool`](https://ohmyz.sh/)
 
    #### Excercises
    * [CLI Weather](../exercises/tooling/cli-weather.md)
@@ -87,6 +89,7 @@
    * Compare using source control and not using source control to manage a project
 
    #### Resources
+   * [Git Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=hwP7WQkmECE)
    * [GitHub `Tool`](https://github.com/)
    * [GitLab `Tool`](https://about.gitlab.com/)
    * [BitBucket `Tool`](https://bitbucket.org)
@@ -127,10 +130,10 @@
    * [Awesome Productivity `Resource`](https://github.com/jyguyomarch/awesome-productivity#readme)
    * [Pomodoro Technique `Video`](https://www.youtube.com/watch?v=mNBmG24djoY)
    * [Forest: Stay focused, be present `Tool`](https://www.forestapp.cc/)
+   * [Learn agile estimation in 10 minutes `Video`](https://www.youtube.com/watch?v=Hwu438QSb_g)
    * [PERT `Article`](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
    * [The Clean Coder: Productivity `Video ($)`](https://cleancoders.com/episode/clean-code-episode-43)
    * [The Clean Coder: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
-   
 
    #### Excerise 
    * [Estimating Work](../exercises/tooling/estimating-work.md)
@@ -149,13 +152,14 @@
    * Demonstrate how you can use Docker to set up your project local environment
 
    #### Resources
+   * [~/.dotfiles in 100 Seconds `Video`](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
    * [Homebrew `Tool`](https://brew.sh/)
    * [GitPod `Tool`](https://gitpod.io/)
    * [GitHub Codespaces `Resource`](https://docs.github.com/en/codespaces)
    * [Docker `Tool`](https://www.docker.com/)
    * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
    * [12 Factor App `Resource`](https://12factor.net)
-   * [Docker Compose `Resource`](https://docs.docker.com/compose/overview/)]]
+   * [Docker Compose `Resource`](https://docs.docker.com/compose/overview/)
 
    #### Exercises
    * [Setting Up Your Local Environment](../exercises/tooling/setting-up-your-local-environment.md)

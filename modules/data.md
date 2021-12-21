@@ -20,6 +20,7 @@
    * Theorize what data types you might use in an application
 
    #### Resources
+   * [7 Database Paradigms `Video`](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
    * https://www.ibm.com/cloud/blog/structured-vs-unstructured-data
 
    #### Exercises
@@ -39,6 +40,7 @@
    * Describe three different approaches to persist data for an application
 
    #### Resources
+   * [MongoDB in 100 Seconds `Video`](https://www.youtube.com/watch?v=-bt_y4Loofg)
    * https://aws.amazon.com/products/databases
    * https://aws.amazon.com/products/storage
 
@@ -65,6 +67,7 @@
    * Use migrations to update the schema of a database
 
    #### Resources
+   * [SQL Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=zsjvFFKOm3c)
    * https://sql-playground.wizardzines.com/
 
    #### Exercises

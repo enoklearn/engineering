@@ -117,7 +117,8 @@
    * Theorize how you use platform identification with your projects
 
    #### Resources
-   * [Using Docker Dev Containers](https://code.visualstudio.com/docs/remote/create-dev-container)
+   * [Docker in 100 Seconds `Video`](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+   * [Using Docker Dev Containers `Resource`](https://code.visualstudio.com/docs/remote/create-dev-container)
 
    #### Exercises
    * [Platform Identification](../exercises/computing/platform-identification.md)

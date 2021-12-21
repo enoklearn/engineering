@@ -20,9 +20,14 @@
    * Explain some of the challenges of a microservices architecture
 
    #### Resources
-   * https://www.martinfowler.com/articles/microservices.html
-   * https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
-   * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+   * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
+   * [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express `Video`](https://www.youtube.com/watch?v=CnailTcJV_U)
+   * [What is a microservice architecture and it's advantages? `Video`](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+   * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+   * [Microservice Tradeoffs `Article`](https://www.martinfowler.com/articles/microservice-trade-offs.html)
+   * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+   * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design `Book ($)`](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
    #### Exercises
    * [Microservice Scoping](../exercises/architecture/microservice-scoping.md)
@@ -59,10 +64,12 @@
    * Theorize how you might recommend a tech stack to a team when starting a project
 
    #### Resources
-   * [Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+   * [Demystifying Conway's Law `Article`](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
+   * [Agile Inception Deck `Article`](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+   * [How to OVER Engineer a Website // What is a Tech Stack? `Video`](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 
    #### Exercises
-   * Select the tech on a frontend, backend, and database for a simple tasklist app
+   * [Tech Stack Assembly](../exercises/architecture/tech-stack-assembly.md)
 </details>
 
 ----
