@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Identify a common problem that needs a manual solution (later you might automate this to reduce toil!) and create a runbook with steps to solve the problem |
+| Duration | 2-4 hours |
 
 
 ## Steps

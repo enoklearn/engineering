@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Add secrets to AWS SSM Parameter Store and fetch them from the command line |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

@@ -4,9 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Solve a kata using a functional language and then an object-orientated language |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
-
+| Goal | Solve a kata using a functional language and an object-orientated language |
+| Duration | 1-2 hours |
 
 ## Steps
 

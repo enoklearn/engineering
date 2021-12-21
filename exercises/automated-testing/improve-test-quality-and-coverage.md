@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Improve the test quality coverage of an existing project test suite |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

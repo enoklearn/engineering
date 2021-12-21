@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Use Wireshark to inspect the journey of a packet from a server to your machine |
-| Duration | 1 hours |
+| Duration | 1-2 hours |
 
 ## Steps
 

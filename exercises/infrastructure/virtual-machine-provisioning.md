@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Setup a Ubuntu 20.04 machine on DigitalOcean (don't forget to tear it down!) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

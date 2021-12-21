@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Using Terraform, create a production environment using the "workspaces" feature |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

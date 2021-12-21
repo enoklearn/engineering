@@ -101,7 +101,11 @@
    * Explain how you might collaborate with a site reliability engineer to maintain resilience for an application
 
    #### Resources
-   * https://sre.google/
+   * [Site Reliability Engineering `Book`](https://sre.google/sre-book/table-of-contents/)
+   * [The Site Reliability Workbook `Book`](https://sre.google/workbook/table-of-contents/)
+   * [Building Secure & Reliable Systems `Book`](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
+   * [What's the Difference Between DevOps and SRE? `Video`](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
+   * [The History of SRE `Video`](https://www.youtube.com/watch?v=1NF6N2RwVoc)
 
    #### Exercises
    * [Reduce Toil](../exercises/reduce-toil.md)

@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Document the cloud infrastructure you need to make your application run in the cloud |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Research and create an inventory of the cloud infrastructure you need to make your application run in the cloud |
+| Duration | 2-4 hours |
 
 
 ## Steps

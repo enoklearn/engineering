@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Convert a manual task to an automated task to reduce toil |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Identify and convert a manual task to an automated task to reduce toil |
+| Duration | 1-4 hours |
 
 
 ## Steps

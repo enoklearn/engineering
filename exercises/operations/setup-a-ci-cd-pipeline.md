@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup a CI/CD pipeline using GitHub Actions to deploy an application |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Setup a CI/CD pipeline using GitHub Actions to run automated test and deploy your application |
+| Duration | 2-4 hours |
 
 
 ## Steps

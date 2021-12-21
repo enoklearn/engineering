@@ -47,6 +47,7 @@
 
    #### Resources
    * [Test Driven Development `Resource`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+   * [Why Write the Minimum Code to Pass the Test? `Article`](https://codingitwrong.com/2020/12/23/why-write-the-minimum-code-to-pass-the-test.html)
 
    #### Exercises
    * [Improve Test Quality and Coverage](../exercises/automated-testing/improve-test-quality-and-coverage.md)

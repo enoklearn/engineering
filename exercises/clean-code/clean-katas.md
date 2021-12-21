@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Use as many design patterns as you can while solving kata problems |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

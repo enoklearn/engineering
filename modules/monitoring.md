@@ -49,10 +49,8 @@
    * Explain how you might keep track of the golden signals
 
    #### Resources
-   * [Site Reliability Engineering `Book`](https://sre.google/sre-book/table-of-contents/)
-   * [The Site Reliability Workbook `Book`](https://sre.google/workbook/table-of-contents/)
-   * [Building Secure & Reliable Systems `Book`](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
-   * [The History of SRE `Video`](https://www.youtube.com/watch?v=1NF6N2RwVoc)
+   * [SRE: Monitoring Distributed Systems `Book`](https://sre.google/sre-book/monitoring-distributed-systems/)
+   * [Distributed Monitoring 101 `Article`](https://medium.com/forepaas/distributed-monitoring-101-the-four-golden-signals-305bbbc33d35)
 
    #### Exercises
    * [Setup a Dashboard in Grafana](../exercises/monitoring/setup-a-dashboard-in-grafana.md)
@@ -71,7 +69,7 @@
    * Explain how you might use the golden signals to setup useful alerts
 
    #### Resources
-   * [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/)
+   * [Alerting on what matters `Article`](https://www.datadoghq.com/blog/monitoring-101-alerting/)
    * https://aws.amazon.com/cloudwatch/
    
    #### Exercises
@@ -92,7 +90,7 @@
    * Setup debugging tools in your IDE
 
    #### Resources
-   * [Snyk `Tool`](https://snyk.io/)
+   * 
 
    #### Exercises
    * [Bug Bounty](../exercises/monitoring/bug-bounty.md)

@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Get involved in an architecture meeting, explore the business viability aspect |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Get involved in an architecture meeting, explore the business viability aspect of technical debt |
+| Duration | 2-4 hours |
 
 
 ## Steps

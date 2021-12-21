@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Investigate common third-party dependencies (such as `rails/rails` or `gin-gonic/gin`) and determine their licenses |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

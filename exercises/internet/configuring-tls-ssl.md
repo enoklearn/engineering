@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Configure a backend service to use a TLS/SSL certificate |
+| Duration | 2-4 hours |
 
 
 ## Steps

@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Build Conway’s Game of Life using the four rules of simple design |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 4-8 hours |
 
 
 ## Steps

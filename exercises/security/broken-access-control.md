@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Fix a Broken Access Control vulnerability from the `exercise-broken-access-control` repo |
+| Duration | 2-3 hours |
 
 
 ## Steps

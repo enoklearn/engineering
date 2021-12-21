@@ -66,6 +66,7 @@
    * [Hyper `Tool`](https://hyper.is/)
    * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
+   * [Oh My Zsh `Tool`](https://ohmyz.sh/)
 
    #### Excercises
    * [CLI Weather](../exercises/tooling/cli-weather.md)
@@ -140,18 +141,21 @@
 <details open>
    <summary><b>Managing your Local Environment</b></summary><br/>
 
-   With this topic, you’ll learn how to set up your local environment and streamline it to increase productivity.
+   With this topic, you’ll learn how to set up your local environment and streamline it to increase your productivity.
 
    #### Learning Outcomes
    * List what you need to be able to set up an existing project on your machine
    * Describe the role of configuration in an application
-   * Explain how the 12 Factor App can help guide you in setting up new projects
    * Demonstrate how you can use Docker to set up your project local environment
 
    #### Resources
-   * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
    * [Homebrew `Tool`](https://brew.sh/)
-   * [12 Factor App: Config `Resource`](https://12factor.net/config)
+   * [GitPod `Tool`](https://gitpod.io/)
+   * [GitHub Codespaces `Resource`](https://docs.github.com/en/codespaces)
+   * [Docker `Tool`](https://www.docker.com/)
+   * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
+   * [12 Factor App `Resource`](https://12factor.net)
+   * [Docker Compose `Resource`](https://docs.docker.com/compose/overview/)]]
 
    #### Exercises
    * [Setting Up Your Local Environment](../exercises/tooling/setting-up-your-local-environment.md)

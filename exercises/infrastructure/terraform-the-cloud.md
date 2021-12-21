@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup a CentOS 7 machine on DigitalOcean using Terraform (don't forget to tear it down!) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Setup a Kubernetes cluster on DigitalOcean using Terraform (don't forget to tear it down!) |
+| Duration | 3-4 hours |
 
 
 ## Steps

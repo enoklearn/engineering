@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Throttle your network connection using Chrome Dev Tools and figure out which aspects of an app are cached |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Throttle your network connection using Chrome Dev Tools and figure out which aspects of an application are cached |
+| Duration | 1-2 hours |
 
 
 ## Steps

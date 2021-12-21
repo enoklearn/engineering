@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Use hexdump to extract data from a file |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

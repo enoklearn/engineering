@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup an Artillery script and simulate 500 simultaneous users using a feature in an application |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Setup an Artillery script and simulate 500 simultaneous users using a feature in your application |
+| Duration | 2-4 hours |
 
 
 ## Steps

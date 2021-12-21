@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Convert a video file with audio into an audio file only using ffmpeg (what did you learn?) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Convert a video file with audio into an audio file only using ffmpeg |
+| Duration | 1-2 hours |
 
 
 ## Steps

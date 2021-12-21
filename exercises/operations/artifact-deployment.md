@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Release a new build of a product to an environment |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

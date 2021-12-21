@@ -1,11 +1,11 @@
-# Exercise: Tic-Tac-Toe
+# Exercise: Tic Tac Toe
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Create Tic-Tac-Toe in three different programming languages |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Create Tic Tac Toe in three different programming languages |
+| Duration | 4-8 hours |
 
 
 ## Steps

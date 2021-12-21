@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Create a map of the backing services that are attached to an application and determine severity of impact of each service if it were to go down |
+| Duration | 2-4 hours |
 
 
 ## Steps

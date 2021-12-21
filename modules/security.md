@@ -42,9 +42,13 @@
    * Explain what the OAuth 2.0 standard is
 
    #### Resources
-   * https://auth0.com/
-   * https://aws.amazon.com/cognito/
-   * [OAuth 2.0](https://tools.ietf.org/html/rfc6749)
+   * [Auth0 `Tool`](https://auth0.com/)
+   * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
+   * [AWS Cognito `Tool`](https://aws.amazon.com/cognito/)
+   * [OAuth 2.0 Protocol Definition `Resource`](https://tools.ietf.org/html/rfc6749)
+   * [OWASP Authentication Cheat Sheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+   * [OWASP Authorization Cheat Sheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+   * [Identity and Reputation in Web 3 `Article`](https://sinahab.com/identity-and-reputation-in-web-3/)
 
    #### Exercises
    * [Setup an Identity Provider](../exercises/security/setup-an-identity-provider.md)
@@ -82,8 +86,9 @@
    * Explain how you might go about remediating vulnerabilities found from automated scanning
 
    #### Resources
-   * https://snyk.io/
-   * https://www.npmjs.com/package/sonarqube-scanner
+   * [Snyk Code `Tool`](https://snyk.io/product/snyk-code/)
+   * [Sonarqube `Tool`](https://www.sonarqube.org/)
+   * [GitHub Security `Tool`](https://github.com/features/security)
 
    #### Exercises
    * [Setup Dependency Scanning](../exercises/security/setup-dependency-scanning.md)
@@ -102,7 +107,10 @@
    * Explain how you might work with a security engineer to remediate vulnerabilities
 
    #### Resources
-   * https://owasp.org/www-community/Threat_Modeling
+   * [What is Threat Modeling and Why Is It Important? `Video`](https://www.youtube.com/watch?v=h_BC6QMWDbA)
+   * [Threat Modeling 101 `Video`](https://www.youtube.com/watch?v=xSk7JrxOMGE)
+   * [Threat Modeling Worksheet `Resource`](https://saweis.net/threatworksheet/)
+   * [Threat Modeling `Article`](https://owasp.org/www-community/Threat_Modeling)
 
    #### Exercises
    * [Threat Modeling](../exercises/security/threat-modeling.md)

@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Spin up a virtual machine using VirtualBox, and gain exposure to another operating system and virtualization at the same time! |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps

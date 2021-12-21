@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Refactor a test suite to use the four-phased test approach |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-3 hours |
 
 
 ## Steps

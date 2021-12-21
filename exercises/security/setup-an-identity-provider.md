@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Setup Auth0 in your project use authorization to properly add public, private, and admin zones |
+| Duration | 4-6 hours |
 
 
 ## Steps

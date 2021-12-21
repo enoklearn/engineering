@@ -104,7 +104,8 @@
 
    #### Resources
    * [Refactoring `Resource`](https://refactoring.guru/refactoring)
+   * [Writing Good Tests for the Gilded Rose Kata `Article`](https://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/)
 
    #### Exercises
-   * [Dirty Code Eliminator](../exercises/clean-code/dirty-code-eliminator.md)
+   * [Gilded Rose Kata](../exercises/clean-code/gilded-rose-kata.md)
 </details>

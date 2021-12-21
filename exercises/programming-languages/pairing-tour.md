@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Go on a pairing tour! Solve some real problems with other software engineers |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Go on a pairing tour! Solve some real problems with other software engineers on your team |
+| Duration | 4-8 hours |
 
 
 ## Steps

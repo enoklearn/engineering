@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | EXERCISE_GOAL_KEEP_CHARACTER_LENGTH_UNDER_200 |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Buy a domain for your project (or personal website) and connect CloudFlare nameservers to it |
+| Duration | 1-2 hours |
 
 
 ## Steps

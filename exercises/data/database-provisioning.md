@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup a relational and non-relational database and store data in them (what are some of the differences?) |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Setup a relational and non-relational database and store data in them |
+| Duration | 4-6 hours |
 
 
 ## Steps
@@ -18,7 +18,7 @@ Use the following steps to help you progress through the exercise (use your own 
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What are some of the differences between relational and non-relational databases?
 
 ## Reflection
 

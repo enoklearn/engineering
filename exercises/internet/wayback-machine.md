@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Use the Wayback Machine from Internet Archive to discover secrets from the past |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 1-2 hours |
 
 
 ## Steps

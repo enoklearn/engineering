@@ -4,8 +4,8 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Connect an application to an ORM (such as Prisma) and update the schema of a database using data models |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Goal | Connect your application to an ORM (such as Prisma) and update the schema of a database using data models |
+| Duration | 2-4 hours |
 
 
 ## Steps

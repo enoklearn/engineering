@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Investigate an existing codebase, and document code smells that you find |
-| Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
+| Duration | 2-4 hours |
 
 
 ## Steps
