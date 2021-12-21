@@ -20,9 +20,9 @@
    * Distinguish the difference between good and bad design in software
 
    #### Resources
-   * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
    * [10 Usability Heuristics for User Interface Design - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/ten-usability-heuristics/)
    * [Human-Centered Design Is More Important Than Ever `Article`](https://www.bcg.com/publications/2020/the-importance-of-human-centered-design)
+   * [UX Design vs UI Design - What's The Difference? `Video`](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
    * [What is User Experience (UX) Design? `Article`](https://www.interaction-design.org/literature/topics/ux-design)
    * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 
@@ -49,9 +49,9 @@
 
    #### Resources
    * [Design Thinking - Ideo.com `Resource`](https://designthinking.ideo.com/)
+   * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
    * [What is Design Thinking and Why Is It So Popular? `Article`](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
    * [Why Design Thinking Works - Harvard Business Review `Article`](https://hbr.org/2018/09/why-design-thinking-works)
-   * [What is Design Thinking - IDEO U `Article`](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
    * [Creative Confidence: Unleashing the Creative Potential Within Us All `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
    * [Foundations in Design Thinking Certificate - IDEO U `Course ($)`](https://www.ideou.com/collections/design-thinking-courses/products/design-thinking-certificate)
 
@@ -76,12 +76,12 @@
 
    #### Resources
    * [A comprehensive guide to design systems - Invision `Article`](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
-   * [Storybook `Tool`](https://storybook.js.org/)
-   * [DesignSystems.com `Resource`](https://www.designsystems.com/)
    * [Apple's Human Interface Guidelines `Design System`](https://developer.apple.com/design/human-interface-guidelines/)
+   * [Design Systems 101 - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/design-systems-101/)
+   * [DesignSystems.com `Resource`](https://www.designsystems.com/)
    * [Google's Material Design `Design System`](https://material.io/)
    * [IBM's Carbon `Design System`](https://www.carbondesignsystem.com/)
-   * [Design Systems 101 - Nielsen Norman Group `Article`](https://www.nngroup.com/articles/design-systems-101/)
+   * [Storybook `Tool`](https://storybook.js.org/)
 
    #### Exercises
    * [Login Screen with Material Design](../exercises/human-experience/login-screen-ui.md)
@@ -103,11 +103,11 @@
    * Recognize approaches to adapt your software to various languages and regions
 
    #### Resources
+   * [A11y `Website`](https://www.a11yproject.com/)
    * [Can I Use `Tool`](https://caniuse.com/)
+   * [Funkify Disability Simulator - Chrome Extension `Tool`](https://www.funkify.org/)
    * [IBM Equal Accessibility Toolkit `Tool`](https://www.ibm.com/able/toolkit/)
    * [W3C Accessibility Fundamentals `Resource`](https://www.w3.org/WAI/fundamentals/)
-   * [Funkify Disability Simulator - Chrome Extension `Tool`](https://www.funkify.org/)
-   * [A11y `Website`](https://www.a11yproject.com/)
    * [Why Digital Accessibility Matters - Invision `Article`](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)
 
    #### Exercises

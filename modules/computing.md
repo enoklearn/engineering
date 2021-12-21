@@ -98,6 +98,12 @@
    #### Resources
    * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
    * [How do computers read code? `Video`](https://www.youtube.com/watch?v=QXjU9qTsYCc)
+   * [rbenv `Tool`](https://github.com/rbenv/rbenv)
+   * [pyenv `Tool`](https://github.com/pyenv/pyenv)
+   * [nodenv `Tool`](https://github.com/nodenv/nodenv)
+   * [goenv `Tool`](https://github.com/syndbg/goenv)
+   * [rustup `Tool`](https://rustup.rs/)
+   * [C# language versioning](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version)
    * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
  
    #### Exercises

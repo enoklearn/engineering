@@ -85,11 +85,11 @@
    * Compare creational, structural, and behavioral patterns and explain their differences
 
    #### Resources
-   * [Yagni `Article`](https://martinfowler.com/bliki/Yagni.html)
-   * [Premature Optimization `Article`](http://wiki.c2.com/?PrematureOptimization)
-   * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
-   * [SOLID Principles `Article`](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
    * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
+   * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
+   * [Premature Optimization `Article`](http://wiki.c2.com/?PrematureOptimization)
+   * [SOLID Principles `Article`](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
+   * [Yagni `Article`](https://martinfowler.com/bliki/Yagni.html)
    * [Clean Coders: SOLID Principles `Video Series ($)`](https://cleancoders.com/series/clean-code/solid-principles)
 
    #### Exercises
@@ -109,13 +109,13 @@
    * Compare refactoring legacy code and greenfield code, what are differences in the approach you might take
 
    #### Resources
-   * [Refactoring `Resource`](https://refactoring.guru/refactoring)
    * [Composing Methods `Resource`](https://refactoring.guru/refactoring/techniques/composing-methods)
+   * [Dealing with Generalization `Resource`](https://refactoring.guru/refactoring/techniques/dealing-with-generalization)
    * [Moving Features between Objects `Resource`](https://refactoring.guru/refactoring/techniques/moving-features-between-objects)
    * [Organizing Data `Resource`](https://refactoring.guru/refactoring/techniques/organizing-data)
+   * [Refactoring `Resource`](https://refactoring.guru/refactoring)
    * [Simplifying Conditional Expressions `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-conditional-expressions)
    * [Simplifying Method Calls `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-method-calls)
-   * [Dealing with Generalization `Resource`](https://refactoring.guru/refactoring/techniques/dealing-with-generalization)
    * [Writing Good Tests for the Gilded Rose Kata `Article`](https://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/)
 
    #### Exercises

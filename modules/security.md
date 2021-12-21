@@ -24,8 +24,8 @@
    #### Resources
    * [OWASP Top 10:2021 `Resource`](https://owasp.org/Top10/)
    * [OWASP Top 10:2021 Overview `Video`](https://youtu.be/uLBCDBnMEt0?t=929)
-   * [What is web application security? `Resource`](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
    * [Port Swigger Web Security Academy `Resource`](https://portswigger.net/web-security/learning-path)
+   * [What is web application security? `Resource`](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
 
    #### Exercises
    * [Remediate the Broken Access Control vulnerability](../exercises/security/broken-access-control.md)
@@ -46,18 +46,18 @@
 
    #### Resources
    * [Auth0 `Tool`](https://auth0.com/)
-   * [Firebase Authentication `Tool`](https://firebase.google.com/products/auth)
-   * [AWS Cognito `Tool`](https://aws.amazon.com/cognito/)
    * [Auth0 in 100 Seconds `Video`](https://www.youtube.com/watch?v=yufqeJLP1rI)
-   * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
+   * [AWS Cognito `Tool`](https://aws.amazon.com/cognito/)
    * [Calling an API `Video`](https://auth0.com/docs/videos/learn-identity-series/calling-an-api)
+   * [Ethereum Accounts `Article`](https://ethereum.org/en/developers/docs/accounts/)
+   * [Firebase Authentication `Tool`](https://firebase.google.com/products/auth)
+   * [Identity and Reputation in Web 3 `Article`](https://sinahab.com/identity-and-reputation-in-web-3/)
+   * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
+   * [OAuth 2.0 Protocol `Resource`](https://tools.ietf.org/html/rfc6749)
    * [OpenID Connect and OAuth2 `Video`](https://auth0.com/docs/videos/learn-identity-series/openid-connect-and-oauth2)
    * [OWASP Authentication Cheatsheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
    * [OWASP Authorization Cheatsheet `Resource`](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
-   * [OAuth 2.0 Protocol `Resource`](https://tools.ietf.org/html/rfc6749)
-   * [Ethereum Accounts `Article`](https://ethereum.org/en/developers/docs/accounts/)
    * [Signing in with Ethereum `Video`](https://youtu.be/f9XRH7bjV8M?t=1479)
-   * [Identity and Reputation in Web 3 `Article`](https://sinahab.com/identity-and-reputation-in-web-3/)
 
    #### Exercises
    * [Setup an Identity Provider](../exercises/security/setup-an-identity-provider.md)
@@ -77,13 +77,13 @@
    * Explain how you might inject secrets into an application using environment variables
 
    #### Resources
-   * [7 Cryptography Concepts EVERY Developer Should Know `Video`](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+   * [12 Factor App: Config `Resource`](https://12factor.net/config)
    * [1Password Secrets Automation `Tool`](https://1password.com/secrets/)
+   * [7 Cryptography Concepts EVERY Developer Should Know `Video`](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
    * [AWS Systems Manager (check out Parameter Store) `Tool`](https://aws.amazon.com/systems-manager/features/)
    * [Removing sensitive data from a repository `Resource`](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
-   * [Working with AWS Parameter Store `Resource`](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-working-with.html)
    * [Security and Cryptography `Video`](https://missing.csail.mit.edu/2020/security/)
-   * [12 Factor App: Config `Resource`](https://12factor.net/config)
+   * [Working with AWS Parameter Store `Resource`](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-working-with.html)
 
    #### Exercises
    * [Fetch an Application Secret](../exercises/security/fetch-an-application-secret.md)
@@ -102,9 +102,9 @@
    * Explain how you might go about remediating vulnerabilities found from automated scanning
 
    #### Resources
+   * [GitHub Security `Tool`](https://github.com/features/security)
    * [Snyk Code `Tool`](https://snyk.io/product/snyk-code/)
    * [Sonarqube `Tool`](https://www.sonarqube.org/)
-   * [GitHub Security `Tool`](https://github.com/features/security)
 
    #### Exercises
    * [Setup Dependency Scanning](../exercises/security/setup-dependency-scanning.md)
@@ -123,10 +123,10 @@
    * Explain how you might work with a security engineer to remediate vulnerabilities
 
    #### Resources
-   * [What is Threat Modeling and Why Is It Important? `Video`](https://www.youtube.com/watch?v=h_BC6QMWDbA)
+   * [Threat Modeling `Article`](https://owasp.org/www-community/Threat_Modeling)
    * [Threat Modeling 101 `Video`](https://www.youtube.com/watch?v=xSk7JrxOMGE)
    * [Threat Modeling Worksheet `Resource`](https://saweis.net/threatworksheet/)
-   * [Threat Modeling `Article`](https://owasp.org/www-community/Threat_Modeling)
+   * [What is Threat Modeling and Why Is It Important? `Video`](https://www.youtube.com/watch?v=h_BC6QMWDbA)
 
    #### Exercises
    * [Threat Modeling](../exercises/security/threat-modeling.md)
