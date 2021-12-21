@@ -5,20 +5,24 @@
 | Key | Value |
 | --- | --- |
 | Goal | Setup your computer to work on projects during your apprenticeship |
-| Duration | 4-6 hours |
-
+| Duration | 1-4 hours |
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Fork [`holman/dotfiles`](https://github.com/holman/dotfiles)
+2. Update the dotfiles to fit your style
+3. Setup runtimes (such as `rbenv`, `pyenv`, `nodenv`, etc.) and tools (such as Postman, Things, Bear, etc.)
+3. Review your setup with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What's the purpose of dotfiles?
+- What did you choose to change and why?
+- What runtimes and tools did you add to your machine?
 
 ## Reflection
 

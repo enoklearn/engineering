@@ -11,13 +11,17 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Clone the `engineerkit/exercise-conflict-resolution` repo
+2. Resolve the conflicts
+3. Review with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What are merge conflicts?
+- How did you go about resolving the merge conflicts?
+- What would help you get faster in the future?
 
 ## Reflection
 

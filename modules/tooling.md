@@ -155,11 +155,13 @@
    #### Resources
    * [~/.dotfiles in 100 Seconds `Video`](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
    * [An unofficial guide to dotfiles on GitHub `Resource`](https://dotfiles.github.io/)
+   * [Awesome dotfiles `Resource`](https://github.com/webpro/awesome-dotfiles)
    * [Docker `Tool`](https://www.docker.com/)
    * [Docker Compose `Resource`](https://docs.docker.com/compose/overview/)
    * [Getting Started with Dotfiles `Article`](https://driesvints.com/blog/getting-started-with-dotfiles/)
    * [GitHub Codespaces `Resource`](https://docs.github.com/en/codespaces)
    * [GitPod `Tool`](https://gitpod.io/)
+   * [Dotfiles Are Meant to Be Forked `Article`](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
    * [holman/dotfiles `Tool`](https://github.com/holman/dotfiles)
    * [Homebrew `Tool`](https://brew.sh/)
    * [Managing my dotfiles as a git repository `Article`](https://drewdevault.com/2019/12/30/dotfiles.html)
