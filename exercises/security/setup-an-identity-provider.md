@@ -5,35 +5,33 @@
 | Key | Value |
 | --- | --- |
 | Goal | Setup Auth0 in your project use authorization to properly add public, private, and admin zones |
-| Duration | 4-6 hours |
+| Duration | 6-8 hours |
 
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Integrate Auth0 with your application
+2. Allow users to create an account and sign in to your application
+3. Setup two roles "member" and "admin"
+4. Create zones in your application that respond to a user's role (anonymous, member, admin)
+5. Share your results with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What does authorization mean?
+- What does authentication mean?
+- How do you declare a role for a user?
 
 ## Reflection
 
 Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
-SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
-
 - What conclusion can you share with your mentor?
 - What surprised you about this exercise?
-- How would you say this exercise stretched you? 
-- What did this exercise show you about yourself?
-- If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise? 
-- How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
-- What did this leave you excited to dig further into? 
-- Where do you want to go from here?
 - What would be your next step? What resources can support you in this next step?
 - When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
 
