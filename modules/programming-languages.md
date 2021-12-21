@@ -23,19 +23,9 @@
    
    #### Resources
    * [4 Programming Paradigms In 40 Minutes `Video`](https://www.youtube.com/watch?v=cgVVZMfLjEI)
-   * [Different Types of Programming Languages `Video`](https://www.youtube.com/watch?v=GI_V3yzVDtA)
    * [Classifying Programming Languages `Resource`](https://cs.lmu.edu/~ray/notes/pltypes/)
-   * [Essential Programming Books `Resource`](https://www.programming-books.io/index-grid)
-   * [C in 100 Seconds `Video`](https://www.youtube.com/watch?v=U3aXWizDbQ4)
-   * [C# in 100 Seconds `Video`](https://www.youtube.com/watch?v=ravLFzIguCM)
-   * [Haskell in 100 Seconds `Video`](https://www.youtube.com/watch?v=Qa8IfEeBJqk)
-   * [Swift in 100 Seconds `Video`](https://www.youtube.com/watch?v=nAchMctX4YA)
-   * [TypeScript in 100 Seconds `Video`](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
-   * [Solidity in 100 Seconds `Video`](https://www.youtube.com/watch?v=kdvVwGrV7ec)
-   * [Go in 100 Seconds `Video`](https://www.youtube.com/watch?v=446E-r0rXHI)
-   * [Rust in 100 Seconds `Video`](https://www.youtube.com/watch?v=5C_HPTJg5ek)
-   * [Python in 100 Seconds `Video`](https://www.youtube.com/watch?v=x7X9w_GIm1s)
-   * [Java in 100 Seconds `Video`](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+   * [Different Types of Programming Languages `Video`](https://www.youtube.com/watch?v=GI_V3yzVDtA)
+   * [Programming Languages in 100 Seconds `Video Series`](https://www.youtube.com/watch?v=U3aXWizDbQ4&list=PLBc0KZbISF7KdOcfCnt9pSgJgRKbmD1tq)
 
    #### Exercise
    * [Two Stones, One Bird](../exercises/programming-languages/two-stones-one-bird.md)
@@ -54,7 +44,9 @@
    * Theorize how you might learn a language fluently
 
    #### Resources
-   * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
+   * [How it all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
+   * [Awesome Katas `Resource`](https://github.com/gamontal/awesome-katas)
+   * [CodeWars `Resource`](https://codewars.com/)
 
    #### Excercises
    * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
@@ -73,7 +65,9 @@
    * Theorize how you might learn a new language quickly
 
    #### Resources
-   * [CodeWars `Resource`](https://codewars.com/)
+   * [Koans.in `Resource`](https://koans.in/)
+   * [Essential Programming Books `Resource`](https://www.programming-books.io/index-grid)
+   * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
 
    #### Exercises
    * [Tic Tac Toe](../exercises/programming-languages/tic-tac-toe.md)

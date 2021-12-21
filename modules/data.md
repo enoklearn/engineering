@@ -20,8 +20,7 @@
    * Theorize what data types you might use in an application
 
    #### Resources
-   * [7 Database Paradigms `Video`](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
-   * https://www.ibm.com/cloud/blog/structured-vs-unstructured-data
+   * [Structured vs. Unstructured Data `Article`](https://www.ibm.com/cloud/blog/structured-vs-unstructured-data)
 
    #### Exercises
    * [File to Hex](../exercises/data/file-to-hex.md)
@@ -40,9 +39,10 @@
    * Describe three different approaches to persist data for an application
 
    #### Resources
-   * [MongoDB in 100 Seconds `Video`](https://www.youtube.com/watch?v=-bt_y4Loofg)
-   * https://aws.amazon.com/products/databases
-   * https://aws.amazon.com/products/storage
+   * [7 Database Paradigms `Video`](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+   * [Cloud Firestore `Tool`](https://firebase.google.com/products/firestore)
+   * [AWS Databases `Resource`](https://aws.amazon.com/products/databases)
+   * [AWS Storage `Resource`](https://aws.amazon.com/products/storage)
 
    #### Exercises
    * [Database Provisioning](../exercises/data/database-provisioning.md)
@@ -68,7 +68,7 @@
 
    #### Resources
    * [SQL Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=zsjvFFKOm3c)
-   * https://sql-playground.wizardzines.com/
+   * [SQL playground `Tool`](https://sql-playground.wizardzines.com/)
 
    #### Exercises
    * [ORM Utilization](../exercises/data/orm-utilization.md)
@@ -87,7 +87,7 @@
    * Convert a WAV audio file to an MP3 audio file using ffmpeg
 
    #### Resources
-   * https://missing.csail.mit.edu/2020/data-wrangling/
+   * [Missing Semester: Data Wrangling `Video`](https://missing.csail.mit.edu/2020/data-wrangling/)
 
    #### Exercises
    * [FFmpeg Conversion](../exercises/data/ffmpeg-conversion.md)
@@ -108,7 +108,7 @@
    * Compare eventual and strong consistency and explain their differences
 
    #### Resources
-   * https://www.martinfowler.com/articles/201701-event-driven.html
+   * [What do you mean by "Event-Driven"? `Article`](https://www.martinfowler.com/articles/201701-event-driven.html)
 
    #### Exercises
    * [Cache Buster](../exercises/data/cache-buster.md)

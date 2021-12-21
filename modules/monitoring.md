@@ -16,11 +16,9 @@
    With this topic, you’ll learn about the different types of telemetry data that can be collected in an application.
    
    #### Learning Outcomes
-   * Describe what a log is
-   * Describe what an error is
-   * Describe what a metric is
-   * Describe what a trace is
-   * Explain how you might collect telemetry data in an application
+   * List the different types of telemetry data that can be collected
+   * Explain how you could collect telemetry data in an application
+   * Theorize why you might want to collect telemetry data
 
    #### Resources
    * [DataDog `Tool`](https://datadoghq.com/)
@@ -32,7 +30,7 @@
    * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
-   * [Collecting Telemetry](../exercises/monitoring/collecting-telemetry.md)
+   * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry.md)
    * Integrate Sentry.io in an application to collect crash reports
    * Integrate DataDog into an application
 </details>
@@ -70,7 +68,7 @@
 
    #### Resources
    * [Alerting on what matters `Article`](https://www.datadoghq.com/blog/monitoring-101-alerting/)
-   * https://aws.amazon.com/cloudwatch/
+   * [AWS CloudWatch `Tool`](https://aws.amazon.com/cloudwatch/)
    
    #### Exercises
    * [Golden Signal Alerting](../exercises/monitoring/golden-signal-alerting.md)
@@ -90,7 +88,8 @@
    * Setup debugging tools in your IDE
 
    #### Resources
-   * 
+   * [How do Ruby & Python profilers work? `Article`](https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/)
+   * [Debugging and Profiling `Video`](https://missing.csail.mit.edu/2020/debugging-profiling/)
 
    #### Exercises
    * [Bug Bounty](../exercises/monitoring/bug-bounty.md)

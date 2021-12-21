@@ -21,7 +21,7 @@
    * Theorize how you might validate and simplify requirements given to you
 
    #### Resources
-   * [Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+   * [The Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
    * [Defining Features](../exercises/automated-testing/defining-features.md)
@@ -47,11 +47,16 @@
 
    #### Resources
    * [Software Testing Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
-   * [Test Driven Development `Resource`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+   * [Integrated Tests Are A Scam `Video`](https://www.youtube.com/watch?v=VDfX44fZoMc)
+   * [The Practical Test Pyramid `Article`](https://martinfowler.com/articles/practical-test-pyramid.html)
    * [Why Write the Minimum Code to Pass the Test? `Article`](https://codingitwrong.com/2020/12/23/why-write-the-minimum-code-to-pass-the-test.html)
+   * [Fundamentals of TDD `Video Series`](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview)
+   * [TDD `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Driven-Development)
+   * [Test Driven Development `Book ($)`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+   * [Clean Coders: TDD `Video ($)`](https://cleancoders.com/episode/clean-code-episode-6-p1)
 
    #### Exercises
-   * [Improve Test Quality and Coverage](../exercises/automated-testing/improve-test-quality-and-coverage.md)
+   * [Improve Test Quality](../exercises/automated-testing/improve-test-quality-and-coverage.md)
 </details>
 
 ----
@@ -74,8 +79,11 @@
    * Create a component using the outside-in test pattern
 
    #### Resources
-   * [XUnit Patterns `Book ($)`](http://xunitpatterns.com/)
    * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
+   * [Arrange, Act, Assert `Resource`](https://github.com/testdouble/contributing-tests/wiki/Arrange-Act-Assert)
+   * [How to stop hating your tests. `Video`](https://blog.testdouble.com/talks/2015-11-16-how-to-stop-hating-your-tests/)
+   * [From the Inside Out or the Outside In? `Article`](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
+   * [XUnit Patterns `Book ($)`](http://xunitpatterns.com/)
 
    #### Exercises
    * [Four-Phase Refactor](../exercises/automated-testing/four-phase-refactor.md)
@@ -94,6 +102,7 @@
    * Explain why you might need a test double when creating automated tests
 
    #### Resources
+   * [Test Doubles `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Double)
    * [Mocks aren't stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
    #### Exercises

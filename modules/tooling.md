@@ -101,6 +101,7 @@
    * [How To Use Git `Guide`](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
    * [Git and Git Flow Cheat Sheet `Resource`](https://github.com/arslanbilal/git-cheat-sheet#readme)
    * [Oh my git! `Game`](https://ohmygit.org/)
+   * [Version Control (Git) `Video`](https://missing.csail.mit.edu/2020/version-control/)
    * [Git & GitHub Crash Course `Video`](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
    * [GitKraken `Tool`](https://www.gitkraken.com/)
    * [Introduction to Git `Course ($)`](https://teamtreehouse.com/library/introduction-to-git)
@@ -132,8 +133,8 @@
    * [Forest: Stay focused, be present `Tool`](https://www.forestapp.cc/)
    * [Learn agile estimation in 10 minutes `Video`](https://www.youtube.com/watch?v=Hwu438QSb_g)
    * [PERT `Article`](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
-   * [The Clean Coder: Productivity `Video ($)`](https://cleancoders.com/episode/clean-code-episode-43)
-   * [The Clean Coder: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
+   * [Clean Coders: Productivity `Video ($)`](https://cleancoders.com/episode/clean-code-episode-43)
+   * [Clean Coders: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
 
    #### Excerise 
    * [Estimating Work](../exercises/tooling/estimating-work.md)

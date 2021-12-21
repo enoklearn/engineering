@@ -20,7 +20,7 @@
    * Theorize what approval you'd need to get before releasing a change
 
    #### Resources
-   * https://sre.google/
+   * 
 
    #### Exercises
    * [Artifact Deployment](../exercises/operations/artifact-deployment.md)
@@ -41,7 +41,7 @@
    * Create a runbook with step-by-step instructions to solve a common problem
    
    #### Resources
-   * https://gitlab.com/gitlab-com/runbooks
+   * [Gitlab Runbooks `Resource`](https://gitlab.com/gitlab-com/runbooks)
 
    #### Exercises
    * [Create a Runbook](../exercises/operations/create-a-runbook.md)
@@ -60,8 +60,10 @@
    * Create a CD pipeline to deploy build artifacts for development, staging, and production environments
 
    #### Resources
-   * https://docs.github.com/en/actions
-   * https://docs.gitlab.com/ee/ci/pipelines/
+   * [DevOps CI/CD Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=scEDHsr3APg)
+   * [GitHub Actions `Tool`](https://docs.github.com/en/actions)
+   * [Gitlab Pipelines `Tool`](https://docs.gitlab.com/ee/ci/pipelines/)
+   * [CircleCI `Tool`](https://circleci.com/)
 
    #### Exercises
    * [Setup a CI/CD pipeline](../exercises/operations/setup-a-ci-cd-pipeline.md)
@@ -80,8 +82,9 @@
    * Integrate performance testing into your CI/CD pipeline
 
    #### Resources
-   * https://artillery.io/
-   * [K6](https://k6.io/)
+   * [Artillery `Tool`](https://artillery.io/)
+   * [K6 `Tool`](https://k6.io/)
+   * [Writing your first artillery test `Resource`](https://www.artillery.io/docs/guides/getting-started/writing-your-first-test)
 
    #### Exercises
    * [Zombie Horde](../exercises/operations/zombie-horde.md)

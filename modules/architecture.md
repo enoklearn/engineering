@@ -15,9 +15,11 @@
    With this topic, you’ll learn about common patterns used in architecture to create software systems.
    
    #### Learning Outcomes
-   * Compare a monolithic architecture with a microservices architecture
-   * Explain some of the challenges of a monolithic architecture
-   * Explain some of the challenges of a microservices architecture
+   * Compare monolithic, microservices, and serverless architectures
+   * Describe benefits with a monolithic architecture
+   * Describe benefits with a microservices architecture
+   * Describe benefits with a serverless architecture
+   * Explain what kind of architecture might be most productive for you to build with
 
    #### Resources
    * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
@@ -25,6 +27,7 @@
    * [What is a microservice architecture and it's advantages? `Video`](https://www.youtube.com/watch?v=qYhRvH9tJKw)
    * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
    * [Microservice Tradeoffs `Article`](https://www.martinfowler.com/articles/microservice-trade-offs.html)
+   * [Monolith vs Microservice vs Serverless `Article`](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
    * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
    * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
    * [Clean Architecture: A Craftsman's Guide to Software Structure and Design `Book ($)`](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
@@ -46,7 +49,8 @@
    * Theorize how you might improve on an existing tech stacks
 
    #### Resources
-   * https://insights.stackoverflow.com/survey/2021
+   * [Stackshare `Resource`](https://stackshare.io/stacks)
+   * [StackOverflow 2021 Developer Survey `Resource`](https://insights.stackoverflow.com/survey/2021)
 
    #### Exercises
    * [Tech Stack Spelunking](../exercises/architecture/tech-stack-spelunking.md)
@@ -66,7 +70,6 @@
    #### Resources
    * [Demystifying Conway's Law `Article`](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
    * [Agile Inception Deck `Article`](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
-   * [How to OVER Engineer a Website // What is a Tech Stack? `Video`](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 
    #### Exercises
    * [Tech Stack Assembly](../exercises/architecture/tech-stack-assembly.md)
@@ -84,7 +87,7 @@
    * Explain how you might use the 12 Factor App methodology to help ramp on a new tech stack
 
    #### Resources
-   * https://12factor.net/
+   * [12 Factor App `Resource`](https://12factor.net/)
 
    #### Exercises
    * [Feature Shipping](../exercises/architecture/feature-shipping.md)
@@ -103,7 +106,7 @@
    * Theorize when you might not create documentation
 
    #### Resources
-   * https://swagger.io/
+   * [Swagger `Resource`](https://swagger.io/)
 
    #### Exercises
    * [With a Swagger](../exercises/architecture/with-a-swagger.md)

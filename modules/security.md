@@ -43,6 +43,7 @@
 
    #### Resources
    * [Auth0 `Tool`](https://auth0.com/)
+   * [Firebase Authentication `Tool`](https://firebase.google.com/products/auth)
    * [AWS Cognito `Tool`](https://aws.amazon.com/cognito/)
    * [Auth0 in 100 Seconds `Video`](https://www.youtube.com/watch?v=yufqeJLP1rI)
    * [Introduction to Identity `Video`](https://auth0.com/docs/videos/learn-identity-series/introduction-to-identity)
@@ -76,7 +77,9 @@
    * [7 Cryptography Concepts EVERY Developer Should Know `Video`](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
    * [1Password Secrets Automation `Tool`](https://1password.com/secrets/)
    * [AWS Systems Manager (check out Parameter Store) `Tool`](https://aws.amazon.com/systems-manager/features/)
+   * [Removing sensitive data from a repository `Resource`](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
    * [Working with AWS Parameter Store `Resource`](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-working-with.html)
+   * [Security and Cryptography `Video`](https://missing.csail.mit.edu/2020/security/)
    * [12 Factor App: Config `Resource`](https://12factor.net/config)
 
    #### Exercises

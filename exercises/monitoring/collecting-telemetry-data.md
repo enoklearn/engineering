@@ -1,4 +1,4 @@
-# Exercise: Collecting Telemetry
+# Exercise: Collecting Telemetry Data
 
 ## Overview
 

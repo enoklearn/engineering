@@ -1,4 +1,4 @@
-# Exercise: Improve Test Quality and Coverage
+# Exercise: Improve Test Quality
 
 ## Overview
 
@@ -12,7 +12,7 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Make it work, make it right, make it fast
 
 ## Questions
 

@@ -73,6 +73,7 @@ Jiro Ono describes the _shokunin_ spirit and his passion for the craft of sushi-
    * Propose how you might go about creating positive change in the software engineering community
 
    #### Resources
+   * [r/programming `Resource`](https://www.reddit.com/r/programming/)
    * [Manifesto for Agile Software Development `Document`](http://agilemanifesto.org/)
    * [Manifesto for Software Craftsmanship `Document`](http://manifesto.softwarecraftsmanship.org/)
    * [The Clean Coder: A Code of Conduct for Professional Programmers `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)

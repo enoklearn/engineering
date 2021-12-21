@@ -83,8 +83,12 @@
    * Compare creational, structural, and behavioral patterns and explain their differences
 
    #### Resources
+   * [Yagni `Article`](https://martinfowler.com/bliki/Yagni.html)
+   * [Premature Optimization `Article`](http://wiki.c2.com/?PrematureOptimization)
    * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
+   * [SOLID Principles `Article`](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
    * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
+   * [Clean Coders: SOLID Principles `Video Series ($)`](https://cleancoders.com/series/clean-code/solid-principles)
 
    #### Exercises
    * [Clean Katas](../exercises/clean-code/clean-katas.md)
