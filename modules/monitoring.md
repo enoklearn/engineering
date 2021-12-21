@@ -23,10 +23,10 @@
    #### Resources
    * [DataDog `Tool`](https://datadoghq.com/)
    * [Grafana `Tool`](https://grafana.com/)
-   * [Sentry `Tool`](https://sentry.io/)
-   * [OpenTelemetry `Tool`](https://opentelemetry.io/)
-   * [Monitor what matters `Video`](https://www.youtube.com/watch?v=EnvKjTw-xTo)
    * [Grafana Explained in Under 5 Minutes `Video`](https://www.youtube.com/watch?v=lILY8eSspEo)
+   * [Monitor what matters `Video`](https://www.youtube.com/watch?v=EnvKjTw-xTo)
+   * [OpenTelemetry `Tool`](https://opentelemetry.io/)
+   * [Sentry `Tool`](https://sentry.io/)
    * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
@@ -47,8 +47,8 @@
    * Explain how you might keep track of the golden signals
 
    #### Resources
-   * [SRE: Monitoring Distributed Systems `Book`](https://sre.google/sre-book/monitoring-distributed-systems/)
    * [Distributed Monitoring 101 `Article`](https://medium.com/forepaas/distributed-monitoring-101-the-four-golden-signals-305bbbc33d35)
+   * [SRE: Monitoring Distributed Systems `Book`](https://sre.google/sre-book/monitoring-distributed-systems/)
 
    #### Exercises
    * [Super Dashboard](../exercises/monitoring/super-dashboard.md)
@@ -88,8 +88,8 @@
    * Setup debugging tools in your IDE
 
    #### Resources
-   * [How do Ruby & Python profilers work? `Article`](https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/)
    * [Debugging and Profiling `Video`](https://missing.csail.mit.edu/2020/debugging-profiling/)
+   * [How do Ruby & Python profilers work? `Article`](https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/)
 
    #### Exercises
    * [Bug Bounty](../exercises/monitoring/bug-bounty.md)

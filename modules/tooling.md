@@ -20,19 +20,19 @@
    * Determine what editor you might need for web, native, and API projects
 
    #### Resources
-   * [Vim in 100 Seconds `Video`](https://www.youtube.com/watch?v=-txKSRn0qeA)
-   * [Visual Studio Code `Tool`](https://code.visualstudio.com/)
-   * [Vim `Video`](https://missing.csail.mit.edu/2020/editors/)
-   * [Vim Adventures `Game`](https://vim-adventures.com/)
+   * [Android Studio `Tool`](https://developer.android.com/studio)
    * [Atom `Tool`](https://atom.io/)
-   * [Sublime Text `Tool`](https://www.sublimetext.com/)
    * [Chrome DevTools `Tool`](https://developers.google.com/web/tools/chrome-devtools/)
+   * [GitHub Codespaces `Tool`](https://github.com/features/codespaces/)
    * [GNU Emacs `Tool`](https://www.gnu.org/software/emacs/)
    * [JetBrains `Tool`](https://www.jetbrains.com/)
-   * [WebStorm `Tool`](https://www.jetbrains.com/webstorm/)
-   * [GitHub Codespaces `Tool`](https://github.com/features/codespaces/)
+   * [Sublime Text `Tool`](https://www.sublimetext.com/)
+   * [Vim `Video`](https://missing.csail.mit.edu/2020/editors/)
+   * [Vim Adventures `Game`](https://vim-adventures.com/)
+   * [Vim in 100 Seconds `Video`](https://www.youtube.com/watch?v=-txKSRn0qeA)
    * [Visual Studio `Tool`](https://visualstudio.microsoft.com/)
-   * [Android Studio `Tool`](https://developer.android.com/studio)
+   * [Visual Studio Code `Tool`](https://code.visualstudio.com/)
+   * [WebStorm `Tool`](https://www.jetbrains.com/webstorm/)
    * [Xcode `Tool`](https://developer.apple.com/xcode/)
 
    #### Exercises
@@ -54,19 +54,19 @@
    * Theorize how you can use the command line and scripts to automate daily tasks
 
    #### Resources
-   * [Bash in 100 Seconds `Video`](https://www.youtube.com/watch?v=I4EWvMFj37g)
-   * [The Art of the Command Line `Guide`](https://github.com/jlevy/the-art-of-command-line)
-   * [The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
    * [Awesome Shell `Resource`](https://github.com/alebcay/awesome-shell#readme)
+   * [Bash in 100 Seconds `Video`](https://www.youtube.com/watch?v=I4EWvMFj37g)
+   * [Command-line Environment `Video`](https://missing.csail.mit.edu/2020/command-line/)
+   * [Hyper `Tool`](https://hyper.is/)
    * [Linux debugging tools you'll love `Book`](https://jvns.ca/debugging-zine.pdf)
+   * [Oh My Zsh `Tool`](https://ohmyz.sh/)
+   * [Powershell `Resource`](https://github.com/janikvonrotz/awesome-powershell#readme)
    * [Shell Tools and Scripting `Video`](https://missing.csail.mit.edu/2020/shell-tools/)
    * [SSH Essentials `Tutorial`](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
-   * [Command-line Environment `Video`](https://missing.csail.mit.edu/2020/command-line/)
+   * [The Art of the Command Line `Guide`](https://github.com/jlevy/the-art-of-command-line)
+   * [The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
    * [tldr pages `Resource`](https://tldr.sh/)
    * [Windows Subsystem for Linux `Tool`](https://docs.microsoft.com/en-us/windows/wsl/)
-   * [Powershell `Resource`](https://github.com/janikvonrotz/awesome-powershell#readme)
-   * [Hyper `Tool`](https://hyper.is/)
-   * [Oh My Zsh `Tool`](https://ohmyz.sh/)
    * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
 
@@ -89,21 +89,21 @@
    * Compare using source control and not using source control to manage a project
 
    #### Resources
-   * [Git Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=hwP7WQkmECE)
-   * [GitHub `Tool`](https://github.com/)
-   * [GitLab `Tool`](https://about.gitlab.com/)
    * [BitBucket `Tool`](https://bitbucket.org)
-   * [Semantic Versioning 2.0.0 `Resource`](https://semver.org/)
-   * [Make Atomic Git Commits `Article`](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/)
-   * [GitHooks `Resource`](https://githooks.com/)
-   * [Pro Git `Book`](https://git-scm.com/book/en/v2)
-   * [Git Tips `Resource`](https://github.com/git-tips/tips#readme)
-   * [How To Use Git `Guide`](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
-   * [Git and Git Flow Cheat Sheet `Resource`](https://github.com/arslanbilal/git-cheat-sheet#readme)
-   * [Oh my git! `Game`](https://ohmygit.org/)
-   * [Version Control (Git) `Video`](https://missing.csail.mit.edu/2020/version-control/)
    * [Git & GitHub Crash Course `Video`](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+   * [Git and Git Flow Cheat Sheet `Resource`](https://github.com/arslanbilal/git-cheat-sheet#readme)
+   * [Git Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=hwP7WQkmECE)
+   * [Git Tips `Resource`](https://github.com/git-tips/tips#readme)
+   * [GitHooks `Resource`](https://githooks.com/)
+   * [GitHub `Tool`](https://github.com/)
    * [GitKraken `Tool`](https://www.gitkraken.com/)
+   * [GitLab `Tool`](https://about.gitlab.com/)
+   * [How To Use Git `Guide`](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+   * [Make Atomic Git Commits `Article`](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/)
+   * [Oh my git! `Game`](https://ohmygit.org/)
+   * [Pro Git `Book`](https://git-scm.com/book/en/v2)
+   * [Semantic Versioning 2.0.0 `Resource`](https://semver.org/)
+   * [Version Control (Git) `Video`](https://missing.csail.mit.edu/2020/version-control/)
    * [Introduction to Git `Course ($)`](https://teamtreehouse.com/library/introduction-to-git)
 
    #### Exercises
@@ -126,13 +126,13 @@
    * Reflect on how long a task took you to complete and compare it to your original expectations
 
    #### Resources
-   * [Estimato `Tool`](https://estimato.app/)
-   * [Toggl `Tool`](https://toggl.com/)
    * [Awesome Productivity `Resource`](https://github.com/jyguyomarch/awesome-productivity#readme)
-   * [Pomodoro Technique `Video`](https://www.youtube.com/watch?v=mNBmG24djoY)
+   * [Estimato `Tool`](https://estimato.app/)
    * [Forest: Stay focused, be present `Tool`](https://www.forestapp.cc/)
    * [Learn agile estimation in 10 minutes `Video`](https://www.youtube.com/watch?v=Hwu438QSb_g)
    * [PERT `Article`](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
+   * [Pomodoro Technique `Video`](https://www.youtube.com/watch?v=mNBmG24djoY)
+   * [Toggl `Tool`](https://toggl.com/)
    * [Clean Coders: Productivity `Video ($)`](https://cleancoders.com/episode/clean-code-episode-43)
    * [Clean Coders: Estimates `Video ($)`](https://cleancoders.com/episode/clean-code-episode-44)
 
@@ -154,13 +154,16 @@
 
    #### Resources
    * [~/.dotfiles in 100 Seconds `Video`](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
-   * [Homebrew `Tool`](https://brew.sh/)
-   * [GitPod `Tool`](https://gitpod.io/)
-   * [GitHub Codespaces `Resource`](https://docs.github.com/en/codespaces)
+   * [An unofficial guide to dotfiles on GitHub `Resource`](https://dotfiles.github.io/)
    * [Docker `Tool`](https://www.docker.com/)
-   * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
-   * [12 Factor App `Resource`](https://12factor.net)
    * [Docker Compose `Resource`](https://docs.docker.com/compose/overview/)
+   * [Getting Started with Dotfiles `Article`](https://driesvints.com/blog/getting-started-with-dotfiles/)
+   * [GitHub Codespaces `Resource`](https://docs.github.com/en/codespaces)
+   * [GitPod `Tool`](https://gitpod.io/)
+   * [holman/dotfiles `Tool`](https://github.com/holman/dotfiles)
+   * [Homebrew `Tool`](https://brew.sh/)
+   * [Managing my dotfiles as a git repository `Article`](https://drewdevault.com/2019/12/30/dotfiles.html)
+   * [thoughtbot/laptop `Tool`](https://github.com/thoughtbot/laptop)
 
    #### Exercises
    * [Setting Up Your Local Environment](../exercises/tooling/setting-up-your-local-environment.md)

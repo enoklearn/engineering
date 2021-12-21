@@ -21,13 +21,13 @@
 
    #### Resources
    * [40th Anniversary of the Net - October 29, 1969 `Video`](https://www.youtube.com/watch?v=7duyl0ZZ5BQ)
-   * [UCLA's Leonard Kleinrock on packet switching, early Internet `Video`](https://www.youtube.com/watch?v=rHHpwcZiEW4)
-   * [Internet History from 1962 to 1992 `Resource`](https://www.computerhistory.org/internethistory/)
-   * [(Not) Discussing the Web @ 30 Years Old `Video`](https://www.youtube.com/watch?v=D40wPq1e2Sk)
-   * [History of TCP/IP and OSI `Video`](https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&t=23s)
-   * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
    * [Browse the first website `Resource`](http://info.cern.ch/)
+   * [Discussing the Web @ 30 Years Old `Video`](https://www.youtube.com/watch?v=D40wPq1e2Sk)
+   * [History of TCP/IP and OSI `Video`](https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&t=23s)
+   * [Internet History from 1962 to 1992 `Resource`](https://www.computerhistory.org/internethistory/)
+   * [Nerds 2.0.1 - A Brief History of the Internet `Video`](https://www.youtube.com/watch?v=L4D2nxQBmOM)
    * [NeXT web browser rebuild `Resource`](https://worldwideweb.cern.ch/)
+   * [UCLA's Leonard Kleinrock on packet switching, early Internet `Video`](https://www.youtube.com/watch?v=rHHpwcZiEW4)
 
    #### Exercises
    * [Wayback Machine](../exercises/internet/wayback-machine.md)
@@ -49,14 +49,14 @@
    #### Resources
    * [Computer Networking in 100 Seconds `Video`](https://www.youtube.com/watch?v=keeqnciDVOo)
    * [Networking by Ben Eater `Video Series`](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
-   * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
-   * [Real life example of TCP/IP and OSI layers `Video`](https://www.youtube.com/watch?v=3kfO61Mensg)
-   * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
    * [Networking Zine `Book`](https://wizardzines.com/zines/networking/)
-   * [Wireshark `Tool`](https://www.wireshark.org/)
    * [Questions about network layers `Course`](https://questions.wizardzines.com/network-layers.html)
-   * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
+   * [Real life example of TCP/IP and OSI layers `Video`](https://www.youtube.com/watch?v=3kfO61Mensg)
+   * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
+   * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
+   * [Wireshark `Tool`](https://www.wireshark.org/)
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
+   * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
 
    #### Exercises
    * [Packet Inspector](../exercises/internet/packet-inspector.md)
@@ -99,10 +99,10 @@
 
    #### Resources
    * [DNS Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=UVR9lhUGAyU)
+   * [How DNS Works `Video`](https://www.youtube.com/watch?v=uOfonONtIuk)
+   * [Questions about DNS `Course`](https://questions.wizardzines.com/dns.html)
    * [What is DNS? `Article`](https://www.cloudflare.com/learning/dns/what-is-dns/)
    * [Why was Facebook down for five hours? (DNS and BGP) `Video`](https://www.youtube.com/watch?v=-wMU8vmfaYo)
-   * [Questions about DNS `Course`](https://questions.wizardzines.com/dns.html)
-   * [How DNS Works `Video`](https://www.youtube.com/watch?v=uOfonONtIuk)
    * [How the Web Works `Course ($)`](https://teamtreehouse.com/library/how-the-web-works)
 
    #### Exercises
@@ -122,11 +122,11 @@
    * Compare encryption of data at rest and encryption of data in-flight
 
    #### Resources
-   * [What is TLS/SSL? `Article`](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+   * [Dissecting a TLS certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    * [Let's Encrypt `Tool`](https://letsencrypt.org/)
    * [Questions about TLS certificates `Course`](https://questions.wizardzines.com/tls-certificates.html)
-   * [Dissecting a TLS certificate `Article`](https://jvns.ca/blog/2017/01/31/whats-tls/)
    * [TLS Handshake Explained `Article`](https://www.youtube.com/watch?v=86cQJ0MMses)
+   * [What is TLS/SSL? `Article`](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
    
    #### Exercises
    * [Configuring TLS/SSL for your website](../exercises/internet/configuring-tls-ssl.md)

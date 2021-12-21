@@ -40,9 +40,9 @@
 
    #### Resources
    * [7 Database Paradigms `Video`](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
-   * [Cloud Firestore `Tool`](https://firebase.google.com/products/firestore)
    * [AWS Databases `Resource`](https://aws.amazon.com/products/databases)
    * [AWS Storage `Resource`](https://aws.amazon.com/products/storage)
+   * [Cloud Firestore `Tool`](https://firebase.google.com/products/firestore)
 
    #### Exercises
    * [Database Provisioning](../exercises/data/database-provisioning.md)
@@ -67,13 +67,13 @@
    * Use migrations to update the schema of a database
 
    #### Resources
+   * [Database normalization `Resource`](https://en.wikipedia.org/wiki/Database_normalization)
    * [SQL Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=zsjvFFKOm3c)
    * [SQL playground `Tool`](https://sql-playground.wizardzines.com/)
-   * [Database normalization `Resource`](https://en.wikipedia.org/wiki/Database_normalization)
    * [SQLZOO `Tutorial`](https://sqlzoo.net/wiki/SQL_Tutorial)
-   * [SQL Basics `Course ($)`](https://teamtreehouse.com/library/sql-basics)
-   * [Querying Relational Databases `Course ($)`](https://teamtreehouse.com/library/querying-relational-databases)
    * [Modifying Data with SQL `Course ($)`](https://teamtreehouse.com/library/modifying-data-with-sql)
+   * [Querying Relational Databases `Course ($)`](https://teamtreehouse.com/library/querying-relational-databases)
+   * [SQL Basics `Course ($)`](https://teamtreehouse.com/library/sql-basics)
 
    #### Exercises
    * [ORM Utilization](../exercises/data/orm-utilization.md)
@@ -92,9 +92,9 @@
    * Convert a WAV audio file to an MP3 audio file using ffmpeg
 
    #### Resources
-   * [What is ETL? `Article`](https://cloud.google.com/learn/what-is-etl)
-   * [Regex in 100 Seconds `Video`](https://www.youtube.com/watch?v=sXQxhojSdZM)
    * [Missing Semester: Data Wrangling `Video`](https://missing.csail.mit.edu/2020/data-wrangling/)
+   * [Regex in 100 Seconds `Video`](https://www.youtube.com/watch?v=sXQxhojSdZM)
+   * [What is ETL? `Article`](https://cloud.google.com/learn/what-is-etl)
 
    #### Exercises
    * [FFmpeg Conversion](../exercises/data/ffmpeg-conversion.md)

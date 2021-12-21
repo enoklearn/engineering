@@ -15,14 +15,21 @@
    With this topic, you’ll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
    
    #### Learning Outcomes
-   * Describe the concept of “acceptance criteria”
+   * Describe the concept of a user story
+   * Describe the concept of acceptance criteria
    * Compare manual and automated testing methods
    * List the team perspectives that should be considered in task requirements
    * Theorize how you might validate and simplify requirements given to you
 
    #### Resources
-   * [What is Acceptance Criteria? `Article`](https://www.productplan.com/glossary/acceptance-criteria/)
+   * [Acceptance Criteria for User Stories: Purposes, Formats, Examples, and Best Practices `Article`](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/)
+   * [Definition of Done: What Product Managers Need to Know `Article`](https://www.productplan.com/learn/agile-definition-of-done/)
+   * [Gathering requirements, go away please! `Article`](https://www.pmi.org/learning/library/gathering-requirements-go-away-please-7448)
+   * [Introduction on how to write User Stories `Video`](https://www.youtube.com/watch?v=Pn-QMvDTuEY)
+   * [How to know what to test `Article`](https://kentcdodds.com/blog/how-to-know-what-to-test)
+   * [User Stories `Article`](https://www.mountaingoatsoftware.com/agile/user-stories)
    * [What is a User Story? `Article`](https://www.productplan.com/glossary/user-story/)
+   * [What is Acceptance Criteria? `Article`](https://www.productplan.com/glossary/acceptance-criteria/)
    * [The Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
@@ -48,15 +55,22 @@
    * Create end-to-end tests using the red, green, refactor cycle
 
    #### Resources
+   * [Another Testing Pyramid `Resource`](https://github.com/testdouble/contributing-tests/wiki/Testing-Pyramid)
+   * [Confidently Shipping Code `Article`](https://kentcdodds.com/blog/confidently-shipping-code)
    * [Fundamentals of TDD `Video Series`](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview)
    * [Integrated Tests Are A Scam `Video`](https://www.youtube.com/watch?v=VDfX44fZoMc)
    * [Red, Green, Refactor `Article`](https://www.codecademy.com/article/tdd-red-green-refactor)
    * [Software Testing Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
    * [TDD `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Driven-Development)
+   * [Testing Library `Tool`](https://testing-library.com/)
    * [The Practical Test Pyramid `Article`](https://martinfowler.com/articles/practical-test-pyramid.html)
+   * [The Testing Trophy `Article`](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
    * [Why Write the Minimum Code to Pass the Test? `Article`](https://codingitwrong.com/2020/12/23/why-write-the-minimum-code-to-pass-the-test.html)
+   * [Write tests. Not too many. Mostly integration. `Article` `Video`](https://kentcdodds.com/blog/write-tests)
+   * [expect(umbrellaOpens).toBe(true) `Thread`](https://twitter.com/erinfranmc/status/1148986961207730176)
    * [Clean Coders: TDD `Video ($)`](https://cleancoders.com/episode/clean-code-episode-6-p1)
    * [Test Driven Development `Book ($)`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+   * [Testing JavaScript `Course ($)`](https://testingjavascript.com/)
 
    #### Exercises
    * [Improve Test Quality](../exercises/automated-testing/improve-test-quality-and-coverage.md)

@@ -22,6 +22,10 @@
    #### Resources
    * [12 Factor App: Build, release, run `Resource`](https://12factor.net/build-release-run)
    * [Build pipelines, deployment, and immutable artifacts `Article`](https://www.brunton-spall.co.uk/post/2016/08/23/Build-pipelines-deployment-and-immutable-artifacts-48ae926178a5/)
+   * [How we managed 49 monthly releases [at GitLab] `Article`](https://about.gitlab.com/blog/2015/12/17/gitlab-release-process/)
+   * [Release Frequency and the Adoption of Agile Practices `Article`](https://telegraphhillsoftware.com/release-frequency-agile-practices/)
+   * [Release Frequency: A Need for Speed `Article`](https://dzone.com/articles/release-frequency-a-need-for-speed)
+   * [The Rust Release Process `Article`](https://forge.rust-lang.org/release/process.html)
    * [What Is Release Management? `Article`](https://www.productplan.com/glossary/release-management/)
 
    #### Exercises
@@ -43,7 +47,11 @@
    * Create a runbook with step-by-step instructions to solve a common problem
    
    #### Resources
+   * [DataDog Incident Management `Tool`](https://docs.datadoghq.com/monitors/incident_management/)
    * [Gitlab Runbooks `Resource`](https://gitlab.com/gitlab-com/runbooks)
+   * [Service-level agreement `Article`](https://en.wikipedia.org/wiki/Service-level_agreement)
+   * [SLA vs. SLO vs. SLI: What’s the difference? `Article`](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
+   * [What is incident management? `Article`](https://www.atlassian.com/incident-management)
 
    #### Exercises
    * [Create a Runbook](../exercises/operations/create-a-runbook.md)
@@ -109,11 +117,11 @@
    * Explain how you might collaborate with a site reliability engineer to maintain resilience for an application
 
    #### Resources
-   * [Site Reliability Engineering `Book`](https://sre.google/sre-book/table-of-contents/)
-   * [The Site Reliability Workbook `Book`](https://sre.google/workbook/table-of-contents/)
    * [Building Secure & Reliable Systems `Book`](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
-   * [What's the Difference Between DevOps and SRE? `Video`](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
+   * [Site Reliability Engineering `Book`](https://sre.google/sre-book/table-of-contents/)
    * [The History of SRE `Video`](https://www.youtube.com/watch?v=1NF6N2RwVoc)
+   * [The Site Reliability Workbook `Book`](https://sre.google/workbook/table-of-contents/)
+   * [What's the Difference Between DevOps and SRE? `Video`](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
    #### Exercises
    * [Reduce Toil](../exercises/reduce-toil.md)

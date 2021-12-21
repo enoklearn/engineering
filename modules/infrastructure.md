@@ -23,14 +23,14 @@
    * Compare using cloud computing with on-premise computing
 
    #### Resources
+   * [A Cloud Guru `Resource`](https://acloudguru.com/)
    * [AWS `Tool`](https://aws.amazon.com/)
    * [Azure `Tool`](https://azure.microsoft.com/en-us/)
-   * [Google Cloud Platform `Tool`](https://cloud.google.com/)
    * [DigitalOcean `Tool`](https://www.digitalocean.com/)
+   * [Google Cloud Platform `Tool`](https://cloud.google.com/)
    * [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
-   * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
    * [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
-   * [A Cloud Guru `Resource`](https://acloudguru.com/)
+   * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 
    #### Exercises
    * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
@@ -49,10 +49,10 @@
    * Explain some of the benefits of infrastructure as code compared to manually provisioning infrastructure
    
    #### Resources
-   * [Terraform `Tool`](https://www.terraform.io/)
    * [AWS CloudFormation `Tool`](https://aws.amazon.com/cloudformation/)
-   * [Terraform in 100 Seconds `Video`](https://www.youtube.com/watch?v=tomUWcQ0P3k)
    * [Infrastructure as Code with Terraform `Tutorial`](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/aws-get-started)
+   * [Terraform `Tool`](https://www.terraform.io/)
+   * [Terraform in 100 Seconds `Video`](https://www.youtube.com/watch?v=tomUWcQ0P3k)
 
    #### Exercises
    * [Terraform the Cloud](../exercises/infrastructure/terraform-the-cloud.md)

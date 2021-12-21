@@ -44,10 +44,10 @@
    * Theorize how you might learn a language fluently
 
    #### Resources
-   * [How katas all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
    * [Awesome Katas `Resource`](https://github.com/gamontal/awesome-katas)
    * [CodeWars `Resource`](https://codewars.com/)
    * [Execute Program `Course ($)`](https://www.executeprogram.com/)
+   * [How katas all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
 
    #### Excercises
    * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
@@ -66,9 +66,9 @@
    * Theorize how you might learn a new language quickly
 
    #### Resources
-   * [Koans.in `Resource`](https://koans.in/)
    * [Essential Programming Books `Resource`](https://www.programming-books.io/index-grid)
    * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
+   * [Koans.in `Resource`](https://koans.in/)
 
    #### Exercises
    * [Tic Tac Toe](../exercises/programming-languages/tic-tac-toe.md)
@@ -88,10 +88,10 @@
    * Theorize how to maintain a project with a third-party dependency
    
    #### Resources
-   * [Factors to consider when adding third party dependencies `Article`](https://dev.to/brpaz/factors-to-consider-when-adding-third-party-dependencies-to-a-project-46hf)
-   * [NPM `Tool`](https://www.npmjs.com/)
-   * [Maven `Tool`](https://search.maven.org/)
    * [Cocoapods `Tool`](https://cocoapods.org/)
+   * [Factors to consider when adding third party dependencies `Article`](https://dev.to/brpaz/factors-to-consider-when-adding-third-party-dependencies-to-a-project-46hf)
+   * [Maven `Tool`](https://search.maven.org/)
+   * [NPM `Tool`](https://www.npmjs.com/)
    * [Snyk `Tool`](https://snyk.io/)
 
    #### Exercises
