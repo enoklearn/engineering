@@ -85,6 +85,7 @@
    * Compare creational, structural, and behavioral patterns and explain their differences
 
    #### Resources
+   * [Dependency injection `Article`](https://en.wikipedia.org/wiki/Dependency_injection)
    * [Design Patterns `Resource`](https://refactoring.guru/design-patterns)
    * [On Writing Software Well `Video Series`](https://www.youtube.com/watch?v=wXaC0YvDgIo&list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx&index=1)
    * [Premature Optimization `Article`](http://wiki.c2.com/?PrematureOptimization)
