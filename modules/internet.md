@@ -55,6 +55,7 @@
    * [What is TCP/IP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
    * [What is UDP? `Article`](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
    * [Wireshark `Tool`](https://www.wireshark.org/)
+   * [How I use Wireshark `Article`](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
 
@@ -100,6 +101,7 @@
    #### Resources
    * [DNS Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=UVR9lhUGAyU)
    * [How DNS Works `Video`](https://www.youtube.com/watch?v=uOfonONtIuk)
+   * [Mess with DNS `Tool`](https://messwithdns.net/)
    * [Questions about DNS `Course`](https://questions.wizardzines.com/dns.html)
    * [What is DNS? `Article`](https://www.cloudflare.com/learning/dns/what-is-dns/)
    * [Why was Facebook down for five hours? (DNS and BGP) `Video`](https://www.youtube.com/watch?v=-wMU8vmfaYo)
