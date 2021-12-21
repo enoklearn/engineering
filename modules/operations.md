@@ -20,7 +20,9 @@
    * Theorize what approval you'd need to get before releasing a change
 
    #### Resources
-   * 
+   * [12 Factor App: Build, release, run `Resource`](https://12factor.net/build-release-run)
+   * [Build pipelines, deployment, and immutable artifacts `Article`](https://www.brunton-spall.co.uk/post/2016/08/23/Build-pipelines-deployment-and-immutable-artifacts-48ae926178a5/)
+   * [What Is Release Management? `Article`](https://www.productplan.com/glossary/release-management/)
 
    #### Exercises
    * [Artifact Deployment](../exercises/operations/artifact-deployment.md)
@@ -60,10 +62,13 @@
    * Create a CD pipeline to deploy build artifacts for development, staging, and production environments
 
    #### Resources
+   * [CircleCI `Tool`](https://circleci.com/)
+   * [ContinuousDelivery `Article`](https://martinfowler.com/bliki/ContinuousDelivery.html)
    * [DevOps CI/CD Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=scEDHsr3APg)
    * [GitHub Actions `Tool`](https://docs.github.com/en/actions)
    * [Gitlab Pipelines `Tool`](https://docs.gitlab.com/ee/ci/pipelines/)
-   * [CircleCI `Tool`](https://circleci.com/)
+   * [What's DevOps? `Article`](https://jvns.ca/blog/2016/10/16/whats-devops/)
+   * [DevOps Handbook `Book ($)`](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3)
 
    #### Exercises
    * [Setup a CI/CD pipeline](../exercises/operations/setup-a-ci-cd-pipeline.md)

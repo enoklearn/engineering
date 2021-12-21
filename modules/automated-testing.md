@@ -21,6 +21,8 @@
    * Theorize how you might validate and simplify requirements given to you
 
    #### Resources
+   * [What is Acceptance Criteria? `Article`](https://www.productplan.com/glossary/acceptance-criteria/)
+   * [What is a User Story? `Article`](https://www.productplan.com/glossary/user-story/)
    * [The Clean Coder `Book ($)`](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
    #### Exercises
@@ -46,14 +48,15 @@
    * Create end-to-end tests using the red, green, refactor cycle
 
    #### Resources
-   * [Software Testing Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
+   * [Fundamentals of TDD `Video Series`](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview)
    * [Integrated Tests Are A Scam `Video`](https://www.youtube.com/watch?v=VDfX44fZoMc)
+   * [Red, Green, Refactor `Article`](https://www.codecademy.com/article/tdd-red-green-refactor)
+   * [Software Testing Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
+   * [TDD `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Driven-Development)
    * [The Practical Test Pyramid `Article`](https://martinfowler.com/articles/practical-test-pyramid.html)
    * [Why Write the Minimum Code to Pass the Test? `Article`](https://codingitwrong.com/2020/12/23/why-write-the-minimum-code-to-pass-the-test.html)
-   * [Fundamentals of TDD `Video Series`](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview)
-   * [TDD `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Driven-Development)
-   * [Test Driven Development `Book ($)`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
    * [Clean Coders: TDD `Video ($)`](https://cleancoders.com/episode/clean-code-episode-6-p1)
+   * [Test Driven Development `Book ($)`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
    #### Exercises
    * [Improve Test Quality](../exercises/automated-testing/improve-test-quality-and-coverage.md)
@@ -79,10 +82,10 @@
    * Create a component using the outside-in test pattern
 
    #### Resources
-   * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
    * [Arrange, Act, Assert `Resource`](https://github.com/testdouble/contributing-tests/wiki/Arrange-Act-Assert)
-   * [How to stop hating your tests. `Video`](https://blog.testdouble.com/talks/2015-11-16-how-to-stop-hating-your-tests/)
+   * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
    * [From the Inside Out or the Outside In? `Article`](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
+   * [How to stop hating your tests. `Video`](https://blog.testdouble.com/talks/2015-11-16-how-to-stop-hating-your-tests/)
    * [XUnit Patterns `Book ($)`](http://xunitpatterns.com/)
 
    #### Exercises
@@ -123,7 +126,7 @@
    * Explain why it is important to be confident in your test suite
 
    #### Resources
-   * [Test Flakiness – Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
+   * [Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises
    * [Flakey Test Refactor](../exercises/automated-testing/flaky-test-refactor.md)

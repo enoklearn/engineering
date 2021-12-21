@@ -22,14 +22,15 @@
    * Explain what kind of architecture might be most productive for you to build with
 
    #### Resources
-   * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
-   * [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express `Video`](https://www.youtube.com/watch?v=CnailTcJV_U)
-   * [What is a microservice architecture and it's advantages? `Video`](https://www.youtube.com/watch?v=qYhRvH9tJKw)
-   * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+   * [Boundaries `Video`](https://www.destroyallsoftware.com/talks/boundaries)
    * [Microservice Tradeoffs `Article`](https://www.martinfowler.com/articles/microservice-trade-offs.html)
+   * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
    * [Monolith vs Microservice vs Serverless `Article`](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
-   * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
    * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+   * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+   * [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express `Video`](https://www.youtube.com/watch?v=CnailTcJV_U)
+   * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+   * [What is a microservice architecture and it's advantages? `Video`](https://www.youtube.com/watch?v=qYhRvH9tJKw)
    * [Clean Architecture: A Craftsman's Guide to Software Structure and Design `Book ($)`](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
    #### Exercises

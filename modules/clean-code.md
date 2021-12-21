@@ -21,6 +21,7 @@
    * Theorize how you might manage technical debt
 
    #### Resources
+   * [Clean Code `Video`](https://www.youtube.com/watch?v=7EmboKQH8lM&t=652s)
    * [Code quality metrics `Article`](https://blog.ndepend.com/code-quality-metrics-signal-noise/)
    * [Pragmatic Programmer `Book ($)`](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
@@ -62,6 +63,7 @@
    * Compare simple and complex solutions and theorize which last longer
 
    #### Resources
+   * [BeckDesignRules `Article`](https://martinfowler.com/bliki/BeckDesignRules.html)
    * [Conway's Game of Life `Game`](https://copy.sh/life/)
    * [Inventing Game of Life (John Conway) `Video`](https://www.youtube.com/watch?v=R9Plq-D1gEk)
    * [4 Rules of Simple Design `Book ($)`](https://leanpub.com/4rulesofsimpledesign)
@@ -108,6 +110,12 @@
 
    #### Resources
    * [Refactoring `Resource`](https://refactoring.guru/refactoring)
+   * [Composing Methods `Resource`](https://refactoring.guru/refactoring/techniques/composing-methods)
+   * [Moving Features between Objects `Resource`](https://refactoring.guru/refactoring/techniques/moving-features-between-objects)
+   * [Organizing Data `Resource`](https://refactoring.guru/refactoring/techniques/organizing-data)
+   * [Simplifying Conditional Expressions `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-conditional-expressions)
+   * [Simplifying Method Calls `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-method-calls)
+   * [Dealing with Generalization `Resource`](https://refactoring.guru/refactoring/techniques/dealing-with-generalization)
    * [Writing Good Tests for the Gilded Rose Kata `Article`](https://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/)
 
    #### Exercises

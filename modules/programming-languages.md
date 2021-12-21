@@ -47,6 +47,7 @@
    * [How katas all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
    * [Awesome Katas `Resource`](https://github.com/gamontal/awesome-katas)
    * [CodeWars `Resource`](https://codewars.com/)
+   * [Execute Program `Course ($)`](https://www.executeprogram.com/)
 
    #### Excercises
    * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
@@ -87,6 +88,10 @@
    * Theorize how to maintain a project with a third-party dependency
    
    #### Resources
+   * [Factors to consider when adding third party dependencies `Article`](https://dev.to/brpaz/factors-to-consider-when-adding-third-party-dependencies-to-a-project-46hf)
+   * [NPM `Tool`](https://www.npmjs.com/)
+   * [Maven `Tool`](https://search.maven.org/)
+   * [Cocoapods `Tool`](https://cocoapods.org/)
    * [Snyk `Tool`](https://snyk.io/)
 
    #### Exercises

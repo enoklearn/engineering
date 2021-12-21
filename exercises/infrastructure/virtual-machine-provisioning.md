@@ -12,7 +12,7 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
 
 ## Questions
 

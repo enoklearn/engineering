@@ -24,6 +24,8 @@
    #### Resources
    * [OWASP Top 10:2021 `Resource`](https://owasp.org/Top10/)
    * [OWASP Top 10:2021 Overview `Video`](https://youtu.be/uLBCDBnMEt0?t=929)
+   * [What is web application security? `Resource`](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
+   * [Port Swigger Web Security Academy `Resource`](https://portswigger.net/web-security/learning-path)
 
    #### Exercises
    * [Remediate the Broken Access Control vulnerability](../exercises/security/broken-access-control.md)
