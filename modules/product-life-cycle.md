@@ -27,11 +27,14 @@
    * [PMF Introduction `Article`](../resources/pmf-intro.md)
    * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
    * [Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
+   * [Build a Story Brand `Book ($)`](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329)
    * [Business Model Generation `Book ($)`](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
    * [Four Steps to the Epiphany `Book ($)`](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358)
    * [Startup Owner’s Manual `Book ($)`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
+   * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
    * [The Mom Test `Book ($)`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
    * [Value Proposition Design `Book ($)`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
+   * [Well Designed `Book ($)`](https://www.amazon.com/Well-Designed-Empathy-Create-Products-People/dp/1625274793)
 
    #### Exercises
    * [Product-Market Fit Indicator Questionnaire](../exercises/product-life-cycle/pmf-questionnaire.md)
@@ -55,9 +58,11 @@
    * ["Scale": Measure what Matter Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
    * ["Start": Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
    * ["Start": Jobs to be Done `Book ($)`](https://www.amazon.com/Jobs-Be-Done-Theory-Practice/dp/B08R8ZGPXP)
+   * ["Start": Start with Why `Book ($)`](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
    * ["Start": The Lean Product Playbook `Book ($)`](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874)
    * ["Start": The Lean Startup `Book ($)`](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
    * ["Start": The Startup Way `Book ($)`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
+   * ["Start": When Coffee and Kale Compete `Book ($)`](https://www.amazon.com/When-Coffee-Kale-Compete-products/dp/1534873066)
    * ["Sustain/Shift": Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
    * ["Sustain/Shift": The Innovator’s Dilemma `Book ($)`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
 
@@ -123,12 +128,15 @@
    * [Coaching Agile Teams `Book ($)`](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-dp-B08QTX31HV/dp/B08QTX31HV)
    * [Collaborative Intelligence: Using teams to solve hard problems `Book ($)`](https://www.amazon.com/Collaborative-Intelligence-Using-Teams-Problems/dp/B00B5AOGTA)
    * [Creative Confidence `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+   * [Crucial Conversations `Book ($)`](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
    * [Empowered: ordinary people, extraordinary products `Book ($)`](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
    * [Extreme Programming Explained `Book ($)`](https://www.amazon.com/Extreme-Programming-Explained-5-Oct-1999-Paperback/dp/B011T86NIY)
    * [Getting Started with Kanban `Book ($)`](https://www.amazon.com/Getting-Started-Kanban-Paul-Klipp/dp/149531197X)
    * [Lean Software Development `Book ($)`](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+   * [Mythical Man-Month `Book ($)`](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
    * [Scrum: The art of doing twice the work in half the time `Book ($)`](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
    * [Sprint: how to solve big problems and test new ideas in just five days `Book ($)`](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X)
+   * [The Coaching Habit `Book ($)`](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749)
    * [User Stories Applied `Book ($)`](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
 
    #### Exercises
@@ -157,7 +165,9 @@
    * [Creative Confidence `Book ($)`](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
    * [Everyday Business Storytelling `Book ($)`](https://www.amazon.com/dp/1119704669)
    * [Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+   * [Start with Why `Book ($)`](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
    * [Storytelling with Data - A data visualization guide for business professionals `Book ($)`](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+   * [The Making of a Manager `Book ($)`](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
    * [The Product Book `Book ($)`](https://www.amazon.com/Product-Book-Become-Great-Manager/dp/0998973815)
 
    #### Exercises
