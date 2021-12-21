@@ -51,7 +51,7 @@
    * [SRE: Monitoring Distributed Systems `Book`](https://sre.google/sre-book/monitoring-distributed-systems/)
 
    #### Exercises
-   * [Super Dashboard](../exercises/monitoring/super-dashboard.md)
+   * [Golden Dashboard](../exercises/monitoring/golden-dashboard.md)
 </details>
 
 ----

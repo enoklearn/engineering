@@ -1,4 +1,4 @@
-# Exercise: Super Dashboard
+# Exercise: Golden Dashboard
 
 ## Overview
 

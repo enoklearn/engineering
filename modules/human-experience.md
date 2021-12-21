@@ -87,7 +87,7 @@
    * [Login Screen with Material Design](../exercises/human-experience/login-screen-ui.md)
    * Build a simple UI layout using Material Design
    * Read Documentation in popular Design Systems or your company's own
-   * [Storybook exercise: Create reusable and documented UI components](https://storybook.js.org/)
+   * Storybook exercise: Create reusable and documented UI components
 </details>
 
 ----
