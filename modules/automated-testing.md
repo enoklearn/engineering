@@ -100,7 +100,8 @@
    * [Four-phase test `Article`](https://thoughtbot.com/blog/four-phase-test)
    * [From the Inside Out or the Outside In? `Article`](https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html)
    * [How to stop hating your tests. `Video`](https://blog.testdouble.com/talks/2015-11-16-how-to-stop-hating-your-tests/)
-   * [XUnit Patterns `Book ($)`](http://xunitpatterns.com/)
+   * [xUnit Patterns Website `Resource`](http://xunitpatterns.com/)
+   * [xUnit Patterns `Book ($)`](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 
    #### Exercises
    * [Four-Phase Refactor](../exercises/automated-testing/four-phase-refactor.md)
@@ -119,8 +120,13 @@
    * Explain why you might need a test double when creating automated tests
 
    #### Resources
+   * [Mocks Aren't Stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
+   * [But really, what is a JavaScript mock? `Article`](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock)
+   * [C++ testing with mocks is EASY and awesome! `Video`](https://www.youtube.com/watch?v=gqe6eo2-9_Q)
+   * [JavaScript testing: Jest mocks `Video`](https://www.youtube.com/watch?v=OS5mVVM5vAg)
+   * [Test Double xUnit Patterns `Resource`](http://xunitpatterns.com/Test%20Double.html)
    * [Test Doubles `Resource`](https://github.com/testdouble/contributing-tests/wiki/Test-Double)
-   * [Mocks aren't stubs `Article`](https://www.martinfowler.com/articles/mocksArentStubs.html)
+   * [What is Mocking? `Thread`](https://stackoverflow.com/questions/2665812/what-is-mocking)
 
    #### Exercises
    * [API Test Double](../exercises/automated-testing/API-test-double.md)
@@ -140,6 +146,8 @@
    * Explain why it is important to be confident in your test suite
 
    #### Resources
+   * [What's a flaky test? `Article`](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html)
+   * [How to Deal With and Eliminate Flaky Tests `Article`](https://semaphoreci.com/community/tutorials/how-to-deal-with-and-eliminate-flaky-tests)
    * [Methods for identifying and dealing with flaky tests `Article`](https://engineering.atspotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/)
 
    #### Exercises

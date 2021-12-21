@@ -1,11 +1,11 @@
-# Exercise: Tic Tac Toe
+# Exercise: Path to Enlightenment
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Create Tic Tac Toe in three different programming languages |
-| Duration | 4-8 hours |
+| Goal | Complete the Ruby language koans |
+| Duration | 4-6 hours |
 
 
 ## Steps

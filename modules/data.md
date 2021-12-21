@@ -115,7 +115,12 @@
    * Compare eventual and strong consistency and explain their differences
 
    #### Resources
+   * [3 Tips That Will Simplify Your Application State Management `Article`](https://codemachine.dev/3-tips-that-will-simplify-your-application-state-management?ref=hackernoon.com)
+   * [Caching in a PWA `Tutorial`](https://web.dev/learn/pwa/caching/)
+   * [Event-driven architecture `Article`](https://en.wikipedia.org/wiki/Event-driven_architecture)
+   * [Implementing a simple state machine library in JavaScript `Article`](https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript)
    * [What do you mean by "Event-Driven"? `Article`](https://www.martinfowler.com/articles/201701-event-driven.html)
+   * [What is caching? `Article`](https://www.cloudflare.com/learning/cdn/what-is-caching/)
 
    #### Exercises
    * [Cache Buster](../exercises/data/cache-buster.md)

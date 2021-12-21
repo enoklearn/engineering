@@ -21,7 +21,7 @@
    * Theorize how you might manage technical debt
 
    #### Resources
-   * [Clean Code `Video`](https://www.youtube.com/watch?v=7EmboKQH8lM&t=652s)
+   * [Clean Code Lessons `Video Series`](https://www.youtube.com/watch?v=7EmboKQH8lM&t=65s&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
    * [Code quality metrics `Article`](https://blog.ndepend.com/code-quality-metrics-signal-noise/)
    * [Pragmatic Programmer `Book ($)`](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 

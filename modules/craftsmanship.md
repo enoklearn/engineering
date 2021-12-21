@@ -95,6 +95,7 @@
 
    #### Resources
    * [Alistair Cockburn on _shuhari_ `Video`](https://www.youtube.com/watch?v=9Z35l238vg4)
+   * [Conceptually `Resource`](https://conceptually.org/concepts)
    * [Ghost CMS `Tool`](https://ghost.org/)
    * [Imitate, Assimilate, Innovate: 3 Steps to Learning Improvisation `Article` `Video`](https://www.jazzadvice.com/lessons/clark-terrys-3-steps-to-learning-improvisation/)
    * [Learning with _shuhari_ `Article`](https://www.martinfowler.com/bliki/ShuHaRi.html)

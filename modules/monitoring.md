@@ -63,12 +63,14 @@
    
    #### Learning Outcomes
    * Describe what being on-call means
-   * Explain what signal vs. noise is
+   * Explain what signal and noise is
    * Explain how you might use the golden signals to setup useful alerts
 
    #### Resources
+   * [What is signal and noise? `Article`](https://conceptually.org/concepts/signal-and-noise)
    * [Alerting on what matters `Article`](https://www.datadoghq.com/blog/monitoring-101-alerting/)
    * [AWS CloudWatch `Tool`](https://aws.amazon.com/cloudwatch/)
+   * [Analysis shows pilots often ignore Boeing 737 cockpit alarm `Article`](https://www.travelweekly.com/Travel-News/Airline-News/Analysis-shows-pilots-often-ignore-Boeing-737-cockpit-alarm)
    
    #### Exercises
    * [Golden Signal Alerting](../exercises/monitoring/golden-signal-alerting.md)
@@ -103,10 +105,14 @@
    With this topic, you’ll learn how to improve the scalability and reliability of an application based on its utilization.
    
    #### Learning Outcomes
-   * Explain how you might use metrics to set a performance baseline
+   * Describe a performance benchmark
+   * Explain how you might use metrics improve the performance of a feature
 
    #### Resources
+   * [Lighthouse `Tool`](https://developers.google.com/web/tools/lighthouse/)
    * [Web Vitals `Article`](https://web.dev/vitals/)
+   * [What is StatsD and how can it help you? `Article`](https://www.datadoghq.com/blog/statsd/)
+   * [StatsD `Tool`](https://github.com/statsd/statsd)
 
    #### Exercises
    * [Performance Boost](../exercises/monitoring/performance-boost.md)

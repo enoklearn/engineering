@@ -25,6 +25,7 @@
    * [Boundaries `Video`](https://www.destroyallsoftware.com/talks/boundaries)
    * [Microservice Tradeoffs `Article`](https://www.martinfowler.com/articles/microservice-trade-offs.html)
    * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
+   * [Microservices Architecture `Resource`](https://microservices.io/)
    * [Monolith vs Microservice vs Serverless `Article`](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
    * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
    * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

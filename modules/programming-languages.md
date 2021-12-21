@@ -46,8 +46,8 @@
    #### Resources
    * [Awesome Katas `Resource`](https://github.com/gamontal/awesome-katas)
    * [CodeWars `Resource`](https://codewars.com/)
+   * [Katas, how it all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
    * [Execute Program `Course ($)`](https://www.executeprogram.com/)
-   * [How katas all started `Article`](http://codekata.com/kata/codekata-how-it-started/)
 
    #### Excercises
    * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
@@ -66,13 +66,15 @@
    * Theorize how you might learn a new language quickly
 
    #### Resources
+   * [Edgecase Ruby Koans `Resource`](http://www.rubykoans.com/)
    * [Essential Programming Books `Resource`](https://www.programming-books.io/index-grid)
    * [Exercism Language Learning `Resource`](https://exercism.org/tracks)
    * [Koans.in `Resource`](https://koans.in/)
+   * [The Codeless Code `Resource`](http://thecodelesscode.com/contents)
 
    #### Exercises
-   * [Tic Tac Toe](../exercises/programming-languages/tic-tac-toe.md)
-   * Pick a programming language koans repo (like the Ruby koans) and learn the syntax of that language
+   * [Path to Enlightenment](../exercises/programming-languages/path-to-enlightenment.md)
+   * Create Tic Tac Toe in three different programming languages
 </details>
 
 ----
