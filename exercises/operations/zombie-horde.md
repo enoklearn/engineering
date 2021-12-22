@@ -12,13 +12,19 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Install Artillery in your project. 
+2. Create an Artillery script that simulates 500 simultaneous users using a feature in your application.
+3. Run the script. 
+4. Review the results with your mentor.
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is an Artillery script?
+- What is performance testing?
+- What is non-functional testing?
+- What did running the script reveal?
 
 ## Reflection
 

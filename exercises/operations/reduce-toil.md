@@ -12,13 +12,16 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Evaluate your workflow to identify a manual task that can be automated.
+2. Convert the manual task to an automated task.
+3. Review the results with your mentor.
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What scripting language did you use to automate the task?
+- How much time does automation save you?
 
 ## Reflection
 

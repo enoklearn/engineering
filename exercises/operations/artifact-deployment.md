@@ -12,13 +12,18 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Create a script that will produce an immutable build of your application. 
+2. Using semantic versioning properly, create a new tag for the build.
+3. Deploy the build artifact to the target environment.
+4. Review the results with your mentor. 
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is immutability?
+- What is semantic versioning?
+- What is a build artifact?
 
 ## Reflection
 

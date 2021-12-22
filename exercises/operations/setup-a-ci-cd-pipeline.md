@@ -4,7 +4,7 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup a CI/CD pipeline using GitHub Actions to run automated test and deploy your application |
+| Goal | Setup a CI/CD pipeline using GitHub Actions to run automated tests and deploy your application |
 | Duration | 2-4 hours |
 
 
@@ -12,13 +12,16 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Identify a repo that you can use to setup a CI/CD pipeline.
+2. Using GitHub Actions, setup a workflow that runs automated tests and deploys your application.
+3. Review the results with your mentor.
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is a CI/CD pipeline?
+- How did you identify what actions the CI/CD pipeline should run?
 
 ## Reflection
 

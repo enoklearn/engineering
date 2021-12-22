@@ -12,13 +12,17 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Identify a common problem that needs a manual solution.
+2. Create a list of steps to solve the problem.
+3. Package it up as a runbook.
+4. Share the results with your mentor. 
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is the purpose of a runbook? 
+- When might you automate the steps in a runbook?
 
 ## Reflection
 
