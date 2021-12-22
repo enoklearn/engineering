@@ -12,26 +12,24 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Visit stackshare.io. 
+2. Find three interesting companies and their tech stacks. 
+3. Compare the tech stacks between these companies. 
+4. Create a list of interesting tech that you would like to explore further. 
+5. Share the results with your mentor.  
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What stood out to you when comparing tech stacks between companies?
 
 ## Reflection
 
 Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
-SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
-
 - What conclusion can you share with your mentor?
-- What surprised you about this exercise?
-- How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?
-- If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise? 
-- How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
 - What did this leave you excited to dig further into? 
 - Where do you want to go from here?
 - What would be your next step? What resources can support you in this next step?
