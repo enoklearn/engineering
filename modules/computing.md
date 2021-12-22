@@ -74,9 +74,11 @@
    * Compare some features of your original operating system with the operating system you tried out
 
    #### Resources
-   * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
-   * [VirtualBox `Tool`](https://www.virtualbox.org/)
    * [DigitalOcean Learning Library `Resource`](https://www.digitalocean.com/community)
+   * [Docker in 100 Seconds `Video`](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+   * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+   * [Using Docker Dev Containers `Resource`](https://code.visualstudio.com/docs/remote/create-dev-container)
+   * [VirtualBox `Tool`](https://www.virtualbox.org/)
 
    #### Exercises
    * [Virtual Machines](../exercises/computing/virtual-machines.md)
@@ -123,8 +125,8 @@
    * Theorize how you use platform identification with your projects
 
    #### Resources
-   * [Docker in 100 Seconds `Video`](https://www.youtube.com/watch?v=Gjnup-PuquQ)
-   * [Using Docker Dev Containers `Resource`](https://code.visualstudio.com/docs/remote/create-dev-container)
+   * [BrowserStack list of platforms `Resource`](https://www.browserstack.com/list-of-browsers-and-platforms/live)
+   * [Computing platform `Article`](https://en.wikipedia.org/wiki/Computing_platform)
 
    #### Exercises
    * [Platform Identification](../exercises/computing/platform-identification.md)

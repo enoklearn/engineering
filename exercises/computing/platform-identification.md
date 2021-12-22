@@ -7,35 +7,39 @@
 | Goal | Create an inventory of uncommon and common platforms (hardware, operating system, and runtime) |
 | Duration | 1-2 hours |
 
+Platform identification can help you understand the environment that your code will be running in. You can use this simple formula to construct a platform: 
+
+```
+HARDWARE + OPERATING_SYSTEM + RUNTIME = PLATFORM
+
+iPhone 13 + iOS 15.1 + Swift 5.5
+XPS 13 Laptop + Windows 11 + Chrome 96.0.4664.110
+```
+
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Find three computers in your house (e.g. Kindle, laptop, phone, etc...)
+2. Using the platform formula, create a list of platforms for the three computers
+3. Share the results with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- How would you create software for each the platforms you discovered?
+- What kind of platforms are you targeting to ship your product to?
 
 ## Reflection
 
 Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
-SELECT_AS_MANY_AS_YOU_WANT_BELOW_AND_DELETE_THIS
-
 - What conclusion can you share with your mentor?
 - What surprised you about this exercise?
-- How would you say this exercise stretched you? 
-- What did this exercise show you about yourself?
-- If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise? 
-- How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
-- What did this leave you excited to dig further into? 
 - Where do you want to go from here?
 - What would be your next step? What resources can support you in this next step?
-- When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
 
 ## Need help?
 
