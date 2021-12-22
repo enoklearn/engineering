@@ -22,6 +22,7 @@
 
    #### Resources
    * [DataDog `Tool`](https://datadoghq.com/)
+   * [Docker Container DataDog Agent Installation `Tutorial`](https://docs.datadoghq.com/agent/docker/log/?tab=containerinstallation)
    * [Grafana `Tool`](https://grafana.com/)
    * [Grafana Explained in Under 5 Minutes `Video`](https://www.youtube.com/watch?v=lILY8eSspEo)
    * [Monitor what matters `Video`](https://www.youtube.com/watch?v=EnvKjTw-xTo)

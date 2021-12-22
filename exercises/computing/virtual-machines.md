@@ -17,7 +17,8 @@ Use the following steps to help you progress through the exercise (use your own 
 3. Setup a new virtual machine in VirtualBox
 4. Start the VM and load in the `.iso` of the operating system downloaded earlier
 5. Install and configure the operating system
-6. Share the results with your mentor!
+6. (optional) Tear down the VM
+7. Share the results with your mentor!
 
 ## Questions
 

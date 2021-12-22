@@ -4,20 +4,27 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Collect logs using stdout in an application |
-| Duration | 1-2 hours |
+| Goal | Collect logs from "standard output" in a Dockerized application using DataDog |
+| Duration | 2-4 hours |
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Sign in to your DataDog account.
+2. Install the DataDog agent in your Docker container. 
+3. Collect logs from `stdout`.
+4. View the logs in the DataDog log stream. 
+5. Share the results with your mentor. 
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is "standard output"?
+- What is the difference between "standard output" and "standard input"?
+- How would you use a different collection service (like ) to collect logs?
+- What is the DataDog Agent?
 
 ## Reflection
 

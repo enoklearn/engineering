@@ -68,6 +68,7 @@
    * [Why Write the Minimum Code to Pass the Test? `Article`](https://codingitwrong.com/2020/12/23/why-write-the-minimum-code-to-pass-the-test.html)
    * [Write tests. Not too many. Mostly integration. `Article` `Video`](https://kentcdodds.com/blog/write-tests)
    * [expect(umbrellaOpens).toBe(true) `Thread`](https://twitter.com/erinfranmc/status/1148986961207730176)
+   * [Test-Driven Development `Video`](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
    * [Clean Coders: TDD `Video ($)`](https://cleancoders.com/episode/clean-code-episode-6-p1)
    * [Test Driven Development `Book ($)`](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
    * [Testing JavaScript `Course ($)`](https://testingjavascript.com/)

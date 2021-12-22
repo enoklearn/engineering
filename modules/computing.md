@@ -76,6 +76,7 @@
    #### Resources
    * [DigitalOcean Learning Library `Resource`](https://www.digitalocean.com/community)
    * [Docker in 100 Seconds `Video`](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+   * [Learn Docker in 7 Easy Steps `Video`](https://www.youtube.com/watch?v=gAkwW2tuIqE)
    * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
    * [Using Docker Dev Containers `Resource`](https://code.visualstudio.com/docs/remote/create-dev-container)
    * [VirtualBox `Tool`](https://www.virtualbox.org/)
