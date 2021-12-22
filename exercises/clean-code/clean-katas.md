@@ -12,10 +12,10 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. Visit CodeWars. 
-2. Select three katas in your skill level. 
-3. Use as many formal design patterns as you can, when solving the katas. 
-4. Share the results with your mentor. 
+1. Visit [CodeWars](https://www.codewars.com/kata/latest)
+2. Select three katas in your skill level
+3. Use as many formal design patterns as you can, when solving the katas
+4. Share the results with your mentor
 
 ## Questions
 
