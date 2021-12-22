@@ -29,6 +29,7 @@
    * [DigitalOcean `Tool`](https://www.digitalocean.com/)
    * [Google Cloud Platform `Tool`](https://cloud.google.com/)
    * [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
+   * [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
    * [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
    * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 

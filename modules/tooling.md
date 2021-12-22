@@ -54,6 +54,7 @@
    * Theorize how you can use the command line and scripts to automate daily tasks
 
    #### Resources
+   * [A Linux Command Line Primer `Tutorial`](https://www.digitalocean.com/community/tutorials/a-linux-command-line-primer)
    * [Awesome Shell `Resource`](https://github.com/alebcay/awesome-shell#readme)
    * [Bash in 100 Seconds `Video`](https://www.youtube.com/watch?v=I4EWvMFj37g)
    * [Command-line Environment `Video`](https://missing.csail.mit.edu/2020/command-line/)
@@ -67,8 +68,8 @@
    * [The Shell `Video`](https://missing.csail.mit.edu/2020/course-shell/)
    * [tldr pages `Resource`](https://tldr.sh/)
    * [Windows Subsystem for Linux `Tool`](https://docs.microsoft.com/en-us/windows/wsl/)
-   * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
    * [Bite Size Bash! `Book ($)`](https://wizardzines.com/zines/bite-size-bash/)
+   * [Bite Size Command Line! `Book ($)`](https://wizardzines.com/zines/bite-size-command-line/)
 
    #### Excercises
    * [CLI Weather](../exercises/tooling/cli-weather.md)
