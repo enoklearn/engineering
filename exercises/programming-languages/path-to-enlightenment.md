@@ -13,7 +13,7 @@
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
 1. [Download the Ruby Koans](http://rubykoans.com)
-2. Start your journey down the path to enlightenment by running `ruby about_asserts.rb`
+2. Start your journey down the path to enlightenment by running `rake`
 3. Complete the koans.
 4. Share the results with your mentor. 
 
