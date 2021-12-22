@@ -1,0 +1,20 @@
+{
+  "name": "engineerkit",
+  "version": "1.0.0",
+  "description": "A collection of knowledge, tools, and skills that we've come to find useful, packaged up as a software engineering apprenticeship program.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerkit/engineerkit.git"
+  },
+  "contributors": [
+    "Chandler Roth",
+    "Gavin Coyle",
+    "Sam Ritthaler",
+    "Brandon D'Adam"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/engineerkit/engineerkit/issues"
+  },
+  "homepage": "https://engineerkit.org"
+}

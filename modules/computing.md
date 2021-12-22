@@ -1,11 +1,11 @@
 # Computing
 
-![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square)
-<a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
+![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
+### With this module, you'll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
 
-<img width="1440" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
+<img width="1440" alt="An Apple Macintosh computer" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
 
 
 ## Topics
@@ -13,11 +13,11 @@
 <details open>
    <summary><b>History of Computing</b></summary><br/>
 
-   With this topic, you’ll learn about the history of computing and some of the most important events that shaped the Information Age.
+   With this topic, you'll learn about the history of computing and some of the most important events that shaped the Information Age.
    
    #### Learning Outcomes
    * List the four generations of computing
-   * Explain Moore’s Law and the rate of exponential change in computing hardware
+   * Explain Moore's Law and the rate of exponential change in computing hardware
    * Compare the rate of change in hardware to the rate of change in software
    * Theorize how you can stay current with the rapid changes in our industry
 
@@ -31,8 +31,7 @@
    * [Jean Bartik and the ENIAC Women `Video`](https://www.youtube.com/watch?v=aPweFhhXFvY)
 
    #### Exercises
-   * Build yourself a newsfeed that brings together the essential articles you care about (consider using an RSS reader)
-   * Build a simple logic gate using some wire and a battery
+   * [Ahead of the Times](../exercises/computing/ahead-of-the-times.md)
 </details>
 
 ----
@@ -57,7 +56,7 @@
    * [8 Standard Computer Components `Article`](https://www.houkconsulting.com/2017/03/standard-computer-components/)
 
    #### Exercises
-   * Build a simple logic gate using some wire and a battery
+   * [Physical Logic Gates](../exercises/computing/physical-logic-gates.md)
 </details>
 
 ----
@@ -75,12 +74,15 @@
    * Compare some features of your original operating system with the operating system you tried out
 
    #### Resources
+   * [DigitalOcean Learning Library `Resource`](https://www.digitalocean.com/community)
+   * [Docker in 100 Seconds `Video`](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+   * [Learn Docker in 7 Easy Steps `Video`](https://www.youtube.com/watch?v=gAkwW2tuIqE)
    * [Understanding Operating Systems `Article`](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+   * [Using Docker Dev Containers `Resource`](https://code.visualstudio.com/docs/remote/create-dev-container)
    * [VirtualBox `Tool`](https://www.virtualbox.org/)
-   * [DigitalOcean Learning Library](https://www.digitalocean.com/community)
 
    #### Exercises
-   * Spin up a virtual machine using VirtualBox, and gain exposure to another operating system and virtualization at the same time!
+   * [Virtual Machines](../exercises/computing/virtual-machines.md)
 </details>
 
 ----
@@ -98,11 +100,17 @@
 
    #### Resources
    * [The Programming Process `Article`](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+   * [How do computers read code? `Video`](https://www.youtube.com/watch?v=QXjU9qTsYCc)
+   * [rbenv `Tool`](https://github.com/rbenv/rbenv)
+   * [pyenv `Tool`](https://github.com/pyenv/pyenv)
+   * [nodenv `Tool`](https://github.com/nodenv/nodenv)
+   * [goenv `Tool`](https://github.com/syndbg/goenv)
+   * [rustup `Tool`](https://rustup.rs/)
+   * [C# language versioning](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version)
    * [Computer Basics Course `Course ($)`](https://teamtreehouse.com/library/computer-basics)
-   * [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
  
    #### Exercises
-   * Explore running source code using different language runtime versions
+   * [Runtime Mismatch](../exercises/computing/runtime-mismatch.md)
 </details>
 
 ----
@@ -118,8 +126,9 @@
    * Theorize how you use platform identification with your projects
 
    #### Resources
-   * [Using Docker Dev Containers](https://code.visualstudio.com/docs/remote/create-dev-container)
+   * [BrowserStack list of platforms `Resource`](https://www.browserstack.com/list-of-browsers-and-platforms/live)
+   * [Computing platform `Article`](https://en.wikipedia.org/wiki/Computing_platform)
 
    #### Exercises
-   * Setup your local environment using a runtime manager like rbenv or Docker dev containers
+   * [Platform Identification](../exercises/computing/platform-identification.md)
 </details>

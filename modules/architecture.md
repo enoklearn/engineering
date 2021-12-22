@@ -1,31 +1,41 @@
 # Architecture
 
-![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square)
-<a href="https://github.com/engineerkit/engineerkit/discussions">![Ask Questions](https://img.shields.io/badge/Ask%20Questions%20-blue.svg?style=flat-square&logo=discourse&logoWidth=15&labelColor=555&color=4d51cc)</a>
+![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
+<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to design and build software systems from a high-level architectural perspective without losing touch with the low-level implementation details.
+### With this module, you'll learn how to design and build software systems from a high-level architectural perspective without losing touch with the low-level implementation details.
 
-<img width="1440" alt="Architecture Module" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
+<img width="1440" alt="Woman diagramming on a whiteboard" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
 
 ## Topics
 
 <details open>
    <summary><b>Common Architecture Patterns</b></summary><br/>
 
-   With this topic, you’ll learn about common patterns used in architecture to create software systems.
+   With this topic, you'll learn about common patterns used in architecture to create software systems.
    
    #### Learning Outcomes
-   * Compare a monolithic architecture with a microservices architecture
-   * Explain some of the challenges of a monolithic architecture
-   * Explain some of the challenges of a microservices architecture
+   * Compare monolithic, microservices, and serverless architectures
+   * Describe benefits with a monolithic architecture
+   * Describe benefits with a microservices architecture
+   * Describe benefits with a serverless architecture
+   * Explain what kind of architecture might be most productive for you to build with
 
    #### Resources
-   * https://www.martinfowler.com/articles/microservices.html
-   * https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
-   * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+   * [Boundaries `Video`](https://www.destroyallsoftware.com/talks/boundaries)
+   * [Microservice Tradeoffs `Article`](https://www.martinfowler.com/articles/microservice-trade-offs.html)
+   * [Microservices `Article`](https://www.martinfowler.com/articles/microservices.html)
+   * [Microservices Architecture `Resource`](https://microservices.io/)
+   * [Monolith vs Microservice vs Serverless `Article`](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
+   * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+   * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+   * [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express `Video`](https://www.youtube.com/watch?v=CnailTcJV_U)
+   * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+   * [What is a microservice architecture and it's advantages? `Video`](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design `Book ($)`](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
    #### Exercises
-   * Use the C4 model to map out one feature of an existing product
+   * [Microservice Scoping](../exercises/architecture/microservice-scoping.md)
 </details>
 
 ----
@@ -33,18 +43,19 @@
 <details open>
    <summary><b>Common Tech Stacks</b></summary><br/>
 
-   With this topic, you’ll learn about common tech stacks used on projects around the world.
+   With this topic, you'll learn about common tech stacks used on projects worldwide.
    
    #### Learning Outcomes
    * Describe what a tech stack is
    * List some common tech stacks
-   * Theorize how you might improve on an existing tech stacks
+   * Theorize how you might improve on existing tech stacks
 
    #### Resources
-   * https://insights.stackoverflow.com/survey/2021
+   * [Stackshare `Resource`](https://stackshare.io/stacks)
+   * [StackOverflow 2021 Developer Survey `Resource`](https://insights.stackoverflow.com/survey/2021)
 
    #### Exercises
-   * Research the tech stack powering GitHub. Would you use that tech stack?
+   * [Tech Stack Spelunking](../exercises/architecture/tech-stack-spelunking.md)
 </details>
 
 ----
@@ -52,17 +63,18 @@
 <details open>
    <summary><b>Assembling a Tech Stack</b></summary><br/>
 
-   With this topic, you’ll learn how to put together a tech stack that balances the needs of an application and the team building it.
+   With this topic, you'll learn how to put together a tech stack that balances the needs of an application and the team building it.
    
    #### Learning Outcomes
-   * Explain some considerations you’ll need to make when putting a tech stack together
+   * Explain some considerations you'll need to make when putting a tech stack together
    * Theorize how you might recommend a tech stack to a team when starting a project
 
    #### Resources
-   * https://docs.github.com/en/actions
+   * [Demystifying Conway's Law `Article`](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
+   * [Agile Inception Deck `Article`](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 
    #### Exercises
-   * Select the tech on a frontend, backend, and database for a simple tasklist app
+   * [Tech Stack Assembly](../exercises/architecture/tech-stack-assembly.md)
 </details>
 
 ----
@@ -70,17 +82,17 @@
 <details open>
    <summary><b>Tech Stack Ramping</b></summary><br/>
 
-   With this topic, you’ll learn about techniques that enable you to quickly ramp up on new tech stacks and start shipping new features.
+   With this topic, you'll learn about techniques that enable you to quickly ramp up on new tech stacks and start shipping new features.
    
    #### Learning Outcomes
    * List some considerations you might have when ramping on new tech stacks
    * Explain how you might use the 12 Factor App methodology to help ramp on a new tech stack
 
    #### Resources
-   * https://12factor.net/
+   * [12 Factor App `Resource`](https://12factor.net/)
 
    #### Exercises
-   * Use the 12 Factor App model to build a new feature on an existing product
+   * [Feature Shipping](../exercises/architecture/feature-shipping.md)
 </details>
 
 ----
@@ -88,7 +100,7 @@
 <details open>
    <summary><b>Living Documentation</b></summary><br/>
 
-   With this topic, you’ll learn how to create helpful documentation that evolves along with the system it describes.
+   With this topic, you'll learn how to create helpful documentation that evolves along with the system it describes.
    
    #### Learning Outcomes
    * Describe what living documentation is
@@ -96,8 +108,8 @@
    * Theorize when you might not create documentation
 
    #### Resources
-   * https://swagger.io/
+   * [Swagger `Resource`](https://swagger.io/)
 
    #### Exercises
-   * Setup Swagger on an API and use the interactive documentation to send a POST request!
+   * [With a Swagger](../exercises/architecture/with-a-swagger.md)
 </details>

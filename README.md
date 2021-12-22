@@ -4,12 +4,11 @@
 
 ## Overview
 
-- [Getting started](overview/README.md)
-- [What is an apprenticeship program?](overview/apprenticeship.md)
+- [Getting started with EngineerKit](overview/README.md)
 
 ## Modules
 
-These [15 modules](modules/) represent the core knowledge and skills of a generalist software engineer.
+These [15 modules](modules/) represent a generalist software engineer's core knowledge and skills.
 
 * [Craftsmanship](modules/craftsmanship.md)
 * [Human Experience](modules/human-experience.md)
@@ -38,7 +37,7 @@ A great way to start contributing is to first [join our Discord](https://discord
 <details>
    <summary><b>Pulling upstream changes from <a href="https://github.com/engineerkit/engineerkit">engineerkit/engineerkit</a> into your private fork</b></summary><br/>
 
-  While we always promote sharing with the open source community, some companies might find it necessary to privately fork EngineerKit if they have some software engineering standards they want to keep to themselves. Here's a quick guide on how to do this with EngineerKit:
+  While we always promote sharing with the open-source community, some companies might find it necessary to privately fork EngineerKit if they have some software engineering standards they want to keep to themselves. Here's a quick guide on how to do this with EngineerKit:
 
   - First clone down your private repo
   - To add a new remote to your local repo connected to the `engineerkit/engineerkit` repo, run
