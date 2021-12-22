@@ -11,13 +11,16 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. ...
+1. Investigate the backing services required for an application to run
+2. Create an inventory of each backing service with the level of severity if it went down
+3. Share the results with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- Would the application go down if a backing service went down?
+- What is a backing service?
 
 ## Reflection
 

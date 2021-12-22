@@ -7,7 +7,7 @@
 | Goal | Setup a Ubuntu 20.04 machine on DigitalOcean (don't forget to tear it down!) |
 | Duration | 1-2 hours |
 
-Make sure you have a DigitalOcean account created before getting started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unwanted bill!
+Make sure you have a DigitalOcean account created before getting started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unnecessary bill!
 
 ## Steps
 

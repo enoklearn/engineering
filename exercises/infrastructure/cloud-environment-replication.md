@@ -7,7 +7,7 @@
 | Goal | Using Terraform, create two mirrored environments using the "workspaces" feature |
 | Duration | 2-4 hours |
 
-Make sure you have Terraform downloaded and installed on your machine, and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unwanted bill!
+Make sure you have Terraform downloaded and installed on your machine, and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unnecessary bill!
 
 ## Steps
 

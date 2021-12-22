@@ -11,13 +11,19 @@
 
 Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
 
-1. 
+1. Break down your tech stack into container-sized parts (frontend, backend, database, etc...)
+2. Consider the potential load on your application (how much does it need to scale, and how quickly)
+3. Contrast your scaling goals with your spending goals (what is your monthly budget)
+4. With your scaling goals in mind, investigate how you might deploy each part to the cloud
+5. Create an inventory of cloud resources that you think you might need
+6. Share your findings with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- ...
+- What is horizontal scaling?
+- What is vertical scaling?
 
 ## Reflection
 

@@ -7,7 +7,7 @@
 | Goal | Setup a Kubernetes cluster on DigitalOcean using Terraform (don't forget to tear it down!) |
 | Duration | 3-4 hours |
 
-Make sure you have Terraform downloaded and installed on your machine, and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unwanted bill!
+Make sure you have Terraform downloaded and installed on your machine, and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unnecessary bill!
 
 ## Steps
 
