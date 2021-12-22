@@ -9,13 +9,13 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Sign in to your DataDog account.
-2. Install the DataDog agent in your Docker container. 
-3. Collect logs from `stdout`.
-4. View the logs in the DataDog log stream. 
-5. Share the results with your mentor. 
+1. Sign in to your DataDog account
+2. Install the DataDog agent in your Docker container
+3. Collect logs from `stdout`
+4. View the logs in the DataDog log stream
+5. Share the results with your mentor
 
 ## Questions
 

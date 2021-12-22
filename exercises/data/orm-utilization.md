@@ -9,13 +9,13 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Use [Docker](https://www.docker.com/) to setup a [PostgreSQL](https://hub.docker.com/_/postgres/) database
+1. Use [Docker](https://www.docker.com/) to set up a [PostgreSQL](https://hub.docker.com/_/postgres/) database
 2. Integrate [Prisma](https://prisma.io/) into your capstone project
-3. Connect Primsa to your local PostgreSQL database
+3. Connect Prisma to your local PostgreSQL database
 4. Create a schema for your database using Prisma and run migrations against your local PostgresSQL database
-5. In your application use the Prisma SDK to add data to your database
+5. In your application, use the Prisma SDK to add data to your database
 6. Share the results with your mentor!
 
 ## Questions

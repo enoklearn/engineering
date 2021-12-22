@@ -4,15 +4,15 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Select the tech stack for a simple tasklist app |
+| Goal | Select the tech stack for a simple task list app |
 | Duration | 2-4 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Create a system design that has a frontend and a backend for a web platform. 
+1. Create a system design with a frontend and a backend for a web platform. 
 2. Consider how you would build a team around the product. 
 3. Consider what kind of problems the business might want you to solve. 
 4. Share the results with your mentor. 

@@ -3,7 +3,7 @@
 ![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-grey?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn the art and science of writing code for humans and computers.
+### With this module, you'll learn the art and science of writing code for humans and computers.
 
 <img width="1440" alt="Snow field with mountains" src="https://user-images.githubusercontent.com/894178/138357230-15d654b7-8d0f-4584-bdb9-d9bc73f3b605.png">
 
@@ -12,11 +12,11 @@
 <details open>
    <summary><b>Code Quality</b></summary><br/>
 
-   With this topic, you’ll learn why the quality of your code is important and how it affects the safety and reliability of your codebase.
+   With this topic, you'll learn why the quality of your code is important and how it affects the safety and reliability of your codebase.
    
    #### Learning Outcomes
    * List some of the metrics that might determine the quality of your code
-   * Compare high-quality with low-quality code, what are some advantages of each
+   * Compare high-quality with low-quality code
    * Consider why you should care about the quality of your code
    * Theorize how you might manage technical debt
 
@@ -34,7 +34,7 @@
 <details open>
    <summary><b>Code Smells</b></summary><br/>
 
-   With this topic, you’ll learn about signals in your codebase that can indicate poor design or the lack of best practices.
+   With this topic, you'll learn about signals in your codebase that can indicate poor design or the lack of best practices.
    
    #### Learning Outcomes
    * List some common code smells
@@ -54,7 +54,7 @@
 <details open>
    <summary><b>Four Rules of Simple Design</b></summary><br/>
 
-   With this topic, you’ll learn about writing simple code that is tested, singular, and easy to understand.
+   With this topic, you'll learn about writing simple code that is tested, singular, and easy to understand.
    
    #### Learning Outcomes
    * Describe the four rules of simple design
@@ -77,7 +77,7 @@
 <details open>
    <summary><b>Design Patterns</b></summary><br/>
 
-   With this topic, you’ll learn about typical solutions to common problems in software design.
+   With this topic, you'll learn about typical solutions to common problems in software design.
    
    #### Learning Outcomes
    * List some common design patterns
@@ -102,12 +102,12 @@
 <details open>
    <summary><b>Refactoring Techniques</b></summary><br/>
 
-   With this topic, you’ll learn about common ways to better restructure existing code without changing its underlying behavior.
+   With this topic, you'll learn about common ways to better restructure existing code without changing its underlying behavior.
    
    #### Learning Outcomes
    * List some common refactoring techniques
    * Find some code smells that refactorings clean up
-   * Compare refactoring legacy code and greenfield code, what are differences in the approach you might take
+   * Compare refactoring legacy code and greenfield code; what are the different approaches you might take?
 
    #### Resources
    * [Composing Methods `Resource`](https://refactoring.guru/refactoring/techniques/composing-methods)

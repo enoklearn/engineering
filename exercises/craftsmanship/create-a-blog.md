@@ -9,10 +9,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Research different blog platforms (e.g. Medium, Ghost, etc.)
-2. Select a blog engine (or just use plan HTML)
+1. Research different blog platforms (e.g., Medium, Ghost, etc.)
+2. Select a blog engine (or just use plain HTML)
 3. Write a short article about what you hope to accomplish on your apprenticeship journey
 4. Publish your article
 5. Share with your mentor!

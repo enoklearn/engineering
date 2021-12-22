@@ -4,12 +4,12 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Create a map of the backing services that are attached to an application and determine severity of impact of each service if it were to go down |
+| Goal | Create a map of the backing services that are attached to an application and determine the severity of the impact of each service if it were to go down |
 | Duration | 2-4 hours |
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Investigate the backing services required for an application to run
 2. Create an inventory of each backing service with the level of severity if it went down

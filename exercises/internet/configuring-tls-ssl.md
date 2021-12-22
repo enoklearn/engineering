@@ -10,9 +10,9 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Determine the backend service you're going to configure TLS/SSL for (e.g. a load balancer for a Kuberneters cluster)
+1. Determine the backend service you're going to configure TLS/SSL for (e.g., a load balancer for a Kubernetes cluster)
 2. Setup up TLS/SSL certificate for the target service
 3. Ensure network traffic is properly routing through an HTTPS connection
 4. Share your results with your mentor!

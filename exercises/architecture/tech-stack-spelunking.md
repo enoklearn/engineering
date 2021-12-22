@@ -4,13 +4,13 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Research the tech stack of a few popular products, what can you learn from them? |
+| Goal | Research the tech stack of a few popular products. What can you learn from them? |
 | Duration | 3-4 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Visit stackshare.io. 
 2. Find three interesting companies and their tech stacks. 
@@ -32,8 +32,6 @@ Use the following questions to reflect on what you learned with this exercise an
 - What did this exercise show you about yourself?
 - What did this leave you excited to dig further into? 
 - Where do you want to go from here?
-- What would be your next step? What resources can support you in this next step?
-- When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
 
 ## Need help?
 

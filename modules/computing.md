@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
+### With this module, you'll learn the basic types of computer resources and how the instructions you write are interpreted by the computer and converted into actions.
 
 <img width="1440" alt="An Apple Macintosh computer" src="https://user-images.githubusercontent.com/894178/138341614-fd6b30cc-ea08-4096-afd7-c5fcffbf9779.png">
 
@@ -13,11 +13,11 @@
 <details open>
    <summary><b>History of Computing</b></summary><br/>
 
-   With this topic, you’ll learn about the history of computing and some of the most important events that shaped the Information Age.
+   With this topic, you'll learn about the history of computing and some of the most important events that shaped the Information Age.
    
    #### Learning Outcomes
    * List the four generations of computing
-   * Explain Moore’s Law and the rate of exponential change in computing hardware
+   * Explain Moore's Law and the rate of exponential change in computing hardware
    * Compare the rate of change in hardware to the rate of change in software
    * Theorize how you can stay current with the rapid changes in our industry
 

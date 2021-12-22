@@ -9,11 +9,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Discuss with your mentor a performance bottleneck that you could fix with another software engineer on a project. 
-2. Pair up with another software engineer to fix the bottleneck. 
-3. Meet up with your mentor and discuss the steps you took to fix the bottleneck. 
+1. Discuss with your mentor a performance bottleneck that you could fix with another software engineer on a project
+2. Pair up with another software engineer to fix the bottleneck
+3. Meet up with your mentor and discuss what you did to fix the bottleneck
 
 ## Questions
 

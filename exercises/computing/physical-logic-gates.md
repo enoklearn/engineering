@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Review part one of [Exploring How Computers Work `Video`](https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&t=50s)
 2. Purchase some wire, batteries, LED light, and paperclips

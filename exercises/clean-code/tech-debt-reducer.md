@@ -10,11 +10,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Work with your mentor to get involved in discussions around technical debt at your company. 
 2. Listen to some of the challenges that having technical debt creates. 
-3. Hypothesize how reducing technical debt could increase the velocity of your team. 
+3. Hypothesize how reducing technical debt could increase your team's velocity. 
 4. Share the results with your mentor. 
 
 ## Questions

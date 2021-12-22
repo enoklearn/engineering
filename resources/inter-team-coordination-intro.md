@@ -21,7 +21,7 @@
 <img width="750" alt="Waterfall vs Agile" src="https://user-images.githubusercontent.com/894178/146658708-a040e566-5d09-4fcb-8026-477a285e5493.png">
 
 
-**Typical software development frameworks you’ll encounter**
+**Typical software development frameworks you'll encounter**
 - **Waterfall Framework**
 
 <img alt="Waterfall Model" src="https://user-images.githubusercontent.com/894178/146658713-35125c5a-846a-4b08-b7da-ee25d35d5f5e.png">

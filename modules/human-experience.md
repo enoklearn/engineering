@@ -3,7 +3,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to build products that users love by empathizing with the target customers, understanding their problems, and working more collaboratively with designers on your team.
+### With this module, you'll learn how to build products that users love by empathizing with the target customers, understanding their problems, and working more collaboratively with designers on your team.
 
 <img width="1440" alt="Woman using a computer" src="https://user-images.githubusercontent.com/894178/138355309-15bc165b-d913-4022-bc54-8778e3d5b5c1.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Design Fundamentals</b></summary><br/>
 
-   Learn to use basics design terminology, and have an understanding of human experience design as it relates to their work.
+   Learn to use basic design terminology, and have an understanding of human experience design as it relates to their work.
 
    #### Learning Outcomes
    * Explain the value of human experience in the software development process
@@ -38,14 +38,14 @@
 <details open>
    <summary><b>Introduction to Design Thinking</b></summary><br/>
 
-   Build an understanding of each phase of the design thinking methodology, enough to help and support software teams in their problem solving processes.
+   Build an understanding of each phase of the design thinking methodology, enough to help and support software teams in their problem-solving processes.
 
    #### Learning Outcomes
    * (Empathy) Identify who your users are more clearly, and recognize their pain points
-   * (Define) Define a testable hypothesis statement that addresses the users pain points
+   * (Define) Define a testable hypothesis statement that addresses the users' pain points
    * (Ideate) Participate in brainstorming exercises amongst yourself or in a team that helps generate many solutions to a user's problem
    * (Prototype) Assemble testable prototypes from brainstormed ideas
-   * (Measure) Evaluate the success of a prototypes by testing it with users
+   * (Measure) Evaluate the success of a prototype by testing it with users
 
    #### Resources
    * [Design Thinking - Ideo.com `Resource`](https://designthinking.ideo.com/)
@@ -122,7 +122,7 @@
 <details open>
    <summary><b>Working with Digital Product Designers</b></summary><br/>
 
-   Learn how to collaborate with designers in the field, by understanding the role they play in the creation of quality software.
+   Learn how to collaborate with designers in the field by understanding the role they play in the creation of quality software.
 
    #### Learning Outcomes
    * Explain the role a digital product designer plays on a software team

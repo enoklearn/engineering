@@ -3,7 +3,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to elevate your mindset to pursue excellence in any worthwhile endeavor, equipping you for the lifelong journey of mastering your craft.
+### With this module, you'll learn how to elevate your mindset to pursue excellence in any worthwhile endeavor, equipping you for the lifelong journey of mastering your craft.
 
 <img width="1440" alt="Sushi chef at work" src="https://user-images.githubusercontent.com/894178/146979548-c4972b5e-908e-46cf-a317-1068966c6dc1.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>History of Craftsmanship</b></summary><br/>
 
-   With this topic, you’ll learn about how craftsmanship has been applied across different trades, cultures, and periods in human history.
+   With this topic, you'll learn about how craftsmanship has been applied across different trades, cultures, and periods in human history.
 
    #### Learning Outcomes
    * Summarize the history of craftsmanship
@@ -38,7 +38,7 @@
 <details open>
    <summary><b>Principles of Modern Craftsmanship</b></summary><br/>
 
-   With this topic, you’ll learn about the principles of modern craftsmanship and how they can be utilized in any occupation.
+   With this topic, you'll learn about the principles of modern craftsmanship and how they can be utilized in any occupation.
 
    #### Learning Outcomes
    * List the principles of modern craftsmanship
@@ -52,7 +52,7 @@
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
    * [Jiro Dreams of Sushi `Film ($)`](https://www.imdb.com/title/tt1772925/)
-   * [Better: A Surgeon’s Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
+   * [Better: A Surgeon's Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
    #### Exercises
    * [Universal Craftsmanship](../exercises/craftsmanship/universal-craftsmanship.md)
@@ -63,7 +63,7 @@
 <details open>
    <summary><b>The Software Craftsmanship Movement</b></summary><br/>
 
-   With this topic, you’ll learn about the software craftsmanship movement and how it can be applicable far into the future.
+   With this topic, you'll learn about the software craftsmanship movement and how it can be applicable far into the future.
 
    #### Learning Outcomes
    * Describe the purpose of the software craftsmanship movement
@@ -85,7 +85,7 @@
 <details open>
    <summary><b>Learning as an Apprentice</b></summary><br/>
 
-   With this topic, you’ll learn patterns and techniques to learn new topics and effectively build skills as an apprentice.
+   With this topic, you'll learn patterns and techniques to learn new topics and effectively build skills as an apprentice.
 
    #### Learning Outcomes
    * Describe the responsibilities of an apprentice during an apprenticeship
@@ -113,7 +113,7 @@
 <details open>
    <summary><b>Coaching as a Mentor</b></summary><br/>
 
-   With this topic, you’ll learn about patterns and techniques to mentor an apprentice in their journey to graduation effectively.
+   With this topic, you'll learn about patterns and techniques to mentor an apprentice in their journey to graduation effectively.
 
    #### Learning Outcomes
    * Describe the responsibilities of a mentor during an apprenticeship

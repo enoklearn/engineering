@@ -10,11 +10,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Identify a repo that you can use to setup a CI/CD pipeline.
-2. Using GitHub Actions, setup a workflow that runs automated tests and deploys your application.
-3. Review the results with your mentor.
+1. Identify a repo that you can use to set up a CI/CD pipeline
+2. Using GitHub Actions, set up a workflow that runs automated tests and deploys your application
+3. Review the results with your mentor
 
 ## Questions
 

@@ -10,11 +10,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Clone the [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 2. Read the instructions and complete the kata (ideally pair programming!)
-3. (optional) Complete the kata again in a different language (e.g. Java, Python, etc.)
+3. (optional) Complete the kata again in a different language (e.g., Java, Python, etc.)
 4. Share your solution with your mentor
 
 ## Questions

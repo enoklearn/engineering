@@ -19,9 +19,9 @@ XPS 13 Laptop + Windows 11 + Chrome 96.0.4664.110
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Find three computers in your house (e.g. Kindle, laptop, phone, etc...)
+1. Find three computers in your house (e.g., Kindle, laptop, phone, etc.)
 2. Using the platform formula, create a list of platforms for the three computers
 3. Share the results with your mentor!
 
@@ -29,7 +29,7 @@ Use the following steps to help you progress through the exercise (use your own 
 
 Use these questions to guide your curiosity during the exercise:
 
-- How would you create software for each the platforms you discovered?
+- How would you create software for each of the platforms you discovered?
 - What kind of platforms are you targeting to ship your product to?
 
 ## Reflection

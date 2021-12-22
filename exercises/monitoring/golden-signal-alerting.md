@@ -9,12 +9,12 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Sign in to your DataDog account.
-2. Create a new monitor that triggers an alert when the value of a metric is above a certain threshold.
-3. Send an alert to your email when the monitor is triggered.  
-4. Review the results with your mentor.
+1. Sign in to your DataDog account
+2. Create a new monitor that triggers an alert when the value of a metric is above a certain threshold
+3. Send an alert to your email when the monitor is triggered
+4. Review the results with your mentor
 
 ## Questions
 

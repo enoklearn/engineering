@@ -10,7 +10,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Setup an AWS account
 2. Install the [AWS CLI](https://aws.amazon.com/cli/) on your machine (and run `aws configure`)

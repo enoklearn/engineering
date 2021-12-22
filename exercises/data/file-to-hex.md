@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Use hexdump to extract data from a file |
+| Goal | Use hex dump to extract data from a file |
 | Duration | 30 minutes |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Use `hexdump` to print the hexadecimal contents of a file to stdout
-2. (bonus) Use the proper flag to pring hexadecimal + ASCII contents of a file together to stdout
+2. (bonus) Use the proper flag to print hexadecimal + ASCII contents of a file together to stdout
 3. Share what you learned with your mentor!
 
 ## Questions

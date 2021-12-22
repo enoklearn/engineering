@@ -10,11 +10,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Evaluate your workflow to identify a manual task that can be automated.
-2. Convert the manual task to an automated task.
-3. Review the results with your mentor.
+1. Evaluate your workflow to identify a manual task that can be automated
+2. Convert the manual task to an automated task
+3. Review the results with your mentor
 
 ## Questions
 

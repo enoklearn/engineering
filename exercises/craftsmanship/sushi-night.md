@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Rent or buy "Jiro Dreams of Sushi"
 2. (optional) Get some sushi and eat your sushi during the film

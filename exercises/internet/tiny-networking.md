@@ -4,13 +4,13 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Configure your home network to increase the usability and security of it |
+| Goal | Configure your home network to increase its usability and security |
 | Duration | 2-4 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Connect to your home network router administrative panel
 2. Setup a guest network (ideally on its own subnet!)

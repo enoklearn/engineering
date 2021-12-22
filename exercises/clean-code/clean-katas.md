@@ -10,11 +10,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Visit [CodeWars](https://www.codewars.com/kata/latest)
 2. Select three katas in your skill level
-3. Use as many formal design patterns as you can, when solving the katas
+3. Use as many formal design patterns as you can when solving the katas
 4. Share the results with your mentor
 
 ## Questions
@@ -23,7 +23,7 @@ Use these questions to guide your curiosity during the exercise:
 
 - What design patterns did you use the most? 
 - Was it difficult to apply a design pattern to a kata? 
-- How do you see yourself using desing patterns in the real world?
+- How do you see yourself using design patterns in the real world?
 
 ## Reflection
 

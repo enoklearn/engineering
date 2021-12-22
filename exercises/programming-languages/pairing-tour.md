@@ -10,12 +10,12 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Connect with your mentor and figure out the best way to pair with other software engineers on your team.
-2. Schedule some pairing sessions. 
-3. Pair with the other software engineers. 
-4. Share the results with your mentor. 
+1. Connect with your mentor and figure out the best way to pair with other software engineers on your team
+2. Schedule some pairing sessions
+3. Pair with the other software engineers
+4. Share the results with your mentor
 
 ## Questions
 

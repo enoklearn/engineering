@@ -3,7 +3,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn the evolution of the mentality and focus a developer will have through the various stages of a company and a product, and how to find success in each.
+### With this module, you'll learn the evolution of the mentality and focus a developer will have through the various stages of a company and a product and how to find success in each.
 
 <img width="1440" alt="Peaceful forest" src="https://user-images.githubusercontent.com/894178/138342120-9dd3efff-bf3d-4242-9aed-20d874252266.png">
 
@@ -12,25 +12,25 @@
 <details open>
    <summary><b>Product-Market Fit (PMF)</b></summary><br/>
 
-   With this topic you’ll learn the influence product-market fit has on the overarching mission of a business.
+   With this topic, you'll learn the influence product-market fit has on the overarching mission of a business.
    
    #### Learning Outcomes
    * Define what product-market fit is
-   * State the core indicator that a business’s product has reached PMF
-   * Assess if a business’s product has reached PMF
+   * State the core indicator that a business's product has reached PMF
+   * Assess if a business's product has reached PMF
    * Theorize why PMF is the compass a business uses to set their course
 
    #### Resources
-   * [A Company’s Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
+   * [A Company's Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
    * [Never Ending Road to PMF `Article`](https://brianbalfour.com/essays/product-market-fit)
    * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
    * [PMF Introduction `Article`](../resources/pmf-intro.md)
-   * [What is most important between “the market, the team, or the product?” `Article`](https://pmarchive.com/guide_to_startups_part4.html)
+   * [What is most important between "the market, the team, or the product?" `Article`](https://pmarchive.com/guide_to_startups_part4.html)
    * [Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
    * [Build a Story Brand `Book ($)`](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329)
    * [Business Model Generation `Book ($)`](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
    * [Four Steps to the Epiphany `Book ($)`](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358)
-   * [Startup Owner’s Manual `Book ($)`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
+   * [Startup Owner's Manual `Book ($)`](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684)
    * [The Design of Everyday Things `Book ($)`](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
    * [The Mom Test `Book ($)`](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
    * [Value Proposition Design `Book ($)`](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
@@ -44,12 +44,12 @@
 
 <details open>
    <summary><b>Stages of a Company</b></summary><br/>
-   With this topic you’ll learn how to correlate the stages of a company to its journey toward product-market fit.
+   With this topic you'll learn how to correlate the stages of a company to its journey toward product-market fit.
    
    #### Learning Outcomes
    * State the stages of a company
    * Correlate the stages of a company and their relation to product-market fit
-   * Recite what matters to a company at the different stages if its growth
+   * Recite what matters to a company at the different stages of its growth
 
    #### Resources
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
@@ -64,7 +64,7 @@
    * ["Start": The Startup Way `Book ($)`](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
    * ["Start": When Coffee and Kale Compete `Book ($)`](https://www.amazon.com/When-Coffee-Kale-Compete-products/dp/1534873066)
    * ["Sustain/Shift": Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
-   * ["Sustain/Shift": The Innovator’s Dilemma `Book ($)`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
+   * ["Sustain/Shift": The Innovator's Dilemma `Book ($)`](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780)
 
    #### Exercises
    * [Assessing the Stage of your Company](../exercises/product-life-cycle/assessing-stage-of-company.md)
@@ -75,12 +75,12 @@
 <details open>
    <summary><b>Product Life Cycle Stages</b></summary><br/>
 
-   With this topic you’ll learn how a software engineer’s focus may change as the goals of a product change.
+   With this topic, you'll learn how a software engineer's focus may change as the goals of a product change.
    
    #### Learning Outcomes
    * State the stages of a product's life cycle
    * Correlate the stages of a product to stages of a company 
-   * Explain what matters to a company/product team at the different stages if its product
+   * Explain what matters to a company/product team at the different stages of its product
    * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
@@ -97,13 +97,13 @@
 <details open>
    <summary><b>Inter-team Coordination</b></summary><br/>
 
-   With this topic you’ll learn how most companies coordinate software development between its product teams and the surrounding business.
+   With this topic, you'll learn how most companies coordinate software development between their product teams and the surrounding business.
    
    #### Learning Outcomes
    * Describe the Agile and Waterfall software development core philosophies
    * Describe the typical practices/frameworks of each philosophy
    * Deduce what philosophy and practice their particular company adheres to
-   * Theorize what philosophy is best for "the job at hand"
+   * Theorize what philosophy is best for "the job at hand."
 
    #### Resources
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
@@ -118,8 +118,8 @@
    * [More on Agile Frameworks `Article`](https://www.digite.com/blog/scaled-agile-frameworks/)
    * [Plainview's view on Agile Frameworks `Article`](https://www.planview.com/resources/guide/what-is-agile-program-management/agile-frameworks/)
    * [Process Control `Article`](https://www.visual-paradigm.com/scrum/empirical-vs-defined-process-control/)
-   * [Product School’s Agile v Waterfall Description `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
-   * [ProductPlan’s view on Agile Frameworks `Article`](https://www.productplan.com/glossary/agile-framework/)
+   * [Product School's Agile v Waterfall Description `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
+   * [ProductPlan's view on Agile Frameworks `Article`](https://www.productplan.com/glossary/agile-framework/)
    * [Scrum Guide `Article`](https://www.scrum.org/resources/scrum-guide)
    * [Using Agile Scrum `Article`](https://www.neonrain.com/agile-scrum-web-development/)
    * [Waterfall Methodology `Article`](https://medium.com/@chathmini96/waterfall-vs-agile-methodology-28001a9ca487)
@@ -148,7 +148,7 @@
 <details open>
    <summary><b>Intra-team Coordination</b></summary><br/>
 
-   With this topic you’ll learn how most product teams organize their composition of skill sets within the team, and how a software engineer can work specifically with a product manager on their team.
+   With this topic, you'll learn how most product teams organize their composition of skill sets within the team and how a software engineer can work specifically with a product manager on their team.
    
    #### Learning Outcomes
    * Describe the disciplines needed for balanced digital product development

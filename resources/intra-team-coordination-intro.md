@@ -14,7 +14,7 @@
 - **Communication Channel Equation**: (N*(N-1)) / 2)
   - The fewer team members the fewer communication channels and time spent staying coordinated on effort
 
-**Responsibility of product team “manager” roles:**
+**Responsibility of product team "manager" roles:**
 - **Project Manager** - The owners of a discrete project and its scope, schedule, and budget.
 - **Product Owner** - Typically affiliated with Scrum environments, this role owns the conversion of a business problem to solve into tasks a product team can execute
 - **Product Manager** - This role, acting like a "mini-CEO" of a product creates and owns product vision and strategy, and acts as the crossroads of all business functions in delivering product to the market

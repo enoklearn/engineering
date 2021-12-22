@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to keep secrets safe and write code that keeps user data private and secure.
+### With this module, you'll learn how to keep secrets safe and write code that keeps user data private and secure.
 
 <img width="1440" alt="Bank vault" src="https://user-images.githubusercontent.com/894178/146964043-8b5c8b6d-4078-4b92-9afb-cad48b817f08.png">
 
@@ -13,13 +13,13 @@
 <details open>
    <summary><b>OWASP Top 10</b></summary><br/>
 
-   With this topic, you’ll learn about the most common application security issues and how to mitigate them.
+   With this topic, you'll learn about the most common application security issues and how to mitigate them.
    
    #### Learning Outcomes
    * Describe each of the vulnerabilities in the OWASP Top 10
    * Describe what threat modeling is
-   * Explain how you might prevent the “Broken Access Control” vulnerability
-   * Explain what remediation is, and how you might remediate an “Injection” vulnerability
+   * Explain how you might prevent the "Broken Access Control" vulnerability
+   * Explain what remediation is and how you might remediate an "Injection" vulnerability
 
    #### Resources
    * [OWASP Top 10:2021 `Resource`](https://owasp.org/Top10/)
@@ -36,12 +36,12 @@
 <details open>
    <summary><b>Authentication and Authorization</b></summary><br/>
 
-   With this topic, you’ll learn about identity providers and how to use OAuth 2.0 to manage authentication and authorization in an application.
+   With this topic, you'll learn about identity providers and how to use OAuth 2.0 to manage authentication and authorization in an application.
    
    #### Learning Outcomes
    * Compare authentication with authorization and explain their differences
    * Use an identity provider to authenticate users in an application
-   * Explain what “federated identities” are
+   * Explain what "federated identities" are
    * Explain what the OAuth 2.0 standard is
 
    #### Resources
@@ -68,7 +68,7 @@
 <details open>
    <summary><b>Managing Secrets</b></summary><br/>
 
-   With this topic, you’ll learn about application secrets and how to manage them effectively.
+   With this topic, you'll learn about application secrets and how to manage them effectively.
    
    #### Learning Outcomes
    * Describe what an application secret is
@@ -94,11 +94,11 @@
 <details open>
    <summary><b>Continuous Security</b></summary><br/>
 
-   With this topic, you’ll learn about methods to integrate security scanning into a project CI/CD pipeline.
+   With this topic, you'll learn about methods to integrate security scanning into a project CI/CD pipeline.
    
    #### Learning Outcomes
    * Describe what continuous security is
-   * List out some tools you might you use to to scan a project for vulnerabilities
+   * List out some tools you might use to scan a project for vulnerabilities
    * Explain how you might go about remediating vulnerabilities found from automated scanning
 
    #### Resources
@@ -115,7 +115,7 @@
 <details open>
    <summary><b>Working with Security Engineers</b></summary><br/>
 
-   With this topic, you’ll learn about the role of a security engineer and how to work with them on your team effectively.
+   With this topic, you'll learn about the role of a security engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
    * Describe the role of a security engineer

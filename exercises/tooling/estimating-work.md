@@ -9,10 +9,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Visit https://estimato.app/ and create a room
-2. Select 3-5 tasks you're wanting to estimate (this could be anything)
+2. Select 3-5 tasks you want to estimate (this could be anything)
 3. Estimate each task (optimistic, realistic, and pessimistic) ([need help?](https://www.loom.com/share/e2fb848dfa0f4a75a2211c1e71863b9b))
 4. Share your estimates with your mentor
 

@@ -10,7 +10,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Clone the `engineerkit/exercise-broken-access-control` repo
 2. Investigate the repo and find the broken access control vulnerability

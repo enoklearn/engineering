@@ -9,10 +9,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Create a [Snyk](https://snyk.io/) account
-2. Itegrate Snyk dependency scanning in your project (you may need to make your project public)
+2. Integrate Snyk dependency scanning in your project (you may need to make your project public)
 3. Setup a manual command to run Snyk at any time (like `npm run scan:dependencies`)
 4. Automate dependency scanning using your CI/CD pipeline
 5. Share the results with your mentor!

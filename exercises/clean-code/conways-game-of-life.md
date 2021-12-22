@@ -4,17 +4,17 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Build Conway’s Game of Life using the four rules of simple design |
+| Goal | Build Conway's Game of Life using the four rules of simple design |
 | Duration | 6-8 hours |
 
-This exercise is heavily inspired by the [Coderetreat](https://www.coderetreat.org/the-workshop/), and is typically done as a group over the course of a day. There is a lot of pairing involved, and exploration of technical practices that you might not typically use. The goal is to have fun, take risks, and experiment with different solutions to the classic problem of "Conway's Game of Life".
+This exercise is heavily inspired by the [Coderetreat](https://www.coderetreat.org/the-workshop/) and is usually done as a group over a day. There is a lot of pairing involved and exploration of technical practices that you might not typically use. The goal is to have fun, take risks, and experiment with different solutions to the classic problem of "Conway's Game of Life."
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Pair up with another software engineer
-2. Using TDD, create the a solution to Conway's Game of Life
+2. Using TDD, create a solution to Conway's Game of Life
 3. Delete your code
 4. Hold a group retrospective
 5. Switch pairing partners
@@ -25,7 +25,7 @@ Use the following steps to help you progress through the exercise (use your own 
 
 Use these questions to guide your curiosity during the exercise:
 
-- How do you better convey intent of your code?
+- How do you better convey the intent of your code?
 - What did you learn by pairing with other software engineers?
 
 ## Reflection

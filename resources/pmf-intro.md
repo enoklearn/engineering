@@ -2,9 +2,9 @@
 
 **Product Market Fit (PMF) definition** - The degree to which a product or service satisfies a strong market demand.
 
-**The core indicator that a business’s product has reached PMF** - When a business has built a scalable and sustainable business model through providing value to a customer segment’s needs.
+**The core indicator that a business's product has reached PMF** - When a business has built a scalable and sustainable business model through providing value to a customer segment's needs.
 
-**The initial steps a business takes to approach the “chasm” and read PMF** (thoughts from ”The Four Steps to the Epiphany” by Steven Blank):
+**The initial steps a business takes to approach the "chasm" and read PMF** (thoughts from "The Four Steps to the Epiphany" by Steven Blank):
 - **Customer Discovery** - Has a solution to market problem been matched?
 - **Customer Validation** - Has the solution been sold five times in a repeatable way?
 - **Customer Creation** - Has sufficient demand been created and put in the sales funnel?

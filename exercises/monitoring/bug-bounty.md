@@ -9,11 +9,11 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Discuss with your mentor a bug that you could fix with another software engineer on a project. 
+1. Discuss a bug that you could fix with another software engineer on a project with your mentor. 
 2. Pair up with another software engineer to fix the bug. 
-3. Meet up with your mentor and discuss the steps you took to fix the bug. 
+3. Meet up with your mentor and discuss your steps to fix the bug. 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:

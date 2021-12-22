@@ -4,13 +4,13 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Convert a video file with audio into an audio file only using ffmpeg |
+| Goal | Convert a video file with audio into an audio file only using FFmpeg |
 | Duration | 1-2 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Download and install [FFmpeg](https://ffmpeg.org/) (using Homebrew is recommended)
 2. Convert a video file with audio to an audio file only using the FFmpeg CLI

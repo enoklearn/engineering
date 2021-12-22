@@ -4,12 +4,12 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Use test driven development to create 6-12 unit tests and features in your application |
+| Goal | Use test-driven development to create 6-12 unit tests and features in your application |
 | Duration | 2-4 hours |
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Select some feature(s) you want to add to your application
 2. Write some test code and create your first failing unit test (red)
@@ -24,7 +24,7 @@ Use these questions to guide your curiosity during the exercise:
 
 - What does "make it work, make it right, make it fast" mean to you?
 - What is the difference between test coverage and test quality?
-- How might TDD (test driven development) improve your productivity?
+- How might TDD (test-driven development) improve your productivity?
 
 ## Reflection
 

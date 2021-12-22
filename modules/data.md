@@ -3,7 +3,7 @@
 ![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-grey?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn about persisting data beyond a process in memory, including binary files and structured data stored in databases.
+### With this module, you'll learn about persisting data beyond a process in memory, including binary files and structured data stored in databases.
 
 <img width="1440" alt="Multicolored jellyfish" src="https://user-images.githubusercontent.com/894178/138357282-e49884e2-dd8b-42fd-828f-74c833d3d31a.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Types of Data</b></summary><br/>
 
-   With this topic, you’ll learn about the spectrum of unstructured to structured data types and how to classify data correctly.
+   With this topic, you'll learn about the spectrum of unstructured to structured data types and how to classify data correctly.
    
    #### Learning Outcomes
    * Describe binary data
@@ -31,7 +31,7 @@
 <details open>
    <summary><b>Data Storage</b></summary><br/>
 
-   With this topic, you’ll learn techniques to store data of all types for usage in an application.
+   With this topic, you'll learn techniques to store data of all types for usage in an application.
    
    #### Learning Outcomes
    * Compare storing data in a relational and non-relational database
@@ -53,7 +53,7 @@
 <details open>
    <summary><b>Data Manipulation</b></summary><br/>
 
-   With this topic, you’ll learn how to interact with and manipulate data from storage providers using techniques such as SQL or SSH. 
+   With this topic, you'll learn how to interact with and manipulate data from storage providers using techniques such as SQL or SSH. 
    
    #### Learning Outcomes
    * Explain what CRUD operations are
@@ -84,12 +84,12 @@
 <details open>
    <summary><b>Data Wrangling</b></summary><br/>
 
-   With this topic, you’ll learn to convert data from one type to another using data wrangling techniques.
+   With this topic, you'll learn to convert data from one type to another using data wrangling techniques.
    
    #### Learning Outcomes
    * Describe the ETL (extract, transform, load) process
    * Use a regular expression (Regex) to grep for IP addresses in log files
-   * Convert a WAV audio file to an MP3 audio file using ffmpeg
+   * Convert a WAV audio file to an MP3 audio file using FFmpeg
 
    #### Resources
    * [Missing Semester: Data Wrangling `Video`](https://missing.csail.mit.edu/2020/data-wrangling/)
@@ -105,7 +105,7 @@
 <details open>
    <summary><b>Managing State</b></summary><br/>
 
-   With this topic, you’ll learn about effectively using different patterns to manage the state in an application.
+   With this topic, you'll learn about effectively using different patterns to manage the state in an application.
    
    #### Learning Outcomes
    * Describe application "state"

@@ -9,12 +9,12 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Sign in to your DataDog account.
-2. Create a new dashboard.
-3. Add a graph to the dashboard that shows the golden signals of your application.
-4. Review the results with your mentor. 
+1. Sign in to your DataDog account
+2. Create a new dashboard
+3. Add a graph to the dashboard that shows the golden signals of your application
+4. Review the results with your mentor
 
 ## Questions
 

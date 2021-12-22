@@ -3,7 +3,7 @@
 ![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-grey?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to use automated testing strategies to prove the structural integrity of the code you write.
+### With this module, you'll learn how to use automated testing strategies to prove the structural integrity of the code you write.
 
 <img width="1440" alt="Red and green lights" src="https://user-images.githubusercontent.com/894178/138357152-14b20595-7874-410f-a883-3f2dcd83d226.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Requirements Gathering</b></summary><br/>
 
-   With this topic, you’ll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
+   With this topic, you'll learn how to gather requirements for features, bugs, and other tasks so that you know what to build.
    
    #### Learning Outcomes
    * Describe the concept of a user story
@@ -41,7 +41,7 @@
 <details open>
    <summary><b>Testing Strategies</b></summary><br/>
 
-   With this topic, you’ll learn about test-driven development, the testing pyramid, and how to apply unit, integration, and end-to-end testing when creating software.
+   With this topic, you'll learn about test-driven development, the testing pyramid, and how to apply unit, integration, and end-to-end testing when creating software.
    
    #### Learning Outcomes
    * Describe the four common testing strategies and their purpose
@@ -82,12 +82,12 @@
 <details open>
    <summary><b>Test Patterns</b></summary><br/>
 
-   With this topic, you’ll learn about common test patterns such as the four-phase test, inside-out testing, and other practical techniques to make writing automated tests more efficient and enjoyable.
+   With this topic, you'll learn about common test patterns such as the four-phase test, inside-out testing, and other practical techniques to make writing automated tests more efficient and enjoyable.
    
    #### Learning Outcomes
    * Describe the four phases of a test and their purpose
    * Create unit tests using the four-phase approach
-   * Explain why the four phase test pattern is important, and how you'd apply it
+   * Explain why the four-phase test pattern is important and how you'd apply it
    * List common test patterns
    * Describe common test fixture patterns and their use cases
    * Describe the inside-out and outside-in test patterns and their purpose
@@ -113,7 +113,7 @@
 <details open>
    <summary><b>Test Doubles</b></summary><br/>
 
-   With this topic, you’ll learn about test doubles (stubs, spies, and mocks), how they can be used in your project, and when to use them in your tests.
+   With this topic, you'll learn about test doubles (stubs, spies, and mocks), how they can be used in your project, and when to use them in your tests.
    
    #### Learning Outcomes
    * List the types of test doubles
@@ -138,7 +138,7 @@
 <details open>
    <summary><b>Test Smells and Flakiness</b></summary><br/>
 
-   With this topic, you’ll learn about common anti-patterns when writing automated tests and some techniques to help your test suite run soundly every time.
+   With this topic, you'll learn about common anti-patterns when writing automated tests and some techniques to help your test suite run soundly every time.
    
    #### Learning Outcomes
    * List common test smells

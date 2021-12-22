@@ -7,15 +7,15 @@
 | Goal | Using Terraform, create two mirrored environments using the "workspaces" feature |
 | Duration | 2-4 hours |
 
-Make sure you have Terraform downloaded and installed on your machine, and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unnecessary bill!
+Make sure you have Terraform downloaded and installed on your machine and a DigitalOcean account created before you get started. It is also important to remember to tear down cloud resources you don't intend to keep around -- you don't want to get an unnecessary bill!
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Create a simple Terraform configuration (you could reuse a previous one if you like)
 2. Apply it to a cloud environment (we recommend DigitalOcean)
-3. After it has been sucessfully provisioned in one environment, return to the command line
+3. After it has been successfully provisioned in one environment, return to the command line
 4. Create a new Terraform workspace called "staging"
 5. Switch to the "staging" workspace, and apply your infrastructure
 6. Tear down your infrastructure

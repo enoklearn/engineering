@@ -9,10 +9,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Research code editors and their features
-2. Select an editor (e.g. VS Code, Atom, Sublime Text, etc.)
+2. Select an editor (e.g., VS Code, Atom, Sublime Text, etc.)
 3. Customize your editor (find a color scheme, change the font, add extensions, etc.)
 4. Share your editor with your mentor
 
@@ -32,7 +32,7 @@ Use the following questions to reflect on what you learned with this exercise an
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?
 - How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
-- When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
+- When you connect with your mentor after this next step, what do you hope to share with them?
 
 ## Need help?
 

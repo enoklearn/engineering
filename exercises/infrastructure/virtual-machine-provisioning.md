@@ -7,11 +7,11 @@
 | Goal | Setup a Ubuntu 20.04 machine on DigitalOcean (don't forget to tear it down!) |
 | Duration | 1-2 hours |
 
-Make sure you have a DigitalOcean account created before getting started. It is also important to remember to tear down cloud resources you don't intend to keep araound -- you don't want to get an unnecessary bill!
+Make sure you have a DigitalOcean account created before getting started. It is also important to remember to tear down cloud resources you don't intend to keep around -- you don't want to get an unnecessary bill!
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Sign in to your [DigitalOcean](https://www.digitalocean.com/) account
 2. Spin up a Ubuntu 20.04 droplet, and set up SSH authentication
@@ -25,7 +25,7 @@ Use these questions to guide your curiosity during the exercise:
 
 - What is an SSH public key?
 - What is Ubuntu?
-- Why is it important to tear down the server?
+- Why is it essential to tear down the server?
 
 ## Reflection
 

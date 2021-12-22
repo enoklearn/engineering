@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to design and build software systems from a high-level architectural perspective without losing touch with the low-level implementation details.
+### With this module, you'll learn how to design and build software systems from a high-level architectural perspective without losing touch with the low-level implementation details.
 
 <img width="1440" alt="Woman diagramming on a whiteboard" src="https://user-images.githubusercontent.com/894178/138356981-687289c0-21e2-4d84-8578-d4ac7692921e.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Common Architecture Patterns</b></summary><br/>
 
-   With this topic, you’ll learn about common patterns used in architecture to create software systems.
+   With this topic, you'll learn about common patterns used in architecture to create software systems.
    
    #### Learning Outcomes
    * Compare monolithic, microservices, and serverless architectures
@@ -43,12 +43,12 @@
 <details open>
    <summary><b>Common Tech Stacks</b></summary><br/>
 
-   With this topic, you’ll learn about common tech stacks used on projects around the world.
+   With this topic, you'll learn about common tech stacks used on projects worldwide.
    
    #### Learning Outcomes
    * Describe what a tech stack is
    * List some common tech stacks
-   * Theorize how you might improve on an existing tech stacks
+   * Theorize how you might improve on existing tech stacks
 
    #### Resources
    * [Stackshare `Resource`](https://stackshare.io/stacks)
@@ -63,10 +63,10 @@
 <details open>
    <summary><b>Assembling a Tech Stack</b></summary><br/>
 
-   With this topic, you’ll learn how to put together a tech stack that balances the needs of an application and the team building it.
+   With this topic, you'll learn how to put together a tech stack that balances the needs of an application and the team building it.
    
    #### Learning Outcomes
-   * Explain some considerations you’ll need to make when putting a tech stack together
+   * Explain some considerations you'll need to make when putting a tech stack together
    * Theorize how you might recommend a tech stack to a team when starting a project
 
    #### Resources
@@ -82,7 +82,7 @@
 <details open>
    <summary><b>Tech Stack Ramping</b></summary><br/>
 
-   With this topic, you’ll learn about techniques that enable you to quickly ramp up on new tech stacks and start shipping new features.
+   With this topic, you'll learn about techniques that enable you to quickly ramp up on new tech stacks and start shipping new features.
    
    #### Learning Outcomes
    * List some considerations you might have when ramping on new tech stacks
@@ -100,7 +100,7 @@
 <details open>
    <summary><b>Living Documentation</b></summary><br/>
 
-   With this topic, you’ll learn how to create helpful documentation that evolves along with the system it describes.
+   With this topic, you'll learn how to create helpful documentation that evolves along with the system it describes.
    
    #### Learning Outcomes
    * Describe what living documentation is

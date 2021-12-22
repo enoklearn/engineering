@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Determine what kind of software engineering news you'd be interested in
 2. Find influencers and groups that align with your interests

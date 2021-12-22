@@ -10,12 +10,12 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Visit the [Wayback Machine](https://web.archive.org/)
 2. Pick your favorite website
 3. Go back in time
-4. Take a screenshot and share with your mentor!
+4. Take a screenshot and share it with your mentor!
 
 ## Questions
 

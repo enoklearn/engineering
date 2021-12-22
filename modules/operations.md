@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Managing Releases</b></summary><br/>
 
-   With this topic, you’ll learn about change management and how to release new versions of an application with as little downtime as possible.
+   With this topic, you'll learn about change management and how to release new versions of an application with as little downtime as possible.
    
    #### Learning Outcomes
    * Describe what release management is
@@ -37,7 +37,7 @@
 <details open>
    <summary><b>Managing Incidents</b></summary><br/>
 
-   With this topic, you’ll learn how to keep calm under the stress of resolving production application incidents.
+   With this topic, you'll learn to keep calm under the stress of resolving production application incidents.
    
    #### Learning Outcomes
    * Describe what incident management is
@@ -50,7 +50,7 @@
    * [DataDog Incident Management `Tool`](https://docs.datadoghq.com/monitors/incident_management/)
    * [Gitlab Runbooks `Resource`](https://gitlab.com/gitlab-com/runbooks)
    * [Service-level agreement `Article`](https://en.wikipedia.org/wiki/Service-level_agreement)
-   * [SLA vs. SLO vs. SLI: What’s the difference? `Article`](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
+   * [SLA vs. SLO vs. SLI: What's the difference? `Article`](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
    * [What is incident management? `Article`](https://www.atlassian.com/incident-management)
 
    #### Exercises
@@ -62,7 +62,7 @@
 <details open>
    <summary><b>Continuous Integration and Deployment</b></summary><br/>
 
-   With this topic, you’ll learn how to automate the release process using continuous integration and deployment (CI/CD) pipelines.
+   With this topic, you'll learn to automate the release process using continuous integration and deployment (CI/CD) pipelines.
    
    #### Learning Outcomes
    * Describe what a CI/CD pipeline is
@@ -87,7 +87,7 @@
 <details open>
    <summary><b>Performance Testing</b></summary><br/>
 
-   With this topic, you’ll learn how to verify the performance of an application using load tests, smoke tests, and black-box testing.
+   With this topic, you'll learn how to verify the performance of an application using load tests, smoke tests, and black-box testing.
    
    #### Learning Outcomes
    * Describe what performance testing is
@@ -108,7 +108,7 @@
 <details open>
    <summary><b>Working with Site Reliability Engineers</b></summary><br/>
 
-   With this topic, you’ll learn about the role of a site reliability engineer and how to work with them on your team effectively.
+   With this topic, you'll learn about the role of a site reliability engineer and how to work with them on your team effectively.
    
    #### Learning Outcomes
    * Describe what toil is

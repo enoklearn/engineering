@@ -9,10 +9,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Pick three different trades (e.g. medicine, pottery, software engineering)
-2. What kind of mindset would you need to adopt to be successful in these trades?
+1. Pick three different trades (e.g., medicine, pottery, software engineering)
+2. What kind of mindset would you need to succeed in these trades?
 3. Create a hypothesis: Can modern craftsmanship principles apply to these trades?
 4. Write an article about your hypothesis
 5. Share with your mentor!

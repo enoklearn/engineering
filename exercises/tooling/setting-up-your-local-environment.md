@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Fork [`holman/dotfiles`](https://github.com/holman/dotfiles)
 2. Update the dotfiles to fit your style

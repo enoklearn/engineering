@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn the basics of internet protocols, configuring networks, and how to build connected applications using web services.
+### With this module, you'll learn the basics of internet protocols, configuring networks, and how to build connected applications using web services.
 
 <img width="1440" alt="Earth as seen from space" src="https://user-images.githubusercontent.com/894178/138342312-9b04d4be-ae91-429b-b5cf-3556b6caea5d.png">
 
@@ -12,12 +12,12 @@
 <details open>
    <summary><b>History of the Internet</b></summary><br/>
 
-   With this topic, you’ll learn about the history of the internet and how connected computing changed humanity forever.
+   With this topic, you'll learn about the history of the internet and how connected computing changed humanity forever.
 
    #### Learning Outcomes
-   * List some of the key events in the internet’s history
+   * List some of the key events in the internet's history
    * Describe some of the challenges the inventors went through
-   * Theorize whether or not the internet’s impact on society was beneficial
+   * Theorize whether or not the internet's impact on society was beneficial
 
    #### Resources
    * [40th Anniversary of the Net - October 29, 1969 `Video`](https://www.youtube.com/watch?v=7duyl0ZZ5BQ)
@@ -38,7 +38,7 @@
 <details open>
    <summary><b>Internet Protocols</b></summary><br/>
 
-   With this topic, you’ll learn about the TCP/IP protocol suite that powers the internet and how it practically applies to the software you create.
+   With this topic, you'll learn about the TCP/IP protocol suite that powers the internet and how it practically applies to the software you create.
 
    #### Learning Outcomes
    * List the 7 Layers of the OSI model
@@ -68,7 +68,7 @@
 <details open>
    <summary><b>Network Configuration</b></summary><br/>
 
-   With this topic, you’ll learn about the basics of configuring networks, including setting up firewall rules, subnets and assigning static IPs to machines.
+   With this topic, you'll learn about the basics of configuring networks, including setting up firewall rules, subnets, and assigning static IPs to machines.
 
    #### Learning Outcomes
    * List common network topology patterns
@@ -90,7 +90,7 @@
 <details open>
    <summary><b>Domains and DNS</b></summary><br/>
 
-   With this topic, you’ll learn how the DNS system works and create DNS records connecting domains to web services.
+   With this topic, you'll learn how the DNS system works and create DNS records connecting domains to web services.
 
    #### Learning Outcomes
    * Explain the purpose of DNS
@@ -116,7 +116,7 @@
 <details open>
    <summary><b>TLS/SSL Certificates</b></summary><br/>
 
-   With this topic, you’ll learn about the certificate authorities and how to encrypt traffic to web services using TLS/SSL certificates.
+   With this topic, you'll learn about the certificate authorities and how to encrypt traffic to web services using TLS/SSL certificates.
 
    #### Learning Outcomes
    * Describe how CAs (certificate authorities) provision TLS/SSL certificates

@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Select a few tests to refactor using the four-phased approach
 2. Refactor a test and make sure it still passes
@@ -21,7 +21,7 @@ Use the following steps to help you progress through the exercise (use your own 
 Use these questions to guide your curiosity during the exercise:
 
 - What is a four-phased test?
-- What is "arrange, act, assert" and how does it compare to a four-phase test?
+- What is "arrange, act, assert," and how does it compare to a four-phase test?
 - Hoe might you discover the most valuable test to refactor?
 
 ## Reflection

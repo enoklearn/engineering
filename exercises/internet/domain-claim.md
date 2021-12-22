@@ -4,24 +4,24 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Buy a domain for your project (or personal website) and connect CloudFlare nameservers to it |
+| Goal | Buy a domain for your project (or personal website) and connect Cloudflare nameservers to it |
 | Duration | 1-2 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Visit a domain registrar (e.g. Hover, Google Domains, GoDaddy, etc...)
-2. Select a name for your project (make sure its available with the TLD that you want!)
-3. Connect your domain to a DNS provider like CloudFlare
+1. Visit a domain registrar (e.g., Hover, Google Domains, GoDaddy)
+2. Select a name for your project (make sure it is available with the TLD you want!)
+3. Connect your domain to a DNS provider like Cloudflare
 4. Share your results with your mentor!
 
 ## Questions
 
 Use these questions to guide your curiosity during the exercise:
 
-- What is a TLD (top level domain)?
+- What is a TLD (top-level domain)?
 - What is a domain registrar?
 - What are nameservers responsible for?
 

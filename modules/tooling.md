@@ -3,7 +3,7 @@
 ![Moderate](https://img.shields.io/badge/Difficulty-■%20Moderate-blue?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you’ll learn how to streamline your workflow and assemble a dev environment using standard tools and practices, allowing you to focus on crafting quality code.
+### With this module, you'll learn how to streamline your workflow and assemble a dev environment using standard tools and practices, allowing you to focus on crafting quality code.
 
 <img width="1440" alt="Workshop with tools" src="https://user-images.githubusercontent.com/894178/138342393-9ae8db5b-1166-4d0a-b15a-998a57310c76.png">
 
@@ -12,7 +12,7 @@
 <details open>
    <summary><b>Editors</b></summary><br/>
 
-   With this topic, you’ll learn about the landscape of editors, IDEs, and how to choose an editor and make it your own.
+   With this topic, you'll learn about the landscape of editors, IDEs, and how to choose an editor and make it your own.
 
    #### Learning Outcomes
    * Compare an IDE with a simple code editor
@@ -44,7 +44,7 @@
 <details open>
    <summary><b>Command Line</b></summary><br/>
 
-   With this topic, you’ll learn how to use the command line (also known as the shell) and create scripts to make running complex commands easier.
+   With this topic, you'll learn how to use the command line (also known as the shell) and create scripts to make running complex commands easier.
 
    #### Learning Outcomes
    * Describe what a command line interface is and how you might use it
@@ -80,7 +80,7 @@
 <details open>
    <summary><b>Version Control</b></summary><br/>
 
-   With this topic, you’ll learn about the importance of source control, Git commands, handling merge conflicts, popular branching strategies, and more.
+   With this topic, you'll learn about the importance of source control, Git commands, handling merge conflicts, popular branching strategies, and more.
 
    #### Learning Outcomes
    * Describe what source control is and its purpose
@@ -116,7 +116,7 @@
 <details open>
    <summary><b>Productivity</b></summary><br/>
 
-   With this topic, you’ll learn about some productivity tools and how to estimate work effectively to set proper expectations with stakeholders.
+   With this topic, you'll learn about some productivity tools and how to estimate work effectively to set proper expectations with stakeholders.
 
    #### Learning Outcomes
    * List common productivity tools and their use case
@@ -146,7 +146,7 @@
 <details open>
    <summary><b>Managing your Local Environment</b></summary><br/>
 
-   With this topic, you’ll learn how to set up your local environment and streamline it to increase your productivity.
+   With this topic, you'll learn how to set up your local environment and streamline it to increase your productivity.
 
    #### Learning Outcomes
    * List what you need to be able to set up an existing project on your machine

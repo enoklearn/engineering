@@ -4,14 +4,14 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Using the proper test double, create a unit test that covers a features which consumes an API |
+| Goal | Using the proper test double, create a unit test that covers features that consumes an API |
 | Duration | 2-4 hours |
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Investigate a codebase and find some code (`code_block`) that makes a call to an REST API (`api`)
+1. Investigate a codebase and find some code (`code_block`) that makes a call to a REST API (`api`)
 2. Create a unit test that invokes `code_block` and simulates a "success" response from the `api` using the proper test double
 3. Next, create a unit test that invokes `code_block` and simulates an "error" response from the `api` using the proper test double
 4. Repeat the same process with an end-to-end test suite

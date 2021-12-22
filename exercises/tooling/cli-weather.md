@@ -13,21 +13,21 @@ You should be able to run a bash script to fetch the weather based on a zip code
 $ weather --zipcode 29609
 ```
 
-And get an output like (use your own creativity):
+And get an output like (use your creativity):
 
 ```bash
-Currently the weather for 29609 is sunny with a temperature of 72°F — have a nice day!
+Currently, the weather for 29609 is sunny with a temperature of 72°F — have a nice day!
 ```
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Find a weather API that can fetch the weather based on a zip code
 2. Use [`curl`](https://man7.org/linux/man-pages/man1/curl.1.html) to fetch the weather data from the API
 3. Use [`jq`](https://stedolan.github.io/jq/) to parse the JSON data
 4. Use [`echo`](https://man7.org/linux/man-pages/man1/echo.1.html) to print the data to the command line
-5. Use `--zipcode` flag to pass a zip code to the script (if no zipcode is provided, `echo` an error message)
+5. Use `--zipcode` flag to pass a zip code to the script (if no zip code is provided, `echo` an error message)
 6. Create a `weather` alias for your bash script to be used in the command line
 
 ## Questions

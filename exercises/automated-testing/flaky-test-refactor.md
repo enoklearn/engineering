@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Clone the [`engineerkit/exercise-flaky-tests`](https://github.com/exercise-flaky-tests) repo
 2. Run the CI/CD pipelines to figure out what the flaky tests might be

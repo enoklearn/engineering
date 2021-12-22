@@ -9,7 +9,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Duplicate the [threat model worksheet](https://www.figma.com/file/uyRiqbNVmEw3dCIO2wOY5U/Threat-Model-Worksheet?node-id=0%3A1) by [Stephen A. Weis](https://saweis.net/)
 2. Fill out the threat model with this premise: "You must protect your toothbrush from adversaries!"

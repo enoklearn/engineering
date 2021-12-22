@@ -10,7 +10,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Download and install [VirtualBox](https://www.virtualbox.org/)
 2. Download an operating system (like Ubuntu 20.04)

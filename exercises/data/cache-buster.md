@@ -10,7 +10,7 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Visit your favorite website. 
 2. Run a Lighthouse performance score using Chrome Dev Tools. 
@@ -21,7 +21,7 @@ Use the following steps to help you progress through the exercise (use your own 
 
 Use these questions to guide your curiosity during the exercise:
 
-- What did you learn with the Lighthouse performace score?
+- What did you learn with the Lighthouse performance score?
 - What kind of caching might exist in an application in the frontend and backend? 
 
 ## Reflection

@@ -10,9 +10,9 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Come up with an idea that requires at least two microservices. 
+1. Come up with an application idea that requires at least two microservices. 
 2. Create a clear separation of concerns between the microservices.
 3. Add a third microservice to the system. 
 4. Share the results with your mentor. 
@@ -21,8 +21,8 @@ Use the following steps to help you progress through the exercise (use your own 
 
 Use these questions to guide your curiosity during the exercise:
 
-- How would you create the boundarious between the microservices?
-- When you add a third microservice, how did that change your thinking?
+- How would you create the boundaries between the microservices?
+- How did your thinking change when you added a third microservice?
 
 ## Reflection
 

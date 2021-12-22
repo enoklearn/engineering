@@ -4,17 +4,17 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup Auth0 in your project use authorization to properly add public, private, and admin zones |
+| Goal | Setup Auth0 in your project use authorization to correctly add public, private, and admin zones |
 | Duration | 6-8 hours |
 
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Integrate Auth0 with your application
 2. Allow users to create an account and sign in to your application
-3. Setup two roles "member" and "admin"
+3. Setup two roles, "member" and "admin"
 4. Create zones in your application that respond to a user's role (anonymous, member, admin)
 5. Share your results with your mentor!
 

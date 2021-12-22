@@ -10,10 +10,10 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Use [Docker](https://www.docker.com/) to setup [PostgreSQL](https://hub.docker.com/_/postgres/) and [MongoDB](https://hub.docker.com/_/mongo/) databases. 
-2. Download [DBeaver](https://dbeaver.io/) and explore the PostgreSQL database. Use DBeaver create a table, add columns, and insert rows of data. 
+1. Use [Docker](https://www.docker.com/) to set up [PostgreSQL](https://hub.docker.com/_/postgres/) and [MongoDB](https://hub.docker.com/_/mongo/) databases. 
+2. Download [DBeaver](https://dbeaver.io/) and explore the PostgreSQL database. Use DBeaver to create a table, add columns, and insert rows of data. 
 3. Download [MongoDB Compass Standard](https://www.mongodb.com/try/download/compass) and explore the MongoDB database. Use Compass to create a collection and insert documents of data.
 4. Tear down the databases.
 5. Share the results with your mentor!

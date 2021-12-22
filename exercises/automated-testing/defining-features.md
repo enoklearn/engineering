@@ -4,10 +4,10 @@
 
 | Key | Value |
 | --- | --- |
-| Goal | Describe 3 features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
+| Goal | Describe three features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
 | Duration | 2-3 hours |
 
-Example psuedo test code:
+Example pseudo test code:
 
 ```
 it ("should __________ when __________")
@@ -16,12 +16,12 @@ it ("should process user payment when 'pay now' button is pressed")
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Create user stories for 3 new features in your application
+1. Create user stories for three new features in your application
 2. Define the acceptance criteria of these features
 3. (optional) Create a [Figma](https://figma.com) prototype visually showing what these features do
-4. Create psuedo test code based on the acceptance criteria of your features
+4. Create pseudo test code based on the acceptance criteria of your features
 5. Share with your mentor
 
 ## Questions

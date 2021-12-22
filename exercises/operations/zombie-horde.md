@@ -10,12 +10,12 @@
 
 ## Steps
 
-Use the following steps to help you progress through the exercise (use your own judgement, these are not precise steps):
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Install Artillery in your project. 
-2. Create an Artillery script that simulates 500 simultaneous users using a feature in your application.
-3. Run the script. 
-4. Review the results with your mentor.
+1. Install Artillery in your project
+2. Create an Artillery script that simulates 500 simultaneous users using a feature in your application
+3. Run the script
+4. Review the results with your mentor
 
 ## Questions
 
