@@ -31,7 +31,7 @@
    * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
-   * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry.md)
+   * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry-data.md)
    * Integrate Sentry.io in an application to collect crash reports
    * Integrate DataDog into an application
 </details>
