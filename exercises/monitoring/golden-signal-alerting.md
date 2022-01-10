@@ -1,4 +1,4 @@
-<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
 
 # Exercise: Golden Signal Alerting
 
