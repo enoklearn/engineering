@@ -25,6 +25,11 @@ When you see the icon below, you'll know an exercise can fit with your umbrella 
 An "umbrella project" is used to bind together many of the exercises found in each module. It is an over-arching project that you will be working on for the duration of your apprenticeship, helping you to build your skills and ship a product to production. You'll want to pick something small that you could easily build in a week (tasklist, tic-tac-toe game, unit converter, etc.) -- you can always add more features if you have more time!
 
 
+## Skill Building
+
+![skill-building](https://user-images.githubusercontent.com/894178/148718739-d1e33495-3334-4432-9919-60a966774452.gif)
+
+
 ## Need help?
 
 - [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
