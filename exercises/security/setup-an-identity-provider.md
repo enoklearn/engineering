@@ -1,3 +1,5 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Setup an Identity Provider
 
 ## Overview
@@ -12,10 +14,10 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Integrate Auth0 with your application
-2. Allow users to create an account and sign in to your application
+1. Integrate Auth0 with your umbrella project
+2. Allow users to create an account and sign in to your umbrella project
 3. Setup two roles, "member" and "admin"
-4. Create zones in your application that respond to a user's role (anonymous, member, admin)
+4. Create zones in your umbrella project that respond to a user's role (anonymous, member, admin)
 5. Share your results with your mentor!
 
 ## Questions

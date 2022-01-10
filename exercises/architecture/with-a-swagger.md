@@ -1,3 +1,5 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: With a Swagger
 
 ## Overview
@@ -12,7 +14,7 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Integrate Swagger into your capstone project API. 
+1. Integrate Swagger into your umbrella project API. 
 2. Launch the Swagger interactive documentation. 
 3. Make a POST request to your API using the interactive documentation. 
 4. Share the results with your mentor. 

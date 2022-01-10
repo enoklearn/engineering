@@ -1,17 +1,19 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Red, Green, Refactor
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Use test-driven development to create 6-12 unit tests and features in your application |
+| Goal | Use test-driven development to create 6-12 unit tests and features in your umbrella project |
 | Duration | 2-4 hours |
 
 ## Steps
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Select some feature(s) you want to add to your application
+1. Select some feature(s) you want to add to your umbrella project
 2. Write some test code and create your first failing unit test (red)
 3. Write some product code and make your unit test pass (green)
 4. Clean up your product code (refactor)

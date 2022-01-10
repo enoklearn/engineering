@@ -1,3 +1,5 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: API Test Double
 
 ## Overview

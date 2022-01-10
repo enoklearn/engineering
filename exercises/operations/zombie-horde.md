@@ -1,10 +1,12 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Zombie Horde
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup an Artillery script and simulate 500 simultaneous users using a feature in your application |
+| Goal | Setup an Artillery script and simulate 500 simultaneous users using a feature in your umbrella project |
 | Duration | 2-4 hours |
 
 
@@ -13,7 +15,7 @@
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Install Artillery in your project
-2. Create an Artillery script that simulates 500 simultaneous users using a feature in your application
+2. Create an Artillery script that simulates 500 simultaneous users using a feature in your umbrella project
 3. Run the script
 4. Review the results with your mentor
 

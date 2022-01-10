@@ -1,10 +1,12 @@
+<a href="../../overview/README.md"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Setup a CI/CD Pipeline
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Setup a CI/CD pipeline using GitHub Actions to run automated tests and deploy your application |
+| Goal | Setup a CI/CD pipeline using GitHub Actions to run automated tests and deploy your umbrella project |
 | Duration | 2-4 hours |
 
 
@@ -13,7 +15,7 @@
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Identify a repo that you can use to set up a CI/CD pipeline
-2. Using GitHub Actions, set up a workflow that runs automated tests and deploys your application
+2. Using GitHub Actions, set up a workflow that runs automated tests and deploys your umbrella project
 3. Review the results with your mentor
 
 ## Questions
