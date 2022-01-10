@@ -1,3 +1,5 @@
+<img src="../umbrella.svg"/>
+
 # Exercise: API Test Double
 
 ## Overview
