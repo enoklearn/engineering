@@ -1,3 +1,5 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Fetch an Application Secret
 
 ## Overview
@@ -26,7 +28,7 @@ Use these questions to guide your curiosity during the exercise:
 - What is a "region" in a cloud provider?
 - What are some examples of application secrets?
 - Why do you want to keep secrets out of the hands of bad agents?
-- How would you integrate a secret into your application?
+- How would you integrate a secret into your umbrella project?
 - Does Web3 remove the need for application secrets?
 
 ## Reflection

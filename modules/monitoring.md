@@ -60,7 +60,7 @@
 <details open>
    <summary><b>Effective Alerting</b></summary><br/>
 
-   With this topic, you'll learn about signal vs. noise and how to create valuable alerts that raise the alarm when something goes wrong in your application.
+   With this topic, you'll learn about signal vs. noise and how to create valuable alerts that raise the alarm when something goes wrong in an application.
    
    #### Learning Outcomes
    * Describe what being on-call means
