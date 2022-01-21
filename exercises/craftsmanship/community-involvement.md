@@ -11,12 +11,12 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Research common ways to get involved in the software community
-2. Join a software engineering discord server or Slack community
-3. Join a meetup
-4. Get involved with an open-source project
-5. Use your creativity to get involved in other ways
-6. Share your thoughts with your mentor!
+1. Research common ways to get involved in the software community, perhaps you might:
+   - Join a software engineering discord server or Slack community
+   - Join a meetup
+   - Get involved with an open-source project
+   - Use your creativity to get involved in other ways
+2. Share your thoughts with your mentor!
 
 ## Questions
 
