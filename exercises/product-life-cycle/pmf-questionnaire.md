@@ -7,9 +7,9 @@
 | Goal | To give an apprentice a tool to discover where a business may be on its journey toward PMF. |
 | Duration | 1-4 hours |
 
-As we look to acclimate an apprentice/fellow to a new business, business line, or product, we need to first give them a picture of their place in the larger story of the business and its place in the market it seeks to serve. Starting with an understanding of where a business is at on its journey toward PMF will help a new team member empathize with the goals of the business at its current stage. 
+As you look to acclimate as an apprentice to a new business, business line, or product, you need to first get an idea of your place in the larger story of the business and its place in the market that it seeks to serve. Starting with an understanding of where a business is at on its journey toward PMF will help any new team member empathize with the goals of the business at its current stage. 
 
-This questionnaire will give an apprentice/fellow a bank of questions to 1) understand the value proposition of the product their business seeks to use to solve a strong market demand, and 2) to gauge if the business model around the product/market need is sustainable and scalable 
+This questionnaire will give you a bank of questions to 1) understand the value proposition of the product your business seeks to use to solve a strong market demand, and 2) to gauge if the business model around the product/market need is sustainable and scalable 
 
 These are good questions to ask of a "manager," likely a "product" or "project manager," as they typically sit at the crossroads of the business and the product team. If there is not a PM accessible, see if it is possible to interview a combination of the following to piece together the story:
  - product designer
