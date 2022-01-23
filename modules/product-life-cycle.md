@@ -18,7 +18,7 @@
    * Define what product-market fit is
    * State the core indicator that a business's product has reached PMF
    * Assess if a business's product has reached PMF
-   * Theorize why PMF is the compass a business uses to set their course
+   * Theorize why PMF is the destination a business uses to set their course
 
    #### Resources
    * [A Company's Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
