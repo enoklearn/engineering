@@ -55,7 +55,7 @@
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
    * [Stages of a Company Introduction `Article`](../resources/stages-of-a-company-intro.md)
    * ["Scale": Crossing the Chasm `Book ($)`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
-   * ["Scale": Measure what Matter Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+   * ["Scale": Measure what Matters Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
    * ["Start": Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
    * ["Start": Jobs to be Done `Book ($)`](https://www.amazon.com/Jobs-Be-Done-Theory-Practice/dp/B08R8ZGPXP)
    * ["Start": Start with Why `Book ($)`](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
