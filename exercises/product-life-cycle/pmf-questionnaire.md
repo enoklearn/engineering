@@ -7,7 +7,7 @@
 | Goal | To give an apprentice a tool to discover where a business may be on its journey toward PMF. |
 | Duration | 1-4 hours |
 
-As we look to acclimate an apprentice/fellow to a new business, business line, or product, we need to first give them a picture of their place in the larger story of the business and its place in the market it seeks to serve. Starting with an understanding of where a business is on its journey toward PMF will help a new team member empathize with the current goals of the business at its current stage. 
+As we look to acclimate an apprentice/fellow to a new business, business line, or product, we need to first give them a picture of their place in the larger story of the business and its place in the market it seeks to serve. Starting with an understanding of where a business is at on its journey toward PMF will help a new team member empathize with the goals of the business at its current stage. 
 
 This questionnaire will give an apprentice/fellow a bank of questions to 1) understand the value proposition of the product their business seeks to use to solve a strong market demand, and 2) to gauge if the business model around the product/market need is sustainable and scalable 
 
@@ -23,7 +23,7 @@ These are good questions to ask of a "manager," likely a "product" or "project m
 1. Set up a calendar invite with who you intend to interview. If you don't know who to talk to, ask your mentor about a good first candidate to connect with and go from there.
 
 2. Use the following questions and accompanying rationale to help guide your conversation.
-**Tip** - be sure to capture notes during your interview for future reference and for recapping with your mentor. Asking for permission to record a remote conversation is possible (ask for consent)
+**Tip** - Be sure to capture notes during your interview for future reference and for recapping with your mentor. Also, see if you can ask for permission to record a remote conversation for revisiting later.
 
 3. From your interview(s), which of the following would most closely describe the step of the journey your business is at on its way to PFM: "Pre Product-Market Fit," "Close to Product-Market Fit," or "Past Product-Market Fit."
 
@@ -77,11 +77,11 @@ Use the following questions to guide you during the exercise:
   <summary>If the product is built and in production, what does user retention look like?</summary>
   
   - Post MVP release, if a retention curve of a cohort of users eventually flattens out, this is a good indication that you've found PMF for those that have remained
-  - If the retention rate of a comparable product is known, is their rate close to it?
+  - If the retention rate of a comparable product is known, is your rate close to it?
 </details>
  
 <details>
-  <summary>Does the revenue from this baseline retained group to cover costs of product production and acquisition of new customers?</summary>
+  <summary>Does the revenue from retained users cover the costs of product production and acquisition of new customers?</summary>
   
   - If the answer is yes, they are on the way to a sustainable business model
   - If no, then more discovery is needed to reach profitability
@@ -110,9 +110,9 @@ Use the following questions to guide you during the exercise:
 <details>
   <summary>Is the company making more than it is spending? (cost-efficient growth)</summary>
   
-  - If a company burns $2M to sell $1M in annual recurring revenue (ARR), it is more impressive than a company that spends $5M to sell $1M in ARR. The prior feels more like the market is pulling product out of the company, and the latter feels like the company is pushing the product into the market_
-  - Is the sales team bringing in more revenue than their cost to put them in the field? If so, then you're getting near PMF_
-  - Is the lifetime value (LFV) of a customer more than the cost to acquire a customer (CAC)? If so, then you're likely at PMF. This points to there are enough customers out there, and you can efficiently bring them in, or there is enough virality/content out there to drive sustainable acquisitions._
+  - If a company burns $2M to sell $1M in annual recurring revenue (ARR), it is more impressive than a company that spends $5M to sell $1M in ARR. The prior feels more like the market is pulling product out of the company, and the latter feels like the company is pushing the product into the market.
+  - Is the sales team bringing in more revenue than their cost to put them in the field? If so, then you're getting near PMF.
+  - Is the lifetime value (LFV) of a customer more than the cost to acquire a customer (CAC)? If so, then you're likely at PMF. This points to there are enough customers out there, and you can efficiently bring them in, or there is enough virality/content out there to drive sustainable acquisitions.
 </details>
  
 <details>
