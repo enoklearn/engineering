@@ -16,8 +16,21 @@
 
    #### Learning Outcomes
    * Summarize the history of craftsmanship
+
+      <p>The guilds started as a way for merchants and artisans to protect their craft. They would form these guilds, with the intent of protecting their craft and ensuring that quality remained high. They were used almost as a secret society that monitored their members, in a way to ensure that there was a standard. The guilds were also used to keep out competition that did not either join the guild or receive permission from them first (and paid a fee). Some guilds received very young men who were brought in and taught the trade gradually over time.</p>
+      <a href="https://www.youtube.com/watch?v=cEG_7IYRM_E&t=195s">functions and aims of the guilds </a>
+
    * Critique ancient craftsmanship patterns and describe some of their benefits and drawbacks
+
+      <p><h3>Benefits</h3><ul><li>Quality was monitored and ensured that everything produced met the same standard set by the guilds</li><li>The guilds provided a great support system for other members that sometimes went beyond the craft</li><li>The guilds increased economic tranquility within the community because they would strike deals with other crafts that stated a member would have to buy only certain types of material from certain members of the community</li><li>Members of the guilds did not have to often fear competition from non-members as the guild did not allow such activity without permission(and payment)</li><li>The apprenticeship programs allowed for easy training (and monitoring) to ensure that the craft of the trade was kept and that quality was ensured to meet the standard set by the guild</li><li>Because of the way the guilds ensured quality, they also were akin to garner a good reputation amongst the community it served within and some neighboring communities</li></ul></p>
+
+      <p><h3>Drawbacks</h3><ul><li>While the guilds helped to ensure high quality of goods, the way they handled outside competition, it limited the progress of their craft. They would resist new ideas that disrupted their order of doing things</li><li>Most guilds had somewhat monopolistic approaches that can also be harmful to innovative ideas</li></ul></p>
+
    * Propose how craftsmanship might apply to modern society
+
+      <p>I am breaking this question down into 2 parts. First will be observations in the Business world as a whole. Then, we will dive more into society roles.<ul><h3>Business</h3><li>Lots of companies now have enacted apprenticeship or "earn-as-you-learn" programs to teach new employees more about the craft of the business. This is done in a mutual way because the employee is gaining some financial compensation, as well as learning, while the company can get an employee at lower market value, while training them to master a specific task to better impact the business</li><li>The Shokunin, while not entirely the same, shares many similarities with the traditional assembly line. One individual becomes incredibly skilled at their one task, which is just a piece of the whole process</li></ul></p>
+
+      <p><h3>Society</h3><ul><li>In regards with shokunin, society has parts that are constantly working on improvement and spending a lifetime trying to improve. People who workout and the Buddhist monks of sri lanka are 2 such examples. Bodybuilders spend many years of their life trying to constantly improve their physical being, while the monks spend a lifetime trying to achieve spiritual growth.</li><li>Some parts of society use craftsmanship as a way to maintain their culture, such as the native tribes of alaska. <a href="https://www.smithsonianmag.com/arts-culture/native-artisans-alaska-innovation-humor-craft-180976519/">Smithsonian Article</a></li><li>Some sanctions of The free masons still use many of the principles that were used by 13th century stonemason guilds.</li></ul></p>
 
    #### Resources
    * [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
