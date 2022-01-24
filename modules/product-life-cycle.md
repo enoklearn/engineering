@@ -21,10 +21,10 @@
    * Theorize why PMF is the destination a business uses to set their course
 
    #### Resources
+   * [PMF Introduction `EngineerKit Resource`](../resources/pmf-intro.md)
    * [A Company's Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
    * [Never Ending Road to PMF `Article`](https://brianbalfour.com/essays/product-market-fit)
    * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
-   * [PMF Introduction `Article`](../resources/pmf-intro.md)
    * [What is most important between "the market, the team, or the product?" `Article`](https://pmarchive.com/guide_to_startups_part4.html)
    * [Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
    * [Build a Story Brand `Book ($)`](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329)
@@ -52,8 +52,8 @@
    * Recite what matters to a company at the different stages of its growth
 
    #### Resources
+   * [Stages of a Company Introduction `EngineerKit Resource`](../resources/stages-of-a-company-intro.md)
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
-   * [Stages of a Company Introduction `Article`](../resources/stages-of-a-company-intro.md)
    * ["Scale": Crossing the Chasm `Book ($)`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
    * ["Scale": Measure what Matters Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
    * ["Start": Inspired: How to create tech products customers love `Book ($)`](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
@@ -84,7 +84,7 @@
    * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
-   * [Product Life Cycle Stages Introduction `Article`](../resources/stages-of-a-product-intro.md)
+   * [Product Life Cycle Stages Introduction `EngineerKit Resource`](../resources/stages-of-a-product-intro.md)
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
    * [Product Roadmaps: Relaunched `Book ($)`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
 
@@ -106,6 +106,7 @@
    * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
+   * [Inter-team Coordination Introduction `EngineerKit Resource`](../resources/inter-team-coordination-intro.md)
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
    * [Agile Frameworks `Article`](https://www.mendix.com/agile-framework/)
    * [Agile Manifesto `Article`](https://agilemanifesto.org/)
@@ -113,7 +114,6 @@
    * [Defined vs Empirical Process Control `Article`](https://warren2lynch.medium.com/why-scrum-defined-process-vs-empirical-process-927a3d29aaa)
    * [Empirical Process Control `Article`](https://worldofagile.com/blog/empirical-process-control/)
    * [Empirical vs Define Process Control `Article`](https://slideplayer.com/slide/10538020/)
-   * [Inter-team Coordination Introduction `Article`](../resources/inter-team-coordination-intro.md)
    * [Kanban Description `Article`](https://www.microtool.de/en/knowledge-base/what-is-kanban/)
    * [More on Agile Frameworks `Article`](https://www.digite.com/blog/scaled-agile-frameworks/)
    * [Plainview's view on Agile Frameworks `Article`](https://www.planview.com/resources/guide/what-is-agile-program-management/agile-frameworks/)
@@ -157,8 +157,8 @@
    * Explain what a typical product manager expects of a developer on their team
 
    #### Resources
+   * [Intra-team Coordination Introduction `EngineerKit Resource`](../resources/intra-team-coordination-intro.md)
    * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
-   * [Intra-team Coordination Introduction `Article`](../resources/intra-team-coordination-intro.md)
    * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
    * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)
    * [Agile Estimating and Planning `Book ($)`](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
