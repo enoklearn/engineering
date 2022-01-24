@@ -102,8 +102,8 @@
    #### Learning Outcomes
    * Describe the Agile and Waterfall software development core philosophies
    * Describe the typical practices/frameworks of each philosophy
-   * Deduce what philosophy and practice their particular company adheres to
-   * Theorize what philosophy is best for "the job at hand."
+   * Deduce what philosophy and practice a particular company adheres to
+   * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
