@@ -12,13 +12,14 @@
   - Product Designer - 1
   - Software Developer - 2-4
 - **Communication Channel Equation**: (N*(N-1)) / 2)
+  - "N" = The number of members on a team
   - The fewer team members the fewer communication channels and time spent staying coordinated on effort
 
 **Responsibility of product team "manager" roles:**
 - **Project Manager** - The owners of a discrete project and its scope, schedule, and budget.
-- **Product Owner** - Typically affiliated with Scrum environments, this role owns the conversion of a business problem to solve into tasks a product team can execute
-- **Product Manager** - This role, acting like a "mini-CEO" of a product creates and owns product vision and strategy, and acts as the crossroads of all business functions in delivering product to the market
-- The real difference comes down to how much ownership and authority they're given over scope, quality, and budget
+- **Product Owner** - Typically affiliated with Scrum environments, this role owns the conversion of a "business problem to solve" into tasks a product team can execute
+- **Product Manager** - This role, acting like a "mini-CEO" of a product, creates and owns product vision and strategy, and acts as the crossroads of all business functions in delivering product to the market
+  - The real difference comes down to how much ownership and authority they're given over scope, quality, and budget
 - Other titles you may may come across
   - Agile Project Manager 
   - Program Manager
@@ -39,4 +40,4 @@
 - **Product Strategy Feasibility** - Is our team(s) capable of accomplishing these milestones? Do we have the right skills? Technology? Is the sequence right?
 - **Product Release Plan Feasibility** - Is our team(s) capable of accomplishing these "epics"/features? How large is the relative effort for each? Is there enough margin in place for unknowns and maintenance?
 - **Product Increment Feasibility** - Is our team capable of accomplishing these "stories"/features? Which of these tasks can you commit to completing in the next iteration?
-- **Keeping Promises** - Did you knock out what you committed to completing to the "definition of done" we agree to?
+- **Keeping Promises** - Did you accomplish what you committed to completing? Does it meet the "definition of done" we agree to?
