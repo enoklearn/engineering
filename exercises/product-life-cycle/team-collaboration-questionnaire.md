@@ -7,13 +7,13 @@
 | Goal | To to give an apprentice a way to quickly assess the typical composition of a product team in the organization and how a team collaborates toward a shared goal |
 | Duration | 1-8 hours |
 
-Now that the apprentice has a mental image of the overarching development process and how product teams collaborate among themselves, and then with the business, we turn our attention to how individuals within a product team collaborate to ship software products out the door.
+Now that you have a mental image of the overarching development process and how product teams collaborate among themselves, and then with the business, we turn our attention to how individuals within a product team collaborate to ship software products out the door.
 
-To do this, we will want to start with fostering conversations with a representative from each of the disciples the apprentice will likely work with on a product team. This will give the apprentice direct interaction and empathy for all the roles of a typical team, and then how to work with them effectively.
+To do this, we will want to start with fostering conversations with a representative from each of the disciples you will likely work with on a product team. This will give you direct interaction and empathy for all the roles of a typical team, and then how to work with them effectively.
 
-To complete the picture, we will want to then immerse the apprentice in the appropriate working sessions that allow them to see the individual work and the coordinated efforts among the various disciplines within a team.
+To complete the picture, you will then want to immerse yourself in the appropriate working sessions that allows you to see the individual work and the coordinated efforts among the various disciplines within a team.
 
-In order to understand and peer into how digital products are discovered, designed, developed, deployed, and maintained by a team, look at the following list of likely roles to see which are commonly part of a product team at the company, and use judgment, or the guidance of the mentor, if it is most effective to have one-on-one or group discussions:
+In order to understand and peer into how digital products are discovered, designed, developed, deployed, and maintained by a team, look at the following list of likely roles to see which are commonly part of a product team at your company, and use judgment, or the guidance of the mentor, if it is most effective to have one-on-one or group discussions with these roles:
 - Product Manager
 - Business Analysts 
 - Digital Product Designer
@@ -23,12 +23,12 @@ In order to understand and peer into how digital products are discovered, design
 
 ## Steps
 
-In order to get initial exposure to how digital products are currently developed in a team, use the following questions and prompts with the appropriate roles and disciplines listed out above:
+In order to get initial exposure to how digital products are currently developed in a team, use the following questions and prompts with the appropriate roles/disciplines listed out above:
 
 **Understanding product team dynamics and maturity:**
 - What is a typical product team's **"cross-functional"** composition at our company? (e.g., manager, engineer, dba, cloud engineer, designer, security analyst, business analyst, data scientist, data engineer, writer, marketer, etc.)
-  - What is the typical number of team members per team with these disciplines?
-  - Are all the needed skillsets within the boundaries of the product team? If not, what role do the team members commonly interact with that are outside of the team?
+  - What is the typical number of team members per role with these disciplines?
+  - Are all the needed skillsets within the boundaries of the product team? If not, what role(s) do the team members commonly interact with that are outside of the team?
   - What are the responsibilities of each role? What do their capabilities typically entail? 
   - What should a software developer expect from each of these roles?
   - What do each of these roles expect of a software developer?
@@ -48,12 +48,12 @@ In order to get initial exposure to how digital products are currently developed
   - "Scrappy and experiment" - do the teams have high confidence in taking just the next step, valuing speed over the "right step taken," being creative, and setting up experiments to learn, gather feedback from, and adjust?
   - "Methodical and predictive" - do the teams look to gather requirements, document, and plan before taking action, valuing the "right step taken" over speed, and trusting the process?
 - What is the vibe among the product teams? How would you describe their **effort** and engagement with the use of **"missionary"** vs. **"mercenary"** tendencies? 
-  - "Missionary" - is there a sense the product team members believe in the purpose of the product and care about who the product serves?
+  - "Missionary" - is there a sense that the product team members believe in the purpose of the product and care about who the product serves?
   - "Mercenary" - is there a sense of distance from the purpose of the product and its results?
 - What is our current **"definition of ready"** that signals a feature idea is ready for our product teams to estimate the effort and pull it into a working iteration?
   - Which standards are decided on for all teams to adhere to?
   - Which are up for the individual team to decide on? What are some examples of these?
-- What is our current **"definition of done"** that guides the quality and standards of the features we build? (e.g., when efforts are required before our team can call a feature "done?")
+- What is our current **"definition of done"** that guides the quality and standards of the features we build? (e.g., what efforts are required before our team can call a feature "done?")
   - Is this standard set for all product teams? Or is this up to each team to decide?
 
 **Exposure to product team collaboration:**
@@ -70,7 +70,7 @@ In order to get initial exposure to how digital products are currently developed
 
 Use the following questions to reflect on what you learned with this exercise:
 
-- What conclusion can you share with your mentor?
+- What conclusions can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?
