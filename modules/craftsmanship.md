@@ -55,9 +55,26 @@
 
    #### Learning Outcomes
    * List the principles of modern craftsmanship
+
+      <p><ul><li>To have a deep passion for what you are creating, as the end user is not the creator itself but the customer</li><li>To embrace the suck. Working will have its painful moments, whether that is growing pains or pain for work that isn't thrilling.</li><li>Focus your success on everyday improvement. It is easy to judge success based on completion of projects, or things "outside the norm", but real success starts with the changing of the success mindset.</li><li>To have some originality in your craft and become a resource and inspiration to others.</li></ul></p>
+
    * Compare the craftsmanship mindset to the contemporary approach to work
+
+      <p><ul><li>The contemporary mindset follows the pattern of one-way to do things, as to reach mass production. The craftsman mindset is using all the tools at the disposal to creatively engineer many ways of achieving a the desired result.</li><li>The contemporary approach is also one in which things are produced with generally low product-life cycles, whereas a craftsman builds something with the intent that it will outlive the creator.</li><li>To reiterate, the contemporary approach is to produce in mass, as much as possible, with enough care to last around 3-5 years average. The craftsmanship mindset is different where the goal is to build something with passion to see it grow and endure longevity.</li></ul></p>
+
    * Explain what craftsmanship means to you and how you might apply it in your work
+
+      <p><ul><li>Craftsmanship to me means having a "growth mindset". It means to take your passion and not just do the basic but always put your best in any project and build something that will outlive me.</li><li>It means developing a sort of perfectionism attitude that can only be truly achieved by being a valuable resource to others.</li></ul></p>
+
+      <p><ul><li>Although I am quite new to the developer lifestyle, I can still find ways to apply it to there as well as other aspects of my life. </li></ul></p>
+         <h3>Developer</h3>
+            <p><ul><li>I can start to give my projects full attention and continue to build off old ones, with new things I've learned.</li><li>I can unlearn the contemporary mindset that has been instilled in me and begin progressing towards the craftsmanship mindset</li><li>I can reach out to community members and begin to spread the word of this program, and what craftsmanship is really about</li></ul></p>
+         <h3>Other Aspects of Life</h3>
+            <p><ul><li>I can give every passion that I have, all the attention to detail it is needed.</li><li>I can have a "growth mindset" in any endeavor I have, with the aim to make progress everyday, and eventually get to the point where I can teach others.</li></ul></p>
+
    * Theorize why the pursuit of craftsmanship leads to a higher quality of work
+
+      <p><ul><li>I think the pursuit of craftsmanship leads to a higher quality of work because you are making an active choice to progress and perfect your craft everyday.</li><li>I think it can also be a signature of pride and become an embodiment of an individual. It eventually becomes a lifestyle, not just a mindset that you garner when you work, but something that you carry with you in your daily life.</li><li>When you develop a high passion to perfect something, you find an enjoyment in the process of it all, good and bad, not just the result. I think most can agree that happy workers tend to be more efficient.</li></ul></p>
 
    #### Resources
    * [Craftsmanship and Creativity: The Art of Showing Up Long After Passion Leaves `Article`](https://dallasblowers.medium.com/craftsmanship-and-creativity-the-art-of-showing-up-long-after-passion-leaves-998d3a562aa)
