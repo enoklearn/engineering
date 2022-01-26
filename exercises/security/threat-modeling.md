@@ -1,3 +1,5 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Threat Modeling
 
 ## Overview
@@ -13,7 +15,7 @@ Use the following steps to help you progress through the exercise (use your best
 
 1. Duplicate the [threat model worksheet](https://www.figma.com/file/uyRiqbNVmEw3dCIO2wOY5U/Threat-Model-Worksheet?node-id=0%3A1) by [Stephen A. Weis](https://saweis.net/)
 2. Fill out the threat model with this premise: "You must protect your toothbrush from adversaries!"
-3. Repeat this process for your capstone project (how would you protect it?)
+3. Repeat this process for your umbrella project (how would you protect it?)
 4. Share your results with your mentor!
 
 ## Questions

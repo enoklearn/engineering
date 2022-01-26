@@ -1,10 +1,12 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Infrastructure Inventory
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Research and create an inventory of the cloud infrastructure you need to make your application run in the cloud |
+| Goal | Research and create an inventory of the cloud infrastructure you need to make your umbrella project run in the cloud |
 | Duration | 2-4 hours |
 
 ## Steps
@@ -12,7 +14,7 @@
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Break down your tech stack into container-sized parts (frontend, backend, database, etc.)
-2. Consider the potential load on your application (how much does it need to scale, and how quickly)
+2. Consider the potential load on your umbrella project (how much does it need to scale, and how quickly)
 3. Contrast your scaling goals with your spending goals (what is your monthly budget)
 4. With your scaling goals in mind, investigate how you might deploy each part to the cloud
 5. Create an inventory of cloud resources that you think you might need

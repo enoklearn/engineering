@@ -1,3 +1,5 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Artifact Deployment
 
 ## Overview
@@ -12,7 +14,7 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Create a script that will produce an immutable build of your application
+1. Create a script that will produce an immutable build of your umbrella project
 2. Using semantic versioning properly, create a new tag for the build
 3. Deploy the build artifact to the target environment
 4. Review the results with your mentor

@@ -1,10 +1,12 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: ORM Utilization
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Connect your application to an ORM (such as Prisma) and update the schema using database migrations |
+| Goal | Connect your umbrella project to an ORM (such as Prisma) and update the schema using database migrations |
 | Duration | 2-4 hours |
 
 ## Steps
@@ -12,10 +14,10 @@
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Use [Docker](https://www.docker.com/) to set up a [PostgreSQL](https://hub.docker.com/_/postgres/) database
-2. Integrate [Prisma](https://prisma.io/) into your capstone project
+2. Integrate [Prisma](https://prisma.io/) into your umbrella project
 3. Connect Prisma to your local PostgreSQL database
 4. Create a schema for your database using Prisma and run migrations against your local PostgresSQL database
-5. In your application, use the Prisma SDK to add data to your database
+5. In your umbrella project, use the Prisma SDK to add data to your database
 6. Share the results with your mentor!
 
 ## Questions

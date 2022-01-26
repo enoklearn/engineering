@@ -124,5 +124,5 @@
    * [What's the Difference Between DevOps and SRE? `Video`](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
    #### Exercises
-   * [Reduce Toil](../exercises/reduce-toil.md)
+   * [Reduce Toil](../exercises/operations/reduce-toil.md)
 </details>
