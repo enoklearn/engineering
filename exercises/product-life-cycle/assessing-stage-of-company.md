@@ -7,14 +7,14 @@
 | Goal | To give an apprentice a simple framework to assess the stage of the company they are serving. |
 | Duration | 1-4 hours |
 
-In the prior exercise, "Product-Market Fit Indicator Questionnaire," the apprentice has likely gotten a glimpse of where their company is at on its journey toward reaching product-market fit (pre-, near-, or post-PMF). Based on the company's progress in this journey, we now turn our attention to assessing the influence their step in the journey has in defining its current goals. 
+In the prior exercise, "Product-Market Fit Indicator Questionnaire," you had likely gotten a glimpse of where your company is at on its journey toward reaching product-market fit (pre-, near-, or post-PMF). Based on the company's progress in this journey, we now turn our attention to assessing the influence your comanpy's step in the journey has in defining its current goals. 
 
-This exercise will consist of interviews and a company documentation review to help further develop the apprentice's mental image of the larger context that the business is in and what role the apprentice will play in it all. It will guide the apprentice in uncovering what stage they assess the company to be in, and will even stretch the apprentice to consider if how the company sees itself, along with its current goals, is in harmony with their journey toward PMF.
+This exercise will consist of interviews and a company documentation review to help further develop your mental image of the larger context that the business is in and what role you will play in it all. It will guide you in uncovering what stage you assess the company to be in, and will even stretch you to consider if how the company sees itself, along with its current goals, is in harmony with their journey toward PMF.
 
-A "manager" role on a product team will likely know where to look in uncovering where the business stores its visionary/strategic/goal-oriented documents.  If there is not a "manager" associated with a team, then might the mentor or another leadership role know if these documents exist and where they are stored? 
+A "manager" role on a product team will likely know where to look in uncovering where the business stores its visionary/strategic/goal-oriented documents.  If there is not a "manager" associated with a team, then might your mentor or another leadership role know if these documents exist and where they are stored? 
 
 ## Steps
-In uncovering how the business sees itself and defines its current goals, reading articles/documentation written by the company itself is easy to assimilate quickly. 
+In uncovering how the business sees itself and defines its current goals, reading articles/documentation written by the company itself is an easy way to assimilate quickly. 
 
 **Step 1** - Ask your mentor or "manager" on your team if the following types of documents exist, and if so, where they live:
 - "Summarizing statements" - documents to help you capture the essence of who the company is and what it does in its simplest form. Examples include:
@@ -26,7 +26,7 @@ In uncovering how the business sees itself and defines its current goals, readin
   - Company vision, mission, and values 
   - Company charter
 
-- "Company goals" - documents that help you understand what the company is currently striving for when it is trying to get there, and how it plans to measure its progress there. Examples include:
+- "Company goals" - documents that help you understand what the company is currently striving for, when it is trying to get there, and how it plans to measure its progress there. Examples include:
   - Business unit, team, or individual KPIs
   - OKR's
   - OGSM
@@ -42,7 +42,7 @@ In uncovering how the business sees itself and defines its current goals, readin
 
 - **SHIFT** - As a PMF business line dwindles, enterprise companies look to **sunset/sell** the product line, **revitalize** it through modernization or rebranding efforts, or restart the process by **searching for a new market demand** and product-market fit (innovator's dilemma) before they go out of business
 
-**Step 3a** - Based on the collective knowledge gathered from the suggested documents above, is there enough there for the apprentice to assess what company stage the business is at? If so, proceed to step 4. If not, go to Step 3b.
+**Step 3a** - Based on the collective knowledge gathered from the suggested documents above, is there enough there for you to assess what company stage the business is at? If so, proceed to step 4. If not, go to Step 3b.
 
 **Step 3b** - If these documents don't exist or don't paint a definitive enough picture, what gaps are present? 
 - Might you create a few simple questions to pull out the necessary understanding to fill in these gaps?
@@ -52,16 +52,16 @@ In uncovering how the business sees itself and defines its current goals, readin
 
 **Step 4** - Now that you have enough of the large picture of the current state of the business in view, look to answer the following questions:
 - Based on your new understanding of where your company is at on its journey to PMF (pre-, near-, or post-PMF), what company stage would **you** expect them to be at in order to focus its efforts correctly on its PMF journey?
-- Now, based on your review of your company's vision/strategy/goal documents and potential interviews, which of the four company stages would you say best describes the company stage the **company itself** would say it's at?
+- Now, based on your review of your company's vision/strategy/goal documents and potential interviews, which of the four company stages would you say best describes the company stage the **company itself** would say they are at?
 - Have both of these questions above produced the same company stage? If so, what does that tell you about the business you serve?
   - If not, what does that tell you? What further conversions might you have to offer this needed feedback?
 
 
 ## Reflection
 
-Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
+Use the following questions to reflect on what you have learned with this exercise and discuss with your mentor:
 
-- What conclusion can you share with your mentor?
+- What conclusions can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

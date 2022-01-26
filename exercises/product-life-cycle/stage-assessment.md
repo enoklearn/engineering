@@ -7,17 +7,17 @@
 | Goal | To help an apprentice uncover the stage of the product they'll be working on and how that stage affects the software development strategies their products teams choose |
 | Duration | 1-4 hours |
 
-From the prior two topic exercises, the apprentice has now likely uncovered 1) where the business is at on its journey to product-market fit and 2) how that then has influenced the stage the company is now at. Based on the company's stage, we now turn our attention to assessing the influence the company stage has on the goals the business places on the product and how then the product teams decide to build and maintain it.
+From the prior two topic exercises, you have now likely uncovered 1) where the business is at on its journey to product-market fit and 2) how that then has influenced the stage the company is now at. Based on the company's stage, we now turn our attention to 1) assessing the influence the company stage has on the goals the business places on the product and 2) how then the product teams decide to build and maintain it.
 
-This exercise will consist of conversations and reviewing the current product planning documentation in order to help further develop the apprentice's mental image of the larger context that the business is in, what role the apprentice will play in it all, and the rationale behind how the product development teams currently prioritize different software development strategies.
+This exercise will consist of conversations and reviewing the current product planning documentation in order to help further develop your mental image of the larger context that the business is in, what role you will play in it all, and the rationale behind how the product development teams currently prioritize different software development strategies.
 
-This exercise will guide the apprentice in uncovering what stage they assess the product to be in, and will even stretch the apprentice to consider if how the company sees its product, along with its current goals, is in harmony with their company stage.
+This exercise will guide you in uncovering what stage you assess the product to be in, and will even stretch you to consider if how the company sees its product, along with its current goals, is in harmony with their company stage.
 
 A "manager" role on a product team will likely know where to look in uncovering where the company stores its product charter/planning documentation. If there is not a "manager" associated with a team, then might the mentor or another leadership role know if these documents exist and where they are stored?
 
 ## Steps
 
-In uncovering how the business prioritizes and sets the goals of its product(s), first reading articles/documentation written by the company, or its product teams is an easy way to assimilate quickly.
+In uncovering how the business prioritizes and sets the goals of its product(s), first reading articles/documentation written by the company, or its product teams, is an easy way to assimilate quickly.
 
 **Step 1** - Ask your mentor or a "manager" on your team if the following types of documents exist, and if so, where they live:
 - "Product Value Proposition" - documents that outline, at the highest level, what customer your product seeks to serve, what their goals and pain points are in their workflow, and how your product plans to offer the value your customers need. Examples include:
@@ -40,7 +40,7 @@ In uncovering how the business prioritizes and sets the goals of its product(s),
 - **Harvesting** - The goal is to **ensure uptime, ease of maintenance, ease of use, and to keep risk low** so as to not disrupt the product's brand, its promises, its reputation, or the consistent revenue coming in from the "cash cow" product, all while responding quickly to customer feedback.
 - **End-of-Life** - The goal is to **keep brand and SLA promises to the end**, and to **ensure minimal disruption** to stakeholders as services/features are transitioned or brought offline.
 
-**Step 3a** - Based on the collective knowledge gathered from the suggested documents above, is there enough there for the apprentice to assess what stage the product is at? If so, proceed to step 4. If not, go to Step 3b.
+**Step 3a** - Based on the collective knowledge gathered from the suggested documents above, is there enough there for you to assess what stage the product is at? If so, proceed to step 4. If not, go to Step 3b.
 
 **Step 3b** - If these documents don't exist or don't paint a definitive enough picture of the product's goals, what gaps are present? 
 - Might you create a few simple questions to pull out the necessary understanding to fill in these gaps?
@@ -67,9 +67,9 @@ Use the following example software development strategies and influencers to gui
 
 Use the following questions to help guide the conversation with your mentor, or even a group of software development leaders your mentor may arrange, to help undercover the rationale behind the current development strategies and product infrastructure:
 
-- Does this list spur on any other strategies, influencers, or "cross-roads decisions" that we should also consider in our conversation? 
+- Does this list spur on any other strategies that we should also consider in our conversation? 
 - Based on the stage of our product, which of the list have we adhered to? How do we implement them today? 
-  - How is our implementation going? What was learned from this effort? What next steps are we considering? 
+  - How is our implementation going? What has been learned from this effort? What next steps are we considering? 
   - What was the rationale behind using these strategies from the list? 
   - Does the current stage of the product support these strategies? (refer to the goals of the product stages for context/comparison)
 - What items from the list have we not taken on or adhered to? 
@@ -81,7 +81,7 @@ Use the following questions to help guide the conversation with your mentor, or 
 
 Use the following questions to reflect on what you learned with this exercise:
 
-- What conclusion can you share with your mentor?
+- What conclusions can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?

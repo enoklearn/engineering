@@ -7,20 +7,20 @@
 | Goal | To give an apprentice a way to quickly assess the typical software development process at their company and to see it in action. |
 | Duration | 1-8 hours |
 
-Now that the apprentice has built a good overview of the larger context the business is serving its customers in, and their place in it all, we turn our attention to understanding what overarching process their company uses to discover, design, build, deploy, and maintain software. 
+Now that you have built a good overview of the larger context the business is serving its customers in, and your place in it all, we turn our attention to understanding what overarching process your company uses to discover, design, build, deploy, and maintain software. 
 
 To do this, we will want to start with fostering conversations with those that own and direct the process as it is today, from the various angles of the business and product teams. To see the whole picture from the various angles, we'll want to be able to peer through the lens of the following disciplines:
 
-- **Agile Coach / Release Train Engineer** - Responsible for teaching, guiding, and maintaining the process through the entire organization while organizing the dependencies between the various teams/parts of the organization
-- **Scrum Master / Delivery Manager**  - Responsible for teaching, guiding, and maintaining the process through the direct teams they are responsible for while organizing the dependencies between a subset of the teams/parts of the organization
+- **Agile Coach / Release Train Engineer** - Responsible for teaching, guiding, and maintaining the process through the entire organization, while organizing the dependencies between the various teams/parts of the organization
+- **Scrum Master / Delivery Manager**  - Responsible for teaching, guiding, and maintaining the process through the direct teams they are responsible for, while organizing the dependencies between a subset of the teams/parts of the organization
 - **Product Manager/ Product Owner** - Responsible for translating the objectives of the business into an actionable product vision, strategy, and plans with their products team(s)
 - **Lead Developer / Architect** - Responsible for offering "feasibility" insights into product solutions, maintaining the code quality and standards of the product(s) directly or through their software developers, and guiding architectural product decisions throughout the product life cycle
-- **Lead Product Designer** - Responsible for offering "desirability" insights into product solutions and validating them with users, maintaining the design standards and guidelines of the product(s) directly or through their digital product designers, and overall representing the end user's needs to the business and advocating for intuitive, accessible solutions.
+- **Lead Product Designer** - Responsible for offering "desirability" insights into product solutions and validating them with users, maintaining the design standards and guidelines of the product(s) directly or through their digital product designers, and overall representing the end user's needs to the business and advocating for intuitive, accessible solutions
 - **Business Owner / Subject Matter Expert / Key Stakeholders** - Responsible for directing and offering feedback to the product development teams in a combination of areas: industry/customer insights, budget, and business objectives.
 
-To complete the picture, we will want to immerse the apprentice in the appropriate meetings that allow them to see the coordination of the various disciplines in the collective effort to 1) understand the end-users and business constraints, 2) ideate and validate solutions to end users' needs, 3) and to ship, deploy and maintain code, all while learning and pivoting as needed.
+To complete the picture, we will want you to immerse yourself in the appropriate meetings see the coordination of the various disciplines in the collective effort to 1) understand the end-users and business constraints, 2) ideate and validate solutions to end users' needs, 3) and to ship, deploy, and maintain code, all while learning and pivoting as needed.
 
-In order to peer into how software is typically developed in an industry and inside a company specifically, look at the following list of roles to see which are in the organization, and use judgment, or the guidance of the mentor,  if it is most effective to have one-on-one or group discussion: 
+In order to peer into how software is typically developed in an industry and inside a company specifically, look at the following list of roles to see which are in the organization, and use judgment, or the guidance of the mentor,  if it is most effective to have one-on-one or group discussion with them: 
 - Agile Coach / Release Train Engineer
 - Scrum Master / Delivery Manager
 - Product Manager/ Product Owner
@@ -34,10 +34,10 @@ In order to get initial exposure to how software is currently developed in a com
 
 **Note** - Not all questions here will be relevant for all of the roles above to answer.
 
-**Understanding the current software development principle and practices:**
+**Understanding the current software development principles and practices:**
 - What are the most common ways product teams work together and with their business stakeholders to ship code **in our industry** today? (e.g., naming Agile Frameworks)
   - What are the other not-so-common options out there in our industry?
-- What current patterns, **practices**, or software development **frameworks** do **our** company use to ship code? What does this look/feel like in an application from a user need to shipped features?
+- What current patterns, **practices**, or software development **frameworks** does **our** company use to ship code? What does this look/feel like in application from a "user need" to "shipped features?"
   - What **principles** do we value most that guide how we've arrived at this current iteration of the process?
   - How open are we to **shifting** our software development principles or values? 
   - How open are we in **shifting** the practices in place to deliver on those principles or values?
@@ -63,7 +63,7 @@ In order to get initial exposure to how software is currently developed in a com
 **Exposure to the current practices:**
 - How can I feel the rhythm of how the **teams work together** in a safe but potentially stretching way? 
 - How can I experience how the product teams work together with **customers** and internal **stakeholders**?
-- What are **team norms** common amongst most teams? What are some examples of team norms that are unique to a few teams?
+- What are **team norms** common amongst most teams? What are some examples of team norms that are unique to one or a few teams?
 - What do most team members agree is **going well** in the overarching process and ought to stay? 
 - What are some of the current **pain points** the team agrees exists in the process today? 
   - Are there any team norm **experiments** in the process now to test out these areas of improvement?
@@ -72,7 +72,7 @@ In order to get initial exposure to how software is currently developed in a com
 
 Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
 
-- What conclusion can you share with your mentor?
+- What conclusions can you share with your mentor?
 - What surprised you about this exercise?
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?
