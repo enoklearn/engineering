@@ -16,9 +16,19 @@ To help an apprentice and mentor know what to expect when tackling a module, we 
 | ![Moderate](https://img.shields.io/badge/■%20Moderate-blue?style=flat-square) | Less than two weeks | A "Moderate" rating represents a thorough overview of each topic in the module with some skill-building |
 | ![Hard](https://img.shields.io/badge/◆%20Hard-grey?style=flat-square) | Less than a month | A "Hard" rating represents an in-depth exploration of each topic in the module with heavy skill-building |
 
-## Capstone Project
+## Umbrella Project
 
-A capstone project is used to bind together many of the exercises found in each module. It is an over-arching project that you will be working on for the duration of your apprenticeship, helping you to build your skills and ship a product to production.
+When you see the icon below, you'll know an exercise can fit with your umbrella project!
+
+<img src="../exercises/umbrella.svg" alt="Umbrella project" />
+
+An "umbrella project" is used to bind together many of the exercises found in each module. It is an over-arching project that you will be working on for the duration of your apprenticeship, helping you to build your skills and ship a product to production. You'll want to pick something small that you could easily build in a week (tasklist, tic-tac-toe game, unit converter, etc.) -- you can always add more features if you have more time!
+
+
+## Skill Building
+
+![skill-building](https://user-images.githubusercontent.com/894178/148718739-d1e33495-3334-4432-9919-60a966774452.gif)
+
 
 ## Need help?
 

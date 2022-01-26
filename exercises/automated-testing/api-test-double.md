@@ -1,4 +1,4 @@
-<img src="../umbrella.svg"/>
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
 
 # Exercise: API Test Double
 

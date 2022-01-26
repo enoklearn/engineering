@@ -1,10 +1,12 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Golden Dashboard
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Create a dashboard to visualize metrics of your application using DataDog |
+| Goal | Create a dashboard to visualize metrics of your umbrella project using DataDog |
 | Duration | 1-2 hours |
 
 ## Steps
@@ -13,7 +15,7 @@ Use the following steps to help you progress through the exercise (use your best
 
 1. Sign in to your DataDog account
 2. Create a new dashboard
-3. Add a graph to the dashboard that shows the golden signals of your application
+3. Add a graph to the dashboard that shows the golden signals of your umbrella project
 4. Review the results with your mentor
 
 ## Questions

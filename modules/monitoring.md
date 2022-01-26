@@ -31,7 +31,7 @@
    * [When to use the different log levels `Thread`](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/64806781#64806781)
 
    #### Exercises
-   * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry.md)
+   * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry-data.md)
    * Integrate Sentry.io in an application to collect crash reports
    * Integrate DataDog into an application
 </details>
@@ -60,7 +60,7 @@
 <details open>
    <summary><b>Effective Alerting</b></summary><br/>
 
-   With this topic, you'll learn about signal vs. noise and how to create valuable alerts that raise the alarm when something goes wrong in your application.
+   With this topic, you'll learn about signal vs. noise and how to create valuable alerts that raise the alarm when something goes wrong in an application.
    
    #### Learning Outcomes
    * Describe what being on-call means

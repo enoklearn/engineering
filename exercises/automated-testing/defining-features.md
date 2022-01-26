@@ -1,10 +1,12 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Defining Features
 
 ## Overview
 
 | Key | Value |
 | --- | --- |
-| Goal | Describe three features for your application as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
+| Goal | Describe three features for your umbrella project as user stories with acceptance criteria and strategize how you might convert the acceptance criteria to unit tests |
 | Duration | 2-3 hours |
 
 Example pseudo test code:
@@ -18,7 +20,7 @@ it ("should process user payment when 'pay now' button is pressed")
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Create user stories for three new features in your application
+1. Create user stories for three new features in your umbrella project
 2. Define the acceptance criteria of these features
 3. (optional) Create a [Figma](https://figma.com) prototype visually showing what these features do
 4. Create pseudo test code based on the acceptance criteria of your features

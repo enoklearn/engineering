@@ -76,8 +76,8 @@
 
    #### Exercises
    * [Mapping Backing Services](../exercises/infrastructure/mapping-backing-services.md)
-   * Setup Sentry.io and integrate it into your application (will your app go down if Sentry goes down?)
-   * Setup a PostgreSQL database and integrate it into your application (will your app go down if the database goes down?)
+   * Setup Sentry.io and integrate it into your umbrella project (will your app go down if Sentry goes down?)
+   * Setup a PostgreSQL database and integrate it into your umbrella project (will your app go down if the database goes down?)
 </details>
 
 ----

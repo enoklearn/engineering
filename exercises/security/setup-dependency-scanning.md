@@ -1,3 +1,5 @@
+<a href="../../overview/README.md#umbrella-project"><img src="../umbrella.svg" alt="Umbrella project"></a>
+
 # Exercise: Setup Dependency Scanning
 
 ## Overview
