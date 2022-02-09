@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - add_broken_link_checker
     paths:
       - '**.md'
   pull_request:
