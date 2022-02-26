@@ -13,7 +13,7 @@
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
 1. Find three common dependencies in two different programming languages
-2. Discover with license each dependency uses
+2. Discover what license each dependency uses
 3. Find out how many open issues on GitHub each dependency has
 4. Look for when the last commit of each dependency was
 5. Share the results with your mentor
