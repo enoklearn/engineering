@@ -111,7 +111,6 @@
    * [Agile Frameworks `Article`](https://www.mendix.com/agile-framework/)
    * [Agile Manifesto `Article`](https://agilemanifesto.org/)
    * [Choosing the right agile framework for you `Article`](https://www.linkedin.com/pulse/choosing-right-agile-framework-you-paul-j-heidema/)
-   * [Defined vs Empirical Process Control `Article`](https://warren2lynch.medium.com/why-scrum-defined-process-vs-empirical-process-927a3d29aaa)
    * [Empirical Process Control `Article`](https://worldofagile.com/blog/empirical-process-control/)
    * [Empirical vs Define Process Control `Article`](https://slideplayer.com/slide/10538020/)
    * [Kanban Description `Article`](https://www.microtool.de/en/knowledge-base/what-is-kanban/)
