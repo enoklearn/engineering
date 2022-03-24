@@ -11,7 +11,7 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Rent or buy "Jiro Dreams of Sushi"
+1. Rent or buy "[Jiro Dreams of Sushi](https://www.imdb.com/title/tt1772925/)"
 2. (optional) Get some sushi and eat your sushi during the film
 3. Jot down any insights from the film
 4. Share what you learned with your mentor!
