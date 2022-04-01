@@ -20,11 +20,13 @@
    * Assess if a business's product has reached PMF
    * Theorize why PMF is the destination a business uses to set their course
 
-   #### Resources
+   #### Primary Resources
    * [PMF Introduction `EngineerKit Resource`](../resources/pmf-intro.md)
+   * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
+   
+   #### Extended Resources
    * [A Company's Framework to Find PMF `Article`](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
    * [Never Ending Road to PMF `Article`](https://brianbalfour.com/essays/product-market-fit)
-   * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
    * [What is most important between "the market, the team, or the product?" `Article`](https://pmarchive.com/guide_to_startups_part4.html)
    * [Blue Ocean Strategy `Book ($)`](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491)
    * [Build a Story Brand `Book ($)`](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329)
