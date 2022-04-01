@@ -1,5 +1,11 @@
 # Product Market Fit (PMF) Introduction
 
+---
+
+*This content is meant to summarize what would have been discussed in a "module kick-off" conversation with a certified EngineerKit Mentor. If you are not a part of a certified EngineerKit program, please reach out to us on [Discord](https://discord.gg/bDVYvG3Czd) with any questions you have from this resource. Enjoy!*
+
+---
+
 **Product Market Fit (PMF) definition** - The degree to which a product or service satisfies a strong market demand.
 
 **The core indicator that a business's product has reached PMF** - When a business has built a scalable and sustainable business model through providing value to a customer segment's needs.
