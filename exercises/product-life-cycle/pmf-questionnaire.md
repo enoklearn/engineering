@@ -5,6 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | To give an apprentice a tool to discover where a business may be on its journey toward PMF. |
+| Prerequisites | Review the Primary Resources in the "Product-Market Fit" topic. |
 | Duration | 1-4 hours |
 
 As you look to acclimate as an apprentice to a new business, business line, or product, you need to first get an idea of your place in the larger story of the business and its place in the market that it seeks to serve. Starting with an understanding of where a business is at on its journey toward PMF will help any new team member empathize with the goals of the business at its current stage. 
