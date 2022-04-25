@@ -1,7 +1,7 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^(.*)blog.cloudflare.com(.*)"
+      "pattern": "^(.*)cloudflare.com(.*)"
     },
     {
       "pattern": "^(.*)developer.android.com/studio"
