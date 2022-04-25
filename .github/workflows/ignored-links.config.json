@@ -1,3 +1,16 @@
 {
-  "aliveStatusCodes": [200, 206, 403]
+  "ignorePatterns": [
+    {
+      "pattern": "^(.*)blog.cloudflare.com(.*)"
+    },
+    {
+      "pattern": "^(.*)developer.android.com/studio"
+    },
+    {
+      "pattern": "^(.*)www.pmi.org/learning/library/gathering-requirements-go-away-please-7448"
+    },
+    {
+      "pattern": "^(.*)docs.github.com(.*)"
+    }
+  ]
 }

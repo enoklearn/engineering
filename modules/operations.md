@@ -23,7 +23,6 @@
    * [12 Factor App: Build, release, run `Resource`](https://12factor.net/build-release-run)
    * [Build pipelines, deployment, and immutable artifacts `Article`](https://www.brunton-spall.co.uk/post/2016/08/23/Build-pipelines-deployment-and-immutable-artifacts-48ae926178a5/)
    * [How we managed 49 monthly releases [at GitLab] `Article`](https://about.gitlab.com/blog/2015/12/17/gitlab-release-process/)
-   * [Release Frequency and the Adoption of Agile Practices `Article`](https://telegraphhillsoftware.com/release-frequency-agile-practices/)
    * [Release Frequency: A Need for Speed `Article`](https://dzone.com/articles/release-frequency-a-need-for-speed)
    * [The Rust Release Process `Article`](https://forge.rust-lang.org/release/process.html)
    * [What Is Release Management? `Article`](https://www.productplan.com/glossary/release-management/)
