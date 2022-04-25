@@ -1,0 +1,19 @@
+name: Markdown Links Check
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    #Every Monday at 9:15AM
+    - cron: "15 9 * * 1"
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: '.github/workflows/ignored-links.config.json'
