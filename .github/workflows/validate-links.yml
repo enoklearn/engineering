@@ -3,9 +3,6 @@ name: Markdown Links Check
 on:
   push:
     branches: [ main ]
-  schedule:
-    #Every Monday at 9:15AM
-    - cron: "15 9 * * 1"
 
 jobs:
   markdown-link-check:
