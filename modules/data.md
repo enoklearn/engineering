@@ -68,6 +68,7 @@
 
    #### Resources
    * [Database normalization `Resource`](https://en.wikipedia.org/wiki/Database_normalization)
+   * [Normal Data Forms `Video`](https://www.youtube.com/watch?v=J-drts33N8g)
    * [SQL Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=zsjvFFKOm3c)
    * [SQL playground `Tool`](https://sql-playground.wizardzines.com/)
    * [SQLZOO `Tutorial`](https://sqlzoo.net/wiki/SQL_Tutorial)
