@@ -5,7 +5,7 @@
 | Key | Value |
 | --- | --- |
 | Goal | Complete the Ruby language koans |
-| Duration | 4-6 hours |
+| Duration | 8-12 hours |
 
 
 ## Steps
