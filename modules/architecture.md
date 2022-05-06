@@ -28,6 +28,7 @@
    * [Microservices Architecture `Resource`](https://microservices.io/)
    * [Monolith vs Microservice vs Serverless `Article`](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
    * [The Architecture of a Web 3.0 application `Article`](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+   * [Clean 🧼 Architecture 🛠 At Hyper ⚡️ `Article`](https://blog.hyper.io/clean-architecture-at-hyper/)
    * [The Clean Architecture `Article`](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
    * [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express `Video`](https://www.youtube.com/watch?v=CnailTcJV_U)
    * [Web2 vs Web3 `Article`](https://ethereum.org/en/developers/docs/web2-vs-web3/)
