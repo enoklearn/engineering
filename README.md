@@ -1,10 +1,12 @@
 <a href="https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21">
-   <img width="1440" alt="EngineerKit Map" src="https://user-images.githubusercontent.com/894178/135173317-075bab86-0fb3-4bc5-97d0-7ea12c6f6297.png">
+   <img width="1440" alt="EngineerKit Map" src="https://user-images.githubusercontent.com/894178/167178792-9206a258-7353-4dc1-9ee5-cfb74ef2fa2e.png">
 </a>
 
 <hr />
 
-<p align="center">
+EngineerKit is a collection of knowledge, tools, and skills that we've come to find useful to become a generalist software engineer.
+
+<p>
    <a aria-label="SDK version" href="https://github.com/engineerkit/engineerkit/tags" target="_blank">
     <img alt="EngineerKit version" src="https://img.shields.io/github/v/tag/engineerkit/engineerkit.svg?style=flat-square&label=Version&labelColor=000000&color=2068F3" />
   </a>
