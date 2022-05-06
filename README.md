@@ -5,7 +5,7 @@
 <hr />
 
 <p align="center">
-   <a aria-label="SDK version" href="https://github.com/engineerkit/engineerkit" target="_blank">
+   <a aria-label="SDK version" href="https://github.com/engineerkit/engineerkit/tags" target="_blank">
     <img alt="EngineerKit version" src="https://img.shields.io/github/v/tag/engineerkit/engineerkit.svg?style=flat-square&label=Version&labelColor=000000&color=2068F3" />
   </a>
   <a aria-label="Join our Discord" href="https://discord.gg/bDVYvG3Czd" target="_blank">
