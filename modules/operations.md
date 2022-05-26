@@ -73,6 +73,7 @@
    * [ContinuousDelivery `Article`](https://martinfowler.com/bliki/ContinuousDelivery.html)
    * [DevOps CI/CD Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=scEDHsr3APg)
    * [GitHub Actions `Tool`](https://docs.github.com/en/actions)
+   * [Awesome Actions `Resource`](https://github.com/sdras/awesome-actions)
    * [Gitlab Pipelines `Tool`](https://docs.gitlab.com/ee/ci/pipelines/)
    * [What's DevOps? `Article`](https://jvns.ca/blog/2016/10/16/whats-devops/)
    * [DevOps Handbook `Book ($)`](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3)
