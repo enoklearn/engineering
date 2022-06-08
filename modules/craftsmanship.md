@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>History of Craftsmanship</b></summary><br/>
+### History of Craftsmanship
 
    With this topic, you'll learn about how craftsmanship has been applied across different trades, cultures, and periods in human history.
 
@@ -31,12 +30,10 @@
    
    #### Exercises
    * [Sushi Night](../exercises/craftsmanship/sushi-night.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Principles of Modern Craftsmanship</b></summary><br/>
+### Principles of Modern Craftsmanship
 
    With this topic, you'll learn about the principles of modern craftsmanship and how they can be utilized in any occupation.
 
@@ -56,12 +53,10 @@
 
    #### Exercises
    * [Universal Craftsmanship](../exercises/craftsmanship/universal-craftsmanship.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>The Software Craftsmanship Movement</b></summary><br/>
+### The Software Craftsmanship Movement
 
    With this topic, you'll learn about the software craftsmanship movement and how it can be applicable far into the future.
 
@@ -78,12 +73,10 @@
 
    #### Exercises
    * [Community Involvement](../exercises/craftsmanship/community-involvement.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Learning as an Apprentice</b></summary><br/>
+### Learning as an Apprentice
 
    With this topic, you'll learn patterns and techniques to learn new topics and effectively build skills as an apprentice.
 
@@ -106,12 +99,10 @@
    
    #### Exercises
    * [Create a Blog](../exercises/craftsmanship/create-a-blog.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Coaching as a Mentor</b></summary><br/>
+### Coaching as a Mentor
 
    With this topic, you'll learn about patterns and techniques to mentor an apprentice in their journey to graduation effectively.
 
@@ -130,4 +121,3 @@
    
    #### Exercises
    * [Pair with your Mentor](../exercises/craftsmanship/pair-with-your-mentor.md)
-</details>

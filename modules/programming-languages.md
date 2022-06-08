@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Types of Languages</b></summary><br/>
+### Types of Languages
 
    With this topic, you'll learn about the landscape of programming languages, their common features, and how to recognize them regardless of syntax.
    
@@ -29,12 +28,10 @@
 
    #### Exercise
    * [Two Stones, One Bird](../exercises/programming-languages/two-stones-one-bird.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Deep Language Learning</b></summary><br/>
+### Deep Language Learning
 
    With this topic, you'll learn how to gain fluency in a programming language and develop a deep understanding of its functionality and idiosyncrasies.
 
@@ -51,12 +48,10 @@
 
    #### Excercises
    * [Hyper Kata](../exercises/programming-languages/hyper-kata.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Polyglot Learning</b></summary><br/>
+### Polyglot Learning
 
    With this topic, you'll learn how to adapt your understanding of one programming language to gain proficiency in another.
    
@@ -75,12 +70,10 @@
    #### Exercises
    * [Path to Enlightenment](../exercises/programming-languages/path-to-enlightenment.md)
    * Create Tic Tac Toe in three different programming languages
-</details>
 
 ----
 
-<details open>
-   <summary><b>Dependencies</b></summary><br/>
+### Dependencies
 
    With this topic, you'll learn about package management and the ecosystem of third-party dependencies for a programming language.
    
@@ -98,12 +91,10 @@
 
    #### Exercises
    * [Dependency Investigation](../exercises/programming-languages/dependency-investigation.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Power of Pair Programming</b></summary><br/>
+### Power of Pair Programming
 
    With this topic, you'll learn how to solve problems with other software engineers (and have fun while doing it) using pair programming techniques.
 
@@ -121,4 +112,3 @@
 
    #### Excercises
    * [Pairing Tour](../exercises/programming-languages/pairing-tour.md)
-</details>

@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Code Quality</b></summary><br/>
+### Code Quality
 
    With this topic, you'll learn why the quality of your code is important and how it affects the safety and reliability of your codebase.
    
@@ -27,12 +26,10 @@
 
    #### Exercises
    * [Tech Debt Reducer](../exercises/clean-code/tech-debt-reducer.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Code Smells</b></summary><br/>
+### Code Smells
 
    With this topic, you'll learn about signals in your codebase that can indicate poor design or the lack of best practices.
    
@@ -47,12 +44,10 @@
 
    #### Exercises
    * [Code Smell Detector](../exercises/clean-code/code-smell-detector.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Four Rules of Simple Design</b></summary><br/>
+### Four Rules of Simple Design
 
    With this topic, you'll learn about writing simple code that is tested, singular, and easy to understand.
    
@@ -70,12 +65,10 @@
 
    #### Exercises
    * [Conway's Game of Life](../exercises/clean-code/conways-game-of-life.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Design Patterns</b></summary><br/>
+### Design Patterns
 
    With this topic, you'll learn about typical solutions to common problems in software design.
    
@@ -95,12 +88,10 @@
 
    #### Exercises
    * [Clean Katas](../exercises/clean-code/clean-katas.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Refactoring Techniques</b></summary><br/>
+### Refactoring Techniques
 
    With this topic, you'll learn about common ways to better restructure existing code without changing its underlying behavior.
    
@@ -121,4 +112,3 @@
 
    #### Exercises
    * [Gilded Rose Kata](../exercises/clean-code/gilded-rose-kata.md)
-</details>

@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Product-Market Fit (PMF)</b></summary><br/>
+### Product-Market Fit (PMF)
 
    With this topic, you'll learn the influence product-market fit has on the overarching mission of a business.
    
@@ -40,12 +39,10 @@
 
    #### Exercises
    * [Product-Market Fit Indicator Questionnaire](../exercises/product-life-cycle/pmf-questionnaire.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Stages of a Company</b></summary><br/>
+### Stages of a Company
    With this topic you'll learn how to correlate the stages of a company to its journey toward product-market fit.
    
    #### Learning Outcomes
@@ -70,12 +67,10 @@
 
    #### Exercises
    * [Assessing the Stage of your Company](../exercises/product-life-cycle/assessing-stage-of-company.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Product Life Cycle Stages</b></summary><br/>
+### Product Life Cycle Stages
 
    With this topic, you'll learn how a software engineer's focus may change as the goals of a product change.
    
@@ -92,12 +87,10 @@
 
    #### Exercises
    * [Assessing the Stage of your Product](../exercises/product-life-cycle/stage-assessment.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Inter-team Coordination</b></summary><br/>
+### Inter-team Coordination
 
    With this topic, you'll learn how most companies coordinate software development between their product teams and the surrounding business.
    
@@ -142,12 +135,10 @@
 
    #### Exercises
    * [Software Development Framework Questionnaire](../exercises/product-life-cycle/dev-framework-questionnaire.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Intra-team Coordination</b></summary><br/>
+### Intra-team Coordination
 
    With this topic, you'll learn how most product teams organize their composition of skill sets within the team and how a software engineer can work specifically with a product manager on their team.
    
@@ -173,4 +164,3 @@
 
    #### Exercises
    * [Team Collaboration Questionnaire](../exercises/product-life-cycle/team-collaboration-questionnaire.md)
-</details>

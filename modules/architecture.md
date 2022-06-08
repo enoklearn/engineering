@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Common Architecture Patterns</b></summary><br/>
+### Common Architecture Patterns
 
    With this topic, you'll learn about common patterns used in architecture to create software systems.
    
@@ -37,12 +36,10 @@
 
    #### Exercises
    * [Microservice Scoping](../exercises/architecture/microservice-scoping.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Common Tech Stacks</b></summary><br/>
+### Common Tech Stacks
 
    With this topic, you'll learn about common tech stacks used on projects worldwide.
    
@@ -57,12 +54,10 @@
 
    #### Exercises
    * [Tech Stack Spelunking](../exercises/architecture/tech-stack-spelunking.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Assembling a Tech Stack</b></summary><br/>
+### Assembling a Tech Stack
 
    With this topic, you'll learn how to put together a tech stack that balances the needs of an application and the team building it.
    
@@ -76,12 +71,10 @@
 
    #### Exercises
    * [Tech Stack Assembly](../exercises/architecture/tech-stack-assembly.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Tech Stack Ramping</b></summary><br/>
+### Tech Stack Ramping
 
    With this topic, you'll learn about techniques that enable you to quickly ramp up on new tech stacks and start shipping new features.
    
@@ -94,12 +87,10 @@
 
    #### Exercises
    * [Feature Shipping](../exercises/architecture/feature-shipping.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Living Documentation</b></summary><br/>
+### Living Documentation
 
    With this topic, you'll learn how to create helpful documentation that evolves along with the system it describes.
    
@@ -113,4 +104,3 @@
 
    #### Exercises
    * [With a Swagger](../exercises/architecture/with-a-swagger.md)
-</details>

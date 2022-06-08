@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Cloud Providers</b></summary><br/>
+### Cloud Providers
 
    With this topic, you'll learn about cloud computing and the wide range of services an application can use with this topic.
    
@@ -35,12 +34,10 @@
 
    #### Exercises
    * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Infrastructure as Code</b></summary><br/>
+### Infrastructure as Code
 
    With this topic, you'll learn how to provision cloud services quickly and reliably using infrastructure as code techniques.
    
@@ -57,12 +54,10 @@
 
    #### Exercises
    * [Terraform the Cloud](../exercises/infrastructure/terraform-the-cloud.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Backing Services</b></summary><br/>
+### Backing Services
 
    With this topic, you'll learn how to work with the attached services required for an application to run.
    
@@ -78,12 +73,10 @@
    * [Mapping Backing Services](../exercises/infrastructure/mapping-backing-services.md)
    * Setup Sentry.io and integrate it into your umbrella project (will your app go down if Sentry goes down?)
    * Setup a PostgreSQL database and integrate it into your umbrella project (will your app go down if the database goes down?)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Managing Multiple Environments</b></summary><br/>
+### Managing Multiple Environments
 
    With this topic, you'll learn how to manage multiple environments such as dev, staging, and production for an application.
    
@@ -97,12 +90,10 @@
 
    #### Exercises
    * [Cloud Environment Replication](../exercises/infrastructure/cloud-environment-replication.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Working with Cloud Engineers</b></summary><br/>
+### Working with Cloud Engineers
 
    With this topic, you'll learn about the role of a cloud engineer and how to work with them on your team effectively.
    
@@ -119,4 +110,3 @@
    #### Exercises
    * [Infrastructure Inventory](../exercises/infrastructure/infrastructure-inventory.md)
    * Pair with a Cloud Engineer on your team and solve an infrastructure problem with them!
-</details>

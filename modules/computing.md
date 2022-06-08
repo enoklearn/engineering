@@ -10,8 +10,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>History of Computing</b></summary><br/>
+### History of Computing
 
    With this topic, you'll learn about the history of computing and some of the most important events that shaped the Information Age.
    
@@ -32,12 +31,10 @@
 
    #### Exercises
    * [Ahead of the Times](../exercises/computing/ahead-of-the-times.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Hardware</b></summary><br/>
+### Hardware
 
    With this topic, you will learn about the essential computer components and the different roles they play.
 
@@ -57,12 +54,10 @@
 
    #### Exercises
    * [Physical Logic Gates](../exercises/computing/physical-logic-gates.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Operating Systems</b></summary><br/>
+### Operating Systems
 
    With this topic, you will learn about the underlying software that coordinates the different components of a computer.
    
@@ -83,12 +78,10 @@
 
    #### Exercises
    * [Virtual Machines](../exercises/computing/virtual-machines.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Runtimes</b></summary><br/>
+### Runtimes
 
    With this topic, you will learn about the process of turning human-readable code into commands that the computer can understand.
 
@@ -111,12 +104,10 @@
  
    #### Exercises
    * [Runtime Mismatch](../exercises/computing/runtime-mismatch.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Spectrum of Platforms</b></summary><br/>
+### Spectrum of Platforms
 
    With this topic, you will learn about the different combinations of hardware, operating systems, and runtimes used to run software applications.
    
@@ -131,4 +122,3 @@
 
    #### Exercises
    * [Platform Identification](../exercises/computing/platform-identification.md)
-</details>

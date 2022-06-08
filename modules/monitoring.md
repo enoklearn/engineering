@@ -10,8 +10,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Collecting Logs, Errors, Metrics, and Traces</b></summary><br/>
+### Collecting Logs, Errors, Metrics, and Traces
 
    With this topic, you'll learn about the different types of telemetry data that can be collected in an application.
    
@@ -34,12 +33,10 @@
    * [Collecting Telemetry Data](../exercises/monitoring/collecting-telemetry-data.md)
    * Integrate Sentry.io in an application to collect crash reports
    * Integrate DataDog into an application
-</details>
 
 ----
 
-<details open>
-   <summary><b>The Golden Signals</b></summary><br/>
+### The Golden Signals
 
    With this topic, you'll learn about four valuable metrics to measure the health of an application.
    
@@ -53,12 +50,10 @@
 
    #### Exercises
    * [Golden Dashboard](../exercises/monitoring/golden-dashboard.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Effective Alerting</b></summary><br/>
+### Effective Alerting
 
    With this topic, you'll learn about signal vs. noise and how to create valuable alerts that raise the alarm when something goes wrong in an application.
    
@@ -75,12 +70,10 @@
    
    #### Exercises
    * [Golden Signal Alerting](../exercises/monitoring/golden-signal-alerting.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Debugging</b></summary><br/>
+### Debugging
 
    With this topic, you'll learn about techniques to debug and resolve application issues using telemetry data.
    
@@ -96,12 +89,10 @@
 
    #### Exercises
    * [Bug Bounty](../exercises/monitoring/bug-bounty.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Improving Performance</b></summary><br/>
+### Improving Performance
 
    With this topic, you'll learn how to improve the scalability and reliability of an application based on its utilization.
    
@@ -117,4 +108,3 @@
 
    #### Exercises
    * [Performance Boost](../exercises/monitoring/performance-boost.md)
-</details>
