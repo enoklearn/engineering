@@ -108,7 +108,7 @@
    * [Refactoring `Resource`](https://refactoring.guru/refactoring)
    * [Simplifying Conditional Expressions `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-conditional-expressions)
    * [Simplifying Method Calls `Resource`](https://refactoring.guru/refactoring/techniques/simplifying-method-calls)
-   * [Writing Good Tests for the Gilded Rose Kata `Article`](https://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/)
+   * [Writing Good Tests for the Gilded Rose Kata `Article`](https://archive.ph/2021.10.27-191732/https://coding-is-like-cooking.info/2013/03/writing-good-tests-for-the-gilded-rose-kata/)
 
    #### Exercises
    * [Gilded Rose Kata](../exercises/clean-code/gilded-rose-kata.md)
