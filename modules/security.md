@@ -10,8 +10,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>OWASP Top 10</b></summary><br/>
+### OWASP Top 10
 
    With this topic, you'll learn about the most common application security issues and how to mitigate them.
    
@@ -29,12 +28,10 @@
 
    #### Exercises
    * [Remediate the Broken Access Control vulnerability](../exercises/security/broken-access-control.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Authentication and Authorization</b></summary><br/>
+### Authentication and Authorization
 
    With this topic, you'll learn about identity providers and how to use OAuth 2.0 to manage authentication and authorization in an application.
    
@@ -61,12 +58,10 @@
 
    #### Exercises
    * [Setup an Identity Provider](../exercises/security/setup-an-identity-provider.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Managing Secrets</b></summary><br/>
+### Managing Secrets
 
    With this topic, you'll learn about application secrets and how to manage them effectively.
    
@@ -87,12 +82,10 @@
 
    #### Exercises
    * [Fetch an Application Secret](../exercises/security/fetch-an-application-secret.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Continuous Security</b></summary><br/>
+### Continuous Security
 
    With this topic, you'll learn about methods to integrate security scanning into a project CI/CD pipeline.
    
@@ -108,12 +101,10 @@
 
    #### Exercises
    * [Setup Dependency Scanning](../exercises/security/setup-dependency-scanning.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Working with Security Engineers</b></summary><br/>
+### Working with Security Engineers
 
    With this topic, you'll learn about the role of a security engineer and how to work with them on your team effectively.
    
@@ -130,4 +121,3 @@
 
    #### Exercises
    * [Threat Modeling](../exercises/security/threat-modeling.md)
-</details>

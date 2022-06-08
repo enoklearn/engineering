@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>History of the Internet</b></summary><br/>
+### History of the Internet
 
    With this topic, you'll learn about the history of the internet and how connected computing changed humanity forever.
 
@@ -31,12 +30,10 @@
 
    #### Exercises
    * [Wayback Machine](../exercises/internet/wayback-machine.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Internet Protocols</b></summary><br/>
+### Internet Protocols
 
    With this topic, you'll learn about the TCP/IP protocol suite that powers the internet and how it practically applies to the software you create.
 
@@ -61,12 +58,10 @@
 
    #### Exercises
    * [Packet Inspector](../exercises/internet/packet-inspector.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Network Configuration</b></summary><br/>
+### Network Configuration
 
    With this topic, you'll learn about the basics of configuring networks, including setting up firewall rules, subnets, and assigning static IPs to machines.
 
@@ -83,12 +78,10 @@
    #### Exercises
    * [Tiny Networking](../exercises/internet/tiny-networking.md)
    * Pair with SREs or Cloud Engineers
-</details>
 
 ----
 
-<details open>
-   <summary><b>Domains and DNS</b></summary><br/>
+### Domains and DNS
 
    With this topic, you'll learn how the DNS system works and create DNS records connecting domains to web services.
 
@@ -109,12 +102,10 @@
 
    #### Exercises
    * [Domain Claim](../exercises/internet/domain-claim.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>TLS/SSL Certificates</b></summary><br/>
+### TLS/SSL Certificates
 
    With this topic, you'll learn about the certificate authorities and how to encrypt traffic to web services using TLS/SSL certificates.
 
@@ -133,4 +124,3 @@
    #### Exercises
    * [Configuring TLS/SSL for your website](../exercises/internet/configuring-tls-ssl.md)
    * [Setup your own certificate authority](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) using [cfssl](https://github.com/cloudflare/cfssl)
-</details>

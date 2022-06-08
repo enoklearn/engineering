@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Design Fundamentals</b></summary><br/>
+### Design Fundamentals
 
    Learn to use basic design terminology, and have an understanding of human experience design as it relates to their work.
 
@@ -31,12 +30,10 @@
    * Discuss good/favorite designed products
    * Collecting inspiration
    * Go over ways the engineers can affect UX
-</details>
 
 ----
 
-<details open>
-   <summary><b>Introduction to Design Thinking</b></summary><br/>
+### Introduction to Design Thinking
 
    Build an understanding of each phase of the design thinking methodology, enough to help and support software teams in their problem-solving processes.
 
@@ -60,12 +57,10 @@
    * Empathy Exercises: Observe and document the steps of a process
    * Ideation Exercise: Ideate and brainstorm with the team on a topic or task
    * Prototyping Exercise: Create a paper prototype
-</details>
 
 ----
 
-<details open>
-   <summary><b>Introduction to Design Systems</b></summary><br/>
+### Introduction to Design Systems
 
    Learn how to use, contribute to, and maintain a design system for building web applications.
 
@@ -88,12 +83,10 @@
    * Build a simple UI layout using Material Design
    * Read Documentation in popular Design Systems or your company's own
    * Storybook exercise: Create reusable and documented UI components
-</details>
 
 ----
 
-<details open>
-   <summary><b>Accessibility and Universal Design Fundamentals</b></summary><br/>
+### Accessibility and Universal Design Fundamentals
 
    Learn how to build software that meets the accessibility needs of its users.
 
@@ -115,12 +108,10 @@
    * Implement a color palette for color blindness in a webpage
    * Build a simple webpage using proper HTML semantics
    * Quiz: Define internationalization, localization, and accessibility
-</details>
 
 ----
 
-<details open>
-   <summary><b>Working with Digital Product Designers</b></summary><br/>
+### Working with Digital Product Designers
 
    Learn how to collaborate with designers in the field by understanding the role they play in the creation of quality software.
 
@@ -140,4 +131,3 @@
    * Shadow or pair with a designer
    * Collaborate with a designer on UI tasks
    * Give feedback on a design to a designer (visual, and feasibility feedback)
-</details>

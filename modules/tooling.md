@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Editors</b></summary><br/>
+### Editors
 
    With this topic, you'll learn about the landscape of editors, IDEs, and how to choose an editor and make it your own.
 
@@ -37,12 +36,10 @@
 
    #### Exercises
    * [Editor Customization](../exercises/tooling/editor-customization.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Command Line</b></summary><br/>
+### Command Line
 
    With this topic, you'll learn how to use the command line (also known as the shell) and create scripts to make running complex commands easier.
 
@@ -73,12 +70,10 @@
 
    #### Excercises
    * [CLI Weather](../exercises/tooling/cli-weather.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Version Control</b></summary><br/>
+### Version Control
 
    With this topic, you'll learn about the importance of source control, Git commands, handling merge conflicts, popular branching strategies, and more.
 
@@ -109,12 +104,10 @@
 
    #### Exercises
    * [Conflict Resolution](../exercises/tooling/conflict-resolution.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Productivity</b></summary><br/>
+### Productivity
 
    With this topic, you'll learn about some productivity tools and how to estimate work effectively to set proper expectations with stakeholders.
 
@@ -139,12 +132,10 @@
 
    #### Excerise 
    * [Estimating Work](../exercises/tooling/estimating-work.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Managing your Local Environment</b></summary><br/>
+### Managing your Local Environment
 
    With this topic, you'll learn how to set up your local environment and streamline it to increase your productivity.
 
@@ -170,4 +161,3 @@
 
    #### Exercises
    * [Setting Up Your Local Environment](../exercises/tooling/setting-up-your-local-environment.md)
-</details>

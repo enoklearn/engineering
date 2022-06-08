@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Managing Releases</b></summary><br/>
+### Managing Releases
 
    With this topic, you'll learn about change management and how to release new versions of an application with as little downtime as possible.
    
@@ -29,12 +28,10 @@
 
    #### Exercises
    * [Artifact Deployment](../exercises/operations/artifact-deployment.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Managing Incidents</b></summary><br/>
+### Managing Incidents
 
    With this topic, you'll learn to keep calm under the stress of resolving production application incidents.
    
@@ -54,12 +51,10 @@
 
    #### Exercises
    * [Create a Runbook](../exercises/operations/create-a-runbook.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Continuous Integration and Deployment</b></summary><br/>
+### Continuous Integration and Deployment
 
    With this topic, you'll learn to automate the release process using continuous integration and deployment (CI/CD) pipelines.
    
@@ -80,12 +75,10 @@
 
    #### Exercises
    * [Setup a CI/CD pipeline](../exercises/operations/setup-a-ci-cd-pipeline.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Performance Testing</b></summary><br/>
+### Performance Testing
 
    With this topic, you'll learn how to verify the performance of an application using load tests, smoke tests, and black-box testing.
    
@@ -101,12 +94,10 @@
 
    #### Exercises
    * [Zombie Horde](../exercises/operations/zombie-horde.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Working with Site Reliability Engineers</b></summary><br/>
+### Working with Site Reliability Engineers
 
    With this topic, you'll learn about the role of a site reliability engineer and how to work with them on your team effectively.
    
@@ -125,4 +116,3 @@
 
    #### Exercises
    * [Reduce Toil](../exercises/operations/reduce-toil.md)
-</details>

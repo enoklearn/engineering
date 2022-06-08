@@ -9,8 +9,7 @@
 
 ## Topics
 
-<details open>
-   <summary><b>Types of Data</b></summary><br/>
+### Types of Data
 
    With this topic, you'll learn about the spectrum of unstructured to structured data types and how to classify data correctly.
    
@@ -24,12 +23,10 @@
 
    #### Exercises
    * [File to Hex](../exercises/data/file-to-hex.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Data Storage</b></summary><br/>
+### Data Storage
 
    With this topic, you'll learn techniques to store data of all types for usage in an application.
    
@@ -46,12 +43,10 @@
 
    #### Exercises
    * [Database Provisioning](../exercises/data/database-provisioning.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Data Manipulation</b></summary><br/>
+### Data Manipulation
 
    With this topic, you'll learn how to interact with and manipulate data from storage providers using techniques such as SQL or SSH. 
    
@@ -78,12 +73,10 @@
 
    #### Exercises
    * [ORM Utilization](../exercises/data/orm-utilization.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Data Wrangling</b></summary><br/>
+### Data Wrangling
 
    With this topic, you'll learn to convert data from one type to another using data wrangling techniques.
    
@@ -99,12 +92,10 @@
 
    #### Exercises
    * [FFmpeg Conversion](../exercises/data/ffmpeg-conversion.md)
-</details>
 
 ----
 
-<details open>
-   <summary><b>Managing State</b></summary><br/>
+### Managing State
 
    With this topic, you'll learn about effectively using different patterns to manage the state in an application.
    
@@ -125,4 +116,3 @@
 
    #### Exercises
    * [Cache Buster](../exercises/data/cache-buster.md)
-</details>
