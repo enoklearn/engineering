@@ -19,6 +19,7 @@
    * Theorize what approval you'd need to get before releasing a change
 
    #### Resources
+   * [Shipping to Production `Article`](https://newsletter.pragmaticengineer.com/p/shipping-to-production)
    * [12 Factor App: Build, release, run `Resource`](https://12factor.net/build-release-run)
    * [Build pipelines, deployment, and immutable artifacts `Article`](https://www.brunton-spall.co.uk/post/2016/08/23/Build-pipelines-deployment-and-immutable-artifacts-48ae926178a5/)
    * [How we managed 49 monthly releases [at GitLab] `Article`](https://about.gitlab.com/blog/2015/12/17/gitlab-release-process/)
