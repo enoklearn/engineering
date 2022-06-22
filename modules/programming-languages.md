@@ -106,6 +106,7 @@
 
    #### Resources
    * [How to Pair Program `Video`](https://www.youtube.com/watch?v=YhV4TaZaB84)
+   * [Pairing Guidelines `Article`](https://blog.cleancoder.com/uncle-bob/2021/01/17/Pairing.html)
    * [I've Pair Programmed for 30,000 Hours: Ask Me Anything! `Video`](https://www.youtube.com/watch?v=RCDfBioUgts)
    * [On Pair Programming `Article`](https://martinfowler.com/articles/on-pair-programming.html)
    * [Remote Pair Programming Tips `Article`](https://about.gitlab.com/blog/2021/02/04/remote-pair-programming-tips/)
