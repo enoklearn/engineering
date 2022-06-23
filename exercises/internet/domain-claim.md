@@ -16,8 +16,9 @@ Use the following steps to help you progress through the exercise (use your best
 
 1. Visit a domain registrar (e.g., Hover, Google Domains, GoDaddy)
 2. Select a name for your project (make sure it is available with the TLD you want!)
-3. Connect your domain to a DNS provider like Cloudflare
-4. Share your results with your mentor!
+3. Connect your domain to a DNS provider (like Cloudflare) using nameservers
+4. Create a DNS record in your DNS provider to connect a subdomain or root domain to your umbrella project
+5. Share your results with your mentor!
 
 ## Questions
 
