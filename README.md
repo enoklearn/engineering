@@ -1,5 +1,5 @@
 <a href="https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21">
-   <img width="1440" alt="EngineerKit Map" src="https://user-images.githubusercontent.com/894178/167178792-9206a258-7353-4dc1-9ee5-cfb74ef2fa2e.png">
+   <img width="1440" alt="EngineerKit Map" src="https://user-images.githubusercontent.com/894178/179018751-20047cf8-769d-4f80-ae9e-822be193bd87.png">
 </a>
 
 <hr />
