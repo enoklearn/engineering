@@ -55,6 +55,7 @@
    * [How I use Wireshark `Article`](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
    * [How the Internet Really Works: An Illustrated Guide `Book ($)`](https://www.amazon.com/Cats-Guide-Internet-Freedom-ebook/dp/B07ZC7GYCS)
    * [How the Internet Works by Treehouse `Course ($)`](https://teamtreehouse.com/library/how-the-internet-works)
+   * [🐱 HTTP Status Cats `Resource`](https://http.cat/)
 
    #### Exercises
    * [Packet Inspector](../exercises/internet/packet-inspector.md)
