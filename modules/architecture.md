@@ -50,7 +50,7 @@
 
    #### Resources
    * [Stackshare `Resource`](https://stackshare.io/stacks)
-   * [StackOverflow 2021 Developer Survey `Resource`](https://insights.stackoverflow.com/survey/2021)
+   * [StackOverflow 2022 Developer Survey `Resource`](https://survey.stackoverflow.co/2022)
 
    #### Exercises
    * [Tech Stack Spelunking](../exercises/architecture/tech-stack-spelunking.md)
