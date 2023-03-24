@@ -3,7 +3,7 @@
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
 <a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
 
-### With this module, you'll learn the evolution of the mentality and focus a developer will have through the various stages of a company and its product, and how to find success in each.
+### With this module, you'll learn the about the various stages of a company and the mindset you need to find success in each stage.
 
 <img width="1440" alt="Peaceful forest" src="https://user-images.githubusercontent.com/894178/138342120-9dd3efff-bf3d-4242-9aed-20d874252266.png">
 
