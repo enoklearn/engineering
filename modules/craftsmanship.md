@@ -48,7 +48,7 @@
    * [What is craftsmanship and does it matter? `Article`](https://solidgiant.com/what-is-craftsmanship-and-does-it-matter/)
    * [What is Craftsmanship? `Article`](https://medium.com/the-markhor/what-is-craftsmanship-771b8db1c5f4)
    * [Why craftsmanship is the future of work – and what it means for organisations and individuals `Article`](https://www.equaltimes.org/why-craftsmanship-is-the-future-of)
-   * [Jiro Dreams of Sushi `Film ($)`](https://www.imdb.com/title/tt1772925/)
+   * [Jiro Dreams of Sushi `Film`](https://www.youtube.com/watch?v=Gr09oEJqnfI)
    * [Better: A Surgeon's Notes on Performance `Book ($)`](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 
    #### Exercises
