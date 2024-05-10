@@ -72,6 +72,4 @@ Use the following questions to reflect on what you have learned with this exerci
 - What would be your next step? What resources can support you in this next step?
 - When you connect with your mentor after this next step, what do you hope to share with them? To celebrate? 
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

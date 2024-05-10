@@ -1,7 +1,7 @@
 # Human Experience
 
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 
 ### With this module, you'll learn how to build products that users love by empathizing with the target customers, understanding their problems, and working more collaboratively with designers on your team.
 

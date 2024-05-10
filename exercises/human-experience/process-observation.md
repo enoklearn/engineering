@@ -41,6 +41,4 @@ Use the following questions to reflect on what you learned with this exercise:
     - How would you prototype your improvements to the process?
 - Where do you want to go from here?
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

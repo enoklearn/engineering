@@ -1,7 +1,7 @@
 # Infrastructure
 
 ![Hard](https://img.shields.io/badge/Difficulty-◆%20Hard-grey?style=flat-square&labelColor=000)
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 
 ### With this module, you'll learn how to use cloud providers to orchestrate computing resources and create a scalable and resilient platform for your product.
 

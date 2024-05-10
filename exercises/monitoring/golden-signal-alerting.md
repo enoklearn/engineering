@@ -35,6 +35,4 @@ Use the following questions to reflect on what you learned with this exercise an
 - How would you say this exercise stretched you? 
 - What did this exercise show you about yourself?
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

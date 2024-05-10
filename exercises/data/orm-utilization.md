@@ -39,6 +39,4 @@ Use the following questions to reflect on what you learned with this exercise an
 - How would you say this exercise stretched you? 
 - What would be your next step? What resources can support you in this next step?
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

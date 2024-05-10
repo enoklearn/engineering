@@ -31,6 +31,4 @@ Use the following questions to reflect on what you learned with this exercise an
 - If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise? 
 - How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
