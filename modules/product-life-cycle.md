@@ -20,7 +20,7 @@
    * Theorize why PMF is the destination a business uses to set their course
 
    #### Primary Resources
-   * [PMF Introduction `EngineerKit Resource`](../resources/pmf-intro.md)
+   * [PMF Introduction `Resource`](../resources/pmf-intro.md)
    * [Overview of PMF Indicators `Article`](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
    
    #### Extended Resources
@@ -51,7 +51,7 @@
    * Recite what matters to a company at the different stages of its growth
 
    #### Resources
-   * [Stages of a Company Introduction `EngineerKit Resource`](../resources/stages-of-a-company-intro.md)
+   * [Stages of a Company Introduction `Resource`](../resources/stages-of-a-company-intro.md)
    * [Lean Startup Summary `Article`](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
    * ["Scale": Crossing the Chasm `Book ($)`](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
    * ["Scale": Measure what Matters Most `Book ($)`](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
@@ -81,7 +81,7 @@
    * Theorize how the priority a product team places on various product development strategies might change through the different product stages
 
    #### Resources
-   * [Product Life Cycle Stages Introduction `EngineerKit Resource`](../resources/stages-of-a-product-intro.md)
+   * [Product Life Cycle Stages Introduction `Resource`](../resources/stages-of-a-product-intro.md)
    * [The Influencing Theory Behind Product Life Cycles `Article`](https://en.wikipedia.org/wiki/Product_life-cycle_theory)
    * [Product Roadmaps: Relaunched `Book ($)`](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/B08VL1BNQB)
 
@@ -101,7 +101,7 @@
    * Theorize what philosophy is best for "the job at hand"
 
    #### Resources
-   * [Inter-team Coordination Introduction `EngineerKit Resource`](../resources/inter-team-coordination-intro.md)
+   * [Inter-team Coordination Introduction `Resource`](../resources/inter-team-coordination-intro.md)
    * [12 Agile Principles `Article`](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
    * [Agile Frameworks `Article`](https://www.mendix.com/agile-framework/)
    * [Agile Manifesto `Article`](https://agilemanifesto.org/)
@@ -149,7 +149,7 @@
    * Explain what a typical product manager expects of a developer on their team
 
    #### Resources
-   * [Intra-team Coordination Introduction `EngineerKit Resource`](../resources/intra-team-coordination-intro.md)
+   * [Intra-team Coordination Introduction `Resource`](../resources/intra-team-coordination-intro.md)
    * [Agile Product Management `Article`](https://productschool.com/blog/product-management-2/agile-product-management-study-guide/)
    * [Project Manager vs Program Manager vs Portfolio Manager `Article`](https://www.planview.com/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
    * [What is a product owner? `Article`](https://productschool.com/blog/product-management-2/what-is-product-owner/)

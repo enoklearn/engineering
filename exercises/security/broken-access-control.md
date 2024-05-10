@@ -12,7 +12,7 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Clone the `engineerkit/exercise-broken-access-control` repo
+1. Clone the `enoklearn/exercise-broken-access-control` repo
 2. Investigate the repo and find the broken access control vulnerability
 3. Fix the vulnerability
 4. Review with your mentor!

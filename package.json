@@ -1,10 +1,10 @@
 {
-  "name": "engineerkit",
+  "name": "@enoklearn/engineering",
   "version": "1.0.0",
   "description": "A collection of knowledge, tools, and skills that we've come to find useful, packaged up as a software engineering apprenticeship program.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/engineerkit/engineerkit.git"
+    "url": "git+https://github.com/enoklearn/engineering.git"
   },
   "contributors": [
     "Chandler Roth",
@@ -14,7 +14,7 @@
   ],
   "license": "CC-BY-NC-4.0",
   "bugs": {
-    "url": "https://github.com/engineerkit/engineerkit/issues"
+    "url": "https://github.com/enoklearn/engineering/issues"
   },
-  "homepage": "https://engineerkit.org"
+  "homepage": "https://enoklearn.com"
 }

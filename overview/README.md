@@ -1,10 +1,10 @@
 # Overview
 
-With this guide, you'll learn about EngineerKit, how it fits in the talent pipeline, and its scope, mechanics, and structure.
+With this guide, you'll learn about this guide, how it fits in the talent pipeline, and its scope, mechanics, and structure.
 
 ## Learning Map
 
-The learning map is a visual overview of the modules and topics included in EngineerKit. [You can explore the EngineerKit learning map here](https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21).
+The learning map is a visual overview of the modules and topics included in this guide. [You can explore the learning map here](https://www.figma.com/file/fKdt0u4FidrjhQRjpXGeFQ/EngineerKit-Map?node-id=585%3A21).
 
 ## Difficulty Rating
 

@@ -11,7 +11,7 @@
 
 Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
 
-1. Clone the `engineerkit/exercise-conflict-resolution` repo
+1. Clone the `enoklearn/exercise-conflict-resolution` repo
 2. Resolve the conflicts between all branches
 3. Review with your mentor!
 
