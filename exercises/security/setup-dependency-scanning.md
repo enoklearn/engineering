@@ -37,6 +37,4 @@ Use the following questions to reflect on what you learned with this exercise an
 - How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
 - What did this leave you excited to dig further into? 
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

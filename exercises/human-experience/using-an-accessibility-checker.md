@@ -33,6 +33,4 @@ Use or tweak these questions, and use them as prompts to guide a conversation of
 - What surprised you about this exercise?
 - Where do you want to go from here?
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)

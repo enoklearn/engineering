@@ -1,7 +1,7 @@
 # Product Life Cycle
 
 ![Easy](https://img.shields.io/badge/Difficulty-%E2%97%8F%20Easy-brightgreen?style=flat-square&labelColor=000)
-<a href="https://discord.gg/bDVYvG3Czd">![Need help?](https://img.shields.io/badge/Need%20help%3F%20-blue.svg?style=flat-square&logo=discord&logoWidth=15&labelColor=000&color=4d51cc)</a>
+
 
 ### With this module, you'll learn the about the various stages of a company and the mindset you need to find success in each stage.
 

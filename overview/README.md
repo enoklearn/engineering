@@ -30,6 +30,4 @@ An "umbrella project" is used to bind together many of the exercises found in ea
 ![skill-building](https://user-images.githubusercontent.com/894178/148718739-d1e33495-3334-4432-9919-60a966774452.gif)
 
 
-## Need help?
 
-- [Join our Discord to ask questions](https://discord.gg/bDVYvG3Czd)
